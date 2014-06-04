@@ -1,0 +1,50 @@
+---
+layout: post
+title: Job Control on *NIX systems
+categories: []
+tags:
+- background process
+- bg
+- fg
+- job control
+- job control in unix
+- linux
+- push to background
+- unix
+status: publish
+type: post
+published: true
+meta:
+  aktt_notify_twitter: 'yes'
+  _edit_last: '1'
+  dsq_thread_id: '219892859'
+  aktt_tweeted: '1'
+  _wp_old_slug: ''
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<p>If you are not a UNIX user/not a geek, please turn away right now.</p>
+<p>Every year, I either chance upon something new, or remind myself of something interesting that I've forgotten. This is the latter case. On a *NIX shell, you can push a foreground process to background (obviously without terminating it):</p>
+<p><code><br />
+$ ./someprocess<br />
+...<br />
+...<br />
+...<br />
+Ctrl-Z<br />
+[1]+ Stopped   ./someprocess<br />
+$ bg<br />
+[1]+ ./someprocess &</p>
+<p></code></p>
+<p>To bring the process into foreground:</p>
+<p><code><br />
+$ fg     < -- last process pushed into bkgnd<br />
+$ jobs   <-- check active jobs<br />
+[1] ./someprocess<br />
+[2] ./someotherprocess<br />
+$ fg 2<br />
+</code></p>
+<p>via <a href="http://acs.ucsd.edu/info/jobctrl.shtml">Job Control on UNIX systems</a>.</p>

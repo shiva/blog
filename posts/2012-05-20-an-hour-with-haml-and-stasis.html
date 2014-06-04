@@ -1,0 +1,32 @@
+---
+layout: post
+title: An hour with HAML and Stasis
+categories: []
+tags:
+- HAML
+- ruby
+- site
+- site-gen
+- Stasis
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  aktt_notify_twitter: 'no'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<p>I have been meaning to get into the exciting world of static site-gen. Why, you ask? Well, I will tell you why?! Actually, I'm too lazy, and it's late on a Sunday night -- instead, <a href="http://mickgardner.com/">Mick Gardner</a>, can inform you on the <a href="http://mickgardner.com/2011/04/27/An-Introduction-To-Static-Site-Generators.html">virtues of static site-generation</a>.</p>
+<p>After an hour of mucking around with several site-generators, I chose <a href="http://stasis.me/">Stasis</a>, which is a good compromise to the blog-oriented <a href="http://jekyllrb.com/">Jekyll</a>, and options-insanity that is <a href="http://nanoc.stoneship.org/">nanoc</a>. With my new-found fascination for Ruby, I wanted to stay away from <a href="http://ringce.com/hyde">Hyde</a> (which is Python based -- it's time to try the dark-side, a little)</p>
+<p><a href="http://haml.info/">HAML</a>, is an interesting markup language. Although it cleanups some of the clutter of html, there are still things that are annoying. For example:</p>
+<p>HTML:<br />
+<script type="text/javascript" src="https://gist.github.com/2760742.js?file=sample.html"></script></p>
+<p>HAML:<br />
+<script type="text/javascript" src="https://gist.github.com/2760742.js?file=sample.haml"></script></p>
+<p>Although, the HTML version has intrusive tags, it is easier on the eyes. It is a relief, not have to code, the end tag for every HTML element. It is much faster to type HAML by hand (especially in vim). In the end, it was a quick, painless process to convert the raw HTML code, to HAML, and generate the same html using stasis.</p>
+<p>Life's good. I'm still learning a few new tricks. What more can one ask for?</p>

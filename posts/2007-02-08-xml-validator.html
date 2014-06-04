@@ -1,0 +1,56 @@
+---
+layout: post
+title: XML Validator
+categories: []
+tags:
+- Tools
+status: publish
+type: post
+published: true
+meta:
+  tags: ''
+  _utw_tags_0: s:208:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:1;O:8:"stdClass":1:{s:3:"tag";s:3:"XML";}i:2;O:8:"stdClass":1:{s:3:"tag";s:9:"XML-Tools";}i:3;O:8:"stdClass":1:{s:3:"tag";s:13:"XML-Validator";}}";
+  _aktt_hash_meta: ''
+  aktt_notify_twitter: 'no'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<p>It is quite surprising that there are hardly any open-source to validate XML out there. I had the need to validate a auto-generated XML output against a valid xsd, to see if the code that I wrote to generate XML was producing not only syntactically correct XML, but also XML that was data-valid. <strong>XML Validator</strong>, provides an&nbsp;UI that allows you to check the validity of any XML, in with reference to its xsd. It is free for Personal and Commercial use without any warranties. So don't come to me if it makes your dog barks all night, or if your computer commits suicide.</p>
+<h2>Download it <a href="http://shvelmur.com/downloads/projects/XMLValidator.zip">here</a>.</h2>
+<p><a href="http://shvelmur.com/images/wpress/XMLValidator_9477/XMLValidator14.png"><img height="175" src="images/XMLValidator_thumb12.png" width="198" /></a> </p>
+<h4><strong>Features (more like limitations now - :) )</strong></h4>
+<ul>
+<li>Compare syntactically valid XML against its XSD.  </li>
+<li>Select files by using windows controls.  </li>
+<li>No install required.</li>
+</ul>
+<h4><strong>Known behavior</strong></h4>
+<ul>
+<li>Stops level traversal upon error.  </li>
+<li>Uses MSXML parser/validator.  </li>
+<li>Expects sub-elements to occur in the same order as defined.  </li>
+<li>Both XML/XSD should be local files.  </li>
+<li>If a namespace is used for the XML, it should be provided as input.</li>
+</ul>
+<h4><strong>Features in future releases</strong></h4>
+<ul>
+<li>Support for multiple parsers
+<ul>
+<li>xerces  </li>
+<li>xpp  </li>
+<li>JDOM</li>
+</ul>
+</li>
+<li>CLI support for integration with test scripts.  </li>
+<li>Validate XML syntax.  </li>
+<li>Pick XSD from the URI (if mentioned).  </li>
+<li>Read namespace from XML/XSD.  </li>
+<li>Allow copy/paste XML/XSD.  </li>
+<li>Allow URL as input source for XML/XSD.</li>
+</ul>
+<p>This is a result of 30 mins of fiddling around with SharpDevelop, so it is not very complete nor does it have a lot of features. I would like to take it there. Your comments and suggestions for new features are welcome. </p>
+<div>[tags]XML, XML Tools, XML Validator[/tags]</div>

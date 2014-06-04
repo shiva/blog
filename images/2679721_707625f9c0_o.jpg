@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Zooomr's 7th Anniversary -- A Whole New Zooomr</title>
+    <meta name="viewport" content="width=800, initial-scale=1">
+    <meta name="description" content="Zooomr's 7th Anniversary -- A Whole New Zooomr">
+    <meta name="author" content="">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <style>
+      body {
+        text-shadow: 0px 1px 1px #000;
+        color:#dfdfdf;
+      }
+      a {
+        color:#fff;
+      }
+      a:hover, a:visited {
+        color:#fff;
+      }
+      div.fold {
+
+      }
+      p.introduction {
+        font-size:180%;
+        line-height: 120%;
+      }
+      p.welcome {
+        font-size:125%;
+        line-height: 150%;
+        text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="margin:0 auto;width:700px;text-align:center;" class="fold">
+      <img src="7th_anniversary.png" />
+      <p class="introduction">
+        On October 28th, 2005 <a href="http://twitter.com/kristopher" rel="nofollow">Kristopher Tate</a> launched a closed beta of Zooomr's first version to his friends and family.
+      </p>
+      <hr />
+      <p class="welcome">
+      Today, 7 years later in 2012, Kristopher once again invites you to explore what we are titling <em>A Whole New Zooomr</em>, now in official closed beta.<br /><br />
+      Much like the <a href="http://blog.digg.com/post/27628665720/v1">recent digg.com re-release</a>, this newly envisioned version has been built from the ground-up, allowing us to break free from many of the older concepts that kept the previous version of Zooomr too technically deep from every day users. This new version also focuses more on a community appeal versus the more traditional photo sharing appeal that was offered before. With <a href="http://500px.com/" rel="nofollow">many</a> <a href="http://instagram.com/" rel="nofollow">photo</a>-<a href="http://facebook.com/" rel="nofollow">sharing</a> solutions on the market today, we would like to use our 7th anniversary to break new ground in exploring with what we have been most excited about since day one: our community.
+      </p>
+      <hr />
+      <small>&copy; 2012</small>
+    </div>
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
+  </body>
+</html>

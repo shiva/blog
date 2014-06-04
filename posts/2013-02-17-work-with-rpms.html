@@ -1,0 +1,42 @@
+---
+layout: post
+title: Working with rpms (extract, list contents)
+categories: []
+tags:
+- extract rpm
+- list contents
+- list contents of rpm
+- rpm
+- unix
+- unix commands
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _wpas_done_all: '1'
+  _wp_old_slug: extract-rpm-without-installing
+  _wpas_skip_2634709: '1'
+  _wpas_skip_2634712: '1'
+  _wpcom_is_markdown: '1'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<p>Unix. I love thee!</p>
+<p>Extract an rpm without installing in to the current directory (really, the rpm command should support this):</p>
+<p><code><br />
+$ rpm2cpio myrpmfile.rpm | cpio -idmv</p>
+<p>*i: Restore archive</p>
+<p>*d: Create leading directories where needed</p>
+<p>*m: Retain previous file modification times when creating files</p>
+<p>*v: Verbose i.e. display progress<br />
+</code></p>
+<p>List contents of an rpm:</p>
+<p><code><br />
+$ rpm -qlp myrpmfile.rpm<br />
+</code></p>
+<p><a href="http://www.cyberciti.biz/tips/how-to-extract-an-rpm-package-without-installing-it.html">source</a></p>

@@ -1,0 +1,32 @@
+---
+layout: post
+title: 'Bug Fix: Boast Machine 3.1'
+categories: []
+tags:
+- coding
+status: publish
+type: post
+published: true
+meta:
+  tags: ''
+  _utw_tags_0: s:104:"a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Others";}}";
+  aktt_notify_twitter: 'no'
+  _aktt_hash_meta: ''
+  dsq_thread_id: '3180002'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<p>There is an issue with installing the latest version of boast machine v3.1.</p>
+<p><span class="postbody">The message displayed during install is this<br />
+</span><code>Error message : Invalid default value for 'author'</code></p>
+<p>The problem is due to the following code in install.php<br />
+<code>author INT(10) NOT NULL default ' ',</code><span class="postbody"> </span></p>
+<p>This should be changed to<br />
+<code>author INT(10) NOT NULL ,</code></p>
+<p><span class="postbody"><a id="p141" title="install patch for Boast Machine 3.1" href="http://shvelmur.com/wpress/wp-admin/install.php">install patch for Boast Machine 3.1<br />
+</a></span></p>
+<p><em>*Note:  Right-click and save target as / Save link as</em></p>

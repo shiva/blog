@@ -1,0 +1,63 @@
+---
+layout: post
+title: The devil is in the why?
+categories: []
+tags:
+- coding
+- design
+- programming
+- writing code
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  aktt_notify_twitter: 'no'
+  _aktt_hash_meta: ''
+  dsq_thread_id: '11835879'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<p>Recently I got asked, what the best way to do a join between two large lists,  into another list was? I always tend to answer that question with: it depends. </p>
+<p>Just like any other algorithm, there is no silver bullet. It is a trade off  between CPU and memory utilisation. Sometimes, we do have to think about these  things (this is code in c++ on a device with scarce resources, to say the  least).</p>
+<p>Of course, the simplest solution for this would be to use multiple for loops:</p>
+<p><code><strong>// merge - version 1</strong><br />
+function List&lt;C&gt; merge(List&lt;A&gt; l1, List&lt;B&gt; l2) {</code></p>
+<p><code> </code></p>
+<p><code>  // oh god! I shouldn't be doing this<br />
+  for(A a: l1) {<br />
+    C c = new C(a);<br />
+    for(B b: l2) {<br />
+      if (c.foo == b.foo) {<br />
+        c.add(b);<br />
+      }<br />
+    }<br />
+  }<br />
+}<br />
+</code></p>
+<p>As is obvious any half-decent programmer would shudder at the thought of writing something like this, particularly let it run on a device with limited resources. A simple way to refactor this would be to create an index for one of the lists and iterate through other. </p>
+<p><code><strong>// merge - version 2</strong><br />
+function List&lt;C&gt; merge(List&lt;A&gt; l1, List&lt;B&gt; l2) {</code></p>
+<p><code>  // create the index<br />
+  HashMap&lt;Foo, Bar&gt; map = new HashMap();  </code></p>
+<p><code>  for (B b: l2) {<br />
+    map.put (b.foo, b);<br />
+  }</code></p>
+<p><code>  for(A a: l1) {<br />
+    C c = new C(a);<br />
+    c.add(map.get(a.foo));<br />
+  }<br />
+}<br />
+</code><br />
+Conventional wisdom says, that version 2 is much better than version 1. Right? Well, what if you have 128 MB of shared memory across your system, but a dedicated processor for your subsystem?! Won't you want to pick version 1 in that case? What if both the lists can have millions of entries? That would render both these cases useless.</p>
+<p>Sometimes, before trying to find a technical solution to the problem at hand, it might help to ask why? What is the need for this requirement? The key is to ask why until you reach a specific use-case. I tend to ask this all the way until I reach either a SOAP request, or a specific component in the GUI that requires this piece of data. Most of the time, we can get by without writing a potentially inefficient solution. </p>
+<p><a href="http://flickr.com/photos/shvelmur/3262859586/"><img class="alignleft" style="margin-left: 10px; margin-right: 10px;" src="images/3262859586_5caf14c1fb_m.jpg" alt="Lord of his city" width="160" height="240" /></a></p>
+<p>In this case, after several "why"s, I discovered that this requirement came about, since one of the products in our suite (yeah we have a bunch of products that build on each other), need to display a list of names of object C, as the user searches for a specific one to add items to. If we had decided to write either v1 or v2, every time the user opened that GUI component, we would transport, a possible 10000 records from the device all the way to the GUI (which in our case is several layers above), when we only need a list of names based on a specific criteria.</p>
+<p> </p>
+<p>The "how" of your design depends the "why". The only limiting factor is the willingness to ask why, until you can find an alternate solution, or, are absolutely convinced that there is no other way to acheive a specific requirement without writing some inefficient code — then defend rigorously against doing it. well, atleast you have to get a some kind of limits in place. </p>
+<p>Sometimes you have to <a href="http://flickr.com/photos/shvelmur/3262859586/">stand up to your product manager</a>, and sometimes you have to take a <a href="http://blog.shiv.me/2009/01/28/i-recommend-drinking-vin-chaude-when-youre-in-strasbourg-france/">sip of warm wine</a>, and go write that "piece of crap" code. </p>
+<p>Happy coding!</p>

@@ -1,0 +1,35 @@
+---
+layout: post
+title: Exporting XDisplay
+categories: []
+tags:
+- how-to
+- Tips &amp; Tricks
+- unix
+- X Display
+- xhost
+status: publish
+type: post
+published: true
+meta:
+  aktt_notify_twitter: 'no'
+  _edit_last: '1'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<p>In *nix systems, you can make the display, the GUI of an application, appear on another machine.  This if often required, when the machine you want to run the application on is in a lab, and you have access through a desktop machine that has a monitor.</p>
+<p>You can do this, by running an XServer on the desktop machine and configuring the client (the one where you run your app) with the XServer details. By default, the XServer instance on your desktop disallows communication from all machines except localhost. Thus, you will need to add the host in the allowed list using the xhost command.</p>
+<p><strong>On your machine</strong>,  to disable security checks:</p>
+<p style="padding-left: 30px;"><code>$ xhost +</code></p>
+<p>To allow connections from a single  host:</p>
+<p style="padding-left: 30px;"><code>$ xhost +&lt;hostname/ip&gt;</code></p>
+<p><strong>On the client machine</strong> where the application is run, set the X Server to display to (for bash shell):</p>
+<p style="padding-left: 30px;"><code>$ export DISPLAY=&lt;hostname&gt;:&lt;displaynumber&gt;.&lt;screennumber&gt;</code></p>
+<p>If you haven't changed the display-number or screen-number :</p>
+<p style="padding-left: 30px;"><code>$ export DISPLAY=&lt;hostname&gt;:0.0</code></p>
+<p>For a more detailed description of the</p>
+<p><a href="http://www.hungry.com/~jamie/xexport.html">How to export your X Display</a>.</p>

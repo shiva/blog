@@ -1,0 +1,81 @@
+---
+layout: post
+title: getting batch categories to work with Word press 1.5.1.1
+categories: []
+tags:
+- Tips &amp; Tricks
+status: publish
+type: post
+published: true
+meta:
+  tags: ''
+  _utw_tags_0: s:65:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:18:"Tips-&#038;-Tricks";}}";
+  _aktt_hash_meta: ''
+  aktt_notify_twitter: 'no'
+  dsq_thread_id: '3191671'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<p>I simply love that plugin - Batch categories, like a myriad of other wordpress users. (A thousand thanks to Stephanie Booth wouldn't suffice ;) ), but I had problems getting it to work in 1.5.1</p>
+<p>Lots of results out there, that explain how to fix it, but none that lets a newbie get it up quickly. I know this is a repetition, but it still took my more than a day to get it fixed (mebbe it's my dull head.. but then again)</p>
+<p>If you are brand new to Word press, here it. As simple as it gets (or atleast I think so... do get back in case you have doubts)</p>
+<p>1. Download and install Batch-categories (0.9) from <a href="http://climbtothestars.org/archives/2004/07/13/batch-categories-09/" target="_blank">here</a>.<br />
+2. Installing implies, that you copy the batch-categories.php file to <wpress -install-directory>/wp-admin/<br />
+3. Edit </wpress><wpress -install-directory>/wp-admin/batch-categories.php and do the modifications as detailed below</wpress></p>
+<p><b>Change this:<br />
+</b></p>
+<div class="code">
+$title = __('Batch Categories');<br />
+$parent_file = 'edit.php';<br />
+require_once('admin-header.php');
+</div></p>
+<p><b>to this:</b></p>
+<div class="code">
+<p>$title = __('Batch Categories');<br />
+$parent_file = 'edit.php';<br />
+<b>require_once('admin.php');<br />
+</b>require_once('admin-header.php');</p>
+</div>
+<p>Save batch-categories.php. Now launching it in your browser directly, will give you the required functionality (batch editing categories ie )</p>
+<p>4. If you want to include it as part of your admin screen, then open <strong></strong><wpress -install-directory>/wp-admin/menu.php</wpress></p>
+<p><b>Below this:<br />
+</b></p>
+<div class="code">
+$submenu['edit.php'][30] = array(__('Files'), 8, 'templates.php');
+</div></p>
+<p><b>Add this:<br />
+</b></p>
+<div class="code">
+$submenu['edit.php'][40] = array(__('Batch Categories'), 1, 'batch-categories.php');
+</div></p>
+<p><b>5. Edit <wpress -install-directory>/wp-admin/batch-categories.php and delete the following:<br />
+</wpress></b></p>
+<div class="code">
+<p>< ul id="adminmenu2?><br />
+< li>< a href="edit.php">< /a>< /li><br />
+< li>< a href="edit-comments.php">< ?php _e('Comments') ?>< /a>< /li><br />
+< li>< a href="moderation.php">< ?php _e('Awaiting Moderation') ?>< /a>< /li><br />
+< li class="last">< a href="batch-categories.php" class="current">< ?php _e('Batch Categories') ?>< /a>< /li><br />
+< /ul></p>
+</div>
+<p>Well, I always beleive that if you want to learn, then you need to do things the hardest way possible. Then, the next time around you can eliminate that way and go on to more efficient ways. On that note, if you don't want to do all the editing yourself. You can find the files here. Just download them and put them in you wp-admin directory, and enjoy! Ofcourse, you better take all the backups required and don't spam me if something is screwed up in your database.</p>
+<ul>
+<li><a href="http://shvelmur.com/uploads/batch-categories.php.txt" target="_blank">batch-categories.php</a></li>
+<li><a href="http://shvelmur.com/uploads/menu.php.txt" target="_blank">menu.php</a></li>
+</ul>
+<p><em>Note: 1. Do not use left-click on the above link. Use right-click and "Save Link As.."/"Save Target As.." and rename the file to *.php instead of *.php.txt<br />
+2.  The above files are valid for 1.5.1 Wordpress only. Please follow the manual procedure for later versions</em></p>
+<p><b>Wishlist for batch categories(BC)</b><br />
+Since we are discussing BC here, I thought I'll jot down a couple things that would make BC really kewl</p>
+<ul>
+<li>Display categories already assigned</li>
+<li>Instead of a combo, use a multiple listbox</li>
+<li>report category names instead of IDs</li>
+<li>UI for options like number of posts,etc</li>
+<li>Paging - displays all posts, but on different pages.</li>
+</ul>
+<p>Maybe I should get in touch with steph about this, but then before that I need start exploring php (I'm a total novice on that)</p>

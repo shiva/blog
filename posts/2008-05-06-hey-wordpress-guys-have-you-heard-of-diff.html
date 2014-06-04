@@ -1,0 +1,102 @@
+---
+layout: post
+title: Hey wordpress guys, have you heard of diff?!
+categories: []
+tags:
+- Ideas
+- install
+- plugin
+- upgrade
+- wordpress
+status: publish
+type: post
+published: true
+meta:
+  aktt_notify_twitter: 'no'
+  _aktt_hash_meta: ''
+  aktt_tweeted: '1'
+  _edit_last: '1'
+  dsq_thread_id: '3089323'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<p>I hate having to upgrade software. I truly do. I release a version every 3 months, and it try to make the upgrade as painless as possible. For an application like wordpress, that has been around for such a long, I would expect that they would do something to make it a little easier to upgrade.</p>
+<p>Ok. Sorry about the rant, but here is my problem: the download for wordpress 2.5.1 is around 1 MB, but what has really changed is only a few lines. However, according to wordpress, you have to go through a time-consuming process to get your blog up to date.</p>
+<p>The only reason why the wordpress team would want to do this, is coz they do not want to write an upgrade document everytime. What they really need to do, is stop bothering their blog users with such small updates and allow such updates from within wordpress itself. This is precisely the kinda thing that should by now, be atleast a plugin, if not part of the system.</p>
+<p>The famous<a href="http://codex.wordpress.org/Upgrading_WordPress"> 5-minute, 3-step upgrade</a> says:</p>
+<blockquote><p>0. Take a Backup</p>
+<p>0.5 Disable plugins</p>
+<p>1. Actually it's three steps in this one step</p>
+<ol>
+<li> Get the <a class="external text" title="http://wordpress.org/download/" href="http://wordpress.org/download/">latest WordPress</a>. Either download and extract it to your computer or download it directly to the server.</li>
+<li> Delete your old <code>wp-includes</code> and <code>wp-admin</code> directories.</li>
+<li> Copy the new WordPress files to your server, overwriting old files in the root. You may use FTP or shell commands to do so. Note that this means *all* the files, including all the files in the root directory as well. If you use the default or classic theme and have customized it, then you can skip that theme.</li>
+</ol>
+<p>2. Upgrade by calling the upgrade script</p>
+<p>3. Turn back all your plugins on.</p></blockquote>
+<p>I grew sick of wordpress' lazy-ass upgrade steps, and decided about a year back that I would only run the upgrade their way, if it really requires taking down my website, and started doing these simple steps instead. (Ofcourse, I have a script that does this for me :) )</p>
+<p>1. Download wordpress to a temp dir on your server</p>
+<p><code>[shvelmur@web24 wordpress]$ curl -o wp.tar.gz http://wordpress.org/latest.tar.gz<br />
+% TotalÂ Â Â  % Received % XferdÂ  Average SpeedÂ Â  TimeÂ Â Â  TimeÂ Â Â Â  TimeÂ  Current<br />
+DloadÂ  UploadÂ Â  TotalÂ Â  SpentÂ Â Â  LeftÂ  Speed<br />
+100 1154kÂ Â Â  0 1154kÂ Â Â  0Â Â Â Â  0Â  5390kÂ Â Â Â Â  0 --:--:-- --:--:-- --:--:-- 10.8M</code></p>
+<p>2. Extract the downloaded zipped-tar file to a new dir, called "wp".</p>
+<p><code>[shvelmur@web24 wordpress]$ gtar -zxvf wp.tar.gz<br />
+</code><br />
+3. Do a diff between the two directories to see what's changed.</p>
+<p><code>[shvelmur@web24 wordpress]$ diff &lt;current wordpress dir&gt; &lt;new dir&gt;<br />
+</code><br />
+In my installation this is the difference between wordpress 2.5 and wordpress 2.5.1</p>
+<p><code>diff ../../wpress/wp-config-sample.php ./wordpress/wp-config-sample.php<br />
+11,12c11,12<br />
+&lt; // so make it long and complicated.Â  You can visit https://www.grc.com/passwords.htm<br />
+&lt; // to get a phrase generated for you, or just make something up.<br />
+---<br />
+&gt; // so make it long and complicated.Â  You can visit http://api.wordpress.org/secret-key/1.0/<br />
+&gt; // to get a secret key generated for you, or just make something up.<br />
+Common subdirectories: ../../wpress/wp-content and ./wordpress/wp-content<br />
+Common subdirectories: ../../wpress/wp-includes and ./wordpress/wp-includes<br />
+diff ../../wpress/wp-login.php ./wordpress/wp-login.php<br />
+93c93<br />
+&lt; Â Â Â  $key = $wpdb-&gt;get_var("SELECT user_activation_key FROM $wpdb-&gt;users WHERE user_login = '$user_login'");<br />
+---<br />
+&gt; Â Â Â  $key = $wpdb-&gt;get_var($wpdb-&gt;prepare("SELECT user_activation_key FROM $wpdb-&gt;users WHERE user_login = %s", $user_login));<br />
+99c99<br />
+&lt; Â Â Â  Â Â Â  $wpdb-&gt;query("UPDATE $wpdb-&gt;users SET user_activation_key = '$key' WHERE user_login = '$user_login'");<br />
+---<br />
+&gt; Â Â Â  Â Â Â  $wpdb-&gt;query($wpdb-&gt;prepare("UPDATE $wpdb-&gt;users SET user_activation_key = %s WHERE user_login = %s", $key, $user_login));<br />
+121c121<br />
+&lt; Â Â Â  $user = $wpdb-&gt;get_row("SELECT * FROM $wpdb-&gt;users WHERE user_activation_key = '$key'");<br />
+---<br />
+&gt; Â Â Â  $user = $wpdb-&gt;get_row($wpdb-&gt;prepare("SELECT * FROM $wpdb-&gt;users WHERE user_activation_key = %s", $key));<br />
+diff ../../wpress/wp-settings.php ./wordpress/wp-settings.php<br />
+72,75c72,77<br />
+&lt; Â Â Â  Â Â Â  if ( $_SERVER['PATH_INFO'] == $_SERVER['SCRIPT_NAME'] )<br />
+&lt; Â Â Â  Â Â Â  Â Â Â  $_SERVER['REQUEST_URI'] = $_SERVER['PATH_INFO'];<br />
+&lt; Â Â Â  Â Â Â  else<br />
+&lt; Â Â Â  Â Â Â  Â Â Â  $_SERVER['REQUEST_URI'] = $_SERVER['SCRIPT_NAME'] . $_SERVER['PATH_INFO'];<br />
+---<br />
+&gt; Â Â Â  Â Â Â  if ( isset($_SERVER['PATH_INFO']) ) {<br />
+&gt; Â Â Â  Â Â Â  Â Â Â  if ( $_SERVER['PATH_INFO'] == $_SERVER['SCRIPT_NAME'] )<br />
+&gt; Â Â Â  Â Â Â  Â Â Â  Â Â Â  $_SERVER['REQUEST_URI'] = $_SERVER['PATH_INFO'];<br />
+&gt; Â Â Â  Â Â Â  Â Â Â  else<br />
+&gt; Â Â Â  Â Â Â  Â Â Â  Â Â Â  $_SERVER['REQUEST_URI'] = $_SERVER['SCRIPT_NAME'] . $_SERVER['PATH_INFO'];<br />
+&gt; Â Â Â  Â Â Â  }<br />
+332a335,342<br />
+&gt;<br />
+&gt; /**<br />
+&gt;Â  * It is possible to define this in wp-config.php<br />
+&gt;Â  * @since 2.5.0<br />
+&gt;Â  */<br />
+&gt; if ( !defined( 'AUTOSAVE_INTERVAL' ) )<br />
+&gt; Â Â Â  define( 'AUTOSAVE_INTERVAL', 60 );<br />
+&gt;<br />
+</code><br />
+As you can see, the only change is in wp-login.php. <span style="text-decoration: line-through;">Just copy the wp-login.php from the new directory to the installed directory.</span> Update: Copy the changed file, wp-login.php and also copy version.php in &lt;new wpress dir&gt;/wp-includes, to the same directory in your installed dir.</p>
+<p>4. Just run the upgrade.php (it updates the DB, and makes the dashboard stop complaining about the version).</p>
+<p>If all of this sounds very complex to you, it is not. All we are doing here is finding out which files changed between two versions, and copying files that matter instead of re-write the whole application, which requires bringing your blog down.</p>
+<p><strong>P.S:</strong> If you are by any chance involved with wordpress, please get an auto-installer done and built into wordpress, atleast for just minor changes, which can be easily done using some script on the server.</p>

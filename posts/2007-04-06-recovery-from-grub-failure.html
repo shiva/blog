@@ -1,0 +1,33 @@
+---
+layout: post
+title: Recovery from GRUB Failure
+categories: []
+tags:
+- Tips &amp; Tricks
+status: publish
+type: post
+published: true
+meta:
+  _utw_tags_0: s:270:"a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"boot-problem";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"GRUB";}i:2;O:8:"stdClass":1:{s:3:"tag";s:14:"GRUB-corrupted";}i:3;O:8:"stdClass":1:{s:3:"tag";s:12:"GRUB-failure";}i:4;O:8:"stdClass":1:{s:3:"tag";s:18:"Tips-&#038;-Tricks";}}";
+  _aktt_hash_meta: ''
+  aktt_notify_twitter: 'no'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<p>I have a dual-boot PC at home, which boots to OpenSUSE and Windows. After a very tiring 7 hour journey, I came home to a GRUB failure. After searching for help all over the web, I found some help <a href="http://orgs.man.ac.uk/documentation/grub/grub_3.html" target="_blank">here</a>, <a href="http://orgs.man.ac.uk/documentation/grub/grub_12.html#SEC38" target="_blank">here</a>, <a href="http://orgs.man.ac.uk/documentation/grub/grub_4.html#SEC12" target="_blank">here</a>, <a href="http://orgs.man.ac.uk/documentation/grub/grub_13.html#SEC78" target="_blank">here</a>, <a href="http://www.troubleshooters.com/linux/grub/grub.htm" target="_blank">here</a> and <a href="http://www.geocities.com/epark/linux/grub-w2k-HOWTO.html" target="_blank">here</a>. :)</p>
+<p>It turns out, that GRUB stage 2 was not being loaded. So here's what I did.</p>
+<p>1. set the root partition</p>
+<p>2. run GRUB setup on the MBR.</p>
+<p>3. load the os using chainloader.</p>
+<p>To set a partition as root, it is required to know the device where the root partition resides. This can be found using the following command</p>
+<p><code>grub&gt; find /boot/grub/stage1<br />
+grub&gt; root (hd0,0)<br />
+grub&gt; setup (hd0,0)<br />
+grub&gt;chainloader +1</code></p>
+<p>This got my system back to normal. I'm wondering where I can get some more information about GRUB, I don't understand GRUB much and would like to change that. Links to tutorials anyone?!</p>
+<p>Update: Since there is hardly any audience that read my blog, it's only fair that I stop asking questions.. :) So here are some links that I found</p>
+<p class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:62991f15-4eb9-43c1-92d0-5646f70071ab" contenteditable="false" style="margin: 0px; padding: 0px; display: inline">[tags]boot problem, GRUB failure, GRUB, GRUB corrupted[/tags]</p>

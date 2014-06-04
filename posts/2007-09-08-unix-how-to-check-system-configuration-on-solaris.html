@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Unix: how to check system configuration on solaris'
+categories: []
+tags:
+- coding
+- solaris
+- unix
+status: publish
+type: post
+published: true
+meta:
+  tags: ''
+  _utw_tags_0: s:58:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}}";
+  _edit_last: '1'
+  _aktt_hash_meta: ''
+  aktt_notify_twitter: 'no'
+  dsq_thread_id: '3066054'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<p>I had to compare machine hardware today, and found information on that <a href="http://esofthub.blogspot.com/2006/10/view-processor-speed-and-ram-size.html">here</a>.</p>
+<p><strong>#prtdiag -v - </strong>Gives hardware information about FSB, Sparc Model, CPU speed, RAM, Harddisks, USB drives (ie. PCI and networking slots) etc.</p>
+<p>Click on the image below, for a detailed overview of prtdiag's output</p>
+<p><a href="http://static.zooomr.com/images/3177597_653fa457f3_o.png" atomicselection="true"><img src="images/3177597_b6727fa7f6_m.jpg" /></a></p>
+<p><strong>#psrinfo -p</strong> - lists number of physical processors .</p>
+<p><strong>#psrinfo -p -v</strong> - list number of virtual processors (cores) per physical processor.</p>
+<p><strong>#psrinfo -v</strong> - detailed information for each virtual processor.</p>
+<p><strong>#prtconf | grep Memory </strong>- displays total amount of RAM.</p>
+<p class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:58b25058-c1fa-4b85-9741-8ea16a81250e" contenteditable="false" style="margin: 0px; padding: 0px; display: inline">Technorati Tags: <a href="http://technorati.com/tags/unix%20commands" rel="tag">unix commands</a>, <a href="http://technorati.com/tags/solaris%20commands" rel="tag">solaris commands</a>, <a href="http://technorati.com/tags/system%20configuration" rel="tag">system configuration</a></p>

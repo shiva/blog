@@ -1,0 +1,36 @@
+---
+layout: post
+title: Convert byte[] to long in Java
+categories: []
+tags:
+- coding
+status: publish
+type: post
+published: true
+meta:
+  tags: ''
+  _utw_tags_0: s:148:"a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"coding";}i:1;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:2;O:8:"stdClass":1:{s:3:"tag";s:4:"Java";}}";
+  _aktt_hash_meta: ''
+  aktt_notify_twitter: 'no'
+  dsq_thread_id: '2592356'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<p>One more little thing that is painfully difficult to do in Java. (I love Java though ;) )<br />
+There are two ways of getting it done.</p>
+<p>a. Cryptic but sweet! bring on the bit manipulators!<br />
+<code><br />
+private long getLong(byte[] mbytes) {<br />
+long lValue =0;<br />
+for (int i :  mbytes.length) {<br />
+lValue = (lValue< &lt;8) | (mbytes[i] & 0xff);<br />
+}<br />
+return lValue;<br />
+}<br />
+</code></p>
+<p>b. painfully slow and created a gazzillon objects (sooo typically Java)<br />
+write byte array to DataOutputStream, and read from corresponding input stream using readLong()</p>
