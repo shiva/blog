@@ -1,0 +1,36 @@
+---
+layout: post
+title: music and hearing
+categories: []
+tags:
+- Bach
+- Brandenburg Concertos
+- BWV 1046
+- hearing
+- Music
+- ted talks
+published: true
+meta:
+  aktt_notify_twitter: 'no'
+  _edit_last: '1'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+Forget perfect pitch. I'm so thankful that I can experience a large range of frequencies, and that I have enough hearing ability to distinguish timbre, and tone. Watch the video below, especially at 7:00 minutes. We all must&nbsp;be thankful that we can hear as well as we do. I can't imagine what life would be like without the ability to sense the warmth of a viola rising up in the Brandenburg concertos (BWV 1046) movement 1, or the horns in the 3rd movement of the same.
+
+<object width="526" height="374" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="wmode" value="transparent" /><param name="bgColor" value="#ffffff" /><param name="flashvars" value="vu=http://video.ted.com/talk/stream/2011P/Blank/CharlesLimb_2011P-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/CharlesLimb_2011P-embed.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=1291&amp;lang=&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=charles_limb_building_the_musical_muscle;year=2011;theme=tales_of_invention;theme=medicine_without_borders;event=TEDMED+2011;tag=Science;tag=Technology;tag=beauty;tag=medical+research;tag=music;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;" /><param name="src" value="http://video.ted.com/images/player/swf/EmbedPlayer.swf" /><param name="pluginspace" value="http://www.macromedia.com/go/getflashplayer" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed width="526" height="374" type="application/x-shockwave-flash" src="http://video.ted.com/images/player/swf/EmbedPlayer.swf" allowfullscreen="true" allowscriptaccess="always" wmode="transparent" bgcolor="#ffffff" flashvars="vu=http://video.ted.com/talk/stream/2011P/Blank/CharlesLimb_2011P-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/CharlesLimb_2011P-embed.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=1291&amp;lang=&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=charles_limb_building_the_musical_muscle;year=2011;theme=tales_of_invention;theme=medicine_without_borders;event=TEDMED+2011;tag=Science;tag=Technology;tag=beauty;tag=medical+research;tag=music;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;" pluginspace="http://www.macromedia.com/go/getflashplayer" /></object>
+
+&nbsp;
+
+J.S. BACH BWV 1046 Brandenburg Concertos No: 1
+
+Movements 1 &amp; 2: [http://youtu.be/idvduV2I3o0](http://youtu.be/idvduV2I3o0)
+
+Movements 3 &amp; 4 :&nbsp;[http://youtu.be/x8AEGLAyMOc](http://youtu.be/x8AEGLAyMOc)
+
+&nbsp;

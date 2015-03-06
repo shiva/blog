@@ -1,0 +1,24 @@
+---
+layout: post
+title: 'Thoughts: Let’s re-wire our minds'
+categories: []
+tags: []
+published: true
+meta:
+  tags: ''
+  _utw_tags_0: s:62:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+My site is probably one of the least visited blogs in the world! Trust me on that one! ;) by linking to the following set of youtube videos, I know I don't do much in making it reach more people, as it rightly deserves.
+
+Nonetheless, I consider it my responsibility to do it. and those of you who do read my blog, please do visit these vidoes and tell the author what you experienced.
+
+[http://www.youtube.com/watch?v=JnylM1hI2jc&amp;mode=related&amp;search=](http://www.youtube.com/watch?v=JnylM1hI2jc&amp;mode=related&amp;search= "http://www.youtube.com/watch?v=JnylM1hI2jc&amp;mode=related&amp;search=")
+
+[http://www.youtube.com/watch?v=qn70gPukdtY&amp;mode=related&amp;search](http://www.youtube.com/watch?v=qn70gPukdtY&amp;mode=related&amp;search "http://www.youtube.com/watch?v=qn70gPukdtY&amp;mode=related&amp;search=")=

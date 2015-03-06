@@ -1,0 +1,25 @@
+---
+layout: post
+title: Firetune - speed up your firefox
+categories: []
+tags:
+- Tools
+published: true
+meta:
+  _utw_tags_0: s:155:"a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Others";}i:2;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
+  _edit_last: '1'
+  aktt_notify_twitter: 'no'
+  _aktt_hash_meta: ''
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+I just found this link on an orkut forum ... yeah , I'm part of orkut too!!  
+
+Check out [Firetune](http://www.totalidea.com/freestuff4.htm). It is supposed to make Firefox quicker.
+
+I'm testing it as of now.. and will post some results

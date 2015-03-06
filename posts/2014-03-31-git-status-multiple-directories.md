@@ -1,0 +1,31 @@
+---
+layout: post
+title: Getting git status on multiple directories
+categories: []
+tags:
+- bash
+- git
+- unix
+- unix commands
+published: true
+meta:
+  _wpcom_is_markdown: '1'
+  _edit_last: '1'
+  _wpas_done_all: '1'
+  _wpas_skip_2634709: '1'
+  _wpas_skip_2634712: '1'
+  _wpas_skip_5689512: '1'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+At any given time, I have a handful of git repositories that I work on. While typing in the command-line is great, it getting tiring when you have a several directories that you have to manually change to and check. The "git status" command can take the git repo and the working directory as input. That, and a little bash programming to the rescue.
+
+The following command, executes git status in every subdirectory that is a git repository.
+
+    # for d in `find . -name ".git"`; do  echo "processing $d ..."; git --git-dir=$d --work-tree=$d/.. status; done
+    

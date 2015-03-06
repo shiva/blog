@@ -1,0 +1,23 @@
+---
+layout: post
+title: Blast from the past
+categories: []
+tags: []
+published: true
+meta:
+  _utw_tags_0: s:160:"a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:9:"hiroshima";}i:1;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:2;O:8:"stdClass":1:{s:3:"tag";s:9:"World-War";}}";
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+Pictures of Hiroshima post the 1945 bombing
+
+[http://www.gensuikin.org/english/photo.html](http://www.gensuikin.org/english/photo.html "http://www.gensuikin.org/english/photo.html")
+
+It is sad how destructive we human beings can be. I wonder how they will judge us, say 1000 years in the future.
+
+<div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:501342ba-ba33-4075-9f0a-874f881fc2e6" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[tags]Random thoughts, hiroshima, World War[/tags]</div>

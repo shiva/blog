@@ -1,0 +1,25 @@
+---
+layout: post
+title: iPad is iBad petition
+categories: []
+tags:
+- apple
+- DRM
+- iBad
+- iPad
+- petition
+published: true
+meta:
+  aktt_notify_twitter: 'no'
+  _edit_last: '1'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+[http://www.defectivebydesign.org/ipad](http://www.defectivebydesign.org/ipad  )
+
+If you think that the iPad is promoting DRM of apps that will lead computing in a direction that will undermine the freedom that we currently are enjoying, freedom the seeds of which have been sown over the last few decades, the visit the link above and sign the petition.

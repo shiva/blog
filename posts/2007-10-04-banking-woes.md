@@ -1,0 +1,102 @@
+---
+layout: post
+title: Banking woes
+categories: []
+tags: []
+published: true
+meta:
+  tags: ''
+  _oembed_da28e9a867dabb33287fdd29d10621ca: '{{unknown}}'
+  _oembed_455725a741028b185902dd6da2e28a61: '{{unknown}}'
+  _oembed_738e3bb4c377d9297d313beb28438894: '{{unknown}}'
+  _oembed_e610cb82745fde1c10478a5b9b18494c: '{{unknown}}'
+  _oembed_af04f750bce26505bf1b91aef5146823: '{{unknown}}'
+  _oembed_f50aef2b62a5c2ee6adb7ecce84849b6: '{{unknown}}'
+  _oembed_2e2a165d11aec742bd4702df57dfe050: '{{unknown}}'
+  _oembed_9cca13952e6cab9a20efb3ddce3c55b3: '{{unknown}}'
+  _oembed_37b704a32b203fdcbd926bf11cb61232: '{{unknown}}'
+  _oembed_3fe41c88122ab883969e37eced8a9142: '{{unknown}}'
+  _oembed_fa19db8d47764b0dc067a6f857a11b68: '{{unknown}}'
+  _oembed_02695c41ff40242afd422320c166b80a: '{{unknown}}'
+  _oembed_27d4308d1eb697c57afcfbf59256cd2d: '{{unknown}}'
+  _oembed_09ad90ff062b2ae1aa51d8aff9498e77: '{{unknown}}'
+  _oembed_6d7eb171798f33b3a15a27818855e684: '{{unknown}}'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+First off, this is a rant. You have been warned.
+
+I have been banking with ICICI bank for the last 6 years. I have generally had a pleasant experience banking with them, since you could do pretty much everything you want to do with your account through their online interface. With my recent move to Canada, I was pleased to see an branch here in Vancouver.
+
+I opened an account with them last week, and had used a check to make the initial deposit. A week passed and with no sign of a confirmation of account activation, I called their call center.
+
+**Call 1:**
+
+> Customer care executive(CCE): Good morning, ICICI bank, how may I help you?  
+> 
+> Me: Hi, I'm Shivanand and I opened an account with you last week. I see that my cheque has been cleared, and I haven't received any confirmation of the same. I would like to know the status of my application?  
+> 
+> CCE: Can you give me your First Name, Last Name and Phone No?  
+> 
+> Me: &lt;I give them the info&gt;  
+> 
+> CCE: I'm sorry I am unable to see a record of your account. Do you have your Customer Identification No?  
+> 
+> Me: I don't. I will call you back
+
+I had left all the documents at home, and had to call the next day.
+
+**Call 2:**
+
+> Me: &lt;I give him, my First Name, Last Name, Cust ID, my dog's name, and the exact dimensions of the turd left by my dog yesterday, in the park)  
+> 
+> Cust ID: I am sorry, I can't find your account. Can I take a request from you, to send a request to ask for information from your branch?  
+> 
+> Me: umm... what? Whatever, how long will it take to know the status of my application?  
+> 
+> Cust Id&lt;in a very loud voice&gt;: I can send a request to my back office, and it will take 2 days.  
+> 
+> Me:Why?  
+> 
+> Cust Id&lt;in a very loud voice&gt;: I have to send it to my back office and it will take 2 days.  
+> 
+> Me: Why? I called the local bank, why can't you just forward me to the local branch, and I will ask them?  
+> 
+> Cust ID: We don't have that information?  
+> 
+> Me: whatever.. &lt;and I put the phone down&gt;
+
+With billions of dollars worth of technology, in the banking systems in the world, banks can't afford to forward a call to a specific branch, to ask for a some information? I find that absurd, and downright stupid. I am trying to give you business and the first experience I get is inability to tell me why you've taken my money, but not activated my account?! If such is the level of incompetence, how well can you take care of my money?!!
+
+Well, being fed up with call centers, I decided to call the branch itself. I called in, using the branch's number, and someone at the branch picked it up. She got my Cust ID, and my phone number, and said, she will call me in half hour. End of call and I am actually happy that I got the thing moving! That was simple, wasn't it? I spent 2 minutes, and got more confidence than a 20 minute conversation with a call center employee, who just doesn't care enough about the customer.
+
+I also sent, this mail to ICICI customer care.
+
+> Hi,  
+> 
+> I recently opened an account with ICICI bank Canada (I have been a ICICI bank customer for the last 6 years in India) and have not received confirmation of account activation. I tried calling your call center and was faced with a shouting employee. I found like to refrain from mentioning the person by name. Please educate your call center employees, that as a customer, I have not interest in the limitations that you have in your back office.  
+> 
+> I gave the employee my First name, last name and my customer identification number, and all he could give me was that my account was not active. (which is why I was calling). Also, remember this is after ICICI bank had withdrawn $5000 from my account (I gave a cheque for the initial deposit) a week back. I think it would be best if you can sensitize your employees on the ethics of phone conversation and also try and provide a solution rather than try and get rid of the call.  
+> 
+> I usually make it public, when I rant about something and have posted this mail on my blog. Click on the link below. I would expect a response from you, either through mail, or on my website.  
+> 
+> regs  
+> 
+> Shiva  
+> 
+> --  
+> 
+> code-freak, blogger, tech-enthusiast and moderate photographer!  
+> 
+> http://shvelmur.com  
+> 
+> Mark Twain - "Do the right thing. It will gratify some people and astonish the rest."
+
+I will post the replies here. Let's see if ICICI is agile enough.
+
+Technorati Tags: [ICICI](http://technorati.com/tags/ICICI), [call center](http://technorati.com/tags/call%20center), [rants](http://technorati.com/tags/rants)

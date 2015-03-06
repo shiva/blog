@@ -1,0 +1,23 @@
+---
+layout: post
+title: Halo-bashing
+categories: []
+tags: []
+published: true
+meta:
+  tags: ''
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+I hate posting links, so I embed.
+
+<embed name="VE_Player" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle" src="http://update.videoegg.com/flash/proxy.swf?jsver=1.4" width="400" height="332" type="application/x-shockwave-flash" flashvars="gc=c2hvd0FkPXRydWUmYWRWYXJzPWFyZWE9Z2FtZXMmc2l0ZT1lc2NhcGlzdG1hZ2F6aW5lJmZpbGU9aHR0cCUzQSUyRiUyRnNlbGZzZXJ2ZTMwMCUyRWRvd25sb2FkJTJFdmlkZW9lZ2clMkVjb20lMkZnaWQzODklMkZjaWQxMzg5JTJGSTUlMkZHUSUyRjExOTEyNzM3MTFuSEk4SEZNSWlmM3ZxV1R3YWtMSyZzd2ZwYXRoPWh0dHAlM0ElMkYlMkZ1cGRhdGUlMkV2aWRlb2VnZyUyRWNvbSUyRmZsYXNoJTJGcHJveHklMkVzd2YlM0Zqc3ZlciUzRDElMkU0JmF1dG9QbGF5PWZhbHNlJnNob3dBZFByaW1hcnk9dHJ1ZSZ3bW9kZT13aW5kb3cmYWxsb3dGbGFzaDlGdWxsc2NyZWVuPXRydWU=" quality="high" allowfullscreen="true" allowscriptaccess="always" scale="noscale" wmode="window"></embed> 
+
+&nbsp;
+
+<div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:af2bc9ef-3742-49e8-bc03-07fa8f4567ab" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [halo 3](http://technorati.com/tags/halo%203), [games](http://technorati.com/tags/games)</div>

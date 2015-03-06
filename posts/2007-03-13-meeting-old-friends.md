@@ -1,0 +1,44 @@
+---
+layout: post
+title: Meeting old friends
+categories: []
+tags: []
+published: true
+meta:
+  _utw_tags_0: s:247:"a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Dinesh";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"friends";}i:2;O:8:"stdClass":1:{s:3:"tag";s:7:"koushik";}i:3;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:4;O:8:"stdClass":1:{s:3:"tag";s:5:"shaan";}}";
+  dsq_thread_id: '3044442'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+After moving to bangalore (it's been 3 months already!!), I never had an opportunity to got visit good friends who have moved here. Last weekend, I managed to find time to meet up with my old pals.
+
+##### **Koushik[![](/images/10032007126_thumb24.jpg)](http://shvelmur.com/images/wpress/Meetingoldfriends_A7BB/1003200712626.jpg)**
+
+Introducing, Koushik. a very good friend from Pondicherry. He is currently work as a Project Manager (yup, the youngest there!) at Accenture. This giant of flesh and bone (much like me) is a strict veggie and drinks non-alcoholic wine only (I tried it but ... ugh). 
+
+If you want to know anything, I mean anything at all, about western music, especially rock, jazz, instrumental, classical go to this guy! He is a huge encyclopedia of music. Everytime I meet with him, I end up getting introduced to new kinds of music. Off late, he is into John Mclaughlin, Sakthi, Mahavishnu Orchestra. 
+
+Thanks Koushik for the great lunch, and also the wonderful music you have introduced to me through all these years. If you want to get in touch with this guy, use the comments section. 
+
+##### **Dinesh 'SPB clone' Sivaraj **
+
+Another good friend, [![](/images/11032007134_thumb29.jpg)](http://shvelmur.com/images/wpress/Meetingoldfriends_A7BB/1103200713431.jpg)fed me dinner on Sunday. Dinesh is the god of all things in networking (atleast for me :) ). He has completed his CCIE qual, and is currently working at Juniper Advanced TAC. He is also a great singer/composer/arranger/ ohh a lot more! Great skill at mixing music using his Nuendo-enabled, JBL speakered-workstation. He has a stunner kid, Shaan. 
+
+I had a great time with you guys this weekend. Thanks for the yummy chicken you fed me! :) 
+
+He is a great guy in general (Dinesh, you have to give me more food, if you want more of this kind of praise&nbsp;:D). You can get in touch with this guy too, via the comments section. 
+
+P.S: If you are from ODC, please, I say, please, refrain from teasing dinesh (:x&gt; wink, wink)
+
+[![](/images/11032007133_thumb.jpg)](http://shvelmur.com/images/wpress/Meetingoldfriends_A7BB/110320071332.jpg) [![](/images/11032007135_thumb.jpg)](http://shvelmur.com/images/wpress/Meetingoldfriends_A7BB/110320071352.jpg) 
+
+More photos of Shaan, and his baap :)
+
+&nbsp;
+
+<div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:d792268d-2bdc-4c80-883c-936ace968ba1" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[tags]Dinesh, koushik, shaan, friends[/tags]</div>

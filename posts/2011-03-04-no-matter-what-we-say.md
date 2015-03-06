@@ -1,0 +1,30 @@
+---
+layout: post
+title: No matter what we say
+categories: []
+tags:
+- apple
+- Conan
+- iPad
+- iPad 2
+- iPad launch
+- parody
+- video
+published: true
+meta:
+  aktt_notify_twitter: 'no'
+  _edit_last: '1'
+  dsq_thread_id: '245611230'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+If you weren't in a hole the past few days, you would have heard about the iPad 2 launch. Here's Conan's take on it.
+
+<object id="ep" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="442" height="375"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://i.cdn.turner.com/tegwebapps/tbs/tbs-www/cvp/teamcoco_432x243_embed.swf?context=teamcoco_embed_offsite&amp;videoId=245467" /><param name="bgcolor" value="#000000" /><embed type="application/x-shockwave-flash" width="442" height="375" src="http://i.cdn.turner.com/tegwebapps/tbs/tbs-www/cvp/teamcoco_432x243_embed.swf?context=teamcoco_embed_offsite&amp;videoId=245467" bgcolor="#000000" allowfullscreen="true" allowscriptaccess="always"></embed></object>
+
+I must say, the cover is a thing of engineering beauty. Kudos on that, Apple, and thanks for screwing over several thousands of your iPad 1 customers, who forked up 9.5 Billion in revenue in 9 months.

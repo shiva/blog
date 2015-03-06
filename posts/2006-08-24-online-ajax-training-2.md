@@ -1,0 +1,18 @@
+---
+layout: post
+title: Online AJAX Training
+categories: []
+tags: []
+published: true
+meta:
+  tags: ''
+  _utw_tags_0: s:60:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:13:"short_updates";}}";
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+[10-week AJAX Training Course by Sang Shin](http://www.javapassion.com/ajaxcodecamp/index.html)

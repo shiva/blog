@@ -1,0 +1,68 @@
+---
+layout: post
+title: Some fun with the IPod's shuffle feature
+categories: []
+tags: []
+published: true
+meta:
+  _aktt_hash_meta: ''
+  _edit_last: '1'
+  aktt_notify_twitter: 'no'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+1. Put your mp3s on shuffle.  
+2. For each question, press the next button to get your answer.  
+3. Write the song name down no matter how silly it sounds.  
+4. Tag 10 people.   (I don&#39;t do this .. It&#39;s called spam)
+<p>01) someone says &#39;are you okay&#39; you say?  
+Cat stevens  - wild world (hmm... Note to self .. Delete that song!)
+<p>02) how would you describe yourself?  
+Julie Doiron - Consolation Prize
+<p>03) what do you like in a guy/girl?  
+ Notre Dame De Paris - Il Est Beau Comme Le Soleil
+<p>04) how do you feel today?  
+Brent Spiner - Dreamland - One More Time ( this is an awesome album, check it out)
+<p>05) what is your life&#39;s purpose?  
+Pink Martini - Sympathique - No Hay Problema
+<p> 06) what&#39;s your motto?  
+Eric Clapton - Crossroads - Double Trouble
+<p>07) what do your friends think of you?  
+Bryan Adams - 18 Til I Die - Summer Of 69
+<p>08) what do your parents think of you?  
+Jimi Hendrix - Bbc Sessions - Driving South
+<p> 9) what do you think about very often?  
+Coldplay - X &amp; Y - Til Kingdom Come
+<p>10) what is 2 + 2?  
+Ray Charles - Very Best Of Ray Charles - I&#39;Ve Got A Woman :)
+<p>11) what do you think of your best friend?  
+ Norah Jones - Come Away With Me - The Long Day Is Over
+<p>12) what is your life story?  
+Simon &amp; Garfunkel - Greatest Hits - Kathy&#39;S Song
+<p>13) what do you want to be when you grow up?  
+Genesis - Invisible Touch - Invisible Touch
+<p> 14) what do you think when you see the person you like?  
+Ray Charles - Very Best Of Ray Charles - Georgia On My Mind
+<p>15) what will you dance to at your wedding?  
+Def Leppard - Greatest Hits - Heaven Is (Uuggghhhh ...)
+<p> 16) what song will be played at your funeral?  
+Nsync - Bye Bye Bye (That was purrrfect)
+<p>17) what is your hobby/interest?  
+Eric Clapton - Crossroads - Better Make It Through Today
+<p>18) what is your biggest fear?  
+ Tracy Chapman - Matters Of The Heart - Bang Bang Bang
+<p>19) what is your biggest secret?  
+Bryan Adams - On A Day Like Today - When You&#39;Re Gone
+<p>20) what do you want right now?  
+Tracy Chapman - Tracy Chapman - Fast Car (Let&#39;S Make It A Ferrari)
+<p> 21) what do you think of your friends?  
+Edith Piaf - La Vie En Rose - Dans Ma Rue
+<p>22) what will you post this as?  
+Ilayaraja (tamil music composer) - Nilavu Thoogum Neram (time at which the moon sleeps) &lt;-- it&#39;s 10:20 pm though, as I write this
+<p style="font-size: 10px;">  [Posted via email](http://posterous.com)   from [shiva's posterous](http://shiva.posterous.com/some-fun-with-the-ipods-shuffle-feature)  
+</p></p></p></p></p></p></p></p></p></p></p>

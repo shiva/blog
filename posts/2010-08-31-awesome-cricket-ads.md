@@ -1,0 +1,35 @@
+---
+layout: post
+title: Awesome cricket ads
+categories: []
+tags:
+- adidas
+- ads
+- cricket
+- sport
+published: true
+meta:
+  aktt_notify_twitter: 'yes'
+  _edit_last: '1'
+  aktt_tweeted: '1'
+  _wp_old_slug: ''
+  dsq_thread_id: '135938601'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+Everything you need to know about cricket, in a series of awesome ads for Adidas.  
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500" height="405" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube-nocookie.com/v/WvfFz2f_vs4?fs=1&amp;hl=en_US&amp;rel=0&amp;border=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="500" height="405" src="http://www.youtube-nocookie.com/v/WvfFz2f_vs4?fs=1&amp;hl=en_US&amp;rel=0&amp;border=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500" height="405" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube-nocookie.com/v/hoIpURAXNOc?fs=1&amp;hl=en_US&amp;rel=0&amp;border=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="500" height="405" src="http://www.youtube-nocookie.com/v/hoIpURAXNOc?fs=1&amp;hl=en_US&amp;rel=0&amp;border=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500" height="405" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube-nocookie.com/v/4RG5joS8aPg?fs=1&amp;hl=en_US&amp;rel=0&amp;border=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="500" height="405" src="http://www.youtube-nocookie.com/v/4RG5joS8aPg?fs=1&amp;hl=en_US&amp;rel=0&amp;border=1" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+and let's see all of them mixed into one beautiful ad (that might make you want to watch this game, after all)
+
+<object width="500" height="405"><param name="movie" value="http://www.youtube-nocookie.com/v/QMNDJChLJ4I?fs=1&amp;hl=en_US&amp;rel=0&amp;border=1" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed src="http://www.youtube-nocookie.com/v/QMNDJChLJ4I?fs=1&amp;hl=en_US&amp;rel=0&amp;border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="405"></embed></object>

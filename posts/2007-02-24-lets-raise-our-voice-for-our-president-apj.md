@@ -1,0 +1,24 @@
+---
+layout: post
+title: Let’s raise our voice for our president APJ
+categories: []
+tags: []
+published: true
+meta:
+  _utw_tags_0: s:202:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:3:"APJ";}i:1;O:8:"stdClass":1:{s:3:"tag";s:8:"petition";}i:2;O:8:"stdClass":1:{s:3:"tag";s:9:"president";}i:3;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
+  _utw_tags_: s:202:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:3:"APJ";}i:1;O:8:"stdClass":1:{s:3:"tag";s:8:"petition";}i:2;O:8:"stdClass":1:{s:3:"tag";s:9:"president";}i:3;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+Dr. APJ Abdul Kalam, has been, by far, the best president that India has ever had (atleast in my humble opinion). More than that, he has been one of the greatest ambassador of India and its culture.
+
+He is the most energetic&nbsp;&nbsp;motivated I have known in my life. He is about to complete his term at the office of the President, and the following is a petition to extend his term at the helm of the country. I personally can't think of anyone who can do justice to that role, better than him. So please, let us join together and raise our voices, so that someone who has done the country a lot of good, can continue to do so.
+
+[http://www.petitiononline.com/apj/petition.html](http://www.petitiononline.com/apj/petition.html "http://www.petitiononline.com/apj/petition.html")
+
+<div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:1c2aba54-0c0e-4e46-8000-dc0bb5738f49" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[tags]APJ, president, petition[/tags]</div>

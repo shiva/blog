@@ -1,0 +1,24 @@
+---
+layout: post
+title: So many things to do and so little time
+categories: []
+tags: []
+published: true
+meta:
+  tags: ''
+  _utw_tags_0: s:57:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+It has just dawned on me that I have more work to do, that when I was employed. So many things to catch up on: emails, [orkut](http://orkut.com) messages, [linked-in](http://www.linkedin.com/profile?viewProfile=&amp;key=7072994) invites (ohh. [Kristopher Tate](http://www.linkedin.com/profile?viewProfile=&amp;key=5109233)&nbsp;is a contact now! Thanks Kris! :) ). 
+
+Talking of linked-in, the pressure from the ['opening-up'](http://mashable.com/2006/08/15/facebook-developers-launches-facebook-opening-up/) of [facebook](http://www.facebook.com/) is showing. Linked-in has added several new features and made interaction much easier than it was before. Things are where they should be; A free member can get in touch with someone they know directly. No need for any introductions if you know a person. (you don't need to know their mail id, either). Finally someone at Linked-in realized that they need to accelerate the rate at with the interconnections were formed between people. That's where the money is.
+
+I kinda like the Linked-in system. It is one of the most unobtrusive social-networking sites. It doesn't send me a mail for every single action someone does (by default) and also let's me turn stuff off! I like that in a site.
+
+<div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:80049972-44ce-4cf7-a670-0f2359715736" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [linked-in](http://technorati.com/tags/linked-in), [facebook](http://technorati.com/tags/facebook), [social networking](http://technorati.com/tags/social%20networking), [orkut](http://technorati.com/tags/orkut)</div>

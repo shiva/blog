@@ -1,0 +1,29 @@
+---
+layout: post
+title: Google Desktop Search Download
+categories: []
+tags: []
+published: true
+meta:
+  aktt_notify_twitter: 'no'
+  blogger_blog: shvelmur.blogspot.com
+  blogger_permalink: /2004/10/google-desktop-search-download.html
+  blogger_author: Shivanand Velmurugan
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+[Google Desktop Search Download](http://desktop.google.com/)
+
+Check it out!!! I love thee Google, "Lord of Search"!!  
+
+Really really neat way to access information. Very quick, a little scary considering that Google can go on to become the next MS! We the users of technology (particularly developers, testers etc) are going to have more exiciting times!!
+
+Google Desktop is a like have the Google search engine installed for searching your system. it indexes your system, and ofcourse it currently supports only Microsoft products, but hope that a few of the open source software liek thunderbird and firefox are also supported soon.
+
+<p>Looking for that file that you know is about something , but just can't remember where you put it on your system.. no probs, just load up a browser with GDesktop and it'll find it for you!
+<div class="blogger-post-footer">![](/images/7854873-109829720550643977?l=shvelmur.blogspot.com)</div>

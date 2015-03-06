@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'We Choose the Moon: Launch'
+categories: []
+tags:
+- Apollo
+- NASA
+- space travel
+published: true
+meta:
+  aktt_notify_twitter: 'no'
+  _aktt_hash_meta: ''
+  _edit_last: '1'
+  dsq_thread_id: '28279236'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+<div class="posterous_bookmarklet_entry"> <object type="application/x-shockwave-flash" height="180" data="http://o.aolcdn.com/moon/httpdocs/badge.swf" width="217" style=""><param name="allowFullScreen" value="false" /><param name="allowScriptAccess" value="all" /><param name="wmode" value="transparent" /><param name="bgcolor" value="#fffffff" /><param name="flashvars" value="airversion=1.5&amp;appname=To The Moon&amp;appurl=http://o.aolcdn.com/moon/httpdocs/facebook/WeChooseTheMoonWidget.air&amp;imageurl=http://o.aolcdn.com/moon/httpdocs/images/installcta.jpg" /></object>
+<div class="posterous_quote_citation">via [wechoosethemoon.org](http://www.wechoosethemoon.org/)</div>
+
+This is awesome. I was born a few years after the race to the moon. What a great time it would have been for all those that got to see/hear this live! In the four decades, life on earth has changed so much -- we've been de-sensitized to the miracle of flight and technology , and yet the spectacle of space travel is exhilarating as ever.
+
+</div>
+
+  [Posted via web](http://posterous.com)   from [shiva's posterous](http://shiva.posterous.com/we-choose-the-moon-launch)  

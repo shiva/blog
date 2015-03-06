@@ -1,0 +1,62 @@
+---
+layout: post
+title: Tuning Garbage Collection
+categories: []
+tags:
+- coding
+published: true
+meta:
+  tags: ''
+  _utw_tags_0: s:261:"a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:18:"garbage_collection";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"HOW-TO";}i:3;O:8:"stdClass":1:{s:3:"tag";s:4:"Java";}i:4;O:8:"stdClass":1:{s:3:"tag";s:13:"Tips-n-Tricks";}}";
+  _aktt_hash_meta: ''
+  aktt_notify_twitter: 'no'
+  _oembed_48f4a8f13d383e00659a58951b503931: '{{unknown}}'
+  _oembed_360c4bc3189e91c31c799eb19a1471e8: '{{unknown}}'
+  _oembed_a1df3792b360763b6285ec38dacf4eee: '{{unknown}}'
+  _oembed_84d7a3632c4f53a01f2ffdc465487c74: '{{unknown}}'
+  _oembed_8b3c03c0822b864bc09e7c3ce702b9ab: '{{unknown}}'
+  _oembed_a112bdad8c385015ebd300c3b803cfda: '{{unknown}}'
+  _oembed_fb7e4e155db6cfb14dba9682e3114897: '{{unknown}}'
+  _oembed_63ca6a1d0d2563b63efa1ce1c4097f2b: '{{unknown}}'
+  _oembed_98bbb19a719460803e34bf1ba36c4fb7: '{{unknown}}'
+  _oembed_3729015e9cf280874a9a9b26fa177ab3: '{{unknown}}'
+  _oembed_900fca0e3dd276d71f5413fd92920cae: '{{unknown}}'
+  _oembed_3e1e6321526155c39a32a84526b661ab: '{{unknown}}'
+  _oembed_9dd82a9d7f513d597bfffd0c92ce6225: '{{unknown}}'
+  _oembed_f6bf1e9df0bc120b0980aee946c9d667: '{{unknown}}'
+  _oembed_fe4bf15c75bda8b62a97c0f8da47e248: '{{unknown}}'
+  _oembed_c6d92112b7f3a075131fd6c51dd3a96c: '{{unknown}}'
+  _oembed_26a60c99f0e57e0ebc7cb01b9ebfd84d: '{{unknown}}'
+  _oembed_c3a5c0293e4c6923498038b5fda0624d: '{{unknown}}'
+  _oembed_ec2b762dec4cc7210b60eee85c8a52c1: '{{unknown}}'
+  _oembed_7d6590f38c2c3349907c49f4c313b728: '{{unknown}}'
+  _oembed_1aac2db8334f9f27dc606cdcbf789c79: '{{unknown}}'
+  _oembed_ec13650c8de382311eb2fca2aa662db7: '{{unknown}}'
+  _oembed_376b5b6eb8040ff3cf736c4bc0f38227: '{{unknown}}'
+  _oembed_d192f4bf3263774ad9f5479ddc2e218b: '{{unknown}}'
+  _oembed_96a18317c36b99a4f1b87b4301d54e21: '{{unknown}}'
+  _oembed_803ffe4e271adab416327e6578966593: '{{unknown}}'
+  _oembed_412ee12ece1670829bfd0b9b6aa20e23: '{{unknown}}'
+  _oembed_d3a2df1ce9e7128669a4a63491238672: '{{unknown}}'
+  _oembed_3c069fe5d6fbfc31a0e4bb4167037b69: '{{unknown}}'
+  _oembed_d9e1ff5fe76c6c600b40845363e7ba9f: '{{unknown}}'
+  _oembed_cba74950586c31e2a8a4b15338f331a5: '{{unknown}}'
+author:
+  login: admin
+  email: shiv@shiv.me
+  display_name: Shiva
+  first_name: Shiva
+  last_name: Velmurugan
+---
+
+The much talked about and often cursed part of Java development is Garbage Collection.
+
+I often say, _"Writing code in Java is easy, but writing good code is extremely hard"_
+
+I have listed a list of links at the end of this article that provides more detailed information.  
+
+Resources:  
+
+http://java.sun.com/docs/hotspot/gc1.4.2/index.html  
+
+http://java.sun.com/docs/hotspot/PerformanceFAQ.html#1
