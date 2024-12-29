@@ -1,0 +1,31 @@
+---
+title: 'Biting the "Mac" Bullet'
+tags:
+  - Mac
+  - Mac Book
+  - Mac OSX
+date: '2008-03-15'
+description: 'Biting the "Mac" Bullet'
+---
+
+I did it! I finally went out and bought myself a mac. I didn't waver. No! Not this time.Â I knew exactly what I wanted, and I was going to get it, come what may!
+
+I have to confess that I have been pretty [critical of Apple][0] and[its policies][1]. I still am. Nothing has changed my opinion of Apple as a company, in particular, it's marketing team. The ipod touch price changes lead me to those conclusions.I liked the ipod touch's interface and engineering, but when I first booted up my MacBook (Penryn-based) I was completely taken aback. The first time I booted my laptop, it was completely usable. Within a few hours, I had a few applications installed (open source ones), tweeted, seesmiced my first video, and was having fun, in general. The Mac experience was very very close to the ideal computing experience ever. (Yeah, it is that big a deal).
+
+It is not just the OS, it is the bunch of applications that come with the OS, and others that you can find online, that make that initial user-experience so good. Can you duplicate this experience on a PC running windows or Linux? Of course you can, it just takes a lot of effort, and every application looks and feel different (less so in the linux world) and that is the problem.
+
+The Mac presents a very cohesive user interface (different, but cohesive), that makes using the Mac a pleasure. For instance, I installed Textmate (on which I write this post). It is one of the best apps for OSX, but it doesn't waver from the basic UI guidelines of native OSX apps. That is its strength. All windows look very very similar, and the whole desktop looks a lot more integrated. There is a keyboard shortcut for pretty much every single thing. Having said all of this, there are some behavioral aspects of Mac that I think are counter-intutive.
+
+**The counter-intuitive Mac?!**
+
+Here are some things that piss me off.
+
+1. You can select text, using ctrl+shift+arrow,Â up toÂ the end orÂ beginningÂ of line, but you can't move to end or beginning of line, using ctrl+arrow (since it is mapped to move between spaces). Hmm... what will a normal user, use most?! move to beginning or end of line?! or move between work spaces?!
+2. In the notebook versions of the mac, there are no keys for pg up, pg dn, home, end. Although, these things have lost relevance in the modern day UI, there are still useful. You can use fn+arrows that do the same thing, but only when paging is involved. What else do you need them for , you ask? When I want to go to the beginning of a text field, that is highlighted, or to the end, I use the Home and End keys. That doesn't work on all text fields. Some textboxes in safari support it and some don'tI know these are minor, but I use them everytime, I use my laptop.
+3. Why do the applications minimize when I double click on them? (I know it's a windows thing, but I think it's more intuitive to double click to maximize, since I want a windowsÂ maximizedÂ only when I am paying attention to it, and usually as I read through an article, I double click and continue reading. Let me assure you, that it is far more useful to maximize the window on double click than minimize it. Why? I don't think people normally minimize windows they don't use, they just focus the windows they use. If you want to see the desktop, you would use "show desktop". I don't see "Minimize" needed that often as maximize. Also, in OS X, maximize = fit window to content. hmm.. that works for the web apps, but not so much for native apps. In any case, there ought to be some way to force an app to fill the screen. (No! Manually dragging an image to fit a 24" screen is not fun, and why I do that?! One word - Lightroom)
+
+I know I will get used to the quirks, but they still are exactly that - quirks that are forced on the user (like any other OS out there - to be fair).
+
+
+[0]: http://shvelmur.com/2008/01/29/that-queasy-feeling/
+[1]: http://shvelmur.com/2008/01/18/bye-bye-ipod/
