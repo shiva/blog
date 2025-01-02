@@ -1,0 +1,125 @@
+# config.toml
+# https://github.com/CrimsonRay/slender
+
+baseurl = "http://blog.shiv.me/"
+title = "Reflections"
+#MetaDataFormat = "yaml"
+paginate = 5
+#PaginatePath = "/"
+canonifyurls = true
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+#theme = "hugo-xmin"
+theme = "hugo-PaperMod"
+
+copyright = "Copyright 2007-2024 © Shivanand Velmurugan"
+footnotereturnlinkcontents="↩︎︎"
+staticDir = "content/static"
+
+[author]
+    name = "Shiva Velmurugan"
+    abstract = "I'm a product manager by day, and programmer by night. I am intrigued by abstraction, programming languages and organizing data."
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[permalinks]
+    # Permalink format for pages.
+    page = "/:title/"
+
+    # Permalink format for blog posts.
+    post = "/:year/:month/:day/:slug/"
+
+[params]
+
+    # Change the color scheme of Slender.
+    # See above for preview and list of color schemes.
+    colorscheme = "white"
+
+    # Title. Some themes like This
+    title = "shiv.me"
+
+    # Tagline; HTML accepted here. Keep it concise.
+    tagline = "rant, raves and ramblings of a compulsive programmer"
+
+    # Footer; Markdown accepted here.
+    footer = "Copyright 2016 &copy; Shivanand Velmurugan"
+
+    # Description and keywords for <meta> tags.
+    # Remember to set this for your main page.
+    # This will be overridden by whatever is set by the page or post,
+    # defined by `description` and `keywords` variables in the front matter
+    # of the markdown file.
+    description = "Default Page Description"
+    keywords = "programming, design, system engineering"
+
+    # Social links, must be full URLs (e.g. https://github.com/CrimsonRay/).
+    # Remove, comment, or leave blank any field to leave them out.
+    #email = "mailto:shiv@shiv.me"
+    github = "https://github.com/shiva"
+    bitbucket = "https://bitbucket.org/shiva/"
+    twitter = "https://twitter.com/shiva"
+    stackoverflow = "http://stackoverflow.com/users/11018/shiva"
+    linkedin = "https://ca.linkedin.com/in/vshivanand"
+    facebook = "https://www.facebook.com/shivanand"
+
+    # Google Analytics
+    # Remove, comment, or leave it blank if you don't have one.
+    ganalytics = "UA-5610776-2"
+    googleAnalytics = "UA-5610776-2"
+    disqusShortname = "shiva"
+
+    DateForm = "Mon, Jan 2, 2006"
+    Author = "Shiva Velmurugan"
+    email = "shiv@shiv.me"
+
+    #[params.logo]
+    #    url = "logo.png"
+    #    width = 50
+    #    height = 50
+    #    alt = "shiv.me"
+
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/shiva"
+[[params.social]]
+    title = "github"
+    url = "https://github.com/shiva"
+[[params.social]]
+    title = "facebook"
+    url = "https://www.facebook.com/shivanand"
+
+[menu]
+
+    [[menu.main]]
+        name = "About"
+        url = "http://shiv.me/#about"
+#    [[menu.main]]
+#        name = "GitHub"
+#        url = "http://github.com/shiva"
+#    [[menu.main]]
+#        name = "Twitter"
+#        url = "http://twitter.com/shiva"
+
+    # Menu for the nav bar. for lanyon
+    # There must always be one item present (e.g. home).
+#    [[menu.main]]
+#    identifier = "Home"
+#    name       = "Home"
+#    url        = "/"
+#    weight     = -200
+
+#
+#    [[menu.main]]
+#    name = "Archives"
+#    url = "/post/"
+#    weight = -180hideCopyright
+
+#    [[menu.main]]
+#    name = "Categories"
+#    url = "/categories/"
+#    weight = -180
+
