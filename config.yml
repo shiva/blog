@@ -4,7 +4,7 @@ baseURL: "http://blog.shiv.me/"
 title: Reflections
 copyright: "Copyright 2007-2024 © Shivanand Velmurugan"
 #paginate: 10
-pagination.pagerSize: 10
+pagination.pagerSize: 5
 theme: [hugo-PaperMod]
 
 enableInlineShortcodes: true
@@ -35,16 +35,22 @@ languages:
     menu:
       main:
         - name: Archive
-          url: posts/
+          url: archives/
           weight: 5
         - name: Search
           url: search/
           weight: 10
         - name: Tags
           url: tags/
-          weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+          weight: 15
+        #- name: Series
+        #  url: series/
+        #  weight: 20
+        - name: Projects
+          url: projects/
+          weight: 20
+        - name: Home
+          url: shiv.me
 #
 #  fr:
 #    languageName: ":fr:"
@@ -148,10 +154,22 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Reflections"
-    Content: 
-      I write about life, software, and their influence on each other. In 2017, my daughter was born. There was little to say, and lot to live, and
-      even more to learn. It's time to write again.
+    Title: "I am Shiva."
+    Content: "I write about life, software, and their influence on each other. In 2017, my daughter was born. There was little to say, a lot to live, and
+      even more to learn. However, it is now 7 years later. It's 2025: time to write again."
+#  Much like the stoics of the past, I aspire to live to these words from [Nirvana Shatakam](https://shlokam.org/nirvanashatakam/).<br>
+#  
+#  न मे द्वेष रागौ न मे लोभ मोहौ<br>
+#  न मे वै मदो नैव मात्सर्य भावः।<br>
+#  न धर्मो न चार्थो न कामो न मोक्षः<br>
+#  चिदानन्द रूपः शिवोऽहम् शिवोऽहम्।<br>
+#  which translates to <br>
+#  *Neither do harbor hatred nor passion, no greed or delusion,<br>
+#  Neither do I take pride, nor do I pursue jealousy,<br>
+#  I not bound by dharma (righteousness), artha (wealth), kama (desire) and moksha (liberation),<br>
+#  I am Shiva, the form of consciousness and bliss, <br>
+#  I am Shiva (that which is not)*<br><br>
+#  
 
   socialIcons:
     - name: github
@@ -165,7 +183,7 @@ params:
       url: "https://ko-fi.com/shivanand"
 
   editPost:
-    URL: "https://github.com/shiva/blog/tree/content"
+    URL: "https://github.com/shiva/blog/tree/master/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
