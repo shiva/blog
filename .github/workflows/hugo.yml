@@ -58,3 +58,4 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
+          cname: blog.shiv.me
