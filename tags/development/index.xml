@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Development on Reflections</title>
+    <link>http://blog.shiv.me/tags/development/</link>
+    <description>Recent content in Development on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Tue, 08 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Badly punctuated parameter list in #define</title>
+      <link>http://blog.shiv.me/posts/2011/badly-punctuated-parameter-list/</link>
+      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/badly-punctuated-parameter-list/</guid>
+      <description>Badly punctuated parameter list in #define</description>
+    </item>
+    <item>
+      <title>Unsigned Arithmetic</title>
+      <link>http://blog.shiv.me/posts/2010/2010-08-23-unsigned-arithmetic/</link>
+      <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2010/2010-08-23-unsigned-arithmetic/</guid>
+      <description>Unsigned Arithmetic</description>
+    </item>
+    <item>
+      <title>cvs - Getting list of files changed in the current tree</title>
+      <link>http://blog.shiv.me/posts/2008/2008-06-23-cvs-getting-list-of-files-changed-in-the-current-tree/</link>
+      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-06-23-cvs-getting-list-of-files-changed-in-the-current-tree/</guid>
+      <description>cvs - Getting list of files changed in the current tree</description>
+    </item>
+    <item>
+      <title>EX-SideRSS</title>
+      <link>http://blog.shiv.me/posts/2007/2007-10-01-ex-siderss/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-10-01-ex-siderss/</guid>
+      <description>EX-SideRSS</description>
+    </item>
+    <item>
+      <title>Common Access Portal</title>
+      <link>http://blog.shiv.me/posts/2007/2007-01-20-common-access-portal/</link>
+      <pubDate>Sat, 20 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-01-20-common-access-portal/</guid>
+      <description>Common Access Portal</description>
+    </item>
+  </channel>
+</rss>

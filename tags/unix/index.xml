@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Unix on Reflections</title>
+    <link>http://blog.shiv.me/tags/unix/</link>
+    <description>Recent content in Unix on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Mon, 31 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting git status on multiple directories</title>
+      <link>http://blog.shiv.me/posts/2014/2014-03-31-git-status-multiple-directories/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2014/2014-03-31-git-status-multiple-directories/</guid>
+      <description>Getting git status on multiple directories</description>
+    </item>
+    <item>
+      <title>Working with rpms (extract, list contents)</title>
+      <link>http://blog.shiv.me/posts/2013/2013-02-17-work-with-rpms/</link>
+      <pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2013/2013-02-17-work-with-rpms/</guid>
+      <description>Working with rpms (extract, list contents)</description>
+    </item>
+    <item>
+      <title>More unix goodness</title>
+      <link>http://blog.shiv.me/posts/2012/2012-05-21-more-nix-goodness/</link>
+      <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2012/2012-05-21-more-nix-goodness/</guid>
+      <description>More unix goodness</description>
+    </item>
+    <item>
+      <title>Life in the BASH universe</title>
+      <link>http://blog.shiv.me/posts/2011/2011-08-28-life-in-the-bash-universe/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-08-28-life-in-the-bash-universe/</guid>
+      <description>Life in the BASH universe</description>
+    </item>
+    <item>
+      <title>Exporting XDisplay</title>
+      <link>http://blog.shiv.me/posts/2011/2011-06-21-exporting-xdisplay/</link>
+      <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-06-21-exporting-xdisplay/</guid>
+      <description>Exporting XDisplay</description>
+    </item>
+    <item>
+      <title>Job Control on \*NIX systems</title>
+      <link>http://blog.shiv.me/posts/2011/2011-01-31-job-control-on-nix-systems/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-01-31-job-control-on-nix-systems/</guid>
+      <description>Job Control on \*NIX systems</description>
+    </item>
+    <item>
+      <title>Unix: removing duplicates from a file</title>
+      <link>http://blog.shiv.me/posts/2008/2008-09-09-unix-removing-duplicates-from-a-file/</link>
+      <pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-09-09-unix-removing-duplicates-from-a-file/</guid>
+      <description>Unix: removing duplicates from a file</description>
+    </item>
+    <item>
+      <title>cvs - Getting list of files changed in the current tree</title>
+      <link>http://blog.shiv.me/posts/2008/2008-06-23-cvs-getting-list-of-files-changed-in-the-current-tree/</link>
+      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-06-23-cvs-getting-list-of-files-changed-in-the-current-tree/</guid>
+      <description>cvs - Getting list of files changed in the current tree</description>
+    </item>
+    <item>
+      <title>Unix: how to check system configuration on solaris</title>
+      <link>http://blog.shiv.me/posts/2007/2007-09-08-unix-how-to-check-system-configuration-on-solaris/</link>
+      <pubDate>Sat, 08 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-09-08-unix-how-to-check-system-configuration-on-solaris/</guid>
+      <description>Unix: how to check system configuration on solaris</description>
+    </item>
+  </channel>
+</rss>

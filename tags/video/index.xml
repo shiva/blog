@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Video on Reflections</title>
+    <link>http://blog.shiv.me/tags/video/</link>
+    <description>Recent content in Video on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Thu, 02 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2013 on twitter - a recap</title>
+      <link>http://blog.shiv.me/posts/2014/2014-01-02-2013-on-twitter-a-recap/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2014/2014-01-02-2013-on-twitter-a-recap/</guid>
+      <description>2013 on twitter - a recap</description>
+    </item>
+    <item>
+      <title>Cthulhu is your god</title>
+      <link>http://blog.shiv.me/posts/2011/2011-03-21-cthulhu-is-your-god/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-03-21-cthulhu-is-your-god/</guid>
+      <description>Cthulhu is your god</description>
+    </item>
+    <item>
+      <title>To the people of Japan</title>
+      <link>http://blog.shiv.me/posts/2011/2011-03-16-to-the-people-of-japan/</link>
+      <pubDate>Wed, 16 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-03-16-to-the-people-of-japan/</guid>
+      <description>To the people of Japan</description>
+    </item>
+    <item>
+      <title>No matter what we say</title>
+      <link>http://blog.shiv.me/posts/2011/2011-03-04-no-matter-what-we-say/</link>
+      <pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-03-04-no-matter-what-we-say/</guid>
+      <description>No matter what we say</description>
+    </item>
+    <item>
+      <title>Impersonations</title>
+      <link>http://blog.shiv.me/posts/2011/2011-01-13-impersonations/</link>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-01-13-impersonations/</guid>
+      <description>Impersonations</description>
+    </item>
+    <item>
+      <title>Music from DMU</title>
+      <link>http://blog.shiv.me/posts/2011/2011-01-11-music-from-dmu/</link>
+      <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-01-11-music-from-dmu/</guid>
+      <description>Music from DMU</description>
+    </item>
+    <item>
+      <title>Latest Communication Technologies</title>
+      <link>http://blog.shiv.me/posts/2009/2009-03-06-latest-communication-tech/</link>
+      <pubDate>Fri, 06 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2009/2009-03-06-latest-communication-tech/</guid>
+      <description>Latest Communication Technologies</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>How To on Reflections</title>
+    <link>http://blog.shiv.me/tags/how-to/</link>
+    <description>Recent content in How To on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Sun, 10 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use Linux, learn new things</title>
+      <link>http://blog.shiv.me/posts/2016/use-linux-learn-new-things/</link>
+      <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2016/use-linux-learn-new-things/</guid>
+      <description>Use Linux. It encourages learning new things, and new ways to do old things</description>
+    </item>
+    <item>
+      <title>Exporting XDisplay</title>
+      <link>http://blog.shiv.me/posts/2011/2011-06-21-exporting-xdisplay/</link>
+      <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-06-21-exporting-xdisplay/</guid>
+      <description>Exporting XDisplay</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wordpress Plugins on Reflections</title>
+    <link>http://blog.shiv.me/tags/wordpress-plugins/</link>
+    <description>Recent content in Wordpress Plugins on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Fri, 27 Jun 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/wordpress-plugins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Friendfeed comments for wordpress</title>
+      <link>http://blog.shiv.me/posts/2008/2008-06-27-friendfeed-comments-for-wordpress/</link>
+      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-06-27-friendfeed-comments-for-wordpress/</guid>
+      <description>Friendfeed comments for wordpress</description>
+    </item>
+    <item>
+      <title>Ipod touch/Iphone support</title>
+      <link>http://blog.shiv.me/posts/2008/2008-01-15-ipod-touchiphone-support/</link>
+      <pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-01-15-ipod-touchiphone-support/</guid>
+      <description>Ipod touch/Iphone support</description>
+    </item>
+  </channel>
+</rss>

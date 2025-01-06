@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IPad on Reflections</title>
+    <link>http://blog.shiv.me/tags/ipad/</link>
+    <description>Recent content in IPad on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Sun, 01 May 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/ipad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iPad and friends</title>
+      <link>http://blog.shiv.me/posts/2011/2011-05-01-ipad-and-friends/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-05-01-ipad-and-friends/</guid>
+      <description>iPad and friends</description>
+    </item>
+    <item>
+      <title>Blogsy - a ray of hope</title>
+      <link>http://blog.shiv.me/posts/2011/2011-04-23-blogsy-a-ray-of-hope/</link>
+      <pubDate>Sat, 23 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-04-23-blogsy-a-ray-of-hope/</guid>
+      <description>Blogsy - a ray of hope</description>
+    </item>
+    <item>
+      <title>No matter what we say</title>
+      <link>http://blog.shiv.me/posts/2011/2011-03-04-no-matter-what-we-say/</link>
+      <pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-03-04-no-matter-what-we-say/</guid>
+      <description>No matter what we say</description>
+    </item>
+    <item>
+      <title>iCaved</title>
+      <link>http://blog.shiv.me/posts/2010/2010-05-29-icaved/</link>
+      <pubDate>Sat, 29 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2010/2010-05-29-icaved/</guid>
+      <description>iCaved</description>
+    </item>
+    <item>
+      <title>The day-after the &#34;big&#34; day</title>
+      <link>http://blog.shiv.me/posts/2010/2010-05-14-the-day-after-the-big-day/</link>
+      <pubDate>Fri, 14 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2010/2010-05-14-the-day-after-the-big-day/</guid>
+      <description>The day-after the &amp;#34;big&amp;#34; day</description>
+    </item>
+    <item>
+      <title>iPad is iBad petition</title>
+      <link>http://blog.shiv.me/posts/2010/2010-02-04-ipad-is-ibad-petition/</link>
+      <pubDate>Thu, 04 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2010/2010-02-04-ipad-is-ibad-petition/</guid>
+      <description>iPad is iBad petition</description>
+    </item>
+  </channel>
+</rss>

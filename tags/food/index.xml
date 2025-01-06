@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Food on Reflections</title>
+    <link>http://blog.shiv.me/tags/food/</link>
+    <description>Recent content in Food on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Mon, 14 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A weekend of culinary delights</title>
+      <link>http://blog.shiv.me/posts/2013/2013-01-14-culinary-delights/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2013/2013-01-14-culinary-delights/</guid>
+      <description>A weekend of culinary delights</description>
+    </item>
+    <item>
+      <title>Two-factor authentication and spicy salmon sashimi don</title>
+      <link>http://blog.shiv.me/posts/2012/2012-08-23-two-factor-authentication-and-spicy-salmon-sashimi-don/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2012/2012-08-23-two-factor-authentication-and-spicy-salmon-sashimi-don/</guid>
+      <description>Two-factor authentication and spicy salmon sashimi don</description>
+    </item>
+    <item>
+      <title>Tandoori spiced fish with cucumber</title>
+      <link>http://blog.shiv.me/posts/2008/2008-09-25-tandoori-spiced-fish-with-cucumber/</link>
+      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-09-25-tandoori-spiced-fish-with-cucumber/</guid>
+      <description>Tandoori spiced fish with cucumber</description>
+    </item>
+  </channel>
+</rss>

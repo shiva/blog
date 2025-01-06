@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Review on Reflections</title>
+    <link>http://blog.shiv.me/tags/review/</link>
+    <description>Recent content in Review on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Sun, 01 May 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iPad and friends</title>
+      <link>http://blog.shiv.me/posts/2011/2011-05-01-ipad-and-friends/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-05-01-ipad-and-friends/</guid>
+      <description>iPad and friends</description>
+    </item>
+    <item>
+      <title>iCaved</title>
+      <link>http://blog.shiv.me/posts/2010/2010-05-29-icaved/</link>
+      <pubDate>Sat, 29 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2010/2010-05-29-icaved/</guid>
+      <description>iCaved</description>
+    </item>
+    <item>
+      <title>OPML Editor as a wordpress editor</title>
+      <link>http://blog.shiv.me/posts/2010/2010-03-24-opml-editor-as-a-wordpress-editor/</link>
+      <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2010/2010-03-24-opml-editor-as-a-wordpress-editor/</guid>
+      <description>OPML Editor as a wordpress editor</description>
+    </item>
+    <item>
+      <title>Guess what I&#39;m getting in a week or two?!</title>
+      <link>http://blog.shiv.me/posts/2009/2009-10-14-guess-what-im-getting-in-a-week-or-two/</link>
+      <pubDate>Wed, 14 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2009/2009-10-14-guess-what-im-getting-in-a-week-or-two/</guid>
+      <description>Guess what I&amp;#39;m getting in a week or two?!</description>
+    </item>
+    <item>
+      <title>In the browser lies the power - Wave 2 of the Google takeover</title>
+      <link>http://blog.shiv.me/posts/2008/2008-09-02-in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-09-02-in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</guid>
+      <description>In the browser lies the power - Wave 2 of the Google takeover</description>
+    </item>
+    <item>
+      <title>A web based writer for writing to a blog?!</title>
+      <link>http://blog.shiv.me/posts/2008/2008-06-04-a-web-based-writer-for-writing-to-a-blog/</link>
+      <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-06-04-a-web-based-writer-for-writing-to-a-blog/</guid>
+      <description>A web based writer for writing to a blog?!</description>
+    </item>
+    <item>
+      <title>Jott - a voice-based blog client!</title>
+      <link>http://blog.shiv.me/posts/2008/2008-04-09-well-this-is-a-first/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-04-09-well-this-is-a-first/</guid>
+      <description>Jott - a voice-based blog client!</description>
+    </item>
+  </channel>
+</rss>

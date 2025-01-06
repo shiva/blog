@@ -1,0 +1,3371 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Reflections</title>
+    <link>http://blog.shiv.me/tags/</link>
+    <description>Recent content in Tags on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Language</title>
+      <link>http://blog.shiv.me/tags/language/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Object Definition</title>
+      <link>http://blog.shiv.me/tags/object-definition/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/object-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://blog.shiv.me/tags/programming/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://blog.shiv.me/tags/projects/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SODL</title>
+      <link>http://blog.shiv.me/tags/sodl/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/sodl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goals</title>
+      <link>http://blog.shiv.me/tags/goals/</link>
+      <pubDate>Sat, 31 Dec 2016 20:32:53 -0800</pubDate>
+      <guid>http://blog.shiv.me/tags/goals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bash Aliases</title>
+      <link>http://blog.shiv.me/tags/bash-aliases/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/bash-aliases/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cscope</title>
+      <link>http://blog.shiv.me/tags/cscope/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/cscope/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ctags</title>
+      <link>http://blog.shiv.me/tags/ctags/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ctags/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elixir</title>
+      <link>http://blog.shiv.me/tags/elixir/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/elixir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>http://blog.shiv.me/tags/git/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://blog.shiv.me/tags/linux/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>http://blog.shiv.me/tags/notes/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>http://blog.shiv.me/tags/tutorial/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vim</title>
+      <link>http://blog.shiv.me/tags/vim/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/vim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arch Linux</title>
+      <link>http://blog.shiv.me/tags/arch-linux/</link>
+      <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/arch-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How To</title>
+      <link>http://blog.shiv.me/tags/how-to/</link>
+      <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/how-to/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KDE</title>
+      <link>http://blog.shiv.me/tags/kde/</link>
+      <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/kde/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>http://blog.shiv.me/tags/learning/</link>
+      <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hexo</title>
+      <link>http://blog.shiv.me/tags/hexo/</link>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/hexo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://blog.shiv.me/tags/hugo/</link>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jekyll</title>
+      <link>http://blog.shiv.me/tags/jekyll/</link>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reviews</title>
+      <link>http://blog.shiv.me/tags/reviews/</link>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/reviews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static Site Generators</title>
+      <link>http://blog.shiv.me/tags/static-site-generators/</link>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/static-site-generators/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Authentication</title>
+      <link>http://blog.shiv.me/tags/authentication/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/authentication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Identity</title>
+      <link>http://blog.shiv.me/tags/identity/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/identity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OAuth</title>
+      <link>http://blog.shiv.me/tags/oauth/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/oauth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OAuth 2.0</title>
+      <link>http://blog.shiv.me/tags/oauth-2.0/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/oauth-2.0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Password</title>
+      <link>http://blog.shiv.me/tags/password/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/password/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Passwords</title>
+      <link>http://blog.shiv.me/tags/passwords/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/passwords/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://blog.shiv.me/tags/security/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bogwood Pens</title>
+      <link>http://blog.shiv.me/tags/bogwood-pens/</link>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/bogwood-pens/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Custom Pen</title>
+      <link>http://blog.shiv.me/tags/custom-pen/</link>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/custom-pen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ink Rotation</title>
+      <link>http://blog.shiv.me/tags/ink-rotation/</link>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ink-rotation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inks</title>
+      <link>http://blog.shiv.me/tags/inks/</link>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/inks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parker</title>
+      <link>http://blog.shiv.me/tags/parker/</link>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/parker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parker 51</title>
+      <link>http://blog.shiv.me/tags/parker-51/</link>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/parker-51/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pens</title>
+      <link>http://blog.shiv.me/tags/pens/</link>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/pens/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bash</title>
+      <link>http://blog.shiv.me/tags/bash/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/bash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unix</title>
+      <link>http://blog.shiv.me/tags/unix/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/unix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unix Commands</title>
+      <link>http://blog.shiv.me/tags/unix-commands/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/unix-commands/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Invewrapper</title>
+      <link>http://blog.shiv.me/tags/invewrapper/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/invewrapper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pew</title>
+      <link>http://blog.shiv.me/tags/pew/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/pew/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pip</title>
+      <link>http://blog.shiv.me/tags/pip/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/pip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://blog.shiv.me/tags/python/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Setuptools</title>
+      <link>http://blog.shiv.me/tags/setuptools/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/setuptools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtualenv</title>
+      <link>http://blog.shiv.me/tags/virtualenv/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/virtualenv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>http://blog.shiv.me/tags/links/</link>
+      <pubDate>Mon, 27 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/links/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Weekend</title>
+      <link>http://blog.shiv.me/tags/weekend/</link>
+      <pubDate>Mon, 27 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/weekend/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recap</title>
+      <link>http://blog.shiv.me/tags/recap/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/recap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Twitter</title>
+      <link>http://blog.shiv.me/tags/twitter/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/twitter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video</title>
+      <link>http://blog.shiv.me/tags/video/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/video/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vizify</title>
+      <link>http://blog.shiv.me/tags/vizify/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/vizify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fail</title>
+      <link>http://blog.shiv.me/tags/fail/</link>
+      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/fail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft</title>
+      <link>http://blog.shiv.me/tags/microsoft/</link>
+      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Netbooks</title>
+      <link>http://blog.shiv.me/tags/netbooks/</link>
+      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/netbooks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apple</title>
+      <link>http://blog.shiv.me/tags/apple/</link>
+      <pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/apple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Care</title>
+      <link>http://blog.shiv.me/tags/care/</link>
+      <pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/care/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Customer Relationship</title>
+      <link>http://blog.shiv.me/tags/customer-relationship/</link>
+      <pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/customer-relationship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tumblr</title>
+      <link>http://blog.shiv.me/tags/tumblr/</link>
+      <pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/tumblr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Esterbrook</title>
+      <link>http://blog.shiv.me/tags/esterbrook/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/esterbrook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fountain Pens</title>
+      <link>http://blog.shiv.me/tags/fountain-pens/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/fountain-pens/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hero</title>
+      <link>http://blog.shiv.me/tags/hero/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/hero/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobby</title>
+      <link>http://blog.shiv.me/tags/hobby/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/hobby/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ink</title>
+      <link>http://blog.shiv.me/tags/ink/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lamy</title>
+      <link>http://blog.shiv.me/tags/lamy/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/lamy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Obsessions</title>
+      <link>http://blog.shiv.me/tags/obsessions/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/obsessions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oliver</title>
+      <link>http://blog.shiv.me/tags/oliver/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/oliver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shaeffer</title>
+      <link>http://blog.shiv.me/tags/shaeffer/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/shaeffer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Airplane Seat</title>
+      <link>http://blog.shiv.me/tags/airplane-seat/</link>
+      <pubDate>Wed, 13 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/airplane-seat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First World Problems</title>
+      <link>http://blog.shiv.me/tags/first-world-problems/</link>
+      <pubDate>Wed, 13 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/first-world-problems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reclining Seats</title>
+      <link>http://blog.shiv.me/tags/reclining-seats/</link>
+      <pubDate>Wed, 13 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/reclining-seats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Extract Rpm</title>
+      <link>http://blog.shiv.me/tags/extract-rpm/</link>
+      <pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/extract-rpm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>List Contents</title>
+      <link>http://blog.shiv.me/tags/list-contents/</link>
+      <pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/list-contents/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>List Contents of Rpm</title>
+      <link>http://blog.shiv.me/tags/list-contents-of-rpm/</link>
+      <pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/list-contents-of-rpm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rpm</title>
+      <link>http://blog.shiv.me/tags/rpm/</link>
+      <pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/rpm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cassoulet</title>
+      <link>http://blog.shiv.me/tags/cassoulet/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/cassoulet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Food</title>
+      <link>http://blog.shiv.me/tags/food/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Bites</title>
+      <link>http://blog.shiv.me/tags/social-bites/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/social-bites/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Whiskey</title>
+      <link>http://blog.shiv.me/tags/whiskey/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/whiskey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wontons</title>
+      <link>http://blog.shiv.me/tags/wontons/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/wontons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alias</title>
+      <link>http://blog.shiv.me/tags/alias/</link>
+      <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/alias/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Files in a Commit</title>
+      <link>http://blog.shiv.me/tags/files-in-a-commit/</link>
+      <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/files-in-a-commit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git Log</title>
+      <link>http://blog.shiv.me/tags/git-log/</link>
+      <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/git-log/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git Show</title>
+      <link>http://blog.shiv.me/tags/git-show/</link>
+      <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/git-show/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salmon</title>
+      <link>http://blog.shiv.me/tags/salmon/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/salmon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sashimi</title>
+      <link>http://blog.shiv.me/tags/sashimi/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/sashimi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Two-Factor Authentication</title>
+      <link>http://blog.shiv.me/tags/two-factor-authentication/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/two-factor-authentication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>http://blog.shiv.me/tags/github/</link>
+      <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Identity File</title>
+      <link>http://blog.shiv.me/tags/identity-file/</link>
+      <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/identity-file/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keys</title>
+      <link>http://blog.shiv.me/tags/keys/</link>
+      <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/keys/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rsa</title>
+      <link>http://blog.shiv.me/tags/rsa/</link>
+      <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/rsa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssh</title>
+      <link>http://blog.shiv.me/tags/ssh/</link>
+      <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ssh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssh Keys</title>
+      <link>http://blog.shiv.me/tags/ssh-keys/</link>
+      <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ssh-keys/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssh Profiles</title>
+      <link>http://blog.shiv.me/tags/ssh-profiles/</link>
+      <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ssh-profiles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BMI</title>
+      <link>http://blog.shiv.me/tags/bmi/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/bmi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Weight</title>
+      <link>http://blog.shiv.me/tags/weight/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/weight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>http://blog.shiv.me/tags/coding/</link>
+      <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HAML</title>
+      <link>http://blog.shiv.me/tags/haml/</link>
+      <pubDate>Sun, 20 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/haml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ruby</title>
+      <link>http://blog.shiv.me/tags/ruby/</link>
+      <pubDate>Sun, 20 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ruby/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Site</title>
+      <link>http://blog.shiv.me/tags/site/</link>
+      <pubDate>Sun, 20 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/site/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Site-Gen</title>
+      <link>http://blog.shiv.me/tags/site-gen/</link>
+      <pubDate>Sun, 20 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/site-gen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stasis</title>
+      <link>http://blog.shiv.me/tags/stasis/</link>
+      <pubDate>Sun, 20 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/stasis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Note-to-Self</title>
+      <link>http://blog.shiv.me/tags/note-to-self/</link>
+      <pubDate>Wed, 08 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/note-to-self/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wine</title>
+      <link>http://blog.shiv.me/tags/wine/</link>
+      <pubDate>Wed, 08 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/wine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Scarcity</title>
+      <link>http://blog.shiv.me/tags/artificial-scarcity/</link>
+      <pubDate>Mon, 16 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/artificial-scarcity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Creative Content</title>
+      <link>http://blog.shiv.me/tags/creative-content/</link>
+      <pubDate>Mon, 16 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/creative-content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://blog.shiv.me/tags/music/</link>
+      <pubDate>Mon, 16 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Piracy</title>
+      <link>http://blog.shiv.me/tags/piracy/</link>
+      <pubDate>Mon, 16 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/piracy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scarcity</title>
+      <link>http://blog.shiv.me/tags/scarcity/</link>
+      <pubDate>Mon, 16 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/scarcity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prawn</title>
+      <link>http://blog.shiv.me/tags/prawn/</link>
+      <pubDate>Wed, 14 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/prawn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prawn Curry</title>
+      <link>http://blog.shiv.me/tags/prawn-curry/</link>
+      <pubDate>Wed, 14 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/prawn-curry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prawns</title>
+      <link>http://blog.shiv.me/tags/prawns/</link>
+      <pubDate>Wed, 14 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/prawns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recipe</title>
+      <link>http://blog.shiv.me/tags/recipe/</link>
+      <pubDate>Wed, 14 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/recipe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mom</title>
+      <link>http://blog.shiv.me/tags/mom/</link>
+      <pubDate>Fri, 02 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/mom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poem</title>
+      <link>http://blog.shiv.me/tags/poem/</link>
+      <pubDate>Fri, 02 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/poem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tamil</title>
+      <link>http://blog.shiv.me/tags/tamil/</link>
+      <pubDate>Fri, 02 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/tamil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bach</title>
+      <link>http://blog.shiv.me/tags/bach/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/bach/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brandenburg Concertos</title>
+      <link>http://blog.shiv.me/tags/brandenburg-concertos/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/brandenburg-concertos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BWV 1046</title>
+      <link>http://blog.shiv.me/tags/bwv-1046/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/bwv-1046/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hearing</title>
+      <link>http://blog.shiv.me/tags/hearing/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/hearing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poem Tagore Poetry</title>
+      <link>http://blog.shiv.me/tags/poem-tagore-poetry/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/poem-tagore-poetry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ted Talks</title>
+      <link>http://blog.shiv.me/tags/ted-talks/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ted-talks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flickr</title>
+      <link>http://blog.shiv.me/tags/flickr/</link>
+      <pubDate>Tue, 29 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/flickr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>http://blog.shiv.me/tags/gallery/</link>
+      <pubDate>Tue, 29 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/gallery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photography</title>
+      <link>http://blog.shiv.me/tags/photography/</link>
+      <pubDate>Tue, 29 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/photography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rain</title>
+      <link>http://blog.shiv.me/tags/rain/</link>
+      <pubDate>Tue, 29 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/rain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vancouver</title>
+      <link>http://blog.shiv.me/tags/vancouver/</link>
+      <pubDate>Tue, 29 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/vancouver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movies</title>
+      <link>http://blog.shiv.me/tags/movies/</link>
+      <pubDate>Sun, 27 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/movies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quotes</title>
+      <link>http://blog.shiv.me/tags/quotes/</link>
+      <pubDate>Sun, 27 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/quotes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Green Mile</title>
+      <link>http://blog.shiv.me/tags/the-green-mile/</link>
+      <pubDate>Sun, 27 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/the-green-mile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Badly Punctuated Parameter List</title>
+      <link>http://blog.shiv.me/tags/badly-punctuated-parameter-list/</link>
+      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/badly-punctuated-parameter-list/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>http://blog.shiv.me/tags/code/</link>
+      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compiler Issues</title>
+      <link>http://blog.shiv.me/tags/compiler-issues/</link>
+      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/compiler-issues/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://blog.shiv.me/tags/development/</link>
+      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gcc</title>
+      <link>http://blog.shiv.me/tags/gcc/</link>
+      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/gcc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pre-Processor</title>
+      <link>http://blog.shiv.me/tags/pre-processor/</link>
+      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/pre-processor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eulogy</title>
+      <link>http://blog.shiv.me/tags/eulogy/</link>
+      <pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/eulogy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gastown</title>
+      <link>http://blog.shiv.me/tags/gastown/</link>
+      <pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/gastown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photowalk</title>
+      <link>http://blog.shiv.me/tags/photowalk/</link>
+      <pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/photowalk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RIP</title>
+      <link>http://blog.shiv.me/tags/rip/</link>
+      <pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/rip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Steve Jobs</title>
+      <link>http://blog.shiv.me/tags/steve-jobs/</link>
+      <pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/steve-jobs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Worldwide Photowalk</title>
+      <link>http://blog.shiv.me/tags/worldwide-photowalk/</link>
+      <pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/worldwide-photowalk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WWPW</title>
+      <link>http://blog.shiv.me/tags/wwpw/</link>
+      <pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/wwpw/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WWPW4</title>
+      <link>http://blog.shiv.me/tags/wwpw4/</link>
+      <pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/wwpw4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>http://blog.shiv.me/tags/books/</link>
+      <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Programming Interface</title>
+      <link>http://blog.shiv.me/tags/linux-programming-interface/</link>
+      <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/linux-programming-interface/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Burn DVD</title>
+      <link>http://blog.shiv.me/tags/burn-dvd/</link>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/burn-dvd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Install Disc</title>
+      <link>http://blog.shiv.me/tags/install-disc/</link>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/install-disc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Install Disk</title>
+      <link>http://blog.shiv.me/tags/install-disk/</link>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/install-disk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lion</title>
+      <link>http://blog.shiv.me/tags/lion/</link>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/lion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSX</title>
+      <link>http://blog.shiv.me/tags/osx/</link>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/osx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSX Lion</title>
+      <link>http://blog.shiv.me/tags/osx-lion/</link>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/osx-lion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>10 Reasons</title>
+      <link>http://blog.shiv.me/tags/10-reasons/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/10-reasons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Countdown</title>
+      <link>http://blog.shiv.me/tags/countdown/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/countdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debug</title>
+      <link>http://blog.shiv.me/tags/debug/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/debug/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Echo</title>
+      <link>http://blog.shiv.me/tags/echo/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/echo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Facebook</title>
+      <link>http://blog.shiv.me/tags/facebook/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/facebook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>G&#43;</title>
+      <link>http://blog.shiv.me/tags/g&#43;/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/g&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>http://blog.shiv.me/tags/google/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Plus</title>
+      <link>http://blog.shiv.me/tags/google-plus/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/google-plus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plus</title>
+      <link>http://blog.shiv.me/tags/plus/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/plus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Same Line</title>
+      <link>http://blog.shiv.me/tags/same-line/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/same-line/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scripting</title>
+      <link>http://blog.shiv.me/tags/scripting/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/scripting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shell</title>
+      <link>http://blog.shiv.me/tags/shell/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/shell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shell Scripting</title>
+      <link>http://blog.shiv.me/tags/shell-scripting/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/shell-scripting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Why</title>
+      <link>http://blog.shiv.me/tags/why/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/why/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>People of GVRD</title>
+      <link>http://blog.shiv.me/tags/people-of-gvrd/</link>
+      <pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/people-of-gvrd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Launchpad</title>
+      <link>http://blog.shiv.me/tags/launchpad/</link>
+      <pubDate>Sat, 23 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/launchpad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mac OSX</title>
+      <link>http://blog.shiv.me/tags/mac-osx/</link>
+      <pubDate>Sat, 23 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/mac-osx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mission Control</title>
+      <link>http://blog.shiv.me/tags/mission-control/</link>
+      <pubDate>Sat, 23 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/mission-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips &amp; Tricks</title>
+      <link>http://blog.shiv.me/tags/tips--tricks/</link>
+      <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/tips--tricks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>X Display</title>
+      <link>http://blog.shiv.me/tags/x-display/</link>
+      <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/x-display/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xhost</title>
+      <link>http://blog.shiv.me/tags/xhost/</link>
+      <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/xhost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accessories</title>
+      <link>http://blog.shiv.me/tags/accessories/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/accessories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canon 7d</title>
+      <link>http://blog.shiv.me/tags/canon-7d/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/canon-7d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Capacitive Stylus</title>
+      <link>http://blog.shiv.me/tags/capacitive-stylus/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/capacitive-stylus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IOS Apps</title>
+      <link>http://blog.shiv.me/tags/ios-apps/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ios-apps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPad</title>
+      <link>http://blog.shiv.me/tags/ipad/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ipad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPad Camera Connect Kit</title>
+      <link>http://blog.shiv.me/tags/ipad-camera-connect-kit/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ipad-camera-connect-kit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPad With Keyboard</title>
+      <link>http://blog.shiv.me/tags/ipad-with-keyboard/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ipad-with-keyboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logitech Wave Keyboard</title>
+      <link>http://blog.shiv.me/tags/logitech-wave-keyboard/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/logitech-wave-keyboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pogo Sketch Stylus</title>
+      <link>http://blog.shiv.me/tags/pogo-sketch-stylus/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/pogo-sketch-stylus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>http://blog.shiv.me/tags/review/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Targus Stylus</title>
+      <link>http://blog.shiv.me/tags/targus-stylus/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/targus-stylus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iphone</title>
+      <link>http://blog.shiv.me/tags/iphone/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/iphone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Location Tracking</title>
+      <link>http://blog.shiv.me/tags/location-tracking/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/location-tracking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Morons</title>
+      <link>http://blog.shiv.me/tags/morons/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/morons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogsy</title>
+      <link>http://blog.shiv.me/tags/blogsy/</link>
+      <pubDate>Sat, 23 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/blogsy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>http://blog.shiv.me/tags/tools/</link>
+      <pubDate>Sat, 23 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Utilities</title>
+      <link>http://blog.shiv.me/tags/utilities/</link>
+      <pubDate>Sat, 23 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/utilities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cthulhu</title>
+      <link>http://blog.shiv.me/tags/cthulhu/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/cthulhu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geekery</title>
+      <link>http://blog.shiv.me/tags/geekery/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/geekery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Old Spice</title>
+      <link>http://blog.shiv.me/tags/old-spice/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/old-spice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parody</title>
+      <link>http://blog.shiv.me/tags/parody/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/parody/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Japan</title>
+      <link>http://blog.shiv.me/tags/japan/</link>
+      <pubDate>Wed, 16 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/japan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lord Tennyson</title>
+      <link>http://blog.shiv.me/tags/lord-tennyson/</link>
+      <pubDate>Wed, 16 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/lord-tennyson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poetry</title>
+      <link>http://blog.shiv.me/tags/poetry/</link>
+      <pubDate>Wed, 16 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/poetry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ulysses</title>
+      <link>http://blog.shiv.me/tags/ulysses/</link>
+      <pubDate>Wed, 16 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ulysses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conan</title>
+      <link>http://blog.shiv.me/tags/conan/</link>
+      <pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/conan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPad 2</title>
+      <link>http://blog.shiv.me/tags/ipad-2/</link>
+      <pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ipad-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPad Launch</title>
+      <link>http://blog.shiv.me/tags/ipad-launch/</link>
+      <pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ipad-launch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Background Process</title>
+      <link>http://blog.shiv.me/tags/background-process/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/background-process/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bg</title>
+      <link>http://blog.shiv.me/tags/bg/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/bg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fg</title>
+      <link>http://blog.shiv.me/tags/fg/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/fg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Job Control</title>
+      <link>http://blog.shiv.me/tags/job-control/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/job-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Job Control in Unix</title>
+      <link>http://blog.shiv.me/tags/job-control-in-unix/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/job-control-in-unix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Push to Background</title>
+      <link>http://blog.shiv.me/tags/push-to-background/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/push-to-background/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Celebrity</title>
+      <link>http://blog.shiv.me/tags/celebrity/</link>
+      <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/celebrity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graphs</title>
+      <link>http://blog.shiv.me/tags/graphs/</link>
+      <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/graphs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infographic</title>
+      <link>http://blog.shiv.me/tags/infographic/</link>
+      <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/infographic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interview</title>
+      <link>http://blog.shiv.me/tags/interview/</link>
+      <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/interview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jeff Bridges</title>
+      <link>http://blog.shiv.me/tags/jeff-bridges/</link>
+      <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/jeff-bridges/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linkedin</title>
+      <link>http://blog.shiv.me/tags/linkedin/</link>
+      <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/linkedin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network</title>
+      <link>http://blog.shiv.me/tags/network/</link>
+      <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Dude</title>
+      <link>http://blog.shiv.me/tags/the-dude/</link>
+      <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/the-dude/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualization</title>
+      <link>http://blog.shiv.me/tags/visualization/</link>
+      <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Actor&#39;s Studio</title>
+      <link>http://blog.shiv.me/tags/actors-studio/</link>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/actors-studio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Christopher Walken</title>
+      <link>http://blog.shiv.me/tags/christopher-walken/</link>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/christopher-walken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Favourites</title>
+      <link>http://blog.shiv.me/tags/favourites/</link>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/favourites/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impersonation</title>
+      <link>http://blog.shiv.me/tags/impersonation/</link>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/impersonation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kevin Spacey</title>
+      <link>http://blog.shiv.me/tags/kevin-spacey/</link>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/kevin-spacey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pacino</title>
+      <link>http://blog.shiv.me/tags/pacino/</link>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/pacino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Youtube</title>
+      <link>http://blog.shiv.me/tags/youtube/</link>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/youtube/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cult of Personality</title>
+      <link>http://blog.shiv.me/tags/cult-of-personality/</link>
+      <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/cult-of-personality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DMU</title>
+      <link>http://blog.shiv.me/tags/dmu/</link>
+      <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/dmu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lakeside</title>
+      <link>http://blog.shiv.me/tags/lakeside/</link>
+      <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/lakeside/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Living Colour</title>
+      <link>http://blog.shiv.me/tags/living-colour/</link>
+      <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/living-colour/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Your Wish Is My Command</title>
+      <link>http://blog.shiv.me/tags/your-wish-is-my-command/</link>
+      <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/your-wish-is-my-command/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arduino</title>
+      <link>http://blog.shiv.me/tags/arduino/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/arduino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Barcamp</title>
+      <link>http://blog.shiv.me/tags/barcamp/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/barcamp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Barcamp Vancouver</title>
+      <link>http://blog.shiv.me/tags/barcamp-vancouver/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/barcamp-vancouver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bcv</title>
+      <link>http://blog.shiv.me/tags/bcv/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/bcv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bcv10</title>
+      <link>http://blog.shiv.me/tags/bcv10/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/bcv10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conference</title>
+      <link>http://blog.shiv.me/tags/conference/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/conference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FashionQuest</title>
+      <link>http://blog.shiv.me/tags/fashionquest/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/fashionquest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML5</title>
+      <link>http://blog.shiv.me/tags/html5/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/html5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenRestaurant</title>
+      <link>http://blog.shiv.me/tags/openrestaurant/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/openrestaurant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>People in Tech</title>
+      <link>http://blog.shiv.me/tags/people-in-tech/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/people-in-tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Symphony CMS</title>
+      <link>http://blog.shiv.me/tags/symphony-cms/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/symphony-cms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>YAML</title>
+      <link>http://blog.shiv.me/tags/yaml/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/yaml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithm</title>
+      <link>http://blog.shiv.me/tags/algorithm/</link>
+      <pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://blog.shiv.me/tags/c&#43;&#43;/</link>
+      <pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Power of 2</title>
+      <link>http://blog.shiv.me/tags/power-of-2/</link>
+      <pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/power-of-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Puzzles</title>
+      <link>http://blog.shiv.me/tags/puzzles/</link>
+      <pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/puzzles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bowen Island</title>
+      <link>http://blog.shiv.me/tags/bowen-island/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/bowen-island/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dragon Boats</title>
+      <link>http://blog.shiv.me/tags/dragon-boats/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/dragon-boats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Picasa</title>
+      <link>http://blog.shiv.me/tags/picasa/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/picasa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Picasaweb</title>
+      <link>http://blog.shiv.me/tags/picasaweb/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/picasaweb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adidas</title>
+      <link>http://blog.shiv.me/tags/adidas/</link>
+      <pubDate>Tue, 31 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/adidas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ads</title>
+      <link>http://blog.shiv.me/tags/ads/</link>
+      <pubDate>Tue, 31 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ads/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cricket</title>
+      <link>http://blog.shiv.me/tags/cricket/</link>
+      <pubDate>Tue, 31 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/cricket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sport</title>
+      <link>http://blog.shiv.me/tags/sport/</link>
+      <pubDate>Tue, 31 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/sport/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>http://blog.shiv.me/tags/design/</link>
+      <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacking</title>
+      <link>http://blog.shiv.me/tags/hacking/</link>
+      <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/hacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://blog.shiv.me/tags/java/</link>
+      <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unsigned Arithmetic</title>
+      <link>http://blog.shiv.me/tags/unsigned-arithmetic/</link>
+      <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/unsigned-arithmetic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unsigned Types</title>
+      <link>http://blog.shiv.me/tags/unsigned-types/</link>
+      <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/unsigned-types/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unisigned Int</title>
+      <link>http://blog.shiv.me/tags/unisigned-int/</link>
+      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/unisigned-int/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hackers</title>
+      <link>http://blog.shiv.me/tags/hackers/</link>
+      <pubDate>Wed, 02 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/hackers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lists</title>
+      <link>http://blog.shiv.me/tags/lists/</link>
+      <pubDate>Wed, 02 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/lists/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programmers</title>
+      <link>http://blog.shiv.me/tags/programmers/</link>
+      <pubDate>Wed, 02 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/programmers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apps</title>
+      <link>http://blog.shiv.me/tags/apps/</link>
+      <pubDate>Sat, 29 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/apps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Age 30</title>
+      <link>http://blog.shiv.me/tags/age-30/</link>
+      <pubDate>Fri, 14 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/age-30/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Douglas Adams</title>
+      <link>http://blog.shiv.me/tags/douglas-adams/</link>
+      <pubDate>Fri, 14 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/douglas-adams/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Weasel</title>
+      <link>http://blog.shiv.me/tags/weasel/</link>
+      <pubDate>Fri, 14 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/weasel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OPML</title>
+      <link>http://blog.shiv.me/tags/opml/</link>
+      <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/opml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OPML Editor</title>
+      <link>http://blog.shiv.me/tags/opml-editor/</link>
+      <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/opml-editor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress Editor</title>
+      <link>http://blog.shiv.me/tags/wordpress-editor/</link>
+      <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/wordpress-editor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Shit</title>
+      <link>http://blog.shiv.me/tags/deep-shit/</link>
+      <pubDate>Sun, 21 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/deep-shit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Melody Gardot</title>
+      <link>http://blog.shiv.me/tags/melody-gardot/</link>
+      <pubDate>Sun, 21 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/melody-gardot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music Therapy</title>
+      <link>http://blog.shiv.me/tags/music-therapy/</link>
+      <pubDate>Sun, 21 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/music-therapy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Android</title>
+      <link>http://blog.shiv.me/tags/android/</link>
+      <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canada</title>
+      <link>http://blog.shiv.me/tags/canada/</link>
+      <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/canada/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DRM</title>
+      <link>http://blog.shiv.me/tags/drm/</link>
+      <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/drm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Nexus in Canada</title>
+      <link>http://blog.shiv.me/tags/google-nexus-in-canada/</link>
+      <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/google-nexus-in-canada/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nexus One</title>
+      <link>http://blog.shiv.me/tags/nexus-one/</link>
+      <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/nexus-one/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phones</title>
+      <link>http://blog.shiv.me/tags/phones/</link>
+      <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/phones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Olympics</title>
+      <link>http://blog.shiv.me/tags/olympics/</link>
+      <pubDate>Sat, 20 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/olympics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Street</title>
+      <link>http://blog.shiv.me/tags/street/</link>
+      <pubDate>Sat, 20 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/street/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vancouver2010</title>
+      <link>http://blog.shiv.me/tags/vancouver2010/</link>
+      <pubDate>Sat, 20 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/vancouver2010/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Winter Olympics</title>
+      <link>http://blog.shiv.me/tags/winter-olympics/</link>
+      <pubDate>Sat, 20 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/winter-olympics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Buzz</title>
+      <link>http://blog.shiv.me/tags/buzz/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/buzz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feature Request</title>
+      <link>http://blog.shiv.me/tags/feature-request/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/feature-request/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>http://blog.shiv.me/tags/features/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Buzz</title>
+      <link>http://blog.shiv.me/tags/google-buzz/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/google-buzz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hidden Features</title>
+      <link>http://blog.shiv.me/tags/hidden-features/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/hidden-features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scoble-Proof</title>
+      <link>http://blog.shiv.me/tags/scoble-proof/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/scoble-proof/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IBad</title>
+      <link>http://blog.shiv.me/tags/ibad/</link>
+      <pubDate>Thu, 04 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ibad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Petition</title>
+      <link>http://blog.shiv.me/tags/petition/</link>
+      <pubDate>Thu, 04 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/petition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Availability</title>
+      <link>http://blog.shiv.me/tags/availability/</link>
+      <pubDate>Fri, 06 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/availability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>India</title>
+      <link>http://blog.shiv.me/tags/india/</link>
+      <pubDate>Fri, 06 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/india/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kindle</title>
+      <link>http://blog.shiv.me/tags/kindle/</link>
+      <pubDate>Fri, 06 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/kindle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fun</title>
+      <link>http://blog.shiv.me/tags/fun/</link>
+      <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/fun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Holy Grail</title>
+      <link>http://blog.shiv.me/tags/holy-grail/</link>
+      <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/holy-grail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programmer&#39;s High</title>
+      <link>http://blog.shiv.me/tags/programmers-high/</link>
+      <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/programmers-high/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autodesk</title>
+      <link>http://blog.shiv.me/tags/autodesk/</link>
+      <pubDate>Wed, 21 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/autodesk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iphone Apps</title>
+      <link>http://blog.shiv.me/tags/iphone-apps/</link>
+      <pubDate>Wed, 21 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/iphone-apps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sketchbook</title>
+      <link>http://blog.shiv.me/tags/sketchbook/</link>
+      <pubDate>Wed, 21 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/sketchbook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crushit</title>
+      <link>http://blog.shiv.me/tags/crushit/</link>
+      <pubDate>Wed, 14 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/crushit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Street View</title>
+      <link>http://blog.shiv.me/tags/google-street-view/</link>
+      <pubDate>Wed, 07 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/google-street-view/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RSSCloud</title>
+      <link>http://blog.shiv.me/tags/rsscloud/</link>
+      <pubDate>Tue, 08 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/rsscloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>http://blog.shiv.me/tags/software/</link>
+      <pubDate>Tue, 08 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://blog.shiv.me/tags/tech/</link>
+      <pubDate>Tue, 08 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mac</title>
+      <link>http://blog.shiv.me/tags/mac/</link>
+      <pubDate>Fri, 28 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/mac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OS</title>
+      <link>http://blog.shiv.me/tags/os/</link>
+      <pubDate>Fri, 28 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/os/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snow Leopard</title>
+      <link>http://blog.shiv.me/tags/snow-leopard/</link>
+      <pubDate>Fri, 28 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/snow-leopard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Reader</title>
+      <link>http://blog.shiv.me/tags/google-reader/</link>
+      <pubDate>Fri, 14 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/google-reader/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Voice</title>
+      <link>http://blog.shiv.me/tags/google-voice/</link>
+      <pubDate>Sat, 08 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/google-voice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jason Calacanis</title>
+      <link>http://blog.shiv.me/tags/jason-calacanis/</link>
+      <pubDate>Sat, 08 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/jason-calacanis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apollo</title>
+      <link>http://blog.shiv.me/tags/apollo/</link>
+      <pubDate>Tue, 04 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/apollo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NASA</title>
+      <link>http://blog.shiv.me/tags/nasa/</link>
+      <pubDate>Tue, 04 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/nasa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space Travel</title>
+      <link>http://blog.shiv.me/tags/space-travel/</link>
+      <pubDate>Tue, 04 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/space-travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bing</title>
+      <link>http://blog.shiv.me/tags/bing/</link>
+      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/bing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Chrome</title>
+      <link>http://blog.shiv.me/tags/google-chrome/</link>
+      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/google-chrome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ashish</title>
+      <link>http://blog.shiv.me/tags/ashish/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ashish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Friends</title>
+      <link>http://blog.shiv.me/tags/friends/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/friends/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ritvik</title>
+      <link>http://blog.shiv.me/tags/ritvik/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ritvik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Audio</title>
+      <link>http://blog.shiv.me/tags/audio/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/audio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>http://blog.shiv.me/tags/hardware/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mixers</title>
+      <link>http://blog.shiv.me/tags/mixers/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/mixers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Usb Mics</title>
+      <link>http://blog.shiv.me/tags/usb-mics/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/usb-mics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Funny</title>
+      <link>http://blog.shiv.me/tags/funny/</link>
+      <pubDate>Fri, 06 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/funny/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing Code</title>
+      <link>http://blog.shiv.me/tags/writing-code/</link>
+      <pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/writing-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cathedral</title>
+      <link>http://blog.shiv.me/tags/cathedral/</link>
+      <pubDate>Sun, 25 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/cathedral/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>France</title>
+      <link>http://blog.shiv.me/tags/france/</link>
+      <pubDate>Sun, 25 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/france/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strasbourg</title>
+      <link>http://blog.shiv.me/tags/strasbourg/</link>
+      <pubDate>Sun, 25 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/strasbourg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Year in the Merde</title>
+      <link>http://blog.shiv.me/tags/a-year-in-the-merde/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/a-year-in-the-merde/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comedy</title>
+      <link>http://blog.shiv.me/tags/comedy/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/comedy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>http://blog.shiv.me/tags/networking/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Dns</title>
+      <link>http://blog.shiv.me/tags/open-dns/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/open-dns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stephen Clarke</title>
+      <link>http://blog.shiv.me/tags/stephen-clarke/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/stephen-clarke/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://blog.shiv.me/tags/tips/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>http://blog.shiv.me/tags/travel/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Native Twitter Client</title>
+      <link>http://blog.shiv.me/tags/native-twitter-client/</link>
+      <pubDate>Sat, 25 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/native-twitter-client/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qt</title>
+      <link>http://blog.shiv.me/tags/qt/</link>
+      <pubDate>Sat, 25 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/qt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Email</title>
+      <link>http://blog.shiv.me/tags/email/</link>
+      <pubDate>Wed, 15 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/email/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feeds</title>
+      <link>http://blog.shiv.me/tags/feeds/</link>
+      <pubDate>Wed, 15 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/feeds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Process</title>
+      <link>http://blog.shiv.me/tags/personal-process/</link>
+      <pubDate>Wed, 15 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/personal-process/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RSS</title>
+      <link>http://blog.shiv.me/tags/rss/</link>
+      <pubDate>Wed, 15 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/rss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AIR-Based Apps</title>
+      <link>http://blog.shiv.me/tags/air-based-apps/</link>
+      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/air-based-apps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cucumber</title>
+      <link>http://blog.shiv.me/tags/cucumber/</link>
+      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/cucumber/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fish</title>
+      <link>http://blog.shiv.me/tags/fish/</link>
+      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/fish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flaws</title>
+      <link>http://blog.shiv.me/tags/flaws/</link>
+      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/flaws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flickr Uploader</title>
+      <link>http://blog.shiv.me/tags/flickr-uploader/</link>
+      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/flickr-uploader/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Halibut</title>
+      <link>http://blog.shiv.me/tags/halibut/</link>
+      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/halibut/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uploader V3</title>
+      <link>http://blog.shiv.me/tags/uploader-v3/</link>
+      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/uploader-v3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Technology Based App</title>
+      <link>http://blog.shiv.me/tags/web-technology-based-app/</link>
+      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/web-technology-based-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webified Desktop Applications</title>
+      <link>http://blog.shiv.me/tags/webified-desktop-applications/</link>
+      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/webified-desktop-applications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Browser</title>
+      <link>http://blog.shiv.me/tags/browser/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/browser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Commentary</title>
+      <link>http://blog.shiv.me/tags/commentary/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/commentary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web 2.0</title>
+      <link>http://blog.shiv.me/tags/web-2.0/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/web-2.0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chicken</title>
+      <link>http://blog.shiv.me/tags/chicken/</link>
+      <pubDate>Mon, 04 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/chicken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chicken Curry</title>
+      <link>http://blog.shiv.me/tags/chicken-curry/</link>
+      <pubDate>Mon, 04 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/chicken-curry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eggs</title>
+      <link>http://blog.shiv.me/tags/eggs/</link>
+      <pubDate>Mon, 04 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/eggs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indian Cuisine</title>
+      <link>http://blog.shiv.me/tags/indian-cuisine/</link>
+      <pubDate>Mon, 04 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/indian-cuisine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indian Food</title>
+      <link>http://blog.shiv.me/tags/indian-food/</link>
+      <pubDate>Mon, 04 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/indian-food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Batman</title>
+      <link>http://blog.shiv.me/tags/batman/</link>
+      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/batman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Christian Bale</title>
+      <link>http://blog.shiv.me/tags/christian-bale/</link>
+      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/christian-bale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heath Ledger</title>
+      <link>http://blog.shiv.me/tags/heath-ledger/</link>
+      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/heath-ledger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Dark Knight</title>
+      <link>http://blog.shiv.me/tags/the-dark-knight/</link>
+      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/the-dark-knight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tommy Lee Jones</title>
+      <link>http://blog.shiv.me/tags/tommy-lee-jones/</link>
+      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/tommy-lee-jones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comments</title>
+      <link>http://blog.shiv.me/tags/comments/</link>
+      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/comments/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FF</title>
+      <link>http://blog.shiv.me/tags/ff/</link>
+      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Friendfeed</title>
+      <link>http://blog.shiv.me/tags/friendfeed/</link>
+      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/friendfeed/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Website Updates</title>
+      <link>http://blog.shiv.me/tags/website-updates/</link>
+      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/website-updates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress Plugins</title>
+      <link>http://blog.shiv.me/tags/wordpress-plugins/</link>
+      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/wordpress-plugins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CVS</title>
+      <link>http://blog.shiv.me/tags/cvs/</link>
+      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/cvs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bunty</title>
+      <link>http://blog.shiv.me/tags/bunty/</link>
+      <pubDate>Tue, 10 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/bunty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cats</title>
+      <link>http://blog.shiv.me/tags/cats/</link>
+      <pubDate>Tue, 10 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/cats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photo</title>
+      <link>http://blog.shiv.me/tags/photo/</link>
+      <pubDate>Tue, 10 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/photo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog Editors</title>
+      <link>http://blog.shiv.me/tags/blog-editors/</link>
+      <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/blog-editors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WriteToMyBlog</title>
+      <link>http://blog.shiv.me/tags/writetomyblog/</link>
+      <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/writetomyblog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eulegy</title>
+      <link>http://blog.shiv.me/tags/eulegy/</link>
+      <pubDate>Sun, 25 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/eulegy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Farewell</title>
+      <link>http://blog.shiv.me/tags/farewell/</link>
+      <pubDate>Sun, 25 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/farewell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GS Maheswari</title>
+      <link>http://blog.shiv.me/tags/gs-maheswari/</link>
+      <pubDate>Sun, 25 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/gs-maheswari/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ideas</title>
+      <link>http://blog.shiv.me/tags/ideas/</link>
+      <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ideas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Install</title>
+      <link>http://blog.shiv.me/tags/install/</link>
+      <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/install/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plugin</title>
+      <link>http://blog.shiv.me/tags/plugin/</link>
+      <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/plugin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Upgrade</title>
+      <link>http://blog.shiv.me/tags/upgrade/</link>
+      <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/upgrade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress</title>
+      <link>http://blog.shiv.me/tags/wordpress/</link>
+      <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Short Updates</title>
+      <link>http://blog.shiv.me/tags/short-updates/</link>
+      <pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/short-updates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog Clients</title>
+      <link>http://blog.shiv.me/tags/blog-clients/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/blog-clients/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jott</title>
+      <link>http://blog.shiv.me/tags/jott/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/jott/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yuvi</title>
+      <link>http://blog.shiv.me/tags/yuvi/</link>
+      <pubDate>Wed, 02 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/yuvi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mac Book</title>
+      <link>http://blog.shiv.me/tags/mac-book/</link>
+      <pubDate>Sat, 15 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/mac-book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Air Travel</title>
+      <link>http://blog.shiv.me/tags/air-travel/</link>
+      <pubDate>Thu, 13 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/air-travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phones on Planes</title>
+      <link>http://blog.shiv.me/tags/phones-on-planes/</link>
+      <pubDate>Thu, 13 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/phones-on-planes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thomas Hawk</title>
+      <link>http://blog.shiv.me/tags/thomas-hawk/</link>
+      <pubDate>Thu, 13 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/thomas-hawk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freedom 0</title>
+      <link>http://blog.shiv.me/tags/freedom-0/</link>
+      <pubDate>Tue, 29 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/freedom-0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freedom Zero</title>
+      <link>http://blog.shiv.me/tags/freedom-zero/</link>
+      <pubDate>Tue, 29 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/freedom-zero/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ipod Touch</title>
+      <link>http://blog.shiv.me/tags/ipod-touch/</link>
+      <pubDate>Tue, 29 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ipod-touch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ipod Touch SDK</title>
+      <link>http://blog.shiv.me/tags/ipod-touch-sdk/</link>
+      <pubDate>Fri, 18 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ipod-touch-sdk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ipod Touch Upgrade</title>
+      <link>http://blog.shiv.me/tags/ipod-touch-upgrade/</link>
+      <pubDate>Fri, 18 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ipod-touch-upgrade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Downgrade</title>
+      <link>http://blog.shiv.me/tags/downgrade/</link>
+      <pubDate>Wed, 16 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/downgrade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Firmware</title>
+      <link>http://blog.shiv.me/tags/firmware/</link>
+      <pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/firmware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canon 40d</title>
+      <link>http://blog.shiv.me/tags/canon-40d/</link>
+      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/canon-40d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cropper</title>
+      <link>http://blog.shiv.me/tags/cropper/</link>
+      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/cropper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital SLR</title>
+      <link>http://blog.shiv.me/tags/digital-slr/</link>
+      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/digital-slr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DSLR</title>
+      <link>http://blog.shiv.me/tags/dslr/</link>
+      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/dslr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mashups</title>
+      <link>http://blog.shiv.me/tags/mashups/</link>
+      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/mashups/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micro Blogging</title>
+      <link>http://blog.shiv.me/tags/micro-blogging/</link>
+      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/micro-blogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SLR</title>
+      <link>http://blog.shiv.me/tags/slr/</link>
+      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/slr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video Review</title>
+      <link>http://blog.shiv.me/tags/video-review/</link>
+      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/video-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zooomr</title>
+      <link>http://blog.shiv.me/tags/zooomr/</link>
+      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/zooomr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Django Host</title>
+      <link>http://blog.shiv.me/tags/django-host/</link>
+      <pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/django-host/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rails Host</title>
+      <link>http://blog.shiv.me/tags/rails-host/</link>
+      <pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/rails-host/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Host</title>
+      <link>http://blog.shiv.me/tags/web-host/</link>
+      <pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/web-host/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webfaction</title>
+      <link>http://blog.shiv.me/tags/webfaction/</link>
+      <pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/webfaction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predictions</title>
+      <link>http://blog.shiv.me/tags/predictions/</link>
+      <pubDate>Fri, 30 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/predictions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>40d</title>
+      <link>http://blog.shiv.me/tags/40d/</link>
+      <pubDate>Sat, 20 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/40d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canon</title>
+      <link>http://blog.shiv.me/tags/canon/</link>
+      <pubDate>Sat, 20 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/canon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clients</title>
+      <link>http://blog.shiv.me/tags/clients/</link>
+      <pubDate>Tue, 02 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/clients/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jing</title>
+      <link>http://blog.shiv.me/tags/jing/</link>
+      <pubDate>Tue, 02 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/jing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Screencast</title>
+      <link>http://blog.shiv.me/tags/screencast/</link>
+      <pubDate>Tue, 02 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/screencast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Twitbin</title>
+      <link>http://blog.shiv.me/tags/twitbin/</link>
+      <pubDate>Tue, 02 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/twitbin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2.0</title>
+      <link>http://blog.shiv.me/tags/2.0/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/2.0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EXSideRSS</title>
+      <link>http://blog.shiv.me/tags/exsiderss/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/exsiderss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plugins</title>
+      <link>http://blog.shiv.me/tags/plugins/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/plugins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SideRSS</title>
+      <link>http://blog.shiv.me/tags/siderss/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/siderss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>http://blog.shiv.me/tags/web/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solaris</title>
+      <link>http://blog.shiv.me/tags/solaris/</link>
+      <pubDate>Sat, 08 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/solaris/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dell</title>
+      <link>http://blog.shiv.me/tags/dell/</link>
+      <pubDate>Tue, 24 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/dell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random</title>
+      <link>http://blog.shiv.me/tags/random/</link>
+      <pubDate>Tue, 24 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/random/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thoughts</title>
+      <link>http://blog.shiv.me/tags/thoughts/</link>
+      <pubDate>Tue, 24 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>http://blog.shiv.me/tags/ubuntu/</link>
+      <pubDate>Tue, 24 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Akismet</title>
+      <link>http://blog.shiv.me/tags/akismet/</link>
+      <pubDate>Wed, 11 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/akismet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dead</title>
+      <link>http://blog.shiv.me/tags/dead/</link>
+      <pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/dead/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Is</title>
+      <link>http://blog.shiv.me/tags/is/</link>
+      <pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/is/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://blog.shiv.me/tags/news/</link>
+      <pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freebsd</title>
+      <link>http://blog.shiv.me/tags/freebsd/</link>
+      <pubDate>Sat, 17 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/freebsd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opensuse</title>
+      <link>http://blog.shiv.me/tags/opensuse/</link>
+      <pubDate>Sat, 17 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/opensuse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vista</title>
+      <link>http://blog.shiv.me/tags/vista/</link>
+      <pubDate>Sat, 17 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/vista/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>http://blog.shiv.me/tags/windows/</link>
+      <pubDate>Sat, 17 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Extended</title>
+      <link>http://blog.shiv.me/tags/extended/</link>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/extended/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Novell</title>
+      <link>http://blog.shiv.me/tags/novell/</link>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/novell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ODF</title>
+      <link>http://blog.shiv.me/tags/odf/</link>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/odf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenXML</title>
+      <link>http://blog.shiv.me/tags/openxml/</link>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/openxml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RPC</title>
+      <link>http://blog.shiv.me/tags/rpc/</link>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/rpc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WPexAPI</title>
+      <link>http://blog.shiv.me/tags/wpexapi/</link>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/wpexapi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humor</title>
+      <link>http://blog.shiv.me/tags/humor/</link>
+      <pubDate>Fri, 16 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/humor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>N73</title>
+      <link>http://blog.shiv.me/tags/n73/</link>
+      <pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/n73/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nokia</title>
+      <link>http://blog.shiv.me/tags/nokia/</link>
+      <pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/nokia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rants</title>
+      <link>http://blog.shiv.me/tags/rants/</link>
+      <pubDate>Sun, 11 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/rants/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thief</title>
+      <link>http://blog.shiv.me/tags/thief/</link>
+      <pubDate>Sun, 11 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/thief/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Validator</title>
+      <link>http://blog.shiv.me/tags/validator/</link>
+      <pubDate>Thu, 08 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/validator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>XML</title>
+      <link>http://blog.shiv.me/tags/xml/</link>
+      <pubDate>Thu, 08 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/xml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nexo</title>
+      <link>http://blog.shiv.me/tags/nexo/</link>
+      <pubDate>Tue, 06 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/nexo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ankit</title>
+      <link>http://blog.shiv.me/tags/ankit/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ankit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crap</title>
+      <link>http://blog.shiv.me/tags/crap/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/crap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On</title>
+      <link>http://blog.shiv.me/tags/on/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/on/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tv</title>
+      <link>http://blog.shiv.me/tags/tv/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/tv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wadia</title>
+      <link>http://blog.shiv.me/tags/wadia/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/wadia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentation</title>
+      <link>http://blog.shiv.me/tags/presentation/</link>
+      <pubDate>Wed, 31 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/presentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips-N-Tricks</title>
+      <link>http://blog.shiv.me/tags/tips-n-tricks/</link>
+      <pubDate>Wed, 31 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/tips-n-tricks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hp</title>
+      <link>http://blog.shiv.me/tags/hp/</link>
+      <pubDate>Mon, 29 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/hp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Laptop</title>
+      <link>http://blog.shiv.me/tags/laptop/</link>
+      <pubDate>Mon, 29 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/laptop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Connectivity</title>
+      <link>http://blog.shiv.me/tags/connectivity/</link>
+      <pubDate>Thu, 25 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/connectivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ericsson</title>
+      <link>http://blog.shiv.me/tags/ericsson/</link>
+      <pubDate>Thu, 25 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ericsson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile</title>
+      <link>http://blog.shiv.me/tags/mobile/</link>
+      <pubDate>Thu, 25 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/mobile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>N</title>
+      <link>http://blog.shiv.me/tags/n/</link>
+      <pubDate>Thu, 25 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pc</title>
+      <link>http://blog.shiv.me/tags/pc/</link>
+      <pubDate>Thu, 25 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/pc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phone</title>
+      <link>http://blog.shiv.me/tags/phone/</link>
+      <pubDate>Thu, 25 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/phone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SE</title>
+      <link>http://blog.shiv.me/tags/se/</link>
+      <pubDate>Thu, 25 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/se/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sony</title>
+      <link>http://blog.shiv.me/tags/sony/</link>
+      <pubDate>Thu, 25 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/sony/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tricks</title>
+      <link>http://blog.shiv.me/tags/tricks/</link>
+      <pubDate>Thu, 25 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/tricks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>W800i</title>
+      <link>http://blog.shiv.me/tags/w800i/</link>
+      <pubDate>Thu, 25 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/w800i/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Falbum</title>
+      <link>http://blog.shiv.me/tags/falbum/</link>
+      <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/falbum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K2</title>
+      <link>http://blog.shiv.me/tags/k2/</link>
+      <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/k2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mp3-Players</title>
+      <link>http://blog.shiv.me/tags/mp3-players/</link>
+      <pubDate>Wed, 14 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/mp3-players/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zen-Micro</title>
+      <link>http://blog.shiv.me/tags/zen-micro/</link>
+      <pubDate>Wed, 14 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/zen-micro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Creative</title>
+      <link>http://blog.shiv.me/tags/creative/</link>
+      <pubDate>Fri, 04 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/creative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gadgets</title>
+      <link>http://blog.shiv.me/tags/gadgets/</link>
+      <pubDate>Fri, 04 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/gadgets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Headphones</title>
+      <link>http://blog.shiv.me/tags/headphones/</link>
+      <pubDate>Fri, 04 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/headphones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mp3-Player</title>
+      <link>http://blog.shiv.me/tags/mp3-player/</link>
+      <pubDate>Fri, 04 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/mp3-player/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sennheiser</title>
+      <link>http://blog.shiv.me/tags/sennheiser/</link>
+      <pubDate>Fri, 04 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/sennheiser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Weird-Tech</title>
+      <link>http://blog.shiv.me/tags/weird-tech/</link>
+      <pubDate>Wed, 26 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/weird-tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNMP</title>
+      <link>http://blog.shiv.me/tags/snmp/</link>
+      <pubDate>Thu, 06 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/snmp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorials</title>
+      <link>http://blog.shiv.me/tags/tutorials/</link>
+      <pubDate>Thu, 06 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/tutorials/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

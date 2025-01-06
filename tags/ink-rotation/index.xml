@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ink Rotation on Reflections</title>
+    <link>http://blog.shiv.me/tags/ink-rotation/</link>
+    <description>Recent content in Ink Rotation on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Wed, 23 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/ink-rotation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ink rotation - April 2014</title>
+      <link>http://blog.shiv.me/posts/2014/ink-rotation-april-2014/</link>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2014/ink-rotation-april-2014/</guid>
+      <description>Ink rotation - April 2014</description>
+    </item>
+    <item>
+      <title>Inky obsessions</title>
+      <link>http://blog.shiv.me/posts/2013/2013-05-13-inky-obsessions/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2013/2013-05-13-inky-obsessions/</guid>
+      <description>Inky obsessions</description>
+    </item>
+  </channel>
+</rss>

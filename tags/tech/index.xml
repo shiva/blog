@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tech on Reflections</title>
+    <link>http://blog.shiv.me/tags/tech/</link>
+    <description>Recent content in Tech on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Tue, 08 Sep 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;m on cloud number 0.9!</title>
+      <link>http://blog.shiv.me/posts/2009/2009-09-08-im-on-the-cloud-number-rss0-9/</link>
+      <pubDate>Tue, 08 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2009/2009-09-08-im-on-the-cloud-number-rss0-9/</guid>
+      <description>I&amp;#39;m on cloud number 0.9!</description>
+    </item>
+    <item>
+      <title>Google blogs its feature later than I do!</title>
+      <link>http://blog.shiv.me/posts/2007/2007-12-18-google-blogs-its-feature-later/</link>
+      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-12-18-google-blogs-its-feature-later/</guid>
+      <description>Google blogs its feature later than I do!</description>
+    </item>
+  </channel>
+</rss>

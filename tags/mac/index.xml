@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mac on Reflections</title>
+    <link>http://blog.shiv.me/tags/mac/</link>
+    <description>Recent content in Mac on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Fri, 28 Aug 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;m getting an os upgrade for 10 bucks!</title>
+      <link>http://blog.shiv.me/posts/2009/2009-08-28-im-getting-an-os-upgrade-for-10-bucks/</link>
+      <pubDate>Fri, 28 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2009/2009-08-28-im-getting-an-os-upgrade-for-10-bucks/</guid>
+      <description>I&amp;#39;m getting an os upgrade for 10 bucks!</description>
+    </item>
+    <item>
+      <title>Biting the &#34;Mac&#34; Bullet</title>
+      <link>http://blog.shiv.me/posts/2008/2008-03-15-biting-the-mac-bullet/</link>
+      <pubDate>Sat, 15 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-03-15-biting-the-mac-bullet/</guid>
+      <description>Biting the &amp;#34;Mac&amp;#34; Bullet</description>
+    </item>
+  </channel>
+</rss>

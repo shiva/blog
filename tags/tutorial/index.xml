@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tutorial on Reflections</title>
+    <link>http://blog.shiv.me/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Thu, 29 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working with large C codebases</title>
+      <link>http://blog.shiv.me/posts/2016/working-with-large-c-codebases/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2016/working-with-large-c-codebases/</guid>
+      <description>Time saving bash aliases for a C developer</description>
+    </item>
+    <item>
+      <title>Elixir - A crash course</title>
+      <link>http://blog.shiv.me/posts/2016/elixir-crash-course/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2016/elixir-crash-course/</guid>
+      <description>Basics in Elixir, especially the deviations from the norm</description>
+    </item>
+  </channel>
+</rss>

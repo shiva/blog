@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Twitter on Reflections</title>
+    <link>http://blog.shiv.me/tags/twitter/</link>
+    <description>Recent content in Twitter on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Thu, 02 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2013 on twitter - a recap</title>
+      <link>http://blog.shiv.me/posts/2014/2014-01-02-2013-on-twitter-a-recap/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2014/2014-01-02-2013-on-twitter-a-recap/</guid>
+      <description>2013 on twitter - a recap</description>
+    </item>
+    <item>
+      <title>Proposed GUI for C&#43;&#43; based twitter client</title>
+      <link>http://blog.shiv.me/posts/2008/2008-10-25-twitter-client/</link>
+      <pubDate>Sat, 25 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-10-25-twitter-client/</guid>
+      <description>Proposed GUI for C&#43;&#43; based twitter client</description>
+    </item>
+    <item>
+      <title>A Thousand Tweets</title>
+      <link>http://blog.shiv.me/posts/2008/2008-10-15-a-thousand-tweets/</link>
+      <pubDate>Wed, 15 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-10-15-a-thousand-tweets/</guid>
+      <description>A Thousand Tweets</description>
+    </item>
+    <item>
+      <title>Welcome new friends from twitter</title>
+      <link>http://blog.shiv.me/posts/2008/2008-04-02-welcome-new-friends-from-twitter/</link>
+      <pubDate>Wed, 02 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-04-02-welcome-new-friends-from-twitter/</guid>
+      <description>Welcome new friends from twitter</description>
+    </item>
+    <item>
+      <title>Google blogs its feature later than I do!</title>
+      <link>http://blog.shiv.me/posts/2007/2007-12-18-google-blogs-its-feature-later/</link>
+      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-12-18-google-blogs-its-feature-later/</guid>
+      <description>Google blogs its feature later than I do!</description>
+    </item>
+    <item>
+      <title>Issue with Twitbin, Jing the next-gen screen capture</title>
+      <link>http://blog.shiv.me/posts/2007/2007-10-02-issue-with-twitbin-jing-the-next-gen-screen-capture/</link>
+      <pubDate>Tue, 02 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-10-02-issue-with-twitbin-jing-the-next-gen-screen-capture/</guid>
+      <description>Issue with Twitbin, Jing the next-gen screen capture</description>
+    </item>
+  </channel>
+</rss>

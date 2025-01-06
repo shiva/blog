@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gcc on Reflections</title>
+    <link>http://blog.shiv.me/tags/gcc/</link>
+    <description>Recent content in Gcc on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Tue, 08 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/gcc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Badly punctuated parameter list in #define</title>
+      <link>http://blog.shiv.me/posts/2011/badly-punctuated-parameter-list/</link>
+      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/badly-punctuated-parameter-list/</guid>
+      <description>Badly punctuated parameter list in #define</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Programming on Reflections</title>
+    <link>http://blog.shiv.me/tags/programming/</link>
+    <description>Recent content in Programming on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structed Object Definition Language (SODL)</title>
+      <link>http://blog.shiv.me/projects/sodl/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/projects/sodl/</guid>
+      <description>Structed Object Definition Language (SODL)</description>
+    </item>
+    <item>
+      <title>Working with large C codebases</title>
+      <link>http://blog.shiv.me/posts/2016/working-with-large-c-codebases/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2016/working-with-large-c-codebases/</guid>
+      <description>Time saving bash aliases for a C developer</description>
+    </item>
+    <item>
+      <title>Elixir - A crash course</title>
+      <link>http://blog.shiv.me/posts/2016/elixir-crash-course/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2016/elixir-crash-course/</guid>
+      <description>Basics in Elixir, especially the deviations from the norm</description>
+    </item>
+    <item>
+      <title>Somethings should be obvious, but are not, obviously</title>
+      <link>http://blog.shiv.me/posts/2014/2014-02-14-obvious-but-not/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2014/2014-02-14-obvious-but-not/</guid>
+      <description>Somethings should be obvious, but are not, obviously</description>
+    </item>
+    <item>
+      <title>More unix goodness</title>
+      <link>http://blog.shiv.me/posts/2012/2012-05-21-more-nix-goodness/</link>
+      <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2012/2012-05-21-more-nix-goodness/</guid>
+      <description>More unix goodness</description>
+    </item>
+    <item>
+      <title>Badly punctuated parameter list in #define</title>
+      <link>http://blog.shiv.me/posts/2011/badly-punctuated-parameter-list/</link>
+      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/badly-punctuated-parameter-list/</guid>
+      <description>Badly punctuated parameter list in #define</description>
+    </item>
+    <item>
+      <title>Power of 2</title>
+      <link>http://blog.shiv.me/posts/2010/2010-11-03-power/</link>
+      <pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2010/2010-11-03-power/</guid>
+      <description>Power of 2</description>
+    </item>
+    <item>
+      <title>Why does Java not support unsigned int? - Part 1</title>
+      <link>http://blog.shiv.me/posts/2010/2010-07-13-why-no-unsigned-int-in-java/</link>
+      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2010/2010-07-13-why-no-unsigned-int-in-java/</guid>
+      <description>Why does Java not support unsigned int? - Part 1</description>
+    </item>
+    <item>
+      <title>The Holy Grail and the Programmer&#39;s High</title>
+      <link>http://blog.shiv.me/posts/2009/2009-10-26-the-holy-grail-and-the-programmers-high/</link>
+      <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2009/2009-10-26-the-holy-grail-and-the-programmers-high/</guid>
+      <description>The Holy Grail and the Programmer&amp;#39;s High</description>
+    </item>
+    <item>
+      <title>The devil is in the why?</title>
+      <link>http://blog.shiv.me/posts/2009/2009-02-14-the-devil-is-in-the-why/</link>
+      <pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2009/2009-02-14-the-devil-is-in-the-why/</guid>
+      <description>The devil is in the why?</description>
+    </item>
+  </channel>
+</rss>

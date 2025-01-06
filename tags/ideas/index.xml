@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ideas on Reflections</title>
+    <link>http://blog.shiv.me/tags/ideas/</link>
+    <description>Recent content in Ideas on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Tue, 06 May 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hey wordpress guys, have you heard of diff?!</title>
+      <link>http://blog.shiv.me/posts/2008/2008-05-06-hey-wordpress-guys-have-you-heard-of-diff/</link>
+      <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-05-06-hey-wordpress-guys-have-you-heard-of-diff/</guid>
+      <description>Hey wordpress guys, have you heard of diff?!</description>
+    </item>
+    <item>
+      <title>Website clean up</title>
+      <link>http://blog.shiv.me/posts/2007/2007-03-07-website-clean-up/</link>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-03-07-website-clean-up/</guid>
+      <description>Website clean up</description>
+    </item>
+    <item>
+      <title>Common Access Portal</title>
+      <link>http://blog.shiv.me/posts/2007/2007-01-20-common-access-portal/</link>
+      <pubDate>Sat, 20 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-01-20-common-access-portal/</guid>
+      <description>Common Access Portal</description>
+    </item>
+  </channel>
+</rss>

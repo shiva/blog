@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tips &amp; Tricks on Reflections</title>
+    <link>http://blog.shiv.me/tags/tips--tricks/</link>
+    <description>Recent content in Tips &amp; Tricks on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Tue, 21 Jun 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/tips--tricks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exporting XDisplay</title>
+      <link>http://blog.shiv.me/posts/2011/2011-06-21-exporting-xdisplay/</link>
+      <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2011/2011-06-21-exporting-xdisplay/</guid>
+      <description>Exporting XDisplay</description>
+    </item>
+    <item>
+      <title>How I handle 1000&#43; emails and 300&#43; blog posts a day</title>
+      <link>http://blog.shiv.me/posts/2008/2008-10-15-how-i-handle-emails/</link>
+      <pubDate>Wed, 15 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-10-15-how-i-handle-emails/</guid>
+      <description>How I handle 1000&#43; emails and 300&#43; blog posts a day</description>
+    </item>
+    <item>
+      <title>cvs - Getting list of files changed in the current tree</title>
+      <link>http://blog.shiv.me/posts/2008/2008-06-23-cvs-getting-list-of-files-changed-in-the-current-tree/</link>
+      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-06-23-cvs-getting-list-of-files-changed-in-the-current-tree/</guid>
+      <description>cvs - Getting list of files changed in the current tree</description>
+    </item>
+    <item>
+      <title>IPOD touch: Downgrade from 1.1.3 to 1.1.1</title>
+      <link>http://blog.shiv.me/posts/2008/2008-01-16-ipod-touch-downgrade-from-113-to-111/</link>
+      <pubDate>Wed, 16 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-01-16-ipod-touch-downgrade-from-113-to-111/</guid>
+      <description>IPOD touch: Downgrade from 1.1.3 to 1.1.1</description>
+    </item>
+    <item>
+      <title>Recovery from GRUB Failure</title>
+      <link>http://blog.shiv.me/posts/2007/2007-04-06-recovery-from-grub-failure/</link>
+      <pubDate>Fri, 06 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-04-06-recovery-from-grub-failure/</guid>
+      <description>Recovery from GRUB Failure</description>
+    </item>
+    <item>
+      <title>Bangalore Hangouts</title>
+      <link>http://blog.shiv.me/posts/2007/2007-03-04-bangalore-hangouts/</link>
+      <pubDate>Sun, 04 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-03-04-bangalore-hangouts/</guid>
+      <description>Bangalore Hangouts</description>
+    </item>
+    <item>
+      <title>Hacking Wordpress - An extended XML-RPC API</title>
+      <link>http://blog.shiv.me/posts/2007/2007-01-15-hacking-wordpress-an-extended-xml-rpc-api/</link>
+      <pubDate>Mon, 15 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-01-15-hacking-wordpress-an-extended-xml-rpc-api/</guid>
+      <description>Hacking Wordpress - An extended XML-RPC API</description>
+    </item>
+    <item>
+      <title>Return of Javascript!</title>
+      <link>http://blog.shiv.me/posts/2006/2006-08-10-return-of-javascript-2/</link>
+      <pubDate>Thu, 10 Aug 2006 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2006/2006-08-10-return-of-javascript-2/</guid>
+      <description>Return of Javascript!</description>
+    </item>
+    <item>
+      <title>Learn HTML and Javascript</title>
+      <link>http://blog.shiv.me/posts/2005/2005-11-25-learn-html-and-javascript/</link>
+      <pubDate>Fri, 25 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2005/2005-11-25-learn-html-and-javascript/</guid>
+      <description>Learn HTML and Javascript</description>
+    </item>
+    <item>
+      <title>getting batch categories to work with Word press 1.5.1.1</title>
+      <link>http://blog.shiv.me/posts/2005/2005-05-27-getting-batch-categories-to-work-with-word-press-1511/</link>
+      <pubDate>Fri, 27 May 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2005/2005-05-27-getting-batch-categories-to-work-with-word-press-1511/</guid>
+      <description>getting batch categories to work with Word press 1.5.1.1</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Google Chrome on Reflections</title>
+    <link>http://blog.shiv.me/tags/google-chrome/</link>
+    <description>Recent content in Google Chrome on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Thu, 09 Jul 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/google-chrome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For the last time, its not an OS!</title>
+      <link>http://blog.shiv.me/posts/2009/2009-07-09-for-the-last-time-its-not-an-os/</link>
+      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2009/2009-07-09-for-the-last-time-its-not-an-os/</guid>
+      <description>For the last time, its not an OS!</description>
+    </item>
+    <item>
+      <title>In the browser lies the power - Wave 2 of the Google takeover</title>
+      <link>http://blog.shiv.me/posts/2008/2008-09-02-in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-09-02-in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</guid>
+      <description>In the browser lies the power - Wave 2 of the Google takeover</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Webified Desktop Applications on Reflections</title>
+    <link>http://blog.shiv.me/tags/webified-desktop-applications/</link>
+    <description>Recent content in Webified Desktop Applications on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Thu, 25 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/webified-desktop-applications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webified desktop applications</title>
+      <link>http://blog.shiv.me/posts/2008/2008-09-25-webified-desktop-applications/</link>
+      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-09-25-webified-desktop-applications/</guid>
+      <description>Webified desktop applications</description>
+    </item>
+  </channel>
+</rss>

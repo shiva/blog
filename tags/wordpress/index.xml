@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wordpress on Reflections</title>
+    <link>http://blog.shiv.me/tags/wordpress/</link>
+    <description>Recent content in Wordpress on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Tue, 06 May 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hey wordpress guys, have you heard of diff?!</title>
+      <link>http://blog.shiv.me/posts/2008/2008-05-06-hey-wordpress-guys-have-you-heard-of-diff/</link>
+      <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-05-06-hey-wordpress-guys-have-you-heard-of-diff/</guid>
+      <description>Hey wordpress guys, have you heard of diff?!</description>
+    </item>
+    <item>
+      <title>EX-SideRSS</title>
+      <link>http://blog.shiv.me/posts/2007/2007-10-01-ex-siderss/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-10-01-ex-siderss/</guid>
+      <description>EX-SideRSS</description>
+    </item>
+    <item>
+      <title>Wordpress commended for lack of spam</title>
+      <link>http://blog.shiv.me/posts/2007/2007-04-11-wordpress-commended-for-lack-of-spam/</link>
+      <pubDate>Wed, 11 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-04-11-wordpress-commended-for-lack-of-spam/</guid>
+      <description>Wordpress commended for lack of spam</description>
+    </item>
+    <item>
+      <title>Website clean up</title>
+      <link>http://blog.shiv.me/posts/2007/2007-03-07-website-clean-up/</link>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-03-07-website-clean-up/</guid>
+      <description>Website clean up</description>
+    </item>
+    <item>
+      <title>Common Access Portal</title>
+      <link>http://blog.shiv.me/posts/2007/2007-01-20-common-access-portal/</link>
+      <pubDate>Sat, 20 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2007/2007-01-20-common-access-portal/</guid>
+      <description>Common Access Portal</description>
+    </item>
+    <item>
+      <title>Page link in wordpress</title>
+      <link>http://blog.shiv.me/posts/2005/2005-12-15-page-link-in-wordpress/</link>
+      <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2005/2005-12-15-page-link-in-wordpress/</guid>
+      <description>Page link in wordpress</description>
+    </item>
+  </channel>
+</rss>

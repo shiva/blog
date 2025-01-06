@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Unsigned Arithmetic on Reflections</title>
+    <link>http://blog.shiv.me/tags/unsigned-arithmetic/</link>
+    <description>Recent content in Unsigned Arithmetic on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Mon, 23 Aug 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/unsigned-arithmetic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unsigned Arithmetic</title>
+      <link>http://blog.shiv.me/posts/2010/2010-08-23-unsigned-arithmetic/</link>
+      <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2010/2010-08-23-unsigned-arithmetic/</guid>
+      <description>Unsigned Arithmetic</description>
+    </item>
+  </channel>
+</rss>

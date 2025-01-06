@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ipod Touch on Reflections</title>
+    <link>http://blog.shiv.me/tags/ipod-touch/</link>
+    <description>Recent content in Ipod Touch on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Tue, 29 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/ipod-touch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>That queasy feeling</title>
+      <link>http://blog.shiv.me/posts/2008/2008-01-29-that-queasy-feeling/</link>
+      <pubDate>Tue, 29 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-01-29-that-queasy-feeling/</guid>
+      <description>That queasy feeling</description>
+    </item>
+    <item>
+      <title>Bye bye IPOD</title>
+      <link>http://blog.shiv.me/posts/2008/2008-01-18-bye-bye-ipod/</link>
+      <pubDate>Fri, 18 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-01-18-bye-bye-ipod/</guid>
+      <description>Bye bye IPOD</description>
+    </item>
+    <item>
+      <title>IPOD touch: Downgrade from 1.1.3 to 1.1.1</title>
+      <link>http://blog.shiv.me/posts/2008/2008-01-16-ipod-touch-downgrade-from-113-to-111/</link>
+      <pubDate>Wed, 16 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-01-16-ipod-touch-downgrade-from-113-to-111/</guid>
+      <description>IPOD touch: Downgrade from 1.1.3 to 1.1.1</description>
+    </item>
+    <item>
+      <title>IPod touch 1.1.1 firmware link</title>
+      <link>http://blog.shiv.me/posts/2008/2008-01-15-ipod-touch-111-firmware-link/</link>
+      <pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-01-15-ipod-touch-111-firmware-link/</guid>
+      <description>IPod touch 1.1.1 firmware link</description>
+    </item>
+    <item>
+      <title>Ipod touch/Iphone support</title>
+      <link>http://blog.shiv.me/posts/2008/2008-01-15-ipod-touchiphone-support/</link>
+      <pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/posts/2008/2008-01-15-ipod-touchiphone-support/</guid>
+      <description>Ipod touch/Iphone support</description>
+    </item>
+  </channel>
+</rss>
