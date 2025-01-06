@@ -3,8 +3,6 @@ title: A month flies by
 categories:
   - goals
 tags:
-  - resolutions
-  - 2016
   - goals
 date: '2016-01-31'
 description: A month flies by
