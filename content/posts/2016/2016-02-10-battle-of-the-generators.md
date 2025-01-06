@@ -1,7 +1,9 @@
 ---
 title: Battle of the static site generators
+categories:
+  - reviews
 tags:
-  - static site generator
+  - static site generators
   - hexo
   - hugo
   - jekyll

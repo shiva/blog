@@ -1,11 +1,12 @@
 ---
 title: Use Linux, learn new things
+categories:
+  - notes
 tags:
   - linux
   - learning
   - Arch Linux
   - KDE
-  - Tips & Tricks
   - How To
 date: '2016-07-10'
 description: Use Linux. It encourages learning new things, and new ways to do old things

@@ -1,18 +1,17 @@
-+++
-title = "2016 year-end recap"
-tags = [
-  "resolutions",
-  "2016",
-  "recap",
-  "goals"
-]
-description = "2016 year-end recap"
-date = "2016-12-31T20:32:53-08:00"
-+++
+---
+title: 2016 year-end recap
+categories:
+  - notes
+tags:
+  - goals
+description: 2016 year-end recap
+date: '2016-12-31T20:32:53-08:00'
+---
+
 
 ## Don’t smoke (Stay quit!!) : Doing great!
 
-   There is no desire to smoke. After being a smoker for over a decade, I was very glad to quit, and stay quit. The way I quit this time was quite cliched. I went to Vegas, smoked incessantly for 3 days, and stopped at the end of the trip -- cold turkey. Never went back to it, and quite frankly disgusted by the thought of smoking now.
+   There is no desire to smoke. After being a smoker for over a decade, I quit smoking last year, and stayed quit. I went to Vegas, smoked incessantly for 3 days, and stopped at the end of the trip -- cold turkey. Never went back to it, and quite frankly disgusted by the thought of smoking now.
 
 ## Say yes more often: Did well.
 
