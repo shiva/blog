@@ -50,8 +50,8 @@ languages:
           url: projects/
           weight: 20
         - name: Home
-          url: shiv.me
-#
+          url: http://shiv.me
+
 #  fr:
 #    languageName: ":fr:"
 #    weight: 2
