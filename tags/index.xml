@@ -12,8 +12,29 @@
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
     <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 18:05:00 -0800</lastBuildDate>
     <atom:link href="http://blog.shiv.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ideas</title>
+      <link>http://blog.shiv.me/tags/ideas/</link>
+      <pubDate>Fri, 10 Jan 2025 18:05:00 -0800</pubDate>
+      <guid>http://blog.shiv.me/tags/ideas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Product Management</title>
+      <link>http://blog.shiv.me/tags/product-management/</link>
+      <pubDate>Fri, 10 Jan 2025 18:05:00 -0800</pubDate>
+      <guid>http://blog.shiv.me/tags/product-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strategy</title>
+      <link>http://blog.shiv.me/tags/strategy/</link>
+      <pubDate>Fri, 10 Jan 2025 18:05:00 -0800</pubDate>
+      <guid>http://blog.shiv.me/tags/strategy/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Language</title>
       <link>http://blog.shiv.me/tags/language/</link>
@@ -54,27 +75,6 @@
       <link>http://blog.shiv.me/tags/goals/</link>
       <pubDate>Sat, 31 Dec 2016 20:32:53 -0800</pubDate>
       <guid>http://blog.shiv.me/tags/goals/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ideas</title>
-      <link>http://blog.shiv.me/tags/ideas/</link>
-      <pubDate>Sat, 31 Dec 2016 20:32:53 -0800</pubDate>
-      <guid>http://blog.shiv.me/tags/ideas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Product Management</title>
-      <link>http://blog.shiv.me/tags/product-management/</link>
-      <pubDate>Sat, 31 Dec 2016 20:32:53 -0800</pubDate>
-      <guid>http://blog.shiv.me/tags/product-management/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Strategy</title>
-      <link>http://blog.shiv.me/tags/strategy/</link>
-      <pubDate>Sat, 31 Dec 2016 20:32:53 -0800</pubDate>
-      <guid>http://blog.shiv.me/tags/strategy/</guid>
       <description></description>
     </item>
     <item>

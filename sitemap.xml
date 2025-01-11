@@ -2,8 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://blog.shiv.me/categories/</loc>
+    <lastmod>2025-01-10T18:05:00-08:00</lastmod>
+  </url><url>
     <loc>http://blog.shiv.me/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-10T18:05:00-08:00</lastmod>
+  </url><url>
+    <loc>http://blog.shiv.me/tags/ideas/</loc>
+    <lastmod>2025-01-10T18:05:00-08:00</lastmod>
+  </url><url>
+    <loc>http://blog.shiv.me/categories/notes/</loc>
+    <lastmod>2025-01-10T18:05:00-08:00</lastmod>
+  </url><url>
+    <loc>http://blog.shiv.me/posts/</loc>
+    <lastmod>2025-01-10T18:05:00-08:00</lastmod>
+  </url><url>
+    <loc>http://blog.shiv.me/tags/product-management/</loc>
+    <lastmod>2025-01-10T18:05:00-08:00</lastmod>
+  </url><url>
+    <loc>http://blog.shiv.me/tags/strategy/</loc>
+    <lastmod>2025-01-10T18:05:00-08:00</lastmod>
+  </url><url>
+    <loc>http://blog.shiv.me/posts/2025/systems-that-builds-machines/</loc>
+    <lastmod>2025-01-10T18:05:00-08:00</lastmod>
+  </url><url>
+    <loc>http://blog.shiv.me/tags/</loc>
+    <lastmod>2025-01-10T18:05:00-08:00</lastmod>
   </url><url>
     <loc>http://blog.shiv.me/tags/language/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
@@ -26,34 +50,10 @@
     <loc>http://blog.shiv.me/projects/sodl/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://blog.shiv.me/tags/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://blog.shiv.me/posts/2016/2016-12-31-year-end-recap/</loc>
     <lastmod>2016-12-31T20:32:53-08:00</lastmod>
   </url><url>
-    <loc>http://blog.shiv.me/categories/</loc>
-    <lastmod>2016-12-31T20:32:53-08:00</lastmod>
-  </url><url>
     <loc>http://blog.shiv.me/tags/goals/</loc>
-    <lastmod>2016-12-31T20:32:53-08:00</lastmod>
-  </url><url>
-    <loc>http://blog.shiv.me/tags/ideas/</loc>
-    <lastmod>2016-12-31T20:32:53-08:00</lastmod>
-  </url><url>
-    <loc>http://blog.shiv.me/categories/notes/</loc>
-    <lastmod>2016-12-31T20:32:53-08:00</lastmod>
-  </url><url>
-    <loc>http://blog.shiv.me/posts/</loc>
-    <lastmod>2016-12-31T20:32:53-08:00</lastmod>
-  </url><url>
-    <loc>http://blog.shiv.me/tags/product-management/</loc>
-    <lastmod>2016-12-31T20:32:53-08:00</lastmod>
-  </url><url>
-    <loc>http://blog.shiv.me/tags/strategy/</loc>
-    <lastmod>2016-12-31T20:32:53-08:00</lastmod>
-  </url><url>
-    <loc>http://blog.shiv.me/posts/2025/systems-that-builds-machines/</loc>
     <lastmod>2016-12-31T20:32:53-08:00</lastmod>
   </url><url>
     <loc>http://blog.shiv.me/tags/bash-aliases/</loc>
