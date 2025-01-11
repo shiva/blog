@@ -12,8 +12,15 @@
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
     <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 06 May 2008 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Dec 2016 20:32:53 -0800</lastBuildDate>
     <atom:link href="http://blog.shiv.me/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strategy, leverage, and making things</title>
+      <link>http://blog.shiv.me/posts/2025/systems-that-builds-machines/</link>
+      <pubDate>Sat, 31 Dec 2016 20:32:53 -0800</pubDate>
+      <guid>http://blog.shiv.me/posts/2025/systems-that-builds-machines/</guid>
+      <description>Strategy and thinking through leverage creation, to drive value creation</description>
+    </item>
     <item>
       <title>Hey wordpress guys, have you heard of diff?!</title>
       <link>http://blog.shiv.me/posts/2008/2008-05-06-hey-wordpress-guys-have-you-heard-of-diff/</link>
