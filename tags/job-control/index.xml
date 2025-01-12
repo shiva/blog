@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/job-control/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Job Control on \*NIX systems</title>
-      <link>http://blog.shiv.me/posts/2011/2011-01-31-job-control-on-nix-systems/</link>
+      <link>http://blog.shiv.me/posts/2011/job-control-on-nix-systems/</link>
       <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/2011-01-31-job-control-on-nix-systems/</guid>
+      <guid>http://blog.shiv.me/posts/2011/job-control-on-nix-systems/</guid>
       <description>Job Control on \*NIX systems</description>
     </item>
   </channel>

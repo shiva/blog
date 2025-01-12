@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/short-updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Twitter digests</title>
-      <link>http://blog.shiv.me/posts/2008/2008-04-23-twitter-digests/</link>
+      <link>http://blog.shiv.me/posts/2008/twitter-digests/</link>
       <pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/2008-04-23-twitter-digests/</guid>
+      <guid>http://blog.shiv.me/posts/2008/twitter-digests/</guid>
       <description>Twitter digests</description>
     </item>
   </channel>

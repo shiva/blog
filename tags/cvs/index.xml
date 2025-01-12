@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/cvs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cvs - Getting list of files changed in the current tree</title>
-      <link>http://blog.shiv.me/posts/2008/2008-06-23-cvs-getting-list-of-files-changed-in-the-current-tree/</link>
+      <link>http://blog.shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</link>
       <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/2008-06-23-cvs-getting-list-of-files-changed-in-the-current-tree/</guid>
+      <guid>http://blog.shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</guid>
       <description>cvs - Getting list of files changed in the current tree</description>
     </item>
   </channel>

@@ -16,16 +16,16 @@
     <atom:link href="http://blog.shiv.me/tags/plugins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EX-SideRSS</title>
-      <link>http://blog.shiv.me/posts/2007/2007-10-01-ex-siderss/</link>
+      <link>http://blog.shiv.me/posts/2007/ex-siderss/</link>
       <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/2007-10-01-ex-siderss/</guid>
+      <guid>http://blog.shiv.me/posts/2007/ex-siderss/</guid>
       <description>EX-SideRSS</description>
     </item>
     <item>
       <title>Common Access Portal</title>
-      <link>http://blog.shiv.me/posts/2007/2007-01-20-common-access-portal/</link>
+      <link>http://blog.shiv.me/posts/2007/common-access-portal/</link>
       <pubDate>Sat, 20 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/2007-01-20-common-access-portal/</guid>
+      <guid>http://blog.shiv.me/posts/2007/common-access-portal/</guid>
       <description>Common Access Portal</description>
     </item>
   </channel>

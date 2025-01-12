@@ -16,30 +16,30 @@
     <atom:link href="http://blog.shiv.me/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unsigned Arithmetic</title>
-      <link>http://blog.shiv.me/posts/2010/2010-08-23-unsigned-arithmetic/</link>
+      <link>http://blog.shiv.me/posts/2010/unsigned-arithmetic/</link>
       <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/2010-08-23-unsigned-arithmetic/</guid>
+      <guid>http://blog.shiv.me/posts/2010/unsigned-arithmetic/</guid>
       <description>Unsigned Arithmetic</description>
     </item>
     <item>
       <title>Why does Java not support unsigned int? - Part 1</title>
-      <link>http://blog.shiv.me/posts/2010/2010-07-13-why-no-unsigned-int-in-java/</link>
+      <link>http://blog.shiv.me/posts/2010/why-no-unsigned-int-in-java/</link>
       <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/2010-07-13-why-no-unsigned-int-in-java/</guid>
+      <guid>http://blog.shiv.me/posts/2010/why-no-unsigned-int-in-java/</guid>
       <description>Why does Java not support unsigned int? - Part 1</description>
     </item>
     <item>
       <title>The devil is in the why?</title>
-      <link>http://blog.shiv.me/posts/2009/2009-02-14-the-devil-is-in-the-why/</link>
+      <link>http://blog.shiv.me/posts/2009/the-devil-is-in-the-why/</link>
       <pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/2009-02-14-the-devil-is-in-the-why/</guid>
+      <guid>http://blog.shiv.me/posts/2009/the-devil-is-in-the-why/</guid>
       <description>The devil is in the why?</description>
     </item>
     <item>
       <title>Common Access Portal</title>
-      <link>http://blog.shiv.me/posts/2007/2007-01-20-common-access-portal/</link>
+      <link>http://blog.shiv.me/posts/2007/common-access-portal/</link>
       <pubDate>Sat, 20 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/2007-01-20-common-access-portal/</guid>
+      <guid>http://blog.shiv.me/posts/2007/common-access-portal/</guid>
       <description>Common Access Portal</description>
     </item>
   </channel>

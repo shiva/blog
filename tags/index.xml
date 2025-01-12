@@ -12,29 +12,8 @@
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
     <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Fri, 10 Jan 2025 18:05:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://blog.shiv.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ideas</title>
-      <link>http://blog.shiv.me/tags/ideas/</link>
-      <pubDate>Fri, 10 Jan 2025 18:05:00 -0800</pubDate>
-      <guid>http://blog.shiv.me/tags/ideas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Product Management</title>
-      <link>http://blog.shiv.me/tags/product-management/</link>
-      <pubDate>Fri, 10 Jan 2025 18:05:00 -0800</pubDate>
-      <guid>http://blog.shiv.me/tags/product-management/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Strategy</title>
-      <link>http://blog.shiv.me/tags/strategy/</link>
-      <pubDate>Fri, 10 Jan 2025 18:05:00 -0800</pubDate>
-      <guid>http://blog.shiv.me/tags/strategy/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Language</title>
       <link>http://blog.shiv.me/tags/language/</link>
@@ -2665,6 +2644,13 @@
       <link>http://blog.shiv.me/tags/gs-maheswari/</link>
       <pubDate>Sun, 25 May 2008 00:00:00 +0000</pubDate>
       <guid>http://blog.shiv.me/tags/gs-maheswari/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ideas</title>
+      <link>http://blog.shiv.me/tags/ideas/</link>
+      <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://blog.shiv.me/tags/ideas/</guid>
       <description></description>
     </item>
     <item>

@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/solaris/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unix: how to check system configuration on solaris</title>
-      <link>http://blog.shiv.me/posts/2007/2007-09-08-unix-how-to-check-system-configuration-on-solaris/</link>
+      <link>http://blog.shiv.me/posts/2007/unix-how-to-check-system-configuration-on-solaris/</link>
       <pubDate>Sat, 08 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/2007-09-08-unix-how-to-check-system-configuration-on-solaris/</guid>
+      <guid>http://blog.shiv.me/posts/2007/unix-how-to-check-system-configuration-on-solaris/</guid>
       <description>Unix: how to check system configuration on solaris</description>
     </item>
   </channel>

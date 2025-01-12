@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/xml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>XML Validator</title>
-      <link>http://blog.shiv.me/posts/2007/2007-02-08-xml-validator/</link>
+      <link>http://blog.shiv.me/posts/2007/xml-validator/</link>
       <pubDate>Thu, 08 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/2007-02-08-xml-validator/</guid>
+      <guid>http://blog.shiv.me/posts/2007/xml-validator/</guid>
       <description>XML Validator</description>
     </item>
   </channel>

@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/falbum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Page link in wordpress</title>
-      <link>http://blog.shiv.me/posts/2005/2005-12-15-page-link-in-wordpress/</link>
+      <link>http://blog.shiv.me/posts/2005/page-link-in-wordpress/</link>
       <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2005/2005-12-15-page-link-in-wordpress/</guid>
+      <guid>http://blog.shiv.me/posts/2005/page-link-in-wordpress/</guid>
       <description>Page link in wordpress</description>
     </item>
   </channel>

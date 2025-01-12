@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/unisigned-int/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why does Java not support unsigned int? - Part 1</title>
-      <link>http://blog.shiv.me/posts/2010/2010-07-13-why-no-unsigned-int-in-java/</link>
+      <link>http://blog.shiv.me/posts/2010/why-no-unsigned-int-in-java/</link>
       <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/2010-07-13-why-no-unsigned-int-in-java/</guid>
+      <guid>http://blog.shiv.me/posts/2010/why-no-unsigned-int-in-java/</guid>
       <description>Why does Java not support unsigned int? - Part 1</description>
     </item>
   </channel>

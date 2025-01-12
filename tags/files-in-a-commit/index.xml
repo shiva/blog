@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/files-in-a-commit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beautiful git logs and listing files in a commit</title>
-      <link>http://blog.shiv.me/posts/2012/2012-09-26-git-logs-and-files-in-a-commit/</link>
+      <link>http://blog.shiv.me/posts/2012/git-logs-and-files-in-a-commit/</link>
       <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/2012-09-26-git-logs-and-files-in-a-commit/</guid>
+      <guid>http://blog.shiv.me/posts/2012/git-logs-and-files-in-a-commit/</guid>
       <description>Git: beautiful git logs and listing files in a commit</description>
     </item>
   </channel>

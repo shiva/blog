@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/rsa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multiple ssh profiles for multiple services</title>
-      <link>http://blog.shiv.me/posts/2012/2012-08-20-multiple-ssh-profiles/</link>
+      <link>http://blog.shiv.me/posts/2012/multiple-ssh-profiles/</link>
       <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/2012-08-20-multiple-ssh-profiles/</guid>
+      <guid>http://blog.shiv.me/posts/2012/multiple-ssh-profiles/</guid>
       <description>Multiple ssh profiles for multiple services</description>
     </item>
   </channel>

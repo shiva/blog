@@ -16,16 +16,16 @@
     <atom:link href="http://blog.shiv.me/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News?! Why buy</title>
-      <link>http://blog.shiv.me/posts/2007/2007-03-29-news-why-buy/</link>
+      <link>http://blog.shiv.me/posts/2007/news-why-buy/</link>
       <pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/2007-03-29-news-why-buy/</guid>
+      <guid>http://blog.shiv.me/posts/2007/news-why-buy/</guid>
       <description>News?! Why buy</description>
     </item>
     <item>
       <title>Apple iMplant</title>
-      <link>http://blog.shiv.me/posts/2005/2005-10-26-apple-implant/</link>
+      <link>http://blog.shiv.me/posts/2005/apple-implant/</link>
       <pubDate>Wed, 26 Oct 2005 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2005/2005-10-26-apple-implant/</guid>
+      <guid>http://blog.shiv.me/posts/2005/apple-implant/</guid>
       <description>Apple iMplant</description>
     </item>
   </channel>

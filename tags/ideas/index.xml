@@ -12,34 +12,27 @@
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
     <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Fri, 10 Jan 2025 18:05:00 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2008 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://blog.shiv.me/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Strategy, leverage, and creative value</title>
-      <link>http://blog.shiv.me/posts/2025/systems-that-builds-machines/</link>
-      <pubDate>Fri, 10 Jan 2025 18:05:00 -0800</pubDate>
-      <guid>http://blog.shiv.me/posts/2025/systems-that-builds-machines/</guid>
-      <description>Strategy and thinking through leverage creation, to drive value creation</description>
-    </item>
-    <item>
       <title>Hey wordpress guys, have you heard of diff?!</title>
-      <link>http://blog.shiv.me/posts/2008/2008-05-06-hey-wordpress-guys-have-you-heard-of-diff/</link>
+      <link>http://blog.shiv.me/posts/2008/hey-wordpress-guys-have-you-heard-of-diff/</link>
       <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/2008-05-06-hey-wordpress-guys-have-you-heard-of-diff/</guid>
+      <guid>http://blog.shiv.me/posts/2008/hey-wordpress-guys-have-you-heard-of-diff/</guid>
       <description>Hey wordpress guys, have you heard of diff?!</description>
     </item>
     <item>
       <title>Website clean up</title>
-      <link>http://blog.shiv.me/posts/2007/2007-03-07-website-clean-up/</link>
+      <link>http://blog.shiv.me/posts/2007/website-clean-up/</link>
       <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/2007-03-07-website-clean-up/</guid>
+      <guid>http://blog.shiv.me/posts/2007/website-clean-up/</guid>
       <description>Website clean up</description>
     </item>
     <item>
       <title>Common Access Portal</title>
-      <link>http://blog.shiv.me/posts/2007/2007-01-20-common-access-portal/</link>
+      <link>http://blog.shiv.me/posts/2007/common-access-portal/</link>
       <pubDate>Sat, 20 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/2007-01-20-common-access-portal/</guid>
+      <guid>http://blog.shiv.me/posts/2007/common-access-portal/</guid>
       <description>Common Access Portal</description>
     </item>
   </channel>

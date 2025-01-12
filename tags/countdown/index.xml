@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/countdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Life in the BASH universe</title>
-      <link>http://blog.shiv.me/posts/2011/2011-08-28-life-in-the-bash-universe/</link>
+      <link>http://blog.shiv.me/posts/2011/life-in-the-bash-universe/</link>
       <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/2011-08-28-life-in-the-bash-universe/</guid>
+      <guid>http://blog.shiv.me/posts/2011/life-in-the-bash-universe/</guid>
       <description>Life in the BASH universe</description>
     </item>
   </channel>

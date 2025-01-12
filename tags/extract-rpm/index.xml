@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/extract-rpm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Working with rpms (extract, list contents)</title>
-      <link>http://blog.shiv.me/posts/2013/2013-02-17-work-with-rpms/</link>
+      <link>http://blog.shiv.me/posts/2013/work-with-rpms/</link>
       <pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2013/2013-02-17-work-with-rpms/</guid>
+      <guid>http://blog.shiv.me/posts/2013/work-with-rpms/</guid>
       <description>Working with rpms (extract, list contents)</description>
     </item>
   </channel>

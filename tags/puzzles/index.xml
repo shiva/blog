@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/puzzles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Power of 2</title>
-      <link>http://blog.shiv.me/posts/2010/2010-11-03-power/</link>
+      <link>http://blog.shiv.me/posts/2010/power/</link>
       <pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/2010-11-03-power/</guid>
+      <guid>http://blog.shiv.me/posts/2010/power/</guid>
       <description>Power of 2</description>
     </item>
   </channel>

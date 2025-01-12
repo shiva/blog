@@ -16,9 +16,9 @@
     <atom:link href="http://blog.shiv.me/tags/jott/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jott - a voice-based blog client!</title>
-      <link>http://blog.shiv.me/posts/2008/2008-04-09-well-this-is-a-first/</link>
+      <link>http://blog.shiv.me/posts/2008/well-this-is-a-first/</link>
       <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/2008-04-09-well-this-is-a-first/</guid>
+      <guid>http://blog.shiv.me/posts/2008/well-this-is-a-first/</guid>
       <description>Jott - a voice-based blog client!</description>
     </item>
   </channel>
