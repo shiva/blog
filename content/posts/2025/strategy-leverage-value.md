@@ -1,5 +1,6 @@
 ---
-title: Strategy, leverage, and creative value 
+title: Strategy, leverage, and creating value 
+draft: true
 categories:
   - notes
 tags:
