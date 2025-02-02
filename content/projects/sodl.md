@@ -281,28 +281,6 @@ object EnhancedUserProfile {
    - SODL: Built-in validation constraints
    - GraphQL: Requires custom directive implementation
 
-## Key Advantages of SODL
-
-1. **Precision in Data Modeling**
-   - Fine-grained type system
-   - Built-in constraint support
-   - Clear relationship modeling
-
-2. **Data Integrity**
-   - Strong validation capabilities
-   - Explicit strict/optional field marking
-   - Type safety across implementations
-
-3. **Maintainability**
-   - Clear, readable syntax
-   - Modular import system
-   - Structured relationship definitions
-
-4. **Flexibility**
-   - Support for various data modeling patterns
-   - Rich type composition
-   - Extensible through imports
-
 ### SODL vs Apache Parquet
 
 While SODL and Parquet might seem very different at first glance, they both deal with data structure definition and organization, albeit for different purposes and at different stages of the data lifecycle. Let's explore their similarities and differences:
@@ -457,6 +435,29 @@ The language's focus on structured definitions makes it especially valuable in e
 ```
 
 This comparison highlights how SODL and Parquet serve different but complementary roles in a data architecture. SODL provides the rich, constrainable schema definitions needed for application-level data modeling, while Parquet offers the optimized storage format needed for analytical processing. Understanding these differences helps architects and developers choose the right tool for each part of their data pipeline.
+
+## Key Advantages of SODL
+
+1. **Precision in Data Modeling**
+   - Fine-grained type system
+   - Built-in constraint support
+   - Clear relationship modeling
+
+2. **Data Integrity**
+   - Strong validation capabilities
+   - Explicit strict/optional field marking
+   - Type safety across implementations
+
+3. **Maintainability**
+   - Clear, readable syntax
+   - Modular import system
+   - Structured relationship definitions
+
+4. **Flexibility**
+   - Support for various data modeling patterns
+   - Rich type composition
+   - Extensible through imports
+
 
 ## Conclusion
 
