@@ -12,8 +12,15 @@
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
     <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 22:05:10 -0800</lastBuildDate>
     <atom:link href="http://blog.shiv.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strip Dates From Filenames</title>
+      <link>http://blog.shiv.me/posts/2025/strip-dates-from-filenames/</link>
+      <pubDate>Sat, 01 Feb 2025 22:05:10 -0800</pubDate>
+      <guid>http://blog.shiv.me/posts/2025/strip-dates-from-filenames/</guid>
+      <description>&lt;p&gt;Ahh linux. The frustrations and the joy. After a hiatus of 9 years, and failing to rekindle the desire to write, I have decided it is worth my time to resurrect this blog. In the past, I had encoded publish dates in the filename. Don&amp;rsquo;t ask. Well, as a result, I have a few hundred files with a date prefix which have been indexed permanently by Google. Hugo, the static site generator that I use for this blog, uses the filename as part of the url. I could use a slug to customize the url, but then each file will have additional metadata. So, my simple solution (at the potential loss of references from other websites), is to simply bulk rename the files by stripping out the date prefix.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Structed Object Definition Language (SODL)</title>
       <link>http://blog.shiv.me/projects/sodl/</link>
