@@ -30,7 +30,7 @@ However, large code bases result in very large indexes. A fully indexed ctags fi
 
 I use the following aliases to build tags files and cscope databases as I need.
 
-<script src="https://gist.github.com/shiva/89240cdece79f84867f0feeb9d73f1f5.js"></script>
+{{< gist shiva 89240cdece79f84867f0feeb9d73f1f5 >}}
 
 ### Dealing with whitespace
 
@@ -38,7 +38,7 @@ I like to strip trailing whitespace. Trailing whitespace, results in confusing d
 
 The following aliases help strip trailing whitespace given a file and keep commits deltas devoid of un-necessary whitespace changes.
 
-<script src="https://gist.github.com/shiva/7f5ab9dbc7ed5bea59a4ce03aa2c9fb8.js"></script>
+{{< gist shiva 7f5ab9dbc7ed5bea59a4ce03aa2c9fb8 >}}
 
 [1]: https://github.com/kien/ctrlp.vim
 
