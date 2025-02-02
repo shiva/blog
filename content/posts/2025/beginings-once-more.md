@@ -8,7 +8,7 @@ title = 'Beginings, once more'
 > new life starts anew.  
 ----
 
-Ahh linux. The frustrations and the joy. After a hiatus of 9 years, I have decided to resurrect this blog. Of course, before I wrote anything meaningful it was time for some clearnup. Hugo, the static site generator that I use for this blog, uses the filename as part of the url. The last time I ported the [blog from Jekyl to Hugo][1] I made the terrible choice of encoding dates into the file name. Well, as a result, I have a few hundred files with a date prefix thus making the posts immovable. 
+Ahh linux. The frustrations and the joy. After a hiatus of 9 years, I have decided to resurrect this blog. Of course, before I wrote anything meaningful it was time for some cleanup. Hugo, the static site generator that I use for this blog, uses the filename as part of the url. The last time I ported the [blog from Jekyl to Hugo][1] I made the terrible choice of encoding dates into the file name. Well, as a result, I have a few hundred files with a date prefix thus making the posts immovable. 
 
 Rarely do I write a post in one sitting anymore, and ability to move/update the publish dates is now critical. I could use a slug to customize the url, but then each file will have additional metadata that I will need maintain going forward. So, my simple solution (at the potential loss of references from other websites), is to simply bulk rename the files by stripping out the date prefix.
 
