@@ -22,7 +22,7 @@ The following is from the latest [linux.git][0]
 
 Fortunately, git log has options one can use, that make the output look like this:  
 
-{{% gist shiva 3791502 file-git-lg-output-for-linux.txt >}}
+{{< gist shiva 3791502 file-git-lg-output-for-linux.txt >}}
 
 Another useful command is git show, with the --name-only option. It displays the list of files in a particular commit.  
 
