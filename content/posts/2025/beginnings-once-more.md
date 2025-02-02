@@ -1,6 +1,6 @@
 +++
 date = '2025-02-01T22:05:10-0800'
-title = 'Beginings, once more'
+title = 'Beginnings, once more'
 +++
 
 > New dawn softly breaks,  
