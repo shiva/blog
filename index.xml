@@ -9,11 +9,23 @@
       <url>http://blog.shiv.me/images/papermod-cover.png</url>
       <link>http://blog.shiv.me/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.140.1</generator>
+    <generator>Hugo -- 0.143.0</generator>
     <language>en</language>
     <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sat, 01 Feb 2025 22:05:10 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 22:20:22 -0800</lastBuildDate>
     <atom:link href="http://blog.shiv.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chaos, bias, and sadness</title>
+      <link>http://blog.shiv.me/posts/2025/chaos-bias-and-sadness/</link>
+      <pubDate>Sun, 23 Feb 2025 22:20:22 -0800</pubDate>
+      <guid>http://blog.shiv.me/posts/2025/chaos-bias-and-sadness/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;A mind slowly grows,&lt;br&gt;
+Wisdom flows like rivers wide—&lt;br&gt;
+Each step reveals more.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;This week has has crushed my soul a bit. I am bewildered by the speed at which the majority in the US is willing to shed constitutional procedures, rule of law, long-standing practices in government. The silence by the ruling party &amp;ndash; the Republicans, is deafening. I am despondent, &lt;a href=&#34;https://youtu.be/Z_xV1nf44RA?si=CI7Jnfa1l4tvdvNi&#34;&gt;despite consolation&lt;/a&gt;, that we are not only enabling kleptocracy, but also cheering on the rise of fascism in the name of &amp;ldquo;efficiency&amp;rdquo;. It has been an appalling week. However, I remain a witness to the attrocities, and will continue to read and write about them.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Beginnings, once more</title>
       <link>http://blog.shiv.me/posts/2025/beginnings-once-more/</link>
@@ -22,8 +34,7 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;New dawn softly breaks,&lt;br&gt;
 hope blooms with every heartbeat,&lt;br&gt;
-new life starts anew.&lt;/p&gt;
-&lt;/blockquote&gt;
+new life starts anew.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;p&gt;Ahh linux. The frustrations and the joy. After a hiatus of 9 years, I have decided to resurrect this blog. Of course, before I wrote anything meaningful it was time for some cleanup. Hugo, the static site generator that I use for this blog, uses the filename as part of the url. The last time I ported the &lt;a href=&#34;https://blog.shiv.me/posts/2016/battle-of-the-static-site-generators-1/&#34;&gt;blog from Jekyl to Hugo&lt;/a&gt; I made the terrible choice of encoding dates into the file name. Well, as a result, I have a few hundred files with a date prefix thus making the posts immovable.&lt;/p&gt;</description>
     </item>
