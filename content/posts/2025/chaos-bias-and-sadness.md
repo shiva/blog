@@ -41,8 +41,9 @@ He has some [words of wisdom][5] for all of us, to make an effort, to write, to 
 
 ### On X, Bluesky, or Mastodon.. 
 
-1/ {{< bluesky link="https://bsky.app/profile/petebuttigieg.bsky.social/post/3liewqvnybs2u" >}}
-2/ {{< x user="RichardERoeper" id="1890945301604651245" >}}
+{{< bluesky link="https://bsky.app/profile/petebuttigieg.bsky.social/post/3liewqvnybs2u" >}}
+
+{{< x user="RichardERoeper" id="1890945301604651245" >}}
 
 [1]: https://chamath.substack.com/p/what-i-read-this-week-bef
 [2]: https://www.anildash.com/2025/01/04/DOGE-procurement-capture/
