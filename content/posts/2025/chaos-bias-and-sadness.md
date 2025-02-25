@@ -56,6 +56,8 @@ He has some [words of wisdom][5] for all of us, to make an effort, to write, to 
 
 {{< bluesky link="https://bsky.app/profile/karaswisher.bsky.social/post/3lixkfwazcs23" >}}
 
+** The post is also [available on my substack][8] if you prefer to read there. **
+
 [1]: https://chamath.substack.com/p/what-i-read-this-week-bef
 [2]: https://www.anildash.com/2025/01/04/DOGE-procurement-capture/
 [3]: https://en.wikipedia.org/wiki/Propaganda_in_Nazi_Germany
@@ -63,4 +65,5 @@ He has some [words of wisdom][5] for all of us, to make an effort, to write, to 
 [5]: https://www.tbray.org/ongoing/When/202x/2025/02/08/Posting-and-Fascism
 [6]: https://youtu.be/Z_xV1nf44RA?si=CI7Jnfa1l4tvdvNi\
 [7]: https://dansinker.com/posts/2025-02-23-dale/
+[8]: https://shivan.substack.com/p/chaos-bias-and-sadness
 
