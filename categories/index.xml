@@ -12,8 +12,15 @@
     <generator>Hugo -- 0.143.0</generator>
     <language>en</language>
     <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sat, 31 Dec 2016 20:32:53 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 16:44:00 -0800</lastBuildDate>
     <atom:link href="http://blog.shiv.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading List</title>
+      <link>http://blog.shiv.me/categories/reading-list/</link>
+      <pubDate>Wed, 09 Apr 2025 16:44:00 -0800</pubDate>
+      <guid>http://blog.shiv.me/categories/reading-list/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Notes</title>
       <link>http://blog.shiv.me/categories/notes/</link>

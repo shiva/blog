@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://blog.shiv.me/categories/</loc>
+    <lastmod>2025-04-09T16:44:00-08:00</lastmod>
+  </url><url>
+    <loc>http://blog.shiv.me/tags/chaos/</loc>
+    <lastmod>2025-04-09T16:44:00-08:00</lastmod>
+  </url><url>
     <loc>http://blog.shiv.me/</loc>
     <lastmod>2025-04-09T16:44:00-08:00</lastmod>
   </url><url>
     <loc>http://blog.shiv.me/posts/</loc>
+    <lastmod>2025-04-09T16:44:00-08:00</lastmod>
+  </url><url>
+    <loc>http://blog.shiv.me/categories/reading-list/</loc>
+    <lastmod>2025-04-09T16:44:00-08:00</lastmod>
+  </url><url>
+    <loc>http://blog.shiv.me/tags/</loc>
+    <lastmod>2025-04-09T16:44:00-08:00</lastmod>
+  </url><url>
+    <loc>http://blog.shiv.me/posts/2025/the-insanity-continuum/</loc>
     <lastmod>2025-04-09T16:44:00-08:00</lastmod>
   </url><url>
     <loc>http://blog.shiv.me/posts/2025/chaos-bias-and-sadness/</loc>
@@ -35,13 +50,7 @@
     <loc>http://blog.shiv.me/projects/sodl/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://blog.shiv.me/tags/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://blog.shiv.me/posts/2016/year-end-recap/</loc>
-    <lastmod>2016-12-31T20:32:53-08:00</lastmod>
-  </url><url>
-    <loc>http://blog.shiv.me/categories/</loc>
     <lastmod>2016-12-31T20:32:53-08:00</lastmod>
   </url><url>
     <loc>http://blog.shiv.me/tags/goals/</loc>
