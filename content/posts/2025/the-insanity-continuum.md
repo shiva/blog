@@ -9,9 +9,9 @@ description: more insanity ensues as Trump trashes through the world economy and
 date: '2025-04-09T16:44:00-08:00'
 ---
 
-> Madness spins unchecked,
-> Echoes shatter silent minds—
-> Ruin wakes, and smiles.
+> Madness spins unchecked,  
+> Echoes shatter silent minds—  
+> Ruin wakes, and smiles.  
 ---
 
 1. Of all the things that transpired in the last two weeks, [this judgement][1] by the Supreme Court in the US will perhaps be the most damanging in the long-term.
