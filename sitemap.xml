@@ -29,6 +29,9 @@
     <loc>http://blog.shiv.me/posts/2025/beginnings-once-more/</loc>
     <lastmod>2025-02-01T22:05:10-08:00</lastmod>
   </url><url>
+    <loc>http://blog.shiv.me/categories/notes/</loc>
+    <lastmod>2025-02-01T22:05:10-08:00</lastmod>
+  </url><url>
     <loc>http://blog.shiv.me/tags/language/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -54,9 +57,6 @@
     <lastmod>2016-12-31T20:32:53-08:00</lastmod>
   </url><url>
     <loc>http://blog.shiv.me/tags/goals/</loc>
-    <lastmod>2016-12-31T20:32:53-08:00</lastmod>
-  </url><url>
-    <loc>http://blog.shiv.me/categories/notes/</loc>
     <lastmod>2016-12-31T20:32:53-08:00</lastmod>
   </url><url>
     <loc>http://blog.shiv.me/tags/bash-aliases/</loc>
