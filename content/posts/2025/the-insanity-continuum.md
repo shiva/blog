@@ -14,16 +14,17 @@ date: '2025-04-09T16:44:00-08:00'
 > Ruin wakes, and smiles.  
 ---
 
-1. Of all the things that transpired in the last two weeks, [this judgement][1] by the Supreme Court in the US will perhaps be the most damanging in the long-term.
-While the world's attention is focussed on the economic damage of the Trump tariffs, the pre-eminent court in the US just gave the authoritarians even more power
-to act with impunity. At this point, why bother with laws? Why pretend like the courts matter? The [partian][2] [judges][4] who are fine [accepting bribes][3] now get to hand over
-judicial power to the fascists.
+1. Of all the things that transpired in the last two weeks, [this judgement][1] by the Supreme Court in the US will perhaps be the most damaging in the long-term.
+While the world's attention is focussed on the economic damage of the Trump tariffs, the preeminent court in the US just gave the authoritarians even more power
+to act with impunity. At this point, why bother with laws? Why pretend like the courts matter? The [partian][2] [judges][4] who are fine [accepting bribes][3] 
+now get to hand over judicial power to the fascists.
 
 > Justice Sonia Sotomayor, in a dissent, identified how much is at stake: “The implications of the government’s position” are “that not only noncitizens but also 
 > United States citizens could be taken off the streets, forced onto planes and confined to foreign prisons with no opportunity for redress if judicial review is 
 > denied unlawfully before removal. History is no stranger to such lawless regimes, but this nation’s system of laws is designed to prevent, not enable, their rise.”
 
-2. Gary Kasparov excudes clarity, and he [writes powerfully][5] about the need for leadership, and courage that is required in these troublesome times. Writing such as this, gives us hope -- hope that we are worth saving.
+2. Gary Kasparov exudes clarity, and he [writes powerfully][5] about the need for leadership, and courage that is required in these troublesome times. Writing such
+as this, gives us hope -- hope that we are worth saving.
 
 > President Trump’s return to office has already produced chaos: market upheaval, purges of independent civil servants, politicized targeting of perceived critics, and demands for
 > personal loyalty over respect for the Constitution. This is not speculation. And yet, when presented with a rare opportunity to resist the steady march of authoritarianism, the
@@ -41,9 +42,10 @@ And, a final indictment of the Decmocrats and their cowardice when the rest of t
 > 
 > Democracy does not die from a single blow. It erodes through a thousand missed chances to stand up. This was one of them. Let’s not miss the next.
 
-3. After 6 years of being bound to the American continent, I took a vacation. This time, we spent about 8 days in Singapore, and 14 in India. I was astounded how much AI changed my travel experience, and equally surprised by the progress in technology adoption in Asia [^1]. As I finally found value in paying $20/month for ChatGPT, it is useful grounding to read Gary Marcus, who [demands more][6], and provides a counter-balance to the all the hype.
+3. After 6 years of being bound to the American continent, I took a vacation this year. This time, we spent 8 days in Singapore, and 14 in India. I was astounded how much AI changed my travel experience, and equally surprised by the progress in Asia [^1]. I finally found value in paying $20/month for ChatGPT. However, it is useful to ground oneself in the reality of 
+value created by AI, and temper the hype around it. Gary Marcus, [demands more][6] that demos and proof-of-concepts, and provides a counter-balance to the all the hype.
 
-4. AI hitting the wall -- something that Gary had called out in 2022, now being echoed by [several][7] [industry][8] leaders. Worrisome times if you own a lot of AI tethered stocks.
+4. AI hitting the wall -- something that Gary had called out in 2022, now being echoed by [several][7] [industry][8] leaders. Worrisome times if you own a lot of AI-tethered stocks.
 
 [1]: https://www.nytimes.com/2025/04/09/opinion/trump-deportations-gulag-prison.html?unlocked_article_code=1.-U4.zkVo.h_qSJbW2C6_G
 [2]: https://www.forbes.com/sites/alisondurkee/2024/09/04/clarence-thomas-here-are-all-the-ethics-scandals-involving-the-supreme-court-justice-amid-new-ginni-thomas-report/
