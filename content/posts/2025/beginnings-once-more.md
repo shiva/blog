@@ -1,7 +1,10 @@
-+++
-date = '2025-02-01T22:05:10-0800'
-title = 'Beginnings, once more'
-+++
+---
+title: Beginnings, once more
+categories:
+ - notes
+description: Beginnings, once more
+date: '2025-02-01T22:05:10-0800'
+---
 
 > New dawn softly breaks,  
 > hope blooms with every heartbeat,  

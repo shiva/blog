@@ -1,7 +1,10 @@
-+++
-date = '2025-02-23T22:20:22-0800'
-title = 'Chaos, Bias, and Sadness'
-+++
+---
+title: Chaos, Bias, and Sadness
+categories:
+ - Reading List
+description: Chaos, Bias, and Sadness
+date: '2025-02-23T22:20:22-0800'
+---
 
 > A mind slowly grows,  
 > Wisdom flows like rivers wide—  
