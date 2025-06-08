@@ -22,9 +22,8 @@ Aparently, the order of installation of the IDE and mono is:
 I always thought that it had to be the other way around. Nice curve ball that one!  
 Anyway, here's the very first application that I have written in C\# running on Mono!
 
-[![first C# app-Large](/images/first-csharp-app-big.jpg)][2]
+*[Screenshot of first C# application running on Mono - image no longer available]*
 
 
 [0]: http://www.icsharpcode.net/OpenSource/SD/Download/
 [1]: http://community.sharpdevelop.net/blogs/mattward/archive/2005/10/12/SharpDevelopAndMono.aspx
-[2]: http://shvelmur.com/wpress/wp-content/uploads/2006/12/first-csharp-app-big.jpg

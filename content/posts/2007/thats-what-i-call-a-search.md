@@ -10,7 +10,7 @@ Before I bore you into leaving this page, here's what this post is about:
 
 **Have you seen this somewhere?**
 
-[![](/images/wear01_autumn0702.jpg)][0] 
+[![](/images/wear01_autumn0702.jpg)](/images/wear01_autumn0702.jpg) 
 
 (Ohh.. for those who can't place that photo, isn't that a wallpaper that comes with Windows XP?!)
 
@@ -25,7 +25,6 @@ Btw, if you find it difficult (lazy/bored), to load up my website, please use a 
 \[tags\]windows wallpapers, XP wallpapers, Nick Toshces\[/tags\]
 
 
-[0]: http://shvelmur.com/images/wpress/ThatswhatIcallasearch_2C7/wear01_autumn07021.jpg
 [1]: http://www.vanityfair.com/ontheweb/features/2007/02/autumn200702?printable=true¤tPage=all
 [2]: http://blogs.msdn.com/oldnewthing/archive/2007/01/25/1529570.aspx
 [3]: http://www.istartedsomething.com/20070126/finding-vista-wallpapers/

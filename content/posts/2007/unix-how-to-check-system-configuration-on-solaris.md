@@ -14,7 +14,7 @@ I had to compare machine hardware today, and found information on that [here][0]
 
 Click on the image below, for a detailed overview of prtdiag's output
 
-[![](/images/3177597_b6727fa7f6_m.jpg)][1]
+[![](/images/3177597_b6727fa7f6_m.jpg)](/images/3177597_b6727fa7f6_m.jpg)
 
 **\#psrinfo -p** - lists number of physical processors .
 
@@ -24,11 +24,10 @@ Click on the image below, for a detailed overview of prtdiag's output
 
 **\#prtconf | grep Memory **- displays total amount of RAM.
 
-Technorati Tags: [unix commands][2], [solaris commands][3], [system configuration][4]
+Technorati Tags: [unix commands][1], [solaris commands][2], [system configuration][3]
 
 
 [0]: http://esofthub.blogspot.com/2006/10/view-processor-speed-and-ram-size.html
-[1]: http://static.zooomr.com/images/3177597_653fa457f3_o.png
-[2]: http://technorati.com/tags/unix%20commands
-[3]: http://technorati.com/tags/solaris%20commands
-[4]: http://technorati.com/tags/system%20configuration
+[1]: http://technorati.com/tags/unix%20commands
+[2]: http://technorati.com/tags/solaris%20commands
+[3]: http://technorati.com/tags/system%20configuration

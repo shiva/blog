@@ -73,7 +73,7 @@ Since we are discussing BC here, I thought I'll jot down a couple things that wo
 
 Maybe I should get in touch with steph about this, but then before that I need start exploring php (I'm a total novice on that)
 
+*Modified PHP files (batch-categories.php.txt, menu.php.txt) - downloads no longer available*
+
 
 [0]: http://climbtothestars.org/archives/2004/07/13/batch-categories-09/
-[1]: http://shvelmur.com/uploads/batch-categories.php.txt
-[2]: http://shvelmur.com/uploads/menu.php.txt

@@ -19,12 +19,4 @@ guess what, although the other phones seem to catch up on paper, in reality noki
 
 Without anymore blabbering, here are some images that I took, without tweaking anything. Be warned that I have left exposure, white balance, flash and iso, all at auto mode.
 
-[![](/images/15022007002_thumb6.jpg)][0] [![](/images/15022007010_thumb1.jpg)][1] [![](/images/15022007015_thumb1.jpg)][2] [![](/images/15022007021_thumb1.jpg)][3] [![](/images/15022007023_thumb1.jpg)][4]
-
-
-
-[0]: http://shvelmur.com/images/wpress/NewphoneNokiaN73_13505/150220070028.jpg
-[1]: http://shvelmur.com/images/wpress/NewphoneNokiaN73_13505/150220070103.jpg
-[2]: http://shvelmur.com/images/wpress/NewphoneNokiaN73_13505/150220070153.jpg
-[3]: http://shvelmur.com/images/wpress/NewphoneNokiaN73_13505/150220070213.jpg
-[4]: http://shvelmur.com/images/wpress/NewphoneNokiaN73_13505/150220070233.jpg
+[![](/images/15022007002_thumb6.jpg)](/images/15022007002_thumb6.jpg) [![](/images/15022007010_thumb1.jpg)](/images/15022007010_thumb1.jpg) [![](/images/15022007015_thumb1.jpg)](/images/15022007015_thumb1.jpg) [![](/images/15022007021_thumb1.jpg)](/images/15022007021_thumb1.jpg) [![](/images/15022007023_thumb1.jpg)](/images/15022007023_thumb1.jpg)
