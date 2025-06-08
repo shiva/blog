@@ -12,8 +12,36 @@
     <generator>Hugo -- 0.143.0</generator>
     <language>en</language>
     <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 09 Apr 2025 16:44:00 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 14:30:00 -0800</lastBuildDate>
     <atom:link href="http://blog.shiv.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://blog.shiv.me/tags/ai/</link>
+      <pubDate>Sat, 07 Jun 2025 14:30:00 -0800</pubDate>
+      <guid>http://blog.shiv.me/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GTD</title>
+      <link>http://blog.shiv.me/tags/gtd/</link>
+      <pubDate>Sat, 07 Jun 2025 14:30:00 -0800</pubDate>
+      <guid>http://blog.shiv.me/tags/gtd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Possibilities</title>
+      <link>http://blog.shiv.me/tags/possibilities/</link>
+      <pubDate>Sat, 07 Jun 2025 14:30:00 -0800</pubDate>
+      <guid>http://blog.shiv.me/tags/possibilities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>http://blog.shiv.me/tags/productivity/</link>
+      <pubDate>Sat, 07 Jun 2025 14:30:00 -0800</pubDate>
+      <guid>http://blog.shiv.me/tags/productivity/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Chaos</title>
       <link>http://blog.shiv.me/tags/chaos/</link>
