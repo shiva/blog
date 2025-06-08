@@ -4,7 +4,7 @@ date: '2007-06-01'
 description: One cat and lots of code
 ---
 
-[![12052007282](/images/2707311301_b6f984beba_m.jpg)][0]Rich Skrenta elucidates the [power of less code][1].
+[![12052007282](/images/2707311301_b6f984beba_m.jpg)](/images/2707311301_b6f984beba_m.jpg)Rich Skrenta elucidates the [power of less code][1].
 
 > I ask you, grasshopper, which is better: flexible code or tiny code?  
 > "Ah," you exclaim, "Learned master, it is a trick question: code which is tiny yet flexible is best!"  
@@ -21,7 +21,7 @@ He then, goes on about something that is totally a different beast. Abstraction 
 
 This is something, that I just couldn't believe is a real problem. Why? Well, I have, in my last 6+ years of development in both, service and product companies, never ever had to stay awake because of too much abstraction.
 
-Most of the time, I find the converse is true. Apparently anyone (who write code for money: (Ohh.. by the way, the word apparently is a very convenient word, it lets me state something, without having to really prove it with some hard facts :) - I learned this from [Douglas - we miss ye][2])), seems uninterested in abstracting code, care less for code re-use.
+Most of the time, I find the converse is true. Apparently anyone (who write code for money: (Ohh.. by the way, the word apparently is a very convenient word, it lets me state something, without having to really prove it with some hard facts :) - I learned this from [Douglas - we miss ye][0])), seems uninterested in abstracting code, care less for code re-use.
 
 Let us just step back and think, why do most people want to be **this evil! **Human tendency is to achieve a goal, with the least amount of effort possible. (I can bet my head on this: Say we find someway to automate the ability to ingest food, and excrete it, most will gladly adopt it! )
 
@@ -39,11 +39,10 @@ I would like to add one more clause of wisdom to that:
 
 If you did read upto here, then I must say : boy you need to get a life!! (Sorry, couldn't resist that). Thanks anyway, and if you are still wondering, why I put a kitten's picture up there and what it has to do with developing code - well - Nothing! No really - Nothing at all!! I read somewhere that putting pictures was an important part of writing a blog - something to do with eye-tracking and better design and all the other things that I don't really care about. Ok, I now need to shut up - not another word!
 
-Technorati tags: [coding][3], [development][4]
+Technorati tags: [coding][2], [development][3]
 
 
-[0]: http://farm4.static.flickr.com/3084/2567730043_da7faab448_m.jpg
+[0]: http://www.douglasadams.com/
 [1]: http://www.skrenta.com/2007/05/code_is_our_enemy.html
-[2]: http://www.douglasadams.com/
-[3]: http://technorati.com/tags/coding
-[4]: http://technorati.com/tags/development
+[2]: http://technorati.com/tags/coding
+[3]: http://technorati.com/tags/development
