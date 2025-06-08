@@ -4,7 +4,7 @@ date: '2007-02-24'
 description: Hell via Sify Broadband
 ---
 
-[![](/images/sifymail_thumb8.jpg)][0]
+*[Email screenshot showing Sify broadband complaint - image no longer available]*
 
 I had a hell of a time connecting using sify "narrow"band connection. After umpteen calls to sify call center, I decided to send mails to the CEO,CTO and Communications Officer of Sifycorp, to let them know of the pathetic state of affairs, and horrible experience of being a sify broadband user. I have attached a snapshot of the mail that I sent to them.
 
@@ -45,7 +45,3 @@ I will keep you posted as to how responsive (or not) the sify guys are. Let us s
 Update: I guess to get prompt service, we need to raise a hullaboo and send mails to CEO, CTO and CCOs of the company. Well, atleast they did respond and I got a call within 10 minutes of the mail asking if my connection works. After about 30 minutes, they got it working. Good work, but next time, please do it before I send mails to your mom. :)
 
 \[tags\]rants. sify, broadband in india\[/tags\]
-
-
-[0]: http://shvelmur.com/images/wpress/HellviaSifyBroadband_CA0A/sifymail10.jpg
-[1]: http://shvelmur.com/wpress/2007/02/24/hell-via-sify-broadband/
