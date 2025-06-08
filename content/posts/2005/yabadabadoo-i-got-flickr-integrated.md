@@ -13,21 +13,16 @@ I can now do the following:
 * Present a gallery of images based on my sets
 * The visitor can now search images based on flickr tags
 
-[![P1030153](/images/65513731_8e43262fdb_t.jpg)][0]
+[![P1030153](/images/65513731_8e43262fdb_t.jpg)](/images/65513731_8e43262fdb_t.jpg)
 
 Check out my fair lady getting irritated with me for click too many pictures of her!
 
 And introducing .......
 
 _Bunty_  
-[![P1030143](/images/65513641_c9476c6848_t.jpg)][1]
+[![P1030143](/images/65513641_c9476c6848_t.jpg)](/images/65513641_c9476c6848_t.jpg)
 
 _... and Bubbly_  
-[![P1030140](/images/65513616_bf19f09560_t.jpg)][2]
+[![P1030140](/images/65513616_bf19f09560_t.jpg)](/images/65513616_bf19f09560_t.jpg)
 
 These three together constitute my much enjoyable weekends these days!
-
-
-[0]: http://shvelmur.com/wpress/wp-content/plugins/falbum/falbum-wp.php?show=recent&photo=65513731
-[1]: http://shvelmur.com/wpress/wp-content/plugins/falbum/falbum-wp.php?show=recent&photo=65513641
-[2]: http://shvelmur.com/wpress/wp-content/plugins/falbum/falbum-wp.php?show=recent&photo=65513616
