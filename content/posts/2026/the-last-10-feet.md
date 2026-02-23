@@ -54,7 +54,7 @@ Grab in Singapore and India's UPI are not perfect, but they feel *alive*. There 
 
 On the contrary, North American business feel stale. Uber, Scotiabank, Interac feel like they’ve settled. Like the teams behind them are abstracted away from the customer. The bank teller has no ability to provide a better experience, as they sit outside the trusted zone, just like the customer.
 
-We talk about decline of the West in macro terms—geopolitics, economics, institutional trust. While those make the news, we feel it vicerally in our everyday experiences. The gap between "meh" and "someone cared" is measured in the last 10 feet you have to walk to catch that taxi.
+We talk about decline of the West in macro terms—geopolitics, economics, institutional trust. While those make the news, we feel it viscerally in our everyday experiences. The gap between "meh" and "someone cared" is measured in the last 10 feet you have to walk to catch that taxi.
 
 
 ## References
