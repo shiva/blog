@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Customer Obsession on Reflections</title>
+    <link>http://blog.shiv.me/tags/customer-obsession/</link>
+    <description>Recent content in Customer Obsession on Reflections</description>
+    <image>
+      <title>Reflections</title>
+      <url>http://blog.shiv.me/images/papermod-cover.png</url>
+      <link>http://blog.shiv.me/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.143.0</generator>
+    <language>en</language>
+    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
+    <lastBuildDate>Sun, 08 Feb 2026 00:20:00 +0530</lastBuildDate>
+    <atom:link href="http://blog.shiv.me/tags/customer-obsession/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Last 10 Feet</title>
+      <link>http://blog.shiv.me/posts/2026/the-last-10-feet/</link>
+      <pubDate>Sun, 08 Feb 2026 00:20:00 +0530</pubDate>
+      <guid>http://blog.shiv.me/posts/2026/the-last-10-feet/</guid>
+      <description>decline in customer obsession in the west, while asia still cares</description>
+    </item>
+  </channel>
+</rss>
