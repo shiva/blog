@@ -35,20 +35,23 @@ Here we are, about 38 years later, I feel that same feeling again -- the nagging
 
 I tested 13 models:
 
-> ☁  ai-tester.git [main] ollama ls
-> NAME                ID              SIZE      MODIFIED
-> gemma4:latest       c6eb396dbd59    9.6 GB    2 minutes ago
-> phi4:14b            ac896e5b8b34    9.1 GB    4 hours ago
-> deepseek-r1:14b     c333b7232bdb    9.0 GB    5 hours ago
-> deepseek-r1:7b      755ced02ce7b    4.7 GB    5 hours ago
-> qwen2.5-coder:7b    dae161e27b0e    4.7 GB    5 hours ago
-> codellama:13b       9f438cb9cd58    7.4 GB    5 hours ago
-> gemma2:9b           ff02c3702f32    5.4 GB    5 hours ago
-> qwen2.5:7b          845dbda0ea48    4.7 GB    5 hours ago
-> mistral:7b          6577803aa9a0    4.4 GB    5 hours ago
-> llama3.1:8b         46e0c10c039e    4.9 GB    5 hours ago
-> phi3.5:3.8b         61819fb370a3    2.2 GB    5 hours ago
-> llama3.2:3b         a80c4f17acd5    2.0 GB    5 hours ago
+```
+☁  ai-tester.git [main] ollama ls
+NAME                ID              SIZE      MODIFIED
+gemma4:latest       c6eb396dbd59    9.6 GB    2 minutes ago
+phi4:14b            ac896e5b8b34    9.1 GB    4 hours ago
+deepseek-r1:14b     c333b7232bdb    9.0 GB    5 hours ago
+deepseek-r1:7b      755ced02ce7b    4.7 GB    5 hours ago
+qwen2.5-coder:7b    dae161e27b0e    4.7 GB    5 hours ago
+codellama:13b       9f438cb9cd58    7.4 GB    5 hours ago
+gemma2:9b           ff02c3702f32    5.4 GB    5 hours ago
+qwen2.5:7b          845dbda0ea48    4.7 GB    5 hours ago
+mistral:7b          6577803aa9a0    4.4 GB    5 hours ago
+llama3.1:8b         46e0c10c039e    4.9 GB    5 hours ago
+phi3.5:3.8b         61819fb370a3    2.2 GB    5 hours ago
+llama3.2:3b         a80c4f17acd5    2.0 GB    5 hours ago
+
+```
 
 Here are the results:
 
