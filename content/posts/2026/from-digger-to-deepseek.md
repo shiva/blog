@@ -9,8 +9,6 @@ tags:
   - ollama
   - apple-silicon
   - mlx
-  - retro-computing
-  - low-level
   - vibe-coding
 description: Vibe-coding a 13-model benchmark harness to test the limits of local inference on a 16GB Mac Mini.
 date: '2026-06-07T00:17:00+05:30'
@@ -19,7 +17,9 @@ date: '2026-06-07T00:17:00+05:30'
 Photo by <a href="https://unsplash.com/@imaginebuddy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Imagine Buddy</a> on <a href="https://unsplash.com/photos/a-person-placing-a-block-into-a-pile-of-wooden-blocks-bTMTggEt5s4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 > The bug bytes again;
+
 > Beneath the hood, the hidden
+
 > Sparks begin to run.
 
 ---
@@ -67,7 +67,7 @@ If you want to see more details, visit https://shiva.github.io/ai-tester/. I pla
 Mucking around with these numbers revealed some unexpected wins, and the stark reality of why we need massive billion-dollar datacenter build-outs to run giant inference workloads. Here is how the Mac Mini silicon actually stacked up:
 
 ### The Tiny Giant: Llama 3.2 (3B)
-Llama 3.2 is the GOAT—or at least, the best ungulate. It didn't just win on speed; it took **#1 overall in quality at 93%**, outscoring models four times its size. 
+Llama 3.2 is the GOAT—or at least, the best ungulate. It took **#1 overall in quality at 93%**, outscoring models four times its size and was the fastest model. 
 
 Because it’s so small, the whole thing stays comfortably in cache. It clocked a "blistering" **43.9 Tokens Per Second (TPS)** on short prompts and maintained a snappy, sub-550ms Time to First Token (TTFT). For local workflows on constrained hardware, a highly optimized tiny model punches way above its weight class.
 
@@ -77,7 +77,7 @@ If you need raw reasoning power that a 3B model might miss, the sweet spot on th
 The performance tradeoff is entirely reasonable: you drop down to around **22–23 TPS** for the 7B models, and **18.9 TPS** for Gemma 2. That is still plenty fast for real-time interactive coding. Qwen 2.5-Coder matching the top tier in quality while keeping a 445ms response time makes a compelling argument for being my new daily driver.
 
 ### The Gemma 4 Disappointment
-As it turns out, that passing question about Gemma 4 was incredibly well-timed. The data shows it absolutely wasn't the best I could do. 
+That passing question about Gemma 4 was incredibly well-timed. The data shows it wasn't the best I could do. 
 
 Gemma 4 stumbled hard, landing at **56% overall quality** with a dismal **30% in reasoning**. But the real kicker is the **12.5-second Time to First Token**. A TTFT that high means the model is choking the system, causing massive overhead before it even spits out a single word. It’s a classic case of a model that looks great on paper but falls apart when starved for RAM.
 
@@ -85,7 +85,7 @@ Gemma 4 stumbled hard, landing at **56% overall quality** with a dismal **30% in
 *Figure 3: The Latency Wall — Gemma 4 and the larger parameters choking system execution.*
 
 ### The 14B Cliff: Memory Throttling in Action
-The results show an incredibly sharp performance cliff the moment you cross the 9B parameter mark. **Phi 4 (14B)** managed a decent quality score (85%), but its speed plummeted to **9.9 TPS**. 
+The results show a performance cliff the moment you cross the 9B parameter mark. **Phi 4 (14B)** managed a decent quality score (85%), but its speed plummeted to **9.9 TPS**. 
 
 It gets worse with **CodeLlama 13B**, which essentially flatlined at **0.3 TPS** and crashed. Swapping to disk absolutely kills performance -- I couldn't even move my mouse when it happened [^1]. The physical reality of the hardware catches up to you, and the experience completely grinds to a halt.
 
