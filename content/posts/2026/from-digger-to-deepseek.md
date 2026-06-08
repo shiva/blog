@@ -16,12 +16,9 @@ date: '2026-06-07T00:17:00+05:30'
 ![Cover Photo](/images/imagine-buddy-bTMTggEt5s4-unsplash.jpg)
 Photo by <a href="https://unsplash.com/@imaginebuddy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Imagine Buddy</a> on <a href="https://unsplash.com/photos/a-person-placing-a-block-into-a-pile-of-wooden-blocks-bTMTggEt5s4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-> The bug bytes again;
-
-> Beneath the hood, the hidden
-
-> Sparks begin to run.
-
+> The bug bytes again;  
+> Beneath the hood, the hidden  
+> Sparks begin to run.  
 ---
 # From Digger to DeepSeek: A quest for a local AI model
 
