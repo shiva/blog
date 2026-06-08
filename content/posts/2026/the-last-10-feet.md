@@ -1,7 +1,7 @@
 ---
 title: The Last 10 Feet
 categories:
-  - notes
+  - technology
 tags:
   - enshittification
   - product management 
