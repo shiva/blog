@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Upgrade on Reflections</title>
-    <link>http://blog.shiv.me/tags/upgrade/</link>
-    <description>Recent content in Upgrade on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 06 May 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/upgrade/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hey wordpress guys, have you heard of diff?!</title>
-      <link>http://blog.shiv.me/posts/2008/hey-wordpress-guys-have-you-heard-of-diff/</link>
-      <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/hey-wordpress-guys-have-you-heard-of-diff/</guid>
-      <description>Hey wordpress guys, have you heard of diff?!</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Upgrade on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/upgrade/</link>
+		<description>Recent content in Upgrade on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 06 May 2008 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/upgrade/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hey wordpress guys, have you heard of diff?!</title>
+				<link>https://shiv.me/posts/2008/hey-wordpress-guys-have-you-heard-of-diff/</link>
+				<pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/hey-wordpress-guys-have-you-heard-of-diff/</guid>
+				<description>&lt;p&gt;I hate having to upgrade software. I truly do. I release a version every 3 months, and it try to make the upgrade as painless as possible. For an application like wordpress, that has been around for such a long, I would expect that they would do something to make it a little easier to upgrade.&lt;/p&gt;&#xA;&lt;p&gt;Ok. Sorry about the rant, but here is my problem: the download for wordpress 2.5.1 is around 1 MB, but what has really changed is only a few lines. However, according to wordpress, you have to go through a time-consuming process to get your blog up to date.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

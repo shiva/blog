@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Prawns on Reflections</title>
-    <link>http://blog.shiv.me/tags/prawns/</link>
-    <description>Recent content in Prawns on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 14 Dec 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/prawns/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Prawn curry</title>
-      <link>http://blog.shiv.me/posts/2011/prawn-curry/</link>
-      <pubDate>Wed, 14 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/prawn-curry/</guid>
-      <description>Prawn curry</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Prawns on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/prawns/</link>
+		<description>Recent content in Prawns on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 14 Dec 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/prawns/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Prawn curry</title>
+				<link>https://shiv.me/posts/2011/prawn-curry/</link>
+				<pubDate>Wed, 14 Dec 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/prawn-curry/</guid>
+				<description>&lt;p&gt;If you are in a hurry, and need something tasty yet easy to make, this one is for you. The prep time is about 5 minutes, and the cooking time around 10-15 minutes. If you have a small rice cooker &amp;ndash; the kind that plugs into a wall sockets &amp;ndash; you should be able to get the rice done in about the same time.&lt;/p&gt;&#xA;&lt;p&gt;It is also the perfect curry to cook for smaller portions. If you are like me, and have to cook for 1 person, aka me,  all the time, it is a no-frills and no-freezer required recipe.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

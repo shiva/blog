@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>OPML Editor on Reflections</title>
-    <link>http://blog.shiv.me/tags/opml-editor/</link>
-    <description>Recent content in OPML Editor on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 24 Mar 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/opml-editor/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>OPML Editor as a wordpress editor</title>
-      <link>http://blog.shiv.me/posts/2010/opml-editor-as-a-wordpress-editor/</link>
-      <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/opml-editor-as-a-wordpress-editor/</guid>
-      <description>OPML Editor as a wordpress editor</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>OPML Editor on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/opml-editor/</link>
+		<description>Recent content in OPML Editor on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 24 Mar 2010 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/opml-editor/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>OPML Editor as a wordpress editor</title>
+				<link>https://shiv.me/posts/2010/opml-editor-as-a-wordpress-editor/</link>
+				<pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/opml-editor-as-a-wordpress-editor/</guid>
+				<description>&lt;p&gt;This is a test post to see if &lt;a href=&#34;http://www.scripting.com/stories/2007/02/21/daveWinerBio.html&#34;&gt;Dave Winer&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;http://editor.opml.org/&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://editor.opml.org/&#34;&gt;OPML editor&lt;/a&gt; works with a &lt;a href=&#34;http://wordpressroot.wordpress.com/2008/08/09/writing-for-wordpress-in-the-opml-editor/&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://wordpressroot.wordpress.com/2008/08/09/writing-for-wordpress-in-the-opml-editor/&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://wordpressroot.wordpress.com/2008/08/09/writing-for-wordpress-in-the-opml-editor/&#34;&gt;self-hosted wordpress blog&lt;/a&gt;. There is something geeky about seeing crappy fonts on a screen, that makes one want to use a tool more.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve known of the OPML editor for a few years now, and have tried several times to find a neat use-case for it in my workflow, and it never had a compelling enough reason for me to stick with it. I&amp;rsquo;m hoping that this new wordpress editor tool will make me want to use this more.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

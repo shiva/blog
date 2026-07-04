@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Zooomr on Reflections</title>
-    <link>http://blog.shiv.me/tags/zooomr/</link>
-    <description>Recent content in Zooomr on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 18 Dec 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/zooomr/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Google blogs its feature later than I do!</title>
-      <link>http://blog.shiv.me/posts/2007/google-blogs-its-feature-later/</link>
-      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/google-blogs-its-feature-later/</guid>
-      <description>Google blogs its feature later than I do!</description>
-    </item>
-    <item>
-      <title>Loving my Canon 40D</title>
-      <link>http://blog.shiv.me/posts/2007/loving-my-canon-40d/</link>
-      <pubDate>Sat, 20 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/loving-my-canon-40d/</guid>
-      <description>Loving my Canon 40D</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Zooomr on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/zooomr/</link>
+		<description>Recent content in Zooomr on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 18 Dec 2007 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/zooomr/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Google blogs its feature later than I do!</title>
+				<link>https://shiv.me/posts/2007/google-blogs-its-feature-later/</link>
+				<pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/google-blogs-its-feature-later/</guid>
+				<description>&lt;p&gt;I discovered today, that twitter+zooomr+a small utility called Cropper, now allows us to put new information about some of the products we use often, out into the blogosphere (I hate that word now), faster than ever before.&lt;/p&gt;&#xA;&lt;p&gt;Check this image that I posted this image on &lt;a href=&#34;http://www.zooomr.com/photos/shiva/3921233/&#34;&gt;zooomr on 12th Dec&lt;/a&gt; and then &lt;a href=&#34;http://twitter.com/shvelmur/statuses/494443532&#34;&gt;twittered it&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/3921233_4558d6643d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I found a &lt;a href=&#34;http://googleblog.blogspot.com/2007/12/better-flight-stats-results.html&#34;&gt;blog post&lt;/a&gt;, by (I presume) one of the engineer&amp;rsquo;s who made it happen, on the google&amp;rsquo;s official blog. Although, I didn&amp;rsquo;t post the exact feature he was talking about, I noticed the feature too on another search I was doing that day.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Loving my Canon 40D</title>
+				<link>https://shiv.me/posts/2007/loving-my-canon-40d/</link>
+				<pubDate>Sat, 20 Oct 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/loving-my-canon-40d/</guid>
+				<description>&lt;p&gt;I recently got myself a Canon 40D. After a 3 year wait, I can finally afford to buy myself a DSLR, and have been going crazy with it for the last couple of weeks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://shiv.me/images/3534868_87dae6bac0.jpg&#34;&gt;&lt;img src=&#34;https://shiv.me/images/3534868_87dae6bac0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;[Larger version previously available on zooomr - service no longer available]&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Largely influenced by &lt;a href=&#34;http://technorati.com/tags/zooomr&#34;&gt;Thomas Hawk&amp;rsquo;s&lt;/a&gt; &lt;a href=&#34;http://technorati.com/tags/dogs&#34;&gt;passion&lt;/a&gt;, I have started carrying the camera everywhere I go: to work, when I go shopping, and even when I am just walking around the neighbourhood. I shot this picture, on my back from work, last Friday. With all the shooting, I am running out of HDD space very quickly. I am ok, for the next month (I have 2 external 80GB HDD + around 60GB in my laptop). After that, I will need to move the old ones to DVDs (something, which I hate doing: easy to lose shots, and difficult to retrieve).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

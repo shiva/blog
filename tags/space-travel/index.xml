@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Space Travel on Reflections</title>
-    <link>http://blog.shiv.me/tags/space-travel/</link>
-    <description>Recent content in Space Travel on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 04 Aug 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/space-travel/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>We Choose the Moon: Launch</title>
-      <link>http://blog.shiv.me/posts/2009/we-choose-the-moon-launch-3/</link>
-      <pubDate>Tue, 04 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/we-choose-the-moon-launch-3/</guid>
-      <description>We Choose the Moon: Launch</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Space Travel on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/space-travel/</link>
+		<description>Recent content in Space Travel on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 04 Aug 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/space-travel/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>We Choose the Moon: Launch</title>
+				<link>https://shiv.me/posts/2009/we-choose-the-moon-launch-3/</link>
+				<pubDate>Tue, 04 Aug 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/we-choose-the-moon-launch-3/</guid>
+				<description>&lt;p&gt;via &lt;a href=&#34;http://www.wechoosethemoon.org/&#34;&gt;wechoosethemoon.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is awesome. I was born a few years after the race to the moon. What a great time it would have been for all those that got to see/hear this live! In the four decades, life on earth has changed so much &amp;ndash; we&amp;rsquo;ve been de-sensitized to the miracle of flight and technology , and yet the spectacle of space travel is exhilarating as ever.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://posterous.com&#34;&gt;Posted via web&lt;/a&gt; from &lt;a href=&#34;http://shiva.posterous.com/we-choose-the-moon-launch&#34;&gt;shiva&amp;rsquo;s posterous&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>The Dude on Reflections</title>
-    <link>http://blog.shiv.me/tags/the-dude/</link>
-    <description>Recent content in The Dude on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 26 Jan 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/the-dude/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Dude ... Rocks!</title>
-      <link>http://blog.shiv.me/posts/2011/the-dude-rocks/</link>
-      <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/the-dude-rocks/</guid>
-      <description>The Dude ... Rocks!</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The Dude on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/the-dude/</link>
+		<description>Recent content in The Dude on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 26 Jan 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/the-dude/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Dude ... Rocks!</title>
+				<link>https://shiv.me/posts/2011/the-dude-rocks/</link>
+				<pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/the-dude-rocks/</guid>
+				<description>&lt;p&gt;Need I say more ..&lt;/p&gt;&#xA;&lt;p&gt;Watch the &lt;a href=&#34;http://video.pbs.org/video/1743456455&#34;&gt;full episode&lt;/a&gt;. See more &lt;a href=&#34;http://www.pbs.org/wnet/americanmasters/&#34;&gt;American Masters.&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

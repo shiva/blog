@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Cscope on Reflections</title>
-    <link>http://blog.shiv.me/tags/cscope/</link>
-    <description>Recent content in Cscope on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 29 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/cscope/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Working with large C codebases</title>
-      <link>http://blog.shiv.me/posts/2016/working-with-large-c-codebases/</link>
-      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2016/working-with-large-c-codebases/</guid>
-      <description>Time saving bash aliases for a C developer</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cscope on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/cscope/</link>
+		<description>Recent content in Cscope on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 29 Dec 2016 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/cscope/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Working with large C codebases</title>
+				<link>https://shiv.me/posts/2016/working-with-large-c-codebases/</link>
+				<pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2016/working-with-large-c-codebases/</guid>
+				<description>&lt;h3 id=&#34;searching-for-symbols&#34;&gt;Searching for symbols&lt;/h3&gt;&#xA;&lt;p&gt;The product that I work on, has over 22 million lines of source &amp;ndash; most of it a nightmare. I use vim as my editor of choice &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. Both cscope and ctags (integrated into vim), allow me to quickly move between files and lookup definitions of symbols, and help in understanding the challenge-du-jour.&lt;/p&gt;&#xA;&lt;p&gt;Throw in fuzzy find capabilities of the most awesome &lt;a href=&#34;https://github.com/kien/ctrlp.vim&#34;&gt;Ctrl+p plugin&lt;/a&gt;, and vim becomes the best &amp;lsquo;IDE&amp;rsquo; out there!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

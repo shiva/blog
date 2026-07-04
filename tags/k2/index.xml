@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>K2 on Reflections</title>
-    <link>http://blog.shiv.me/tags/k2/</link>
-    <description>Recent content in K2 on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 15 Dec 2005 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/k2/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Page link in wordpress</title>
-      <link>http://blog.shiv.me/posts/2005/page-link-in-wordpress/</link>
-      <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2005/page-link-in-wordpress/</guid>
-      <description>Page link in wordpress</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>K2 on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/k2/</link>
+		<description>Recent content in K2 on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 15 Dec 2005 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/k2/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Page link in wordpress</title>
+				<link>https://shiv.me/posts/2005/page-link-in-wordpress/</link>
+				<pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2005/page-link-in-wordpress/</guid>
+				<description>&lt;p&gt;I have been wondering for sometime now, how K2, added an entry in pages, but the content was controlled from the one of the php files in the theme directory.&lt;/p&gt;&#xA;&lt;p&gt;It turns out that is is very simple (yet elegant &amp;hellip; hat&amp;rsquo;s off to wordpress guys). I used this to integrate FAlbum into K2.&lt;/p&gt;&#xA;&lt;p&gt;Okay, let&amp;rsquo;s get on with the tutorial:&lt;br&gt;&#xA;*WARNING*: Take a backup of your database before you proceed with the following&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

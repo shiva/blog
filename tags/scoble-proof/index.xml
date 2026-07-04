@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Scoble-Proof on Reflections</title>
-    <link>http://blog.shiv.me/tags/scoble-proof/</link>
-    <description>Recent content in Scoble-Proof on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 10 Feb 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/scoble-proof/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>And another thing about Google Buzz</title>
-      <link>http://blog.shiv.me/posts/2010/and-another-thing-about-google-buzz/</link>
-      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/and-another-thing-about-google-buzz/</guid>
-      <description>And another thing about Google Buzz</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Scoble-Proof on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/scoble-proof/</link>
+		<description>Recent content in Scoble-Proof on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 10 Feb 2010 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/scoble-proof/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>And another thing about Google Buzz</title>
+				<link>https://shiv.me/posts/2010/and-another-thing-about-google-buzz/</link>
+				<pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/and-another-thing-about-google-buzz/</guid>
+				<description>&lt;p&gt;There are several issues that people have uncovered in the last 2 days that it has existed. For me, of all the features that Buzz lacks, one thing really stands out. There is no way to just see a &lt;strong&gt;list of the conversations&lt;/strong&gt; (without the whole list of comments expanded by default). This is the main reason that I &lt;strong&gt;*had*&lt;/strong&gt; to unfollow Scoble, Michael Arrington, Louis Gray and a bunch of others. Take a look at &lt;a href=&#34;http://www.google.com/buzz/scobleizer/NE7yRrwbhbH/This-is-already-WAY-BETTER-than-FriendFeed-Why-Not&#34;&gt;this conversation&lt;/a&gt;, and you would understand why.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,81 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Unix on Reflections</title>
-    <link>http://blog.shiv.me/tags/unix/</link>
-    <description>Recent content in Unix on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 31 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/unix/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting git status on multiple directories</title>
-      <link>http://blog.shiv.me/posts/2014/git-status-multiple-directories/</link>
-      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2014/git-status-multiple-directories/</guid>
-      <description>Getting git status on multiple directories</description>
-    </item>
-    <item>
-      <title>Working with rpms (extract, list contents)</title>
-      <link>http://blog.shiv.me/posts/2013/work-with-rpms/</link>
-      <pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2013/work-with-rpms/</guid>
-      <description>Working with rpms (extract, list contents)</description>
-    </item>
-    <item>
-      <title>More unix goodness</title>
-      <link>http://blog.shiv.me/posts/2012/more-nix-goodness/</link>
-      <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/more-nix-goodness/</guid>
-      <description>More unix goodness</description>
-    </item>
-    <item>
-      <title>Life in the BASH universe</title>
-      <link>http://blog.shiv.me/posts/2011/life-in-the-bash-universe/</link>
-      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/life-in-the-bash-universe/</guid>
-      <description>Life in the BASH universe</description>
-    </item>
-    <item>
-      <title>Exporting XDisplay</title>
-      <link>http://blog.shiv.me/posts/2011/exporting-xdisplay/</link>
-      <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/exporting-xdisplay/</guid>
-      <description>Exporting XDisplay</description>
-    </item>
-    <item>
-      <title>Job Control on \*NIX systems</title>
-      <link>http://blog.shiv.me/posts/2011/job-control-on-nix-systems/</link>
-      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/job-control-on-nix-systems/</guid>
-      <description>Job Control on \*NIX systems</description>
-    </item>
-    <item>
-      <title>Unix: removing duplicates from a file</title>
-      <link>http://blog.shiv.me/posts/2008/unix-removing-duplicates-from-a-file/</link>
-      <pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/unix-removing-duplicates-from-a-file/</guid>
-      <description>Unix: removing duplicates from a file</description>
-    </item>
-    <item>
-      <title>cvs - Getting list of files changed in the current tree</title>
-      <link>http://blog.shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</link>
-      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</guid>
-      <description>cvs - Getting list of files changed in the current tree</description>
-    </item>
-    <item>
-      <title>Unix: how to check system configuration on solaris</title>
-      <link>http://blog.shiv.me/posts/2007/unix-how-to-check-system-configuration-on-solaris/</link>
-      <pubDate>Sat, 08 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/unix-how-to-check-system-configuration-on-solaris/</guid>
-      <description>Unix: how to check system configuration on solaris</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Unix on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/unix/</link>
+		<description>Recent content in Unix on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 31 Mar 2014 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Getting git status on multiple directories</title>
+				<link>https://shiv.me/posts/2014/git-status-multiple-directories/</link>
+				<pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2014/git-status-multiple-directories/</guid>
+				<description>&lt;p&gt;At any given time, I have a handful of git repositories that I work on. While typing in the command-line is great, it getting tiring when you have a several directories that you have to manually change to and check. The &amp;ldquo;git status&amp;rdquo; command can take the git repo and the working directory as input. That, and a little bash programming to the rescue.&#xA;The following command, executes git status in every subdirectory that is a git repository.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Working with rpms (extract, list contents)</title>
+				<link>https://shiv.me/posts/2013/work-with-rpms/</link>
+				<pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2013/work-with-rpms/</guid>
+				<description>&lt;p&gt;Unix. I love thee!&lt;/p&gt;&#xA;&lt;p&gt;Extract an rpm without installing in to the current directory (really, the rpm command should support this):&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;   $ rpm2cpio myrpmfile.rpm | cpio -idmv&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;*i: Restore archive&lt;/p&gt;&#xA;&lt;p&gt;*d: Create leading directories where needed&lt;/p&gt;&#xA;&lt;p&gt;*m: Retain previous file modification times when creating files&lt;/p&gt;&#xA;&lt;p&gt;*v: Verbose i.e. display progress&lt;/p&gt;&#xA;&lt;p&gt;List contents of an rpm:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;  $ rpm -qlp myrpmfile.rpm  &lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.cyberciti.biz/tips/how-to-extract-an-rpm-package-without-installing-it.html&#34;&gt;source&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>More unix goodness</title>
+				<link>https://shiv.me/posts/2012/more-nix-goodness/</link>
+				<pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2012/more-nix-goodness/</guid>
+				<description>&lt;p&gt;Ohh the unix command prompt, I love thee! Can you guess what these commands do?&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;&#xA;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2&#xA;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# grep -l &amp;lt;regex&amp;gt;  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# find . -name &amp;lt;regex&amp;gt; -delete  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>Life in the BASH universe</title>
+				<link>https://shiv.me/posts/2011/life-in-the-bash-universe/</link>
+				<pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/life-in-the-bash-universe/</guid>
+				<description>&lt;p&gt;If you write a lot of scripts to automate tasks, you probably already know this. However, if you don&amp;rsquo;t, and you are still reading, you are probably a programmer, in which case, you really should be learning how to script in BASH!&lt;/p&gt;&#xA;&lt;p&gt;A couple of pointers for you:&lt;br&gt;&#xA;1. Using a -x, in the shebang line &amp;ldquo;echo&amp;quot;s every line before executing. This turns out to be quite useful for debugging shell scripts&lt;br&gt;&#xA;2. It&amp;rsquo;s quite easy to make BASH print a countdown.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Exporting XDisplay</title>
+				<link>https://shiv.me/posts/2011/exporting-xdisplay/</link>
+				<pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/exporting-xdisplay/</guid>
+				<description>&lt;p&gt;In *nix systems, you can make the display, the GUI of an application, appear on another machine.  This if often required, when the machine you want to run the application on is in a lab, and you have access through a desktop machine that has a monitor.&lt;/p&gt;&#xA;&lt;p&gt;You can do this, by running an XServer on the desktop machine and configuring the client (the one where you run your app) with the XServer details. By default, the XServer instance on your desktop disallows communication from all machines except localhost. Thus, you will need to add the host in the allowed list using the xhost command.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Job Control on \*NIX systems</title>
+				<link>https://shiv.me/posts/2011/job-control-on-nix-systems/</link>
+				<pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/job-control-on-nix-systems/</guid>
+				<description>&lt;p&gt;If you are not a UNIX user/not a geek, please turn away right now.&lt;/p&gt;&#xA;&lt;p&gt;Every year, I either chance upon something new, or remind myself of something interesting that I&amp;rsquo;ve forgotten. This is the latter case. On a *NIX shell, you can push a foreground process to background (obviously without terminating it):&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;   $ ./someprocess   ...   ...   ...   Ctrl-Z   [1]+ Stopped   ./someprocess   $ bg   [1]+ ./someprocess &amp;amp;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;To bring the process into foreground:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Unix: removing duplicates from a file</title>
+				<link>https://shiv.me/posts/2008/unix-removing-duplicates-from-a-file/</link>
+				<pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/unix-removing-duplicates-from-a-file/</guid>
+				<description>&lt;p&gt;Over the last few months, I have re-discovered some unix commands (it&amp;rsquo;s been such a long time)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Eliminate duplicate lines from a file&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;#sort -u filename &amp;gt; filename.new&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;List all lines that do not match a condition&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;#grep -v ajsk filename&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Copy contents of two files to one&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;#cat file1 file2 &amp;gt; file3&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Append output of a command to a file&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;#cat file1 &amp;gt;&amp;gt; file2&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>cvs - Getting list of files changed in the current tree</title>
+				<link>https://shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</link>
+				<pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</guid>
+				<description>&lt;p&gt;The simple way to retreive the list of changed files would be to update the tree, which would then list the files updated.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;#cvs update . &amp;gt; filelist.dat&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;The problem with this, is that if there have been changes to other files after your last update, you will have to manually glean the files that you have changed. I tend face this, particularly during the last couple of weeks before a release, since you don&amp;rsquo;t want to risk updating your tree everyday, but still have to make 2/3 checkins. I did some googling today, and found how to find the list of files changed without updating your tree.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Unix: how to check system configuration on solaris</title>
+				<link>https://shiv.me/posts/2007/unix-how-to-check-system-configuration-on-solaris/</link>
+				<pubDate>Sat, 08 Sep 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/unix-how-to-check-system-configuration-on-solaris/</guid>
+				<description>&lt;p&gt;I had to compare machine hardware today, and found information on that &lt;a href=&#34;http://esofthub.blogspot.com/2006/10/view-processor-speed-and-ram-size.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;**#prtdiag -v - **Gives hardware information about FSB, Sparc Model, CPU speed, RAM, Harddisks, USB drives (ie. PCI and networking slots) etc.&lt;/p&gt;&#xA;&lt;p&gt;Click on the image below, for a detailed overview of prtdiag&amp;rsquo;s output&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://shiv.me/images/3177597_b6727fa7f6_m.jpg&#34;&gt;&lt;img src=&#34;https://shiv.me/images/3177597_b6727fa7f6_m.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;#psrinfo -p&lt;/strong&gt; - lists number of physical processors .&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;#psrinfo -p -v&lt;/strong&gt; - list number of virtual processors (cores) per physical processor.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;#psrinfo -v&lt;/strong&gt; - detailed information for each virtual processor.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

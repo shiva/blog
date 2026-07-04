@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>N73 on Reflections</title>
-    <link>http://blog.shiv.me/tags/n73/</link>
-    <description>Recent content in N73 on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 15 Feb 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/n73/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>New phone - Nokia N73</title>
-      <link>http://blog.shiv.me/posts/2007/new-phone-nokia-n73/</link>
-      <pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/new-phone-nokia-n73/</guid>
-      <description>New phone - Nokia N73</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>N73 on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/n73/</link>
+		<description>Recent content in N73 on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 15 Feb 2007 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/n73/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>New phone - Nokia N73</title>
+				<link>https://shiv.me/posts/2007/new-phone-nokia-n73/</link>
+				<pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/new-phone-nokia-n73/</guid>
+				<description>&lt;p&gt;I dropped my trusty ol&amp;rsquo; Nokia 6610, from the third floor, at my office. After scourring the gazillion models and options that are available out there, I settled on two phones.&lt;/p&gt;&#xA;&lt;p&gt;Sony Ericsson K790 Cybershot&lt;/p&gt;&#xA;&lt;p&gt;Nokia N73&lt;/p&gt;&#xA;&lt;p&gt;guess what, although the other phones seem to catch up on paper, in reality nokia still wins hands-down. Just hold the two phones in your hand, and you know that the Nokia oozes quality. There are a few gripes though, which I will reserve for later.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

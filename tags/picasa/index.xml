@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Picasa on Reflections</title>
-    <link>http://blog.shiv.me/tags/picasa/</link>
-    <description>Recent content in Picasa on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 09 Sep 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/picasa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>You know it is time ..</title>
-      <link>http://blog.shiv.me/posts/2010/you-know-it-is-time/</link>
-      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/you-know-it-is-time/</guid>
-      <description>You know it is time ..</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Picasa on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/picasa/</link>
+		<description>Recent content in Picasa on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 09 Sep 2010 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/picasa/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>You know it is time ..</title>
+				<link>https://shiv.me/posts/2010/you-know-it-is-time/</link>
+				<pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/you-know-it-is-time/</guid>
+				<description>&lt;p&gt;to write a blog post, when someone calls you to tell you that they checked your blog, and there was nothing of interest. Ofcourse, being lazy, I just chose to put some pictures, which have been languishing in the netherworld of pictures on the internet &amp;ndash; Picasa.&lt;/p&gt;&#xA;&lt;p&gt;Looks like, Google has improved picasaweb to be almost usable. It is still void of comments, or any real social aspect. I&amp;rsquo;m still well within the free quota, and I&amp;rsquo;m not forking out money for yet another storage provider, until they provide a way to export all of the content that I generate in a &amp;ldquo;parseable&amp;rdquo; form (That&amp;rsquo;s right, we invent words here). Anyway, I will shut up with the review of another techy thingy, and put some pictures on.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

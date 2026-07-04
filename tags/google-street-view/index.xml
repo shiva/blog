@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Google Street View on Reflections</title>
-    <link>http://blog.shiv.me/tags/google-street-view/</link>
-    <description>Recent content in Google Street View on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 07 Oct 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/google-street-view/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Google&#39;s on Vancouver Streets</title>
-      <link>http://blog.shiv.me/posts/2009/googles-on-vancouver-streets/</link>
-      <pubDate>Wed, 07 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/googles-on-vancouver-streets/</guid>
-      <description>Google&amp;#39;s on Vancouver Streets</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Google Street View on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/google-street-view/</link>
+		<description>Recent content in Google Street View on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 07 Oct 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/google-street-view/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Google&#39;s on Vancouver Streets</title>
+				<link>https://shiv.me/posts/2009/googles-on-vancouver-streets/</link>
+				<pubDate>Wed, 07 Oct 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/googles-on-vancouver-streets/</guid>
+				<description>&lt;p&gt;Google street view is now available for Vancouver, Canada. So, the big G has finally realized that people living outside the US might find use for google&amp;rsquo;s products.&lt;/p&gt;&#xA;&lt;p&gt;I work here&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://maps.google.com/maps?cbp=12,311.24,,0,-17.93&amp;amp;cbll=49.259248,-123.007981&amp;amp;ll=49.259248,-123.007981&amp;amp;layer=c&#34;&gt;View Larger Map&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;And I sleep here&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://maps.google.com/maps?cbp=12,182.7,,0,-10.97&amp;amp;cbll=49.280821,-122.817243&amp;amp;ll=49.280821,-122.817243&amp;amp;layer=c&#34;&gt;View Larger Map&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

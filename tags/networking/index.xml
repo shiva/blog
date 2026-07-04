@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Networking on Reflections</title>
-    <link>http://blog.shiv.me/tags/networking/</link>
-    <description>Recent content in Networking on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Fri, 02 Jan 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/networking/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Are you using Open-DNS?</title>
-      <link>http://blog.shiv.me/posts/2009/are-you-using-open-dns/</link>
-      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/are-you-using-open-dns/</guid>
-      <description>Are you using Open-DNS?</description>
-    </item>
-    <item>
-      <title>SNMP tutorials</title>
-      <link>http://blog.shiv.me/posts/2005/snmp-tutorials/</link>
-      <pubDate>Thu, 06 Oct 2005 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2005/snmp-tutorials/</guid>
-      <description>SNMP tutorials</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Networking on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/networking/</link>
+		<description>Recent content in Networking on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Fri, 02 Jan 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Are you using Open-DNS?</title>
+				<link>https://shiv.me/posts/2009/are-you-using-open-dns/</link>
+				<pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/are-you-using-open-dns/</guid>
+				<description>&lt;p&gt;You should be using Open-DNS, if you answer yes to one of the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Are you frustrated with crazy-long wait times before even the website url shows up?&lt;/li&gt;&#xA;&lt;li&gt;Is your ISP is a cheapo-*#$% using a crappy machine for DNS, and you wait enough to count the seconds between pressing enter and the little thingy on the browser status bar says &amp;ldquo;done&amp;rdquo;?&lt;/li&gt;&#xA;&lt;li&gt;Are you subject to phishing attacks?&lt;/li&gt;&#xA;&lt;li&gt;Do you want peace of mind?&lt;/li&gt;&#xA;&lt;li&gt;Do you want auto-correction of urls?&lt;/li&gt;&#xA;&lt;li&gt;Want to block your teen from accessing &amp;ldquo;excessive&amp;rdquo; porn?&lt;/li&gt;&#xA;&lt;li&gt;Do you need a new dog to carry you paper?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.opendns.com/&#34;&gt;OpenDNS&lt;/a&gt; is for you (well, for the dog, you&amp;rsquo;ll have to move your ass and get one yourself).  It is quite trivial to setup and really speeds up your browsing speed. You can can set it up for each computer that you use, or better still, change the configuration on your router, which would apply across all machine connected through that router.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>SNMP tutorials</title>
+				<link>https://shiv.me/posts/2005/snmp-tutorials/</link>
+				<pubDate>Thu, 06 Oct 2005 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2005/snmp-tutorials/</guid>
+				<description>&lt;p&gt;SNMP being the bread and butter for me, I decided to dig up some tutorials and links regarding the same.&lt;br&gt;&#xA;For the uninitiated, SNMP is short for Simple Network Management Protocol, and is a protocol used to manage network devices such as routers, switches etc.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.simpleweb.org/&#34;&gt;Simple Web&lt;/a&gt; - Introduction to SNMP, and good set of tutorials&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.simple-times.org/pub/toc.html&#34;&gt;Simple Times&lt;/a&gt; - technical articles and featured columns&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.cisco.com/warp/public/535/3.html&#34;&gt;Cisco - SNMP Overview&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.cisco.com/univercd/cc/td/doc/cisintwk/ito_doc/snmp.htm&#34;&gt;Cisco - whitepaper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.snmplink.org/&#34;&gt;SnmpLink&lt;/a&gt; - Links to almost every possible SNMP resource&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
 </rss>

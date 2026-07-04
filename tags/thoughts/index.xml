@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Thoughts on Reflections</title>
-    <link>http://blog.shiv.me/tags/thoughts/</link>
-    <description>Recent content in Thoughts on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 24 Apr 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Linux, preinstalled on PCs - It about time</title>
-      <link>http://blog.shiv.me/posts/2007/linux-preinstalled-on-pcs-it-about-time/</link>
-      <pubDate>Tue, 24 Apr 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/linux-preinstalled-on-pcs-it-about-time/</guid>
-      <description>Linux, preinstalled on PCs - It about time</description>
-    </item>
-    <item>
-      <title>News?! Why buy</title>
-      <link>http://blog.shiv.me/posts/2007/news-why-buy/</link>
-      <pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/news-why-buy/</guid>
-      <description>News?! Why buy</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Thoughts on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/thoughts/</link>
+		<description>Recent content in Thoughts on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 24 Apr 2007 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Linux, preinstalled on PCs - It about time</title>
+				<link>https://shiv.me/posts/2007/linux-preinstalled-on-pcs-it-about-time/</link>
+				<pubDate>Tue, 24 Apr 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/linux-preinstalled-on-pcs-it-about-time/</guid>
+				<description>&lt;p&gt;And the timing is perfect. Mr Dell, as it turns out (a little Douglassy, eh? Don&amp;rsquo;t get it, read &amp;ldquo;Salmon of Doubt&amp;rdquo;, the last book by Douglas Adams, pg 27), runs Ubuntu, Feisty Fawn on his &lt;a href=&#34;http://www.dell.com/content/topics/global.aspx/corp/biographies/en/msd_computers&#34;&gt;home PC&lt;/a&gt;. Well, one of his PCs, he has four mamoths with 4GB RAM and a Quadro FX 3500 et al, costing well over $4000. Aparently, he also runs windows as well. Hmmm&amp;hellip; living the high life.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>News?! Why buy</title>
+				<link>https://shiv.me/posts/2007/news-why-buy/</link>
+				<pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/news-why-buy/</guid>
+				<description>&lt;p&gt;I ought to resist the temptation of writing posts full of only links to other blogs .. but this one is good&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.douglaskarr.com/2007/03/25/selling-news-is-dead/&#34; title=&#34;http://www.douglaskarr.com/2007/03/25/selling-news-is-dead/&#34;&gt;http://www.douglaskarr.com/2007/03/25/selling-news-is-dead/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;He talks about how &amp;ldquo;selling news is dead&amp;rdquo;. I thinks he hits the nail on the head with this one. When was the last time, that you read/saw, a news items that was worth buying the newspaper for?&lt;/p&gt;&#xA;&lt;p&gt;I can hardly remember the time, I needed to pick a newspaper, let alone buy one. Well, I do read a couple of articles once a week, on the papers that lie around in my office reception.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

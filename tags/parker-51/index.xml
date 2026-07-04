@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Parker 51 on Reflections</title>
-    <link>http://blog.shiv.me/tags/parker-51/</link>
-    <description>Recent content in Parker 51 on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 23 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/parker-51/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ink rotation - April 2014</title>
-      <link>http://blog.shiv.me/posts/2014/ink-rotation-april-2014/</link>
-      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2014/ink-rotation-april-2014/</guid>
-      <description>Ink rotation - April 2014</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Parker 51 on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/parker-51/</link>
+		<description>Recent content in Parker 51 on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 23 Apr 2014 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/parker-51/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ink rotation - April 2014</title>
+				<link>https://shiv.me/posts/2014/ink-rotation-april-2014/</link>
+				<pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2014/ink-rotation-april-2014/</guid>
+				<description>&lt;p&gt;I haven&amp;rsquo;t been very good with rotating the inks in the last year. Having accumulated more than my share of inks, it is time to have fewer pens inked and rotate colors.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/20140423-085227.jpg&#34; alt=&#34;20140423-085227.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I still couldn&amp;rsquo;t resist inking 9 pens! There are 3 pens I&amp;rsquo;m excited about &amp;ndash; 2 parker 51 and a custom pen made out of 10000 year-old bogwood (a gift from &lt;a href=&#34;http://tinaferan.com&#34;&gt;Christina&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/20140423-085350.jpg&#34; alt=&#34;20140423-085350.jpg&#34;&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

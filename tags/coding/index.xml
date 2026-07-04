@@ -1,158 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Coding on Reflections</title>
-    <link>http://blog.shiv.me/tags/coding/</link>
-    <description>Recent content in Coding on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 21 May 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/coding/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>More unix goodness</title>
-      <link>http://blog.shiv.me/posts/2012/more-nix-goodness/</link>
-      <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/more-nix-goodness/</guid>
-      <description>More unix goodness</description>
-    </item>
-    <item>
-      <title>Unsigned Arithmetic</title>
-      <link>http://blog.shiv.me/posts/2010/unsigned-arithmetic/</link>
-      <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/unsigned-arithmetic/</guid>
-      <description>Unsigned Arithmetic</description>
-    </item>
-    <item>
-      <title>Why does Java not support unsigned int? - Part 1</title>
-      <link>http://blog.shiv.me/posts/2010/why-no-unsigned-int-in-java/</link>
-      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/why-no-unsigned-int-in-java/</guid>
-      <description>Why does Java not support unsigned int? - Part 1</description>
-    </item>
-    <item>
-      <title>The devil is in the why?</title>
-      <link>http://blog.shiv.me/posts/2009/the-devil-is-in-the-why/</link>
-      <pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/the-devil-is-in-the-why/</guid>
-      <description>The devil is in the why?</description>
-    </item>
-    <item>
-      <title>Proposed GUI for C&#43;&#43; based twitter client</title>
-      <link>http://blog.shiv.me/posts/2008/twitter-client/</link>
-      <pubDate>Sat, 25 Oct 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/twitter-client/</guid>
-      <description>Proposed GUI for C&#43;&#43; based twitter client</description>
-    </item>
-    <item>
-      <title>Unix: removing duplicates from a file</title>
-      <link>http://blog.shiv.me/posts/2008/unix-removing-duplicates-from-a-file/</link>
-      <pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/unix-removing-duplicates-from-a-file/</guid>
-      <description>Unix: removing duplicates from a file</description>
-    </item>
-    <item>
-      <title>cvs - Getting list of files changed in the current tree</title>
-      <link>http://blog.shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</link>
-      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</guid>
-      <description>cvs - Getting list of files changed in the current tree</description>
-    </item>
-    <item>
-      <title>EX-SideRSS</title>
-      <link>http://blog.shiv.me/posts/2007/ex-siderss/</link>
-      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/ex-siderss/</guid>
-      <description>EX-SideRSS</description>
-    </item>
-    <item>
-      <title>Unix: how to check system configuration on solaris</title>
-      <link>http://blog.shiv.me/posts/2007/unix-how-to-check-system-configuration-on-solaris/</link>
-      <pubDate>Sat, 08 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/unix-how-to-check-system-configuration-on-solaris/</guid>
-      <description>Unix: how to check system configuration on solaris</description>
-    </item>
-    <item>
-      <title>Eventing mechanism between two java processes using HTTP persistent connections</title>
-      <link>http://blog.shiv.me/posts/2007/eventing-mechanism-between-two-java-processes-using-http-persistent-connections/</link>
-      <pubDate>Wed, 14 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/eventing-mechanism-between-two-java-processes-using-http-persistent-connections/</guid>
-      <description>Eventing mechanism between two java processes using HTTP persistent connections</description>
-    </item>
-    <item>
-      <title>Ideas: Plugins for Windows Live writer</title>
-      <link>http://blog.shiv.me/posts/2007/plugin-ideas-for-windows-live-writer/</link>
-      <pubDate>Tue, 30 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/plugin-ideas-for-windows-live-writer/</guid>
-      <description>Ideas: Plugins for Windows Live writer</description>
-    </item>
-    <item>
-      <title>The art of software development</title>
-      <link>http://blog.shiv.me/posts/2006/the-art-of-software-development/</link>
-      <pubDate>Fri, 29 Dec 2006 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2006/the-art-of-software-development/</guid>
-      <description>The art of software development</description>
-    </item>
-    <item>
-      <title>Mono and Sharpdevelop - A baby step</title>
-      <link>http://blog.shiv.me/posts/2006/mono-and-sharpdevelop-a-baby-step/</link>
-      <pubDate>Sun, 24 Dec 2006 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2006/mono-and-sharpdevelop-a-baby-step/</guid>
-      <description>Mono and Sharpdevelop - A baby step</description>
-    </item>
-    <item>
-      <title>AJAX toolkits that are hot!</title>
-      <link>http://blog.shiv.me/posts/2006/ajax-toolkits-to-use-that-are-hot/</link>
-      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2006/ajax-toolkits-to-use-that-are-hot/</guid>
-      <description>AJAX toolkits that are hot!</description>
-    </item>
-    <item>
-      <title>Tuning Garbage Collection</title>
-      <link>http://blog.shiv.me/posts/2006/tuning-garbage-collection/</link>
-      <pubDate>Tue, 22 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2006/tuning-garbage-collection/</guid>
-      <description>Tuning Garbage Collection</description>
-    </item>
-    <item>
-      <title>Convert byte\[\] to long in Java</title>
-      <link>http://blog.shiv.me/posts/2006/convert-byte-array-to-long-in-java/</link>
-      <pubDate>Tue, 23 May 2006 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2006/convert-byte-array-to-long-in-java/</guid>
-      <description>Convert byte\[\] to long in Java</description>
-    </item>
-    <item>
-      <title>Bug Fix: Boast Machine 3.1</title>
-      <link>http://blog.shiv.me/posts/2006/bug-fix-boast-machine-31/</link>
-      <pubDate>Tue, 09 May 2006 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2006/bug-fix-boast-machine-31/</guid>
-      <description>Bug Fix: Boast Machine 3.1</description>
-    </item>
-    <item>
-      <title>The wonder that is php</title>
-      <link>http://blog.shiv.me/posts/2005/the-wonder-that-is-php/</link>
-      <pubDate>Fri, 09 Dec 2005 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2005/the-wonder-that-is-php/</guid>
-      <description>The wonder that is php</description>
-    </item>
-    <item>
-      <title>VC&#43;&#43; Time</title>
-      <link>http://blog.shiv.me/posts/2005/vc-time/</link>
-      <pubDate>Wed, 08 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2005/vc-time/</guid>
-      <description>VC&#43;&#43; Time</description>
-    </item>
-    <item>
-      <title>Visual Studio .NET</title>
-      <link>http://blog.shiv.me/posts/2005/visual-studio-net/</link>
-      <pubDate>Fri, 03 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2005/visual-studio-net/</guid>
-      <description>Visual Studio .NET</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Coding on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/coding/</link>
+		<description>Recent content in Coding on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 21 May 2012 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>More unix goodness</title>
+				<link>https://shiv.me/posts/2012/more-nix-goodness/</link>
+				<pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2012/more-nix-goodness/</guid>
+				<description>&lt;p&gt;Ohh the unix command prompt, I love thee! Can you guess what these commands do?&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;&#xA;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2&#xA;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# grep -l &amp;lt;regex&amp;gt;  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# find . -name &amp;lt;regex&amp;gt; -delete  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>Unsigned Arithmetic</title>
+				<link>https://shiv.me/posts/2010/unsigned-arithmetic/</link>
+				<pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/unsigned-arithmetic/</guid>
+				<description>&lt;p&gt;Since my last post, I&amp;rsquo;ve had a couple of replies, a few more tweets, and few minutes of talking about unsigned types in Java, and why it doesn&amp;rsquo;t support them.&lt;/p&gt;&#xA;&lt;p&gt;I still retail the view that unsigned types are unnecessary for the majority of Java developers. The only kind that should care, are those who deal with network information (like representing an ipaddress or macaddress). Everyone, put down your forks, and do not touch the unsigned.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Why does Java not support unsigned int? - Part 1</title>
+				<link>https://shiv.me/posts/2010/why-no-unsigned-int-in-java/</link>
+				<pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/why-no-unsigned-int-in-java/</guid>
+				<description>&lt;p&gt;An interesting thing for me, is that if I am active on twitter during daytime in India (now that I&amp;rsquo;m here on vacation), I get to have some interesting conversations about design and development. Today, I chanced to talk about the lack of unsigned values support in Java.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://twitter.com/veechand&#34;&gt;&lt;img src=&#34;https://shiv.me/images/twitterProfilePhoto_normal.jpg&#34; alt=&#34;Veerabahu&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://twitter.com/veechand&#34; title=&#34;Veerabahu&#34;&gt;veechand&lt;/a&gt; is there unsigned int in #java support your answers &lt;a href=&#34;http://twitter.com/veechand/status/18214701290&#34;&gt;10 Jul 2010 &lt;/a&gt; from &lt;a href=&#34;http://www.tweetdeck.com&#34;&gt;TweetDeck&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://twitter.com/shiva&#34;&gt;&lt;img src=&#34;https://shiv.me/images/twitterProfilePhoto_normal.jpg&#34; alt=&#34;Shivanand Velmurugan&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://twitter.com/shiva&#34; title=&#34;Shivanand Velmurugan&#34;&gt;shiva&lt;/a&gt; &lt;a href=&#34;http://twitter.com/veechand&#34;&gt;@veechand&lt;/a&gt; nope. but use char instead. If you really want a type, you can define your own class backed by char &lt;a href=&#34;http://twitter.com/shiva/status/18326785358&#34;&gt;12 Jul 2010 &lt;/a&gt; from &lt;a href=&#34;http://itunes.apple.com/app/twitter/id333903271?mt=8&#34;&gt;Twitter for iPhone&lt;/a&gt; &lt;a href=&#34;http://twitter.com/veechand/status/18214701290&#34;&gt;in reply to veechand&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The devil is in the why?</title>
+				<link>https://shiv.me/posts/2009/the-devil-is-in-the-why/</link>
+				<pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/the-devil-is-in-the-why/</guid>
+				<description>&lt;p&gt;Recently I got asked, what the best way to do a join between two large lists,  into another list was? I always tend to answer that question with: it depends.&lt;/p&gt;&#xA;&lt;p&gt;Just like any other algorithm, there is no silver bullet. It is a trade off  between CPU and memory utilisation. Sometimes, we do have to think about these  things (this is code in c++ on a device with scarce resources, to say the  least).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Proposed GUI for C&#43;&#43; based twitter client</title>
+				<link>https://shiv.me/posts/2008/twitter-client/</link>
+				<pubDate>Sat, 25 Oct 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/twitter-client/</guid>
+				<description>&lt;p&gt;I got really sick of using Adobe AIR apps that take up more and more of system memory for an app that does twitter.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve decided to put my &amp;ldquo;coding for myself&amp;rdquo; hat on and write a QT based C++ application (that should be cross-platform). No name as yet, but I will find something soon. QtTwitter is taken. Mebbe, once I have a working version, I can get ownership of the project on google code.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Unix: removing duplicates from a file</title>
+				<link>https://shiv.me/posts/2008/unix-removing-duplicates-from-a-file/</link>
+				<pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/unix-removing-duplicates-from-a-file/</guid>
+				<description>&lt;p&gt;Over the last few months, I have re-discovered some unix commands (it&amp;rsquo;s been such a long time)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Eliminate duplicate lines from a file&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;#sort -u filename &amp;gt; filename.new&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;List all lines that do not match a condition&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;#grep -v ajsk filename&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Copy contents of two files to one&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;#cat file1 file2 &amp;gt; file3&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Append output of a command to a file&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;#cat file1 &amp;gt;&amp;gt; file2&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>cvs - Getting list of files changed in the current tree</title>
+				<link>https://shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</link>
+				<pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</guid>
+				<description>&lt;p&gt;The simple way to retreive the list of changed files would be to update the tree, which would then list the files updated.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;#cvs update . &amp;gt; filelist.dat&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;The problem with this, is that if there have been changes to other files after your last update, you will have to manually glean the files that you have changed. I tend face this, particularly during the last couple of weeks before a release, since you don&amp;rsquo;t want to risk updating your tree everyday, but still have to make 2/3 checkins. I did some googling today, and found how to find the list of files changed without updating your tree.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EX-SideRSS</title>
+				<link>https://shiv.me/posts/2007/ex-siderss/</link>
+				<pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/ex-siderss/</guid>
+				<description>&lt;p&gt;After several months of keeping away from updating or changing my website, I broke the fast today. I found a wonderful plugin, &lt;a href=&#34;http://www.underjc.com/?q=node/13&#34;&gt;sideRSS&lt;/a&gt;, which allows display of RSS feeds within a blog&amp;rsquo;s sidebar. As usual, I needed a specific functionality that was not supported the way I wanted it. I hacked it a little bit, renamed the plugin, and posted a custom version for download on my website.&lt;/p&gt;&#xA;&lt;p&gt;If you need to share Google Shared Items, on your blog, but hate to include javascript (like I do), then use this. You can download it &lt;a href=&#34;http://shvelmur.com/downloads/projects/ex-siderss.php&#34;&gt;here&lt;/a&gt; (right-click and use &amp;ldquo;Save Target As&amp;hellip;&amp;rdquo;) and find install information &lt;a href=&#34;http://shvelmur.com/wpress/projects/exsiderss/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Unix: how to check system configuration on solaris</title>
+				<link>https://shiv.me/posts/2007/unix-how-to-check-system-configuration-on-solaris/</link>
+				<pubDate>Sat, 08 Sep 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/unix-how-to-check-system-configuration-on-solaris/</guid>
+				<description>&lt;p&gt;I had to compare machine hardware today, and found information on that &lt;a href=&#34;http://esofthub.blogspot.com/2006/10/view-processor-speed-and-ram-size.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;**#prtdiag -v - **Gives hardware information about FSB, Sparc Model, CPU speed, RAM, Harddisks, USB drives (ie. PCI and networking slots) etc.&lt;/p&gt;&#xA;&lt;p&gt;Click on the image below, for a detailed overview of prtdiag&amp;rsquo;s output&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://shiv.me/images/3177597_b6727fa7f6_m.jpg&#34;&gt;&lt;img src=&#34;https://shiv.me/images/3177597_b6727fa7f6_m.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;#psrinfo -p&lt;/strong&gt; - lists number of physical processors .&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;#psrinfo -p -v&lt;/strong&gt; - list number of virtual processors (cores) per physical processor.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;#psrinfo -v&lt;/strong&gt; - detailed information for each virtual processor.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Eventing mechanism between two java processes using HTTP persistent connections</title>
+				<link>https://shiv.me/posts/2007/eventing-mechanism-between-two-java-processes-using-http-persistent-connections/</link>
+				<pubDate>Wed, 14 Feb 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/eventing-mechanism-between-two-java-processes-using-http-persistent-connections/</guid>
+				<description>&lt;p&gt;I have been twidling with HTTP Persistent connections in the last few weeks. Let me start at the beginning&lt;/p&gt;&#xA;&lt;p&gt;I needed to replace CORBA in a legacy application with something new. Ofcourse, there are a few alternatives out there, but I needed something very lightweight. The problem had two major parts&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Command Execution - Let the client, execute a function on the server-side and process the output data&lt;/li&gt;&#xA;&lt;li&gt;Eventing - Make clients register for events and wait until some events occur and the server transmits the required objects to the client side.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The Command execution was simple. Expose all services provided by the server as SOAP services and make the clients talk SOAP/XML, however SOAP involves a lot of overhead in terms of serialising the object into an XML stream and later decoding that. Since both the client and server were completely in Java, I just had to transport the Java object itself&lt;br&gt;&#xA;The event part, however, provided a challenge. I had restrictions on opening ports on the clients (Issues like firewalls, NAT, SSL support etc etc). So I chose to use HTTP itself to do eventing.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ideas: Plugins for Windows Live writer</title>
+				<link>https://shiv.me/posts/2007/plugin-ideas-for-windows-live-writer/</link>
+				<pubDate>Tue, 30 Jan 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/plugin-ideas-for-windows-live-writer/</guid>
+				<description>&lt;p&gt;Been using Windows Live Writer as my blog writing tool. Here are some plugins that I would definetly make my life much easier. If you are insterested in writing a plugin or would like to add to these requirements, do get in touch.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Extended Link insertion&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Link to different Search Engines (Google, Google Blog Search, Code search, Sun API search, Technocrati search etc.)&lt;/li&gt;&#xA;&lt;li&gt;Link to various product sites (Amazon, RitzCamera etc)&lt;/li&gt;&#xA;&lt;li&gt;Link to previously exisitng Posts&lt;/li&gt;&#xA;&lt;li&gt;Recent Links&lt;/li&gt;&#xA;&lt;li&gt;Links from clipboard&lt;/li&gt;&#xA;&lt;li&gt;Auto-link insertion based on certain keywords&lt;/li&gt;&#xA;&lt;li&gt;Multiple link inclusion - when this mode is enabled every word that is clicked on / selected should be added to a bucket, which can then be used to create links on.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Note-taking&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Separate interface for storing notes/ideas for blog entries&lt;/li&gt;&#xA;&lt;li&gt;Allow search across notes&lt;/li&gt;&#xA;&lt;li&gt;Auto-complete using phrases from existing notes (optional)&lt;/li&gt;&#xA;&lt;li&gt;Plugin for Firefox and IE to enable addition of notes by selecting text on browsers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Monetize&lt;/strong&gt; #&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Support for various ad tools like adsense, amazon associate etc.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;4&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Wordpress Style Support#&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Review Publishing#*&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wordpress plugin that allows to create a set of reviews for various products&lt;/li&gt;&#xA;&lt;li&gt;Allow access of reviews separate from posts. (can use a set of categories for this - similar to asides plugin)&lt;/li&gt;&#xA;&lt;li&gt;Allow posting to this through categories, or allow through a plugin in windows live writer as &amp;ldquo;write review&#39;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;6&#34;&gt;&#xA;&lt;li&gt;&lt;strong&gt;Drafts sync#&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Allow multiple instances of windows live writer to share drafts.&lt;/li&gt;&#xA;&lt;li&gt;upload selected drafts to wordpress&lt;/li&gt;&#xA;&lt;li&gt;check-box for using wordpress drafts instead of local drafts&lt;/li&gt;&#xA;&lt;li&gt;button for pulling drafts from wordpress and adding them to local drafts&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;# - might require extending existing XML-RPC (should be possible with wordpress)&lt;br&gt;&#xA;* - might require wordpress plugin&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The art of software development</title>
+				<link>https://shiv.me/posts/2006/the-art-of-software-development/</link>
+				<pubDate>Fri, 29 Dec 2006 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2006/the-art-of-software-development/</guid>
+				<description>&lt;p&gt;Though many disagree, and think of software development as a mundane, non-creative task, as Kevin Carlson@DDJ puts it aptly, it is a work of art!&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://www.ddj.com/debugblog/archives/2006/12/the_static_idea.html&#34;&gt;&amp;ldquo;I suppose the question is this: &amp;ldquo;where are the limits of the scientific approach in software development?&amp;rdquo; I mean, we are, ultimately, talking about an act of creation&amp;rdquo;&lt;/a&gt; -&lt;/em&gt; Kevin Carlson&lt;/p&gt;&#xA;&lt;p&gt;(note the nested quotes! ;) )&lt;/p&gt;&#xA;&lt;p&gt;Many of my non-IT friends have asked, how I keep myself interested and how I stand to sit (pun intended) in front of the PC for such long hours and not get burned out?! The reason for this question is partly, I guess, because not every developer that writes software, thinks of it as an art form, and hence most software automate mundane tasks .. users often do very boring stuff with computers .. stuff like filling forms, writing email etc.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Mono and Sharpdevelop - A baby step</title>
+				<link>https://shiv.me/posts/2006/mono-and-sharpdevelop-a-baby-step/</link>
+				<pubDate>Sun, 24 Dec 2006 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2006/mono-and-sharpdevelop-a-baby-step/</guid>
+				<description>&lt;p&gt;Having joined Novell recently, the opportunity to learn a bunch of new development skills has come up. Novell products make extensive use of the mono platform for applications development.&lt;/p&gt;&#xA;&lt;p&gt;After 4 long years, I find myself in need of re-learning some windows application development. I tried setting up mono on my windows pc, and encountered some peculiar issues. I had installed mono and then went looking around for an IDE. Well, monodevelop sounded kewl, and tried to get in compiled on windows. I found that I needed to setup cygwin if I need to build it, and another 100 MB download is not what I wanted to be doing.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>AJAX toolkits that are hot!</title>
+				<link>https://shiv.me/posts/2006/ajax-toolkits-to-use-that-are-hot/</link>
+				<pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2006/ajax-toolkits-to-use-that-are-hot/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://summerofcode.wordpress.com/2006/07/22/javascript-mochikit-php-x-tinymce-et-al/&#34; title=&#34;Permanent Link to JavaScript, MochiKit, PHP, X, TinyMCE et. al.&#34;&gt;JavaScript, MochiKit, PHP, X, TinyMCE et. al.&lt;/a&gt;Nice article comparing some AJAX toolkits that are talked about these days. Also Anant is doing a very kewl project for Google Summer of code, called GuideXML, an online AJAXified XML editor that is sponsored by Gentoo! Way to go Anant.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tuning Garbage Collection</title>
+				<link>https://shiv.me/posts/2006/tuning-garbage-collection/</link>
+				<pubDate>Tue, 22 Aug 2006 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2006/tuning-garbage-collection/</guid>
+				<description>&lt;p&gt;The much talked about and often cursed part of Java development is Garbage Collection.&lt;/p&gt;&#xA;&lt;p&gt;I often say, &lt;em&gt;&amp;ldquo;Writing code in Java is easy, but writing good code is extremely hard&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have listed a list of links at the end of this article that provides more detailed information.&lt;br&gt;&#xA;Resources:&lt;br&gt;&#xA;&lt;a href=&#34;http://java.sun.com/docs/hotspot/gc1.4.2/index.html&#34;&gt;http://java.sun.com/docs/hotspot/gc1.4.2/index.html&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;http://java.sun.com/docs/hotspot/PerformanceFAQ.html&#34;&gt;http://java.sun.com/docs/hotspot/PerformanceFAQ.html&lt;/a&gt;#1&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Convert byte\[\] to long in Java</title>
+				<link>https://shiv.me/posts/2006/convert-byte-array-to-long-in-java/</link>
+				<pubDate>Tue, 23 May 2006 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2006/convert-byte-array-to-long-in-java/</guid>
+				<description>&lt;p&gt;One more little thing that is painfully difficult to do in Java. (I love Java though ;) )&lt;br&gt;&#xA;There are two ways of getting it done.&lt;/p&gt;&#xA;&lt;p&gt;a. Cryptic but sweet! bring on the bit manipulators!&lt;br&gt;&#xA;&lt;code&gt;  private long getLong(byte[] mbytes) {   long lValue =0;   for (int i :  mbytes.length) {   lValue = (lValue&amp;lt; &amp;lt;8) | (mbytes[i] &amp;amp; 0xff);   }   return lValue;   }  &lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;b. painfully slow and created a gazzillon objects (sooo typically Java)&lt;br&gt;&#xA;write byte array to DataOutputStream, and read from corresponding input stream using readLong()&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Bug Fix: Boast Machine 3.1</title>
+				<link>https://shiv.me/posts/2006/bug-fix-boast-machine-31/</link>
+				<pubDate>Tue, 09 May 2006 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2006/bug-fix-boast-machine-31/</guid>
+				<description>&lt;p&gt;There is an issue with installing the latest version of boast machine v3.1.&lt;/p&gt;&#xA;&lt;p&gt;The message displayed during install is this&lt;br&gt;&#xA;&lt;code&gt;Error message : Invalid default value for &#39;author&#39;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;The problem is due to the following code in install.php&lt;br&gt;&#xA;&lt;code&gt;author INT(10) NOT NULL default &#39; &#39;,&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;This should be changed to&lt;br&gt;&#xA;&lt;code&gt;author INT(10) NOT NULL ,&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://shvelmur.com/wpress/wp-admin/install.php&#34; title=&#34;install patch for Boast Machine 3.1&#34;&gt;install patch for Boast Machine 3.1&lt;br&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;*Note: Right-click and save target as / Save link as&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The wonder that is php</title>
+				<link>https://shiv.me/posts/2005/the-wonder-that-is-php/</link>
+				<pubDate>Fri, 09 Dec 2005 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2005/the-wonder-that-is-php/</guid>
+				<description>&lt;p&gt;PHP is an incredibly easy to use scripting language and yesterday I had my first meeting with it.&lt;/p&gt;&#xA;&lt;p&gt;Yeah, I know I support and fix some issues in wordpress, but that just requires programming knowledge, and not exactly great php exposure. But yesterday, I wrote a small tool to track some timesheet info, in php and the whole thing took about 1.5 hours to complete. Slick UI, storing and retreiving from DB et al!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>VC&#43;&#43; Time</title>
+				<link>https://shiv.me/posts/2005/vc-time/</link>
+				<pubDate>Wed, 08 Jun 2005 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2005/vc-time/</guid>
+				<description>&lt;p&gt;Started working in VC.NET. The Visual Studio 2005 BETA is out! really kewl stuff. I simply love the IDE enhancements&lt;br&gt;&#xA;I had to port an application from VC6 to VC.NET. It was such a breeze. a little googling and most of the issues are under control&lt;br&gt;&#xA;Will post an article on it sometime&lt;/p&gt;&#xA;&lt;p&gt;I also got myself, the GoF Design Patterns book! simply amazing and such a great read, I must say&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Visual Studio .NET</title>
+				<link>https://shiv.me/posts/2005/visual-studio-net/</link>
+				<pubDate>Fri, 03 Jun 2005 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2005/visual-studio-net/</guid>
+				<description>&lt;p&gt;Visual Studio .NET 2003 is kewl.. I mean really kewl! The work flow is a hugely improved. Quick, a breeze to install and work with.&lt;br&gt;&#xA;and VS 2005 sounds even better, Check out the Express editions at &lt;a href=&#34;http://lab.msdn.microsoft.com/express/&#34;&gt;http://lab.msdn.microsoft.com/express/&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

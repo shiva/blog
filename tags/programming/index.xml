@@ -1,88 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Programming on Reflections</title>
-    <link>http://blog.shiv.me/tags/programming/</link>
-    <description>Recent content in Programming on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/programming/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Structed Object Definition Language (SODL)</title>
-      <link>http://blog.shiv.me/projects/sodl/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/projects/sodl/</guid>
-      <description>Structed Object Definition Language (SODL)</description>
-    </item>
-    <item>
-      <title>Working with large C codebases</title>
-      <link>http://blog.shiv.me/posts/2016/working-with-large-c-codebases/</link>
-      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2016/working-with-large-c-codebases/</guid>
-      <description>Time saving bash aliases for a C developer</description>
-    </item>
-    <item>
-      <title>Elixir - A crash course</title>
-      <link>http://blog.shiv.me/posts/2016/elixir-crash-course/</link>
-      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2016/elixir-crash-course/</guid>
-      <description>Basics in Elixir, especially the deviations from the norm</description>
-    </item>
-    <item>
-      <title>Somethings should be obvious, but are not, obviously</title>
-      <link>http://blog.shiv.me/posts/2014/obvious-but-not/</link>
-      <pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2014/obvious-but-not/</guid>
-      <description>Somethings should be obvious, but are not, obviously</description>
-    </item>
-    <item>
-      <title>More unix goodness</title>
-      <link>http://blog.shiv.me/posts/2012/more-nix-goodness/</link>
-      <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/more-nix-goodness/</guid>
-      <description>More unix goodness</description>
-    </item>
-    <item>
-      <title>Badly punctuated parameter list in #define</title>
-      <link>http://blog.shiv.me/posts/2011/badly-punctuated-parameter-list/</link>
-      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/badly-punctuated-parameter-list/</guid>
-      <description>Badly punctuated parameter list in #define</description>
-    </item>
-    <item>
-      <title>Power of 2</title>
-      <link>http://blog.shiv.me/posts/2010/power/</link>
-      <pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/power/</guid>
-      <description>Power of 2</description>
-    </item>
-    <item>
-      <title>Why does Java not support unsigned int? - Part 1</title>
-      <link>http://blog.shiv.me/posts/2010/why-no-unsigned-int-in-java/</link>
-      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/why-no-unsigned-int-in-java/</guid>
-      <description>Why does Java not support unsigned int? - Part 1</description>
-    </item>
-    <item>
-      <title>The Holy Grail and the Programmer&#39;s High</title>
-      <link>http://blog.shiv.me/posts/2009/the-holy-grail-and-the-programmers-high/</link>
-      <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/the-holy-grail-and-the-programmers-high/</guid>
-      <description>The Holy Grail and the Programmer&amp;#39;s High</description>
-    </item>
-    <item>
-      <title>The devil is in the why?</title>
-      <link>http://blog.shiv.me/posts/2009/the-devil-is-in-the-why/</link>
-      <pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/the-devil-is-in-the-why/</guid>
-      <description>The devil is in the why?</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Programming on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/programming/</link>
+		<description>Recent content in Programming on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Structed Object Definition Language (SODL)</title>
+				<link>https://shiv.me/projects/sodl/</link>
+				<pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/projects/sodl/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The Structured Object Definition Language (SODL) is a domain-specific language designed for defining data structures, relationships, and constraints in a clear and organized manner. Files written in SODL use the &lt;code&gt;.sodl&lt;/code&gt; extension, reflecting the language&amp;rsquo;s focus on structured object definitions. SODL provides a rich set of constructs that allow developers to model complex data relationships while maintaining type safety and data integrity.&lt;/p&gt;&#xA;&lt;p&gt;The name &amp;ldquo;Structured Object Definition Language&amp;rdquo; reflects the language&amp;rsquo;s core purpose: it provides a structured way to define objects and their relationships in a data model. The &amp;ldquo;Structured&amp;rdquo; aspect emphasizes its systematic approach to organizing data definitions, while &amp;ldquo;Object Definition&amp;rdquo; highlights its primary focus on defining data objects and their properties.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Working with large C codebases</title>
+				<link>https://shiv.me/posts/2016/working-with-large-c-codebases/</link>
+				<pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2016/working-with-large-c-codebases/</guid>
+				<description>&lt;h3 id=&#34;searching-for-symbols&#34;&gt;Searching for symbols&lt;/h3&gt;&#xA;&lt;p&gt;The product that I work on, has over 22 million lines of source &amp;ndash; most of it a nightmare. I use vim as my editor of choice &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. Both cscope and ctags (integrated into vim), allow me to quickly move between files and lookup definitions of symbols, and help in understanding the challenge-du-jour.&lt;/p&gt;&#xA;&lt;p&gt;Throw in fuzzy find capabilities of the most awesome &lt;a href=&#34;https://github.com/kien/ctrlp.vim&#34;&gt;Ctrl+p plugin&lt;/a&gt;, and vim becomes the best &amp;lsquo;IDE&amp;rsquo; out there!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Elixir - A crash course</title>
+				<link>https://shiv.me/posts/2016/elixir-crash-course/</link>
+				<pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2016/elixir-crash-course/</guid>
+				<description>&lt;p&gt;These are notes from the &lt;a href=&#34;http://elixir-lang.org/getting-started/&#34;&gt;official Elixir documentation&lt;/a&gt;. It a quick walk-through of the unique features in Elixir for someone coming from years of C &amp;mdash; a way for me to remember and use as a reference.&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#types&#34;&gt;Types&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#operators&#34;&gt;Operators&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#control-structures&#34;&gt;Control Structures&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;types&#34;&gt;Types&lt;/h2&gt;&#xA;&lt;h3 id=&#34;atoms&#34;&gt;Atoms&lt;/h3&gt;&#xA;&lt;p&gt;Named contants with a value. &lt;code&gt;true&lt;/code&gt; and &lt;code&gt;false&lt;/code&gt; are atoms.&lt;/p&gt;&#xA;&lt;h3 id=&#34;strings&#34;&gt;Strings&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Supports unicode string natively! It&amp;rsquo;s about time. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;&#xA;&lt;li&gt;You can concatenate strings using &lt;code&gt;&amp;lt;&amp;gt;&lt;/code&gt;. &lt;code&gt;&amp;quot;hello&amp;quot; &amp;lt;&amp;gt; &amp;quot; world&amp;quot;&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;anonymous-functions&#34;&gt;Anonymous functions&lt;/h3&gt;&#xA;&lt;p&gt;Native support for closures &amp;ndash; called anonymous functions. Also, functions are first-class, i.e. can be passed as arguments into other functions. Special syntax is required to invoke ananymous functions.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Somethings should be obvious, but are not, obviously</title>
+				<link>https://shiv.me/posts/2014/obvious-but-not/</link>
+				<pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2014/obvious-but-not/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Update: Apparently, I had accidentally hit a minor bug in pew. This has now been &lt;a href=&#34;https://github.com/berdario/invewrapper/issues/21&#34;&gt;fixed&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Every so often, we spend several hours battling an issue, fighting linux or python or people or thoughts. The solution, often, leaps out when there has been a respite in the constant search for the solution. It&amp;rsquo;s the &amp;ldquo;duh&amp;rdquo; moment, that all of us feel. There is a little self-loathing, and relief at having arrived at solution. It is a moment of great pleasure, that I have learned to relish.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>More unix goodness</title>
+				<link>https://shiv.me/posts/2012/more-nix-goodness/</link>
+				<pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2012/more-nix-goodness/</guid>
+				<description>&lt;p&gt;Ohh the unix command prompt, I love thee! Can you guess what these commands do?&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;&#xA;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2&#xA;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# grep -l &amp;lt;regex&amp;gt;  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# find . -name &amp;lt;regex&amp;gt; -delete  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>Badly punctuated parameter list in #define</title>
+				<link>https://shiv.me/posts/2011/badly-punctuated-parameter-list/</link>
+				<pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/badly-punctuated-parameter-list/</guid>
+				<description>&lt;p&gt;Sometimes working with an old c compiler brings up painful, yet fun-filled days of making it speak the same language as you, and sometimes you just go &amp;ldquo;*$&amp;amp;%*$#&amp;amp;% you piece of sh** compiler&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;I had one such moment today, and after I had returned to Zen (some soul-searching and some google searching), I realized it quite simple.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;&#xA;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7&#xA;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ gmake  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;...  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;...  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;some_file.h:42: badly punctuated parameter list in &lt;span class=&#34;se&#34;&gt;\`&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#define&amp;#39;  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;some_file.h:64: badly punctuated parameter list in &lt;span class=&#34;se&#34;&gt;\`&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#define&amp;#39;  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Failed to compile  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&lt;p&gt;This was caused by the following:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Power of 2</title>
+				<link>https://shiv.me/posts/2010/power/</link>
+				<pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/power/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s been a while since I&amp;rsquo;ve done anything except write code &amp;ndash; lots of it. The last 20 days have been insane, and ofcourse to a take a break from writing code, I like to read code that others write. (You DO know that I&amp;rsquo;m crazy, right?!). In one of my futile attempts at clearing my google-reader reading list, I chanced upon a post by &lt;a href=&#34;http://veechand.wordpress.com/about/&#34;&gt;Veerabahu&lt;/a&gt;, on finding if a number is a power of 2 (or not).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Why does Java not support unsigned int? - Part 1</title>
+				<link>https://shiv.me/posts/2010/why-no-unsigned-int-in-java/</link>
+				<pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/why-no-unsigned-int-in-java/</guid>
+				<description>&lt;p&gt;An interesting thing for me, is that if I am active on twitter during daytime in India (now that I&amp;rsquo;m here on vacation), I get to have some interesting conversations about design and development. Today, I chanced to talk about the lack of unsigned values support in Java.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://twitter.com/veechand&#34;&gt;&lt;img src=&#34;https://shiv.me/images/twitterProfilePhoto_normal.jpg&#34; alt=&#34;Veerabahu&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://twitter.com/veechand&#34; title=&#34;Veerabahu&#34;&gt;veechand&lt;/a&gt; is there unsigned int in #java support your answers &lt;a href=&#34;http://twitter.com/veechand/status/18214701290&#34;&gt;10 Jul 2010 &lt;/a&gt; from &lt;a href=&#34;http://www.tweetdeck.com&#34;&gt;TweetDeck&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://twitter.com/shiva&#34;&gt;&lt;img src=&#34;https://shiv.me/images/twitterProfilePhoto_normal.jpg&#34; alt=&#34;Shivanand Velmurugan&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://twitter.com/shiva&#34; title=&#34;Shivanand Velmurugan&#34;&gt;shiva&lt;/a&gt; &lt;a href=&#34;http://twitter.com/veechand&#34;&gt;@veechand&lt;/a&gt; nope. but use char instead. If you really want a type, you can define your own class backed by char &lt;a href=&#34;http://twitter.com/shiva/status/18326785358&#34;&gt;12 Jul 2010 &lt;/a&gt; from &lt;a href=&#34;http://itunes.apple.com/app/twitter/id333903271?mt=8&#34;&gt;Twitter for iPhone&lt;/a&gt; &lt;a href=&#34;http://twitter.com/veechand/status/18214701290&#34;&gt;in reply to veechand&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Holy Grail and the Programmer&#39;s High</title>
+				<link>https://shiv.me/posts/2009/the-holy-grail-and-the-programmers-high/</link>
+				<pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/the-holy-grail-and-the-programmers-high/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.scripting.com/stories/2007/02/21/daveWinerBio.html&#34;&gt;Dave Winer&lt;/a&gt;, the inventor of RSS, wrote today about twitter&amp;rsquo;s latest API update for supporting the &lt;a href=&#34;http://blog.twitter.com/2009/09/soon-to-launch-lists.html&#34;&gt;lists feature&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It turns out there&amp;rsquo;s an API call that retrieves the timeline for a list, and it works exactly like the API call that retrieves the timeline for an account. So much so that I didn&amp;rsquo;t even have to change the &lt;a href=&#34;http://listings.opml.org/verbs/apps/twitter/getTimeLine.html&#34;&gt;glue script&lt;/a&gt;, I pass in a &lt;a href=&#34;http://images.scripting.com/archiveScriptingCom/2009/10/25/gluescript.gif&#34;&gt;different URL&lt;/a&gt; and it just worked &amp;gt; &lt;a href=&#34;http://www.scripting.com/stories/2009/10/25/goodApiDesignAtTwitter.html&#34;&gt;orig link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I wonder if there can be a better award?! Dave Winer applauding twitter?! I never thought I&amp;rsquo;d see the day ;) (Just kidding Dave). Dave&amp;rsquo;s right though. There is a certain high that you get when something just works (as it was intended). That is the high that we programmers live for. It&amp;rsquo;s like a runner&amp;rsquo;s high.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The devil is in the why?</title>
+				<link>https://shiv.me/posts/2009/the-devil-is-in-the-why/</link>
+				<pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/the-devil-is-in-the-why/</guid>
+				<description>&lt;p&gt;Recently I got asked, what the best way to do a join between two large lists,  into another list was? I always tend to answer that question with: it depends.&lt;/p&gt;&#xA;&lt;p&gt;Just like any other algorithm, there is no silver bullet. It is a trade off  between CPU and memory utilisation. Sometimes, we do have to think about these  things (this is code in c++ on a device with scarce resources, to say the  least).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

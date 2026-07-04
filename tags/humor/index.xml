@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Humor on Reflections</title>
-    <link>http://blog.shiv.me/tags/humor/</link>
-    <description>Recent content in Humor on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Fri, 16 Feb 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/humor/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Filmi funda</title>
-      <link>http://blog.shiv.me/posts/2007/filmi-funda/</link>
-      <pubDate>Fri, 16 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/filmi-funda/</guid>
-      <description>Filmi funda</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Humor on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/humor/</link>
+		<description>Recent content in Humor on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Fri, 16 Feb 2007 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/humor/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Filmi funda</title>
+				<link>https://shiv.me/posts/2007/filmi-funda/</link>
+				<pubDate>Fri, 16 Feb 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/filmi-funda/</guid>
+				<description>&lt;p&gt;Some news from the Kolloywood.&lt;br&gt;&#xA;Check out the latest pictures of &lt;a href=&#34;http://en.wikipedia.org/wiki/Kamal_Haasan&#34;&gt;Kamal Hassan&lt;/a&gt; in Dasa &lt;a href=&#34;http://www.universalherokamal.com/UniversalHeroKamal/others/Magazine/ShowMagazine.aspx?Magazine=kunkumam_04FEB2007#&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;In other news, Vijaykanth is infurious..&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Vijayakanth: Naan Jaya TV mela Case podanum..!&lt;br&gt;&#xA;Police : Yedhuku Captian?&lt;br&gt;&#xA;VK : Naan Katchi arambichathai &amp;ldquo;Vilaiyaattu Seithiyila pottu irukiraanga&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;End of the world nearing, doomsayer cry&amp;hellip;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;_First world war 1914 &amp;mdash;&amp;mdash;- DEATH: 10000&lt;br&gt;&#xA;__Second World war 1943 &amp;mdash;- DEATH: 150000&lt;br&gt;&#xA;_&lt;em&gt;Ajith&amp;rsquo;s ALWAR 2006 &amp;mdash;&amp;ndash; Apocalypse &amp;hellip; end of the world&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

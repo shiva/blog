@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Holy Grail on Reflections</title>
-    <link>http://blog.shiv.me/tags/holy-grail/</link>
-    <description>Recent content in Holy Grail on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 26 Oct 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/holy-grail/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Holy Grail and the Programmer&#39;s High</title>
-      <link>http://blog.shiv.me/posts/2009/the-holy-grail-and-the-programmers-high/</link>
-      <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/the-holy-grail-and-the-programmers-high/</guid>
-      <description>The Holy Grail and the Programmer&amp;#39;s High</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Holy Grail on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/holy-grail/</link>
+		<description>Recent content in Holy Grail on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/holy-grail/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Holy Grail and the Programmer&#39;s High</title>
+				<link>https://shiv.me/posts/2009/the-holy-grail-and-the-programmers-high/</link>
+				<pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/the-holy-grail-and-the-programmers-high/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.scripting.com/stories/2007/02/21/daveWinerBio.html&#34;&gt;Dave Winer&lt;/a&gt;, the inventor of RSS, wrote today about twitter&amp;rsquo;s latest API update for supporting the &lt;a href=&#34;http://blog.twitter.com/2009/09/soon-to-launch-lists.html&#34;&gt;lists feature&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It turns out there&amp;rsquo;s an API call that retrieves the timeline for a list, and it works exactly like the API call that retrieves the timeline for an account. So much so that I didn&amp;rsquo;t even have to change the &lt;a href=&#34;http://listings.opml.org/verbs/apps/twitter/getTimeLine.html&#34;&gt;glue script&lt;/a&gt;, I pass in a &lt;a href=&#34;http://images.scripting.com/archiveScriptingCom/2009/10/25/gluescript.gif&#34;&gt;different URL&lt;/a&gt; and it just worked &amp;gt; &lt;a href=&#34;http://www.scripting.com/stories/2009/10/25/goodApiDesignAtTwitter.html&#34;&gt;orig link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I wonder if there can be a better award?! Dave Winer applauding twitter?! I never thought I&amp;rsquo;d see the day ;) (Just kidding Dave). Dave&amp;rsquo;s right though. There is a certain high that you get when something just works (as it was intended). That is the high that we programmers live for. It&amp;rsquo;s like a runner&amp;rsquo;s high.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

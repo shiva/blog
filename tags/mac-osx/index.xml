@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Mac OSX on Reflections</title>
-    <link>http://blog.shiv.me/tags/mac-osx/</link>
-    <description>Recent content in Mac OSX on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sat, 23 Jul 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/mac-osx/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>OSX Lion. A first look (at 2 AM)</title>
-      <link>http://blog.shiv.me/posts/2011/osx-lion-a-first-look-at-2-am/</link>
-      <pubDate>Sat, 23 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/osx-lion-a-first-look-at-2-am/</guid>
-      <description>OSX Lion. A first look (at 2 AM)</description>
-    </item>
-    <item>
-      <title>I&#39;m getting an os upgrade for 10 bucks!</title>
-      <link>http://blog.shiv.me/posts/2009/im-getting-an-os-upgrade-for-10-bucks/</link>
-      <pubDate>Fri, 28 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/im-getting-an-os-upgrade-for-10-bucks/</guid>
-      <description>I&amp;#39;m getting an os upgrade for 10 bucks!</description>
-    </item>
-    <item>
-      <title>Biting the &#34;Mac&#34; Bullet</title>
-      <link>http://blog.shiv.me/posts/2008/biting-the-mac-bullet/</link>
-      <pubDate>Sat, 15 Mar 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/biting-the-mac-bullet/</guid>
-      <description>Biting the &amp;#34;Mac&amp;#34; Bullet</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Mac OSX on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/mac-osx/</link>
+		<description>Recent content in Mac OSX on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sat, 23 Jul 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/mac-osx/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>OSX Lion. A first look (at 2 AM)</title>
+				<link>https://shiv.me/posts/2011/osx-lion-a-first-look-at-2-am/</link>
+				<pubDate>Sat, 23 Jul 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/osx-lion-a-first-look-at-2-am/</guid>
+				<description>&lt;p&gt;Just upgraded to OSX Lion. A very slick interface.&lt;/p&gt;&#xA;&lt;p&gt;Quick Review:&lt;/p&gt;&#xA;&lt;p&gt;1. Launchpad. Solved previously by Alfred in the GUI, and bash aliases on the command line.&lt;/p&gt;&#xA;&lt;p&gt;2. Mission Control. Eye-candy. Will probably use it until I get tired of all the moving windows, and stick to Cmd+arrow keys to switch desktops. Maybe normal users will find it useful. But then, most people don&amp;rsquo;t want anything that increases their workflow complexity. Most of them have trouble keeping track of more than a couple of windows, let alone, 10s of them (which I think is what features like Mission Control will promote)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>I&#39;m getting an os upgrade for 10 bucks!</title>
+				<link>https://shiv.me/posts/2009/im-getting-an-os-upgrade-for-10-bucks/</link>
+				<pubDate>Fri, 28 Aug 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/im-getting-an-os-upgrade-for-10-bucks/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://shiv.me/images/snow-leopard-shipment.jpg.scaled.500.jpg&#34;&gt;&lt;img src=&#34;https://shiv.me/images/snow-leopard-shipment.jpg.scaled.500.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;With Snow Leopard, Apple has the first time done something that has made me go wow! An almost free OS upgrade. This kinda beats the crap out of paying a couple hundred for Win7.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;[Posted via email from posterous - service no longer available]&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Biting the &#34;Mac&#34; Bullet</title>
+				<link>https://shiv.me/posts/2008/biting-the-mac-bullet/</link>
+				<pubDate>Sat, 15 Mar 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/biting-the-mac-bullet/</guid>
+				<description>&lt;p&gt;I did it! I finally went out and bought myself a mac. I didn&amp;rsquo;t waver. No! Not this time.Â I knew exactly what I wanted, and I was going to get it, come what may!&lt;/p&gt;&#xA;&lt;p&gt;I have to confess that I have been pretty &lt;a href=&#34;http://shvelmur.com/2008/01/29/that-queasy-feeling/&#34;&gt;critical of Apple&lt;/a&gt; and&lt;a href=&#34;http://shvelmur.com/2008/01/18/bye-bye-ipod/&#34;&gt;its policies&lt;/a&gt;. I still am. Nothing has changed my opinion of Apple as a company, in particular, it&amp;rsquo;s marketing team. The ipod touch price changes lead me to those conclusions.I liked the ipod touch&amp;rsquo;s interface and engineering, but when I first booted up my MacBook (Penryn-based) I was completely taken aback. The first time I booted my laptop, it was completely usable. Within a few hours, I had a few applications installed (open source ones), tweeted, seesmiced my first video, and was having fun, in general. The Mac experience was very very close to the ideal computing experience ever. (Yeah, it is that big a deal).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

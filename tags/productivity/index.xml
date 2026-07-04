@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Productivity on Reflections</title>
-    <link>http://blog.shiv.me/tags/productivity/</link>
-    <description>Recent content in Productivity on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sat, 07 Jun 2025 14:30:00 -0800</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The undone made possible</title>
-      <link>http://blog.shiv.me/posts/2025/the-undone-made-possible/</link>
-      <pubDate>Sat, 07 Jun 2025 14:30:00 -0800</pubDate>
-      <guid>http://blog.shiv.me/posts/2025/the-undone-made-possible/</guid>
-      <description>How AI helped a chronic procrastinator complete two decade-old projects</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Productivity on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/productivity/</link>
+		<description>Recent content in Productivity on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sat, 07 Jun 2025 14:30:00 -0800</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The undone made possible</title>
+				<link>https://shiv.me/posts/2025/the-undone-made-possible/</link>
+				<pubDate>Sat, 07 Jun 2025 14:30:00 -0800</pubDate>
+				<guid>https://shiv.me/posts/2025/the-undone-made-possible/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/undone-made-possible-cover.webp&#34; alt=&#34;Cover Photo&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Code waits patient,&lt;br&gt;&#xA;Dreams gather digital dust—&lt;br&gt;&#xA;Until machines learn.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;We all have them—that long list of projects, ideas, and tasks that are left incomplete. Like a cluttered kitchen drawer ignored until you wedge the oversized scissors between the back and the roof of the cabinet, we leave piles of neglected items in the wake of our busy lives. There is a special kind of mental malaise that comes from carrying around ideas and tasks, relegating them to purgatory. That app concept left unfinished just after you figured out how to add 1,700 dependencies to your React app and spent eight hours learning the nuances of MVVM. The data analysis you &lt;em&gt;meant&lt;/em&gt; to complete to dispel misinformation spouted by Elon about who did meaningful work based on the number of lines of code committed. The project around the house you need to do every year, but can’t be done because you don’t have the time to do the required research. These orphaned possibilities accumulate over the years. And I have a very long list.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

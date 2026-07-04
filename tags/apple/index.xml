@@ -1,109 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Apple on Reflections</title>
-    <link>http://blog.shiv.me/tags/apple/</link>
-    <description>Recent content in Apple on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 21 Jul 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/apple/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to apologize to your users</title>
-      <link>http://blog.shiv.me/posts/2013/how-to-apologize-to-your-users/</link>
-      <pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2013/how-to-apologize-to-your-users/</guid>
-      <description>How to apologize to your users</description>
-    </item>
-    <item>
-      <title>RIP Steve Jobs</title>
-      <link>http://blog.shiv.me/posts/2011/rip-steve-jobs/</link>
-      <pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/rip-steve-jobs/</guid>
-      <description>RIP Steve Jobs</description>
-    </item>
-    <item>
-      <title>iPad and friends</title>
-      <link>http://blog.shiv.me/posts/2011/ipad-and-friends/</link>
-      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/ipad-and-friends/</guid>
-      <description>iPad and friends</description>
-    </item>
-    <item>
-      <title>You cribbing bunch of morons</title>
-      <link>http://blog.shiv.me/posts/2011/you-cribbing-bunch-of-morons/</link>
-      <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/you-cribbing-bunch-of-morons/</guid>
-      <description>You cribbing bunch of morons</description>
-    </item>
-    <item>
-      <title>No matter what we say</title>
-      <link>http://blog.shiv.me/posts/2011/no-matter-what-we-say/</link>
-      <pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/no-matter-what-we-say/</guid>
-      <description>No matter what we say</description>
-    </item>
-    <item>
-      <title>iCaved</title>
-      <link>http://blog.shiv.me/posts/2010/icaved/</link>
-      <pubDate>Sat, 29 May 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/icaved/</guid>
-      <description>iCaved</description>
-    </item>
-    <item>
-      <title>The day-after the &#34;big&#34; day</title>
-      <link>http://blog.shiv.me/posts/2010/the-day-after-the-big-day/</link>
-      <pubDate>Fri, 14 May 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/the-day-after-the-big-day/</guid>
-      <description>The day-after the &amp;#34;big&amp;#34; day</description>
-    </item>
-    <item>
-      <title>So long and thanks for the &#34;jailed&#34; iphone</title>
-      <link>http://blog.shiv.me/posts/2010/so-long-and-thanks-for-the-jailed-iphone/</link>
-      <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/so-long-and-thanks-for-the-jailed-iphone/</guid>
-      <description>So long and thanks for the &amp;#34;jailed&amp;#34; iphone</description>
-    </item>
-    <item>
-      <title>iPad is iBad petition</title>
-      <link>http://blog.shiv.me/posts/2010/ipad-is-ibad-petition/</link>
-      <pubDate>Thu, 04 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/ipad-is-ibad-petition/</guid>
-      <description>iPad is iBad petition</description>
-    </item>
-    <item>
-      <title>\[Jason\] The Case Against Apple--in Five Parts</title>
-      <link>http://blog.shiv.me/posts/2009/jason-the-case-against-apple-in-five-parts-3/</link>
-      <pubDate>Sat, 08 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/jason-the-case-against-apple-in-five-parts-3/</guid>
-      <description>\[Jason\] The Case Against Apple--in Five Parts</description>
-    </item>
-    <item>
-      <title>That queasy feeling</title>
-      <link>http://blog.shiv.me/posts/2008/that-queasy-feeling/</link>
-      <pubDate>Tue, 29 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/that-queasy-feeling/</guid>
-      <description>That queasy feeling</description>
-    </item>
-    <item>
-      <title>IPod touch 1.1.1 firmware link</title>
-      <link>http://blog.shiv.me/posts/2008/ipod-touch-111-firmware-link/</link>
-      <pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/ipod-touch-111-firmware-link/</guid>
-      <description>IPod touch 1.1.1 firmware link</description>
-    </item>
-    <item>
-      <title>Apple iMplant</title>
-      <link>http://blog.shiv.me/posts/2005/apple-implant/</link>
-      <pubDate>Wed, 26 Oct 2005 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2005/apple-implant/</guid>
-      <description>Apple iMplant</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Apple on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/apple/</link>
+		<description>Recent content in Apple on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 21 Jul 2013 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>How to apologize to your users</title>
+				<link>https://shiv.me/posts/2013/how-to-apologize-to-your-users/</link>
+				<pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2013/how-to-apologize-to-your-users/</guid>
+				<description>&lt;p&gt;There has been an &lt;a href=&#34;http://www.osaware.com/2013/05/03/a-timeline-of-companies-that-have-been-hacked-in-2013/&#34;&gt;increase&lt;/a&gt; in &lt;a href=&#34;http://www.forbes.com/sites/ericbasu/2013/06/26/help-my-yahoo-account-was-hacked-forensic-on-the-latest-yahoo-attack/&#34;&gt;security&lt;/a&gt; &lt;a href=&#34;http://www.pcgamer.com/2013/07/03/ubisoft-accounts-hacked-email-addresses-and-passwords-compromised/&#34;&gt;breaches&lt;/a&gt; this year. This past week, two services I use were compromised - &lt;a href=&#34;http://staff.tumblr.com/post/55648373578/important-security-update-for-iphone-ipad-users&#34;&gt;Tumblr&lt;/a&gt; and &lt;a href=&#34;http://www.loopinsight.com/2013/07/21/apple-comments-on-developer-site-hack/&#34;&gt;Apple Developer Connection&lt;/a&gt;. Both services informed me of the security breach, and one made me feel like they cared, and the other one didn&amp;rsquo;t. Perhaps I am reading too much into this, but at the very least, it illustrates how important language is, in conveying how much we care.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/apple-sec-mail-468x300.jpg&#34; alt=&#34;Apple Security Mail&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Apple&amp;rsquo;s mail is clear, concise and inspires confidence in their ability to take care of my information. They state the purpose of this communication, tell me what they did about it, and what they were going to do to fix it in the future. &lt;em&gt;&lt;strong&gt;Update&lt;/strong&gt;: Apparently, it was a &lt;a href=&#34;http://techcrunch.com/2013/07/21/apple-confirms-that-the-dev-center-has-potentially-been-breached-by-hackers/?hubRefSrc=permalink#lf_comment=87472293&#34;&gt;whitehat security guy doing his thing&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>RIP Steve Jobs</title>
+				<link>https://shiv.me/posts/2011/rip-steve-jobs/</link>
+				<pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/rip-steve-jobs/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://plus.google.com/117377434815709898403/posts&#34;&gt;DeWitt Clinton&lt;/a&gt; once &lt;a href=&#34;http://blog.unto.net/on_great_engineers_part_2/&#34;&gt;wrote&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;What are the hallmarks of a great engineer? A great engineer is characterized by their intelligence, versatility, creativity, loyalty, passion, experience, vision, dedication, composure, humility, and ability.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Apart from the &amp;ldquo;humility&amp;rdquo; part, which he never cared for, Steve Jobs was the epitome of that description. We shall miss you Mr. Jobs, especially for that keen sense of doing something perfectly.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.apple.com/stevejobs/&#34;&gt;RIP Steve Jobs&lt;/a&gt;, the maker of beautiful things.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>iPad and friends</title>
+				<link>https://shiv.me/posts/2011/ipad-and-friends/</link>
+				<pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/ipad-and-friends/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://blog.shiv.me/wp-content/uploads/2011/05/20110501-112322.jpg&#34;&gt;&lt;img src=&#34;https://shiv.me/images/20110501-112322.jpg&#34; alt=&#34;20110501-112322.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s been a year since I &lt;a href=&#34;http://blog.shiv.me/2010/05/29/icaved.html&#34;&gt;sold my kidneys for an iPad&lt;/a&gt;. It&amp;rsquo;s been fun. It has replaced every other device I own (ie, a couple of PCs and the nexus one). It&amp;rsquo;s an outright winner, when it comes to reading, especially long-form articles, and books alike. It has become my go-to machine for everyday news, twitter/facebook, and even for browsing my favorite photographers.&lt;/p&gt;&#xA;&lt;p&gt;It have however remained strictly in the realm of content consumption &amp;ndash; until now. In the last few days, I&amp;rsquo;ve added a stylus - the &lt;a href=&#34;http://www.amazon.com/gp/product/B003ZSHKIY/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=shivanand-20&amp;amp;linkCode=as2&amp;amp;camp=217145&amp;amp;creative=399349&amp;amp;creativeASIN=B003ZSHKIY&#34;&gt;Targus iPad stylus&lt;/a&gt; (available quite readily at most &amp;lsquo;best-buy&amp;rsquo;s, and on &lt;a href=&#34;http://www.amazon.com/gp/product/B003ZSHKIY/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=shivanand-20&amp;amp;linkCode=as2&amp;amp;camp=217145&amp;amp;creative=399349&amp;amp;creativeASIN=B003ZSHKIY&#34;&gt;Amazon&lt;/a&gt;), and the &lt;a href=&#34;http://www.amazon.com/gp/product/B003K1EYM6/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=keepinintouch-20&amp;amp;linkCode=as2&amp;amp;camp=217145&amp;amp;creative=399353&amp;amp;creativeASIN=B003K1EYM6&#34;&gt;iPad&amp;rsquo;s camera connect kit&lt;/a&gt;. If you own an iPad (v1 or v2) I would recommend that you fork out the moolah for these two. It will be the best $50 you&amp;rsquo;ll ever spend on accessories for the iPad. Forget the cool looking &lt;a href=&#34;http://store.apple.com/us/product/MC942?mco=MTM3NjE5ODE&#34;&gt;smart cover&lt;/a&gt;. These will be more rewarding than the 2 hours of thrill of watching the smart cover turn off the ipad when you close it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>You cribbing bunch of morons</title>
+				<link>https://shiv.me/posts/2011/you-cribbing-bunch-of-morons/</link>
+				<pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/you-cribbing-bunch-of-morons/</guid>
+				<description>&lt;p&gt;And now you&amp;rsquo;ve done it!! Bah! I thought it was so cool that I could plot of heat map of my location for a full year. With &lt;a href=&#34;http://www.wired.com/gadgetlab/2011/04/iphone-customers-lawsuit-data/&#34;&gt;all&lt;/a&gt; &lt;a href=&#34;http://gigaom.com/2011/04/21/researcher-iphone-location-data-already-used-by-cops/&#34;&gt;the&lt;/a&gt; &lt;a href=&#34;http://www.wired.com/gadgetlab/2011/04/iphone-location/&#34;&gt;cribbing&lt;/a&gt; around the internets about how the iphone is not secure because it stores data (ie a cache of your location data), Apple has decided to squash this wonderful &amp;ldquo;easter egg&amp;rdquo;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Sometime in the next few weeks Apple will release a free iOS software update that:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>No matter what we say</title>
+				<link>https://shiv.me/posts/2011/no-matter-what-we-say/</link>
+				<pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/no-matter-what-we-say/</guid>
+				<description>&lt;p&gt;If you weren&amp;rsquo;t in a hole the past few days, you would have heard about the iPad 2 launch. Here&amp;rsquo;s Conan&amp;rsquo;s take on it.&lt;/p&gt;&#xA;&lt;p&gt;I must say, the cover is a thing of engineering beauty. Kudos on that, Apple, and thanks for screwing over several thousands of your iPad 1 customers, who forked up 9.5 Billion in revenue in 9 months.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>iCaved</title>
+				<link>https://shiv.me/posts/2010/icaved/</link>
+				<pubDate>Sat, 29 May 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/icaved/</guid>
+				<description>&lt;p&gt;I did it. I &lt;a href=&#34;http://blog.shiv.me/2010/02/03/i-too-have-something-to-say-about-the-ipad.html&#34;&gt;said&lt;/a&gt; &lt;a href=&#34;http://blog.shiv.me/2010/02/04/ipad-is-ibad-petition.html&#34;&gt;I&lt;/a&gt; &lt;a href=&#34;http://blog.shiv.me/2010/03/16/so-long-and-thanks-for-the-jailed-iphone.html&#34;&gt;wouldn&amp;rsquo;t&lt;/a&gt;. I said I will hold out for purely &lt;a href=&#34;http://blog.shiv.me/2010/02/03/i-too-have-something-to-say-about-the-ipad.html&#34;&gt;ethical reasons&lt;/a&gt;, but it is &lt;a href=&#34;http://twitter.com/shiva/status/14946052410&#34;&gt;very hard to resist the iPad&lt;/a&gt;. The first impression in-store is simply &amp;ndash; awesome. This of course is not a surprise and is something that one can expect from apple these days.&lt;/p&gt;&#xA;&lt;p&gt;Warning: This is a long post ..&lt;/p&gt;&#xA;&lt;p&gt;Here are some thoughts, after a day of use:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;It&amp;rsquo;s fast. Much faster than the iPhone 3GS. This is good news for the upcoming iPhone.&lt;/li&gt;&#xA;&lt;li&gt;The battery lasts a really long time. It was around 80% and I used it for incessantly until it died 7/8 hours later. The a4 processor is at this point THE chip to kill for. If you have any samsung shares, I would dump them now, and load up on apple (although they are a tad &lt;a href=&#34;http://www.google.com/finance?q=aapl&#34;&gt;pricy&lt;/a&gt; these days)&lt;/li&gt;&#xA;&lt;li&gt;iPhone apps are useless and look ugly on the iPad. Don&amp;rsquo;t bother synching any of them&lt;/li&gt;&#xA;&lt;li&gt;The keyboard is a lot more usable that I thought it would be. I&amp;rsquo;m typing this post at about 60-70% of my usual typing speed. (Only true if inclined at an proper angle &amp;ndash; the perfect angle: the one you get with the iPad case).&lt;/li&gt;&#xA;&lt;li&gt;I missed the universal back button. I&amp;rsquo;ve been spoiled by the &lt;a href=&#34;http://blog.shiv.me/2010/03/16/so-long-and-thanks-for-the-jailed-iphone.html&#34;&gt;freedom-toting nexus one robot&lt;/a&gt; ;)&lt;/li&gt;&#xA;&lt;li&gt;Other small annoyances include URL copy pasting between apps, and how the app store lists apps. Exiting the app store every time I install an app is also mind-numbing. I know I can use a Mac and install all apps at one go, but I didn&amp;rsquo;t spend a 1000 dollars for workarounds.&lt;/li&gt;&#xA;&lt;li&gt;Although I could type very well, creating a blog post is not this device&amp;rsquo;s forte. For one, all the switching back and forth, is a nightmare, and there is simply no way to get the links to apps for instance from the ipad. Adding images is a pain as well (which is why this is a purely text-only post). It is really nice until you want to go beyond its function as a consumption device. Even a little, and it makes you want to get to a mac/pc in a hurry.&lt;/li&gt;&#xA;&lt;li&gt;Some apps are just stellar, that make it worthwhile go through the above mentioned niggles.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t feel any remorse at having bought it, but at the same time, I&amp;rsquo;m not floored by everything either. That is actually the strength of the device. It is the first time a computing device completely disappears and you interact with data. The experience depends on the app that you are using. Instapaper does a great job, so does the gmail web app.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The day-after the &#34;big&#34; day</title>
+				<link>https://shiv.me/posts/2010/the-day-after-the-big-day/</link>
+				<pubDate>Fri, 14 May 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/the-day-after-the-big-day/</guid>
+				<description>&lt;p&gt;I turned 30 yesterday.&lt;/p&gt;&#xA;&lt;p&gt;A whole day has passed since I left my 20s. They say it is a big day. They say it is a dreaded day. It was neither. Just busy (which is good).&lt;/p&gt;&#xA;&lt;p&gt;I chanced upon [Douglas Adams&amp;rsquo; post][1] from 1999:&lt;/p&gt;&#xA;&lt;p&gt;&amp;gt; 1. everything that&amp;rsquo;s already in the world when you&amp;rsquo;re born is just normal;&lt;br&gt;&#xA;&amp;gt; 2. anything that gets invented between then and before you turn thirty is incredibly exciting and creative and with any luck you can make a career out of it;&lt;br&gt;&#xA;&amp;gt; 3. anything that gets invented after you&amp;rsquo;re thirty is against the natural order of things and the beginning of the end of civilisation as we know it until it&amp;rsquo;s been around for about ten years when it gradually turns out to be alright really.&lt;br&gt;&#xA;&amp;gt; Apply this list to movies, rock music, word processors and mobile phones to work out how old you are.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>So long and thanks for the &#34;jailed&#34; iphone</title>
+				<link>https://shiv.me/posts/2010/so-long-and-thanks-for-the-jailed-iphone/</link>
+				<pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/so-long-and-thanks-for-the-jailed-iphone/</guid>
+				<description>&lt;p&gt;[caption id=&amp;ldquo;attachment_737&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;]&lt;a href=&#34;http://blog.shiv.me/wp-content/uploads/2010/03/Nexus-One-Phone-Choose-a-phone.png&#34;&gt;&lt;img src=&#34;https://shiv.me/images/Nexus-One-Phone-Choose-a-phone-300x195.png&#34; alt=&#34;Google Nexus is available in Canada&#34;&gt;&lt;/a&gt; So long oppression[/caption]&lt;/p&gt;&#xA;&lt;p&gt;Thanks for the iPhone, Mr. Jobs. There is a new way to protest the iPhone. I don&amp;rsquo;t have to &lt;a href=&#34;http://blog.shiv.me/2010/02/04/ipad-is-ibad-petition/&#34;&gt;sign petitions&lt;/a&gt; anymore. I can now take my $500 &lt;a href=&#34;http://bit.ly/cXseFC&#34;&gt;elsewhere&lt;/a&gt;, for a slightly more open experience. I &lt;a href=&#34;http://blog.shiv.me/2010/02/03/i-too-have-something-to-say-about-the-ipad/&#34;&gt;didn&amp;rsquo;t ask for much&lt;/a&gt;, but I don&amp;rsquo;t have to wait on your whim any longer (no offense meant to you personally, Mr Jobs).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>iPad is iBad petition</title>
+				<link>https://shiv.me/posts/2010/ipad-is-ibad-petition/</link>
+				<pubDate>Thu, 04 Feb 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/ipad-is-ibad-petition/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.defectivebydesign.org/ipad&#34;&gt;http://www.defectivebydesign.org/ipad&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you think that the iPad is promoting DRM of apps that will lead computing in a direction that will undermine the freedom that we currently are enjoying, freedom the seeds of which have been sown over the last few decades, the visit the link above and sign the petition.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>\[Jason\] The Case Against Apple--in Five Parts</title>
+				<link>https://shiv.me/posts/2009/jason-the-case-against-apple-in-five-parts-3/</link>
+				<pubDate>Sat, 08 Aug 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/jason-the-case-against-apple-in-five-parts-3/</guid>
+				<description>&lt;p&gt;Hi Jason,&lt;/p&gt;&#xA;&lt;p&gt;I was writing a post very much on the same lines, when I read your mail. I&amp;rsquo;m on my 3rd ipod, 1st iphone and 2nd MBP (one which I ordered just last week). I don&amp;rsquo;t think I can in the right mind buy another iphone or ipod for the amount of control that apple gets.&lt;/p&gt;&#xA;&lt;p&gt;1. Absolutely. This is a no-brainer, that I&amp;rsquo;m frankly surprised that Steve Jobs does not see?! Well not really. Apple has always been a closed company. I was under the impression that Apple was a *hardware* company. This behaviour of blocking other applications from talking to Apple products is not only insane, and unfair to the consumer, it quite frankly against the interest of Apple shareholders. I&amp;rsquo;m pretty sure that having more ways to access data on Apple devices will have a direct impact on the sales of those products. Any product manager or marketeer who has desgined/sold electronics products will see the sense in this.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>That queasy feeling</title>
+				<link>https://shiv.me/posts/2008/that-queasy-feeling/</link>
+				<pubDate>Tue, 29 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/that-queasy-feeling/</guid>
+				<description>&lt;p&gt;A few days ago, I returned the Ipod touch that I had for exactly 11 days, coz Apple chose to charge me $20. Apart from me being a cheap bas***d, I had this queasy feeling in my gut, about apple products. I felt an unexplainable rage towards Apple, Jobs and the fanboys. I am usually a very moderate person, and it really surprised me that I could harbor such crazy extremism and frustration. I could never place a finger on the source, until I read &lt;a href=&#34;http://www.codinghorror.com/archives/001044.html&#34;&gt;this article&lt;/a&gt; on Coding Horror by Jeff Atwood.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IPod touch 1.1.1 firmware link</title>
+				<link>https://shiv.me/posts/2008/ipod-touch-111-firmware-link/</link>
+				<pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/ipod-touch-111-firmware-link/</guid>
+				<description>&lt;p&gt;Since Apple&amp;rsquo;s is so bent upon &lt;a href=&#34;http://news.google.com/news/url?sa=t&amp;amp;ct=:ePkh8BM9g5ucBze5BG5yqhADkgWZeQBzjQYG/0-1&amp;amp;fp=478d8859dc34a86c&amp;amp;ei=vFuNR_i1EoOErQPTnYCHAg&amp;amp;url=http%3A//lifehacker.com/345114/iphone-ipod-touch-firmware-update-adds-faux%2bgps-multi%2bsms-and-more&amp;amp;cid=1126385834&amp;amp;sig2=kF9GGYFfNYp9px-jCahoww&#34;&gt;disappointing &lt;/a&gt;&lt;a href=&#34;http://www.google.com/url?sa=t&amp;amp;ct=res&amp;amp;cd=1&amp;amp;url=http%3A%2F%2Fwww.apple.com%2Fhotnews%2Fopeniphoneletter%2F&amp;amp;ei=-VuNR_LbH5vCgAP97MXfBg&amp;amp;usg=AFQjCNFD-104d-f8j6eMkH4FtIXQnPei7w&amp;amp;sig2=47vb7ATncfgGpDWP79PQgA&#34;&gt;their &lt;/a&gt;customers, by introducing paid firmware upgrades, I needed to ensure that I have the option to jail break, my new ipod touch (if need be). (update: the firmware upgrade itself is not paid. Only the newapps are paid). I am going to wait until they &lt;a href=&#34;http://www.google.com/url?sa=t&amp;amp;ct=res&amp;amp;cd=3&amp;amp;url=http%3A%2F%2Fwww.tuaw.com%2F2007%2F10%2F17%2Fapple-we-plan-to-have-an-iphone-sdk-in-developers-hands-in-fe%2F&amp;amp;ei=b1yNR-yLLYuQgwPzybHfBg&amp;amp;usg=AFQjCNEU4lvFx4EHi5SZE2s06qT7lNiBGg&amp;amp;sig2=Wi1NE6pO4ZjVXzyIje6FAw&#34;&gt;release their SDK in February&lt;/a&gt; before I jailbreak mine.&lt;/p&gt;&#xA;&lt;p&gt;I found a link to the &lt;a href=&#34;http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPod/SBML/osx/bundles/061-3932.20070927.p23dD/iPod1,1_1.1.1_3A110a_Restore.ipsw&#34;&gt;1.1.1 firmware&lt;/a&gt; (thanks to &lt;a href=&#34;http://rupertgee.wordpress.com/2007/12/02/downgraderestore-ipod-touch-firmware-to-version-111-using-os-x/&#34;&gt;Rupert&lt;/a&gt; and who-ever posted &lt;a href=&#34;http://forums.hardwarezone.com/showpost.php?p=26755502&amp;amp;postcount=40&#34;&gt;this&lt;/a&gt;).&lt;br&gt;&#xA;I have a copy on my hard-drive (just in case).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Apple iMplant</title>
+				<link>https://shiv.me/posts/2005/apple-implant/</link>
+				<pubDate>Wed, 26 Oct 2005 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2005/apple-implant/</guid>
+				<description>&lt;p&gt;Have you heard about the latest ipod.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.bbspot.com/News/2005/01/new&#34;&gt;http://www.bbspot.com/News/2005/01/new&lt;/a&gt;_ipod_implant.html&lt;br&gt;&#xA;&lt;a href=&#34;http://news.com.com/5208-7354-0.html?forumID=1&amp;amp;threadID=4129&amp;amp;messageID=24004&amp;amp;start=-1&#34;&gt;http://news.com.com/5208-7354-0.html?forumID=1&amp;amp;threadID=4129&amp;amp;messageID=24004&amp;amp;start=-1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is amazing.. Imagine being able to have a device implanted in your body, with which you cantrol with your thought, and which will use your brain as a hardrive, and use blood sugar as a battery cell.&lt;/p&gt;&#xA;&lt;p&gt;Eerie thought envelop me, when I think of what could be?!! Living the matrix ?!!&lt;br&gt;&#xA;It is not only the body heat that can be a source of energy (like in &amp;ldquo;The Matrix&amp;rdquo;), even human blood sugar can be harnesed!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

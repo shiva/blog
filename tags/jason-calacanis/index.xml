@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Jason Calacanis on Reflections</title>
-    <link>http://blog.shiv.me/tags/jason-calacanis/</link>
-    <description>Recent content in Jason Calacanis on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sat, 08 Aug 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/jason-calacanis/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>\[Jason\] The Case Against Apple--in Five Parts</title>
-      <link>http://blog.shiv.me/posts/2009/jason-the-case-against-apple-in-five-parts-3/</link>
-      <pubDate>Sat, 08 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/jason-the-case-against-apple-in-five-parts-3/</guid>
-      <description>\[Jason\] The Case Against Apple--in Five Parts</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Jason Calacanis on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/jason-calacanis/</link>
+		<description>Recent content in Jason Calacanis on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sat, 08 Aug 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/jason-calacanis/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>\[Jason\] The Case Against Apple--in Five Parts</title>
+				<link>https://shiv.me/posts/2009/jason-the-case-against-apple-in-five-parts-3/</link>
+				<pubDate>Sat, 08 Aug 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/jason-the-case-against-apple-in-five-parts-3/</guid>
+				<description>&lt;p&gt;Hi Jason,&lt;/p&gt;&#xA;&lt;p&gt;I was writing a post very much on the same lines, when I read your mail. I&amp;rsquo;m on my 3rd ipod, 1st iphone and 2nd MBP (one which I ordered just last week). I don&amp;rsquo;t think I can in the right mind buy another iphone or ipod for the amount of control that apple gets.&lt;/p&gt;&#xA;&lt;p&gt;1. Absolutely. This is a no-brainer, that I&amp;rsquo;m frankly surprised that Steve Jobs does not see?! Well not really. Apple has always been a closed company. I was under the impression that Apple was a *hardware* company. This behaviour of blocking other applications from talking to Apple products is not only insane, and unfair to the consumer, it quite frankly against the interest of Apple shareholders. I&amp;rsquo;m pretty sure that having more ways to access data on Apple devices will have a direct impact on the sales of those products. Any product manager or marketeer who has desgined/sold electronics products will see the sense in this.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

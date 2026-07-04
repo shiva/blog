@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>CVS on Reflections</title>
-    <link>http://blog.shiv.me/tags/cvs/</link>
-    <description>Recent content in CVS on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 23 Jun 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/cvs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>cvs - Getting list of files changed in the current tree</title>
-      <link>http://blog.shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</link>
-      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</guid>
-      <description>cvs - Getting list of files changed in the current tree</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>CVS on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/cvs/</link>
+		<description>Recent content in CVS on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 23 Jun 2008 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/cvs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>cvs - Getting list of files changed in the current tree</title>
+				<link>https://shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</link>
+				<pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/cvs-getting-list-of-files-changed-in-the-current-tree/</guid>
+				<description>&lt;p&gt;The simple way to retreive the list of changed files would be to update the tree, which would then list the files updated.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;#cvs update . &amp;gt; filelist.dat&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;The problem with this, is that if there have been changes to other files after your last update, you will have to manually glean the files that you have changed. I tend face this, particularly during the last couple of weeks before a release, since you don&amp;rsquo;t want to risk updating your tree everyday, but still have to make 2/3 checkins. I did some googling today, and found how to find the list of files changed without updating your tree.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

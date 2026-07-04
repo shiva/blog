@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Akismet on Reflections</title>
-    <link>http://blog.shiv.me/tags/akismet/</link>
-    <description>Recent content in Akismet on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 11 Apr 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/akismet/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wordpress commended for lack of spam</title>
-      <link>http://blog.shiv.me/posts/2007/wordpress-commended-for-lack-of-spam/</link>
-      <pubDate>Wed, 11 Apr 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/wordpress-commended-for-lack-of-spam/</guid>
-      <description>Wordpress commended for lack of spam</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Akismet on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/akismet/</link>
+		<description>Recent content in Akismet on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 11 Apr 2007 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/akismet/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wordpress commended for lack of spam</title>
+				<link>https://shiv.me/posts/2007/wordpress-commended-for-lack-of-spam/</link>
+				<pubDate>Wed, 11 Apr 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/wordpress-commended-for-lack-of-spam/</guid>
+				<description>&lt;p&gt;Me and thousands of other people, continue to use wordpress, one of the leading blog management systems (sounds kewl, eh? ;) ), and proof that is it in fact leading is &lt;a href=&#34;http://www.plagiarismtoday.com/2007/04/09/why-wordpresscom-is-virtually-spam-free/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Apparently, &lt;a href=&#34;http://wordpress.com&#34;&gt;Wordpress.com&lt;/a&gt;, has the least spam, compared to other free blog-hosting services. The honored list of competitors, include the likes of google, myspace and AOL, each one of them goliaths! &lt;a href=&#34;http://en.wikipedia.org/wiki/Matt_Mullenweg&#34;&gt;Matt Mullenweg&lt;/a&gt;, the creator of &lt;a href=&#34;http://wordpress.org&#34;&gt;Wordpress&lt;/a&gt;, associates the success of wordpress.com spam protection to Akismet. This is something that I use now. I used spam-karma before this, which was pretty good, but with Akismet, it is almost zero-management.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Writing Code on Reflections</title>
-    <link>http://blog.shiv.me/tags/writing-code/</link>
-    <description>Recent content in Writing Code on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sat, 14 Feb 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/writing-code/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The devil is in the why?</title>
-      <link>http://blog.shiv.me/posts/2009/the-devil-is-in-the-why/</link>
-      <pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/the-devil-is-in-the-why/</guid>
-      <description>The devil is in the why?</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Writing Code on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/writing-code/</link>
+		<description>Recent content in Writing Code on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sat, 14 Feb 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/writing-code/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The devil is in the why?</title>
+				<link>https://shiv.me/posts/2009/the-devil-is-in-the-why/</link>
+				<pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/the-devil-is-in-the-why/</guid>
+				<description>&lt;p&gt;Recently I got asked, what the best way to do a join between two large lists,  into another list was? I always tend to answer that question with: it depends.&lt;/p&gt;&#xA;&lt;p&gt;Just like any other algorithm, there is no silver bullet. It is a trade off  between CPU and memory utilisation. Sometimes, we do have to think about these  things (this is code in c++ on a device with scarce resources, to say the  least).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

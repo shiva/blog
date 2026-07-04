@@ -1,46 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Unix Commands on Reflections</title>
-    <link>http://blog.shiv.me/tags/unix-commands/</link>
-    <description>Recent content in Unix Commands on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 31 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/unix-commands/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting git status on multiple directories</title>
-      <link>http://blog.shiv.me/posts/2014/git-status-multiple-directories/</link>
-      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2014/git-status-multiple-directories/</guid>
-      <description>Getting git status on multiple directories</description>
-    </item>
-    <item>
-      <title>Working with rpms (extract, list contents)</title>
-      <link>http://blog.shiv.me/posts/2013/work-with-rpms/</link>
-      <pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2013/work-with-rpms/</guid>
-      <description>Working with rpms (extract, list contents)</description>
-    </item>
-    <item>
-      <title>More unix goodness</title>
-      <link>http://blog.shiv.me/posts/2012/more-nix-goodness/</link>
-      <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/more-nix-goodness/</guid>
-      <description>More unix goodness</description>
-    </item>
-    <item>
-      <title>Unix: removing duplicates from a file</title>
-      <link>http://blog.shiv.me/posts/2008/unix-removing-duplicates-from-a-file/</link>
-      <pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/unix-removing-duplicates-from-a-file/</guid>
-      <description>Unix: removing duplicates from a file</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Unix Commands on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/unix-commands/</link>
+		<description>Recent content in Unix Commands on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 31 Mar 2014 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/unix-commands/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Getting git status on multiple directories</title>
+				<link>https://shiv.me/posts/2014/git-status-multiple-directories/</link>
+				<pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2014/git-status-multiple-directories/</guid>
+				<description>&lt;p&gt;At any given time, I have a handful of git repositories that I work on. While typing in the command-line is great, it getting tiring when you have a several directories that you have to manually change to and check. The &amp;ldquo;git status&amp;rdquo; command can take the git repo and the working directory as input. That, and a little bash programming to the rescue.&#xA;The following command, executes git status in every subdirectory that is a git repository.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Working with rpms (extract, list contents)</title>
+				<link>https://shiv.me/posts/2013/work-with-rpms/</link>
+				<pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2013/work-with-rpms/</guid>
+				<description>&lt;p&gt;Unix. I love thee!&lt;/p&gt;&#xA;&lt;p&gt;Extract an rpm without installing in to the current directory (really, the rpm command should support this):&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;   $ rpm2cpio myrpmfile.rpm | cpio -idmv&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;*i: Restore archive&lt;/p&gt;&#xA;&lt;p&gt;*d: Create leading directories where needed&lt;/p&gt;&#xA;&lt;p&gt;*m: Retain previous file modification times when creating files&lt;/p&gt;&#xA;&lt;p&gt;*v: Verbose i.e. display progress&lt;/p&gt;&#xA;&lt;p&gt;List contents of an rpm:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;  $ rpm -qlp myrpmfile.rpm  &lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.cyberciti.biz/tips/how-to-extract-an-rpm-package-without-installing-it.html&#34;&gt;source&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>More unix goodness</title>
+				<link>https://shiv.me/posts/2012/more-nix-goodness/</link>
+				<pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2012/more-nix-goodness/</guid>
+				<description>&lt;p&gt;Ohh the unix command prompt, I love thee! Can you guess what these commands do?&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;&#xA;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2&#xA;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# grep -l &amp;lt;regex&amp;gt;  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# find . -name &amp;lt;regex&amp;gt; -delete  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>Unix: removing duplicates from a file</title>
+				<link>https://shiv.me/posts/2008/unix-removing-duplicates-from-a-file/</link>
+				<pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/unix-removing-duplicates-from-a-file/</guid>
+				<description>&lt;p&gt;Over the last few months, I have re-discovered some unix commands (it&amp;rsquo;s been such a long time)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Eliminate duplicate lines from a file&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;#sort -u filename &amp;gt; filename.new&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;List all lines that do not match a condition&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;#grep -v ajsk filename&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Copy contents of two files to one&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;#cat file1 file2 &amp;gt; file3&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Append output of a command to a file&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;#cat file1 &amp;gt;&amp;gt; file2&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+	</channel>
 </rss>

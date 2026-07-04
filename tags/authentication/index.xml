@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Authentication on Reflections</title>
-    <link>http://blog.shiv.me/tags/authentication/</link>
-    <description>Recent content in Authentication on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 14 Jul 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/authentication/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting rid of passwords</title>
-      <link>http://blog.shiv.me/posts/2014/rid-of-passwords/</link>
-      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2014/rid-of-passwords/</guid>
-      <description>Getting rid of passwords</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Authentication on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/authentication/</link>
+		<description>Recent content in Authentication on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 14 Jul 2014 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/authentication/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Getting rid of passwords</title>
+				<link>https://shiv.me/posts/2014/rid-of-passwords/</link>
+				<pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2014/rid-of-passwords/</guid>
+				<description>&lt;p&gt;I hate passwords. Seems like several smart people are on the case of getting rid of the &amp;ldquo;password&amp;rdquo;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lucas Gonze, argues the &lt;a href=&#34;https://medium.com/@lucas_gonze/authentication-cargo-cults-ae98d8e359&#34;&gt;loss of meaning&lt;/a&gt; around design of user authentication mechanisms.&lt;/li&gt;&#xA;&lt;li&gt;A world without passwords! How will we identify each other? &lt;a href=&#34;https://medium.com/@ninjudd/passwords-are-obsolete-9ed56d483eb&#34;&gt;Exchange tokens&lt;/a&gt;. &lt;a href=&#34;https://blog.cotap.com/forget-passwords-passwordless-authentication/&#34;&gt;Make &amp;ldquo;forgot password&amp;rdquo; the default&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://medium.com/@gwestr/trust-without-passwords-c91146a96cef&#34;&gt;Passwords are the new pay-wall&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;A non-violent protest against the cruel overlord &amp;mdash; the &amp;ldquo;password&amp;rdquo;. Justin Balthrop, &lt;a href=&#34;https://medium.com/@ninjudd/lets-boycott-passwords-680d97eddb01&#34;&gt;calls for a boycott&lt;/a&gt; .&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://notes.xoxco.com/post/27999787765/is-it-time-for-password-less-login&#34;&gt;Several&lt;/a&gt; &lt;a href=&#34;http://notes.xoxco.com/post/28288684632/more-on-password-less-login&#34;&gt;alternatives&lt;/a&gt; to identify users &amp;mdash; promoting password-less login in your apps.&lt;/li&gt;&#xA;&lt;li&gt;Eran Hammer &amp;mdash; OAuth founder &amp;mdash; &lt;a href=&#34;http://hueniverse.com/2012/07/26/oauth-2-0-and-the-road-to-hell/&#34;&gt;gave up on OAuth 2.0&lt;/a&gt;. (An old link). Tim Bray &lt;a href=&#34;http://www.tbray.org/ongoing/When/201x/2012/07/28/Oauth2-dead&#34;&gt;didn&amp;rsquo;t take kindly&lt;/a&gt; to that post. Ahh IETF! You can grind the smartest minds to pulp. :)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
 </rss>

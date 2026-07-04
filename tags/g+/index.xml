@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>G&#43; on Reflections</title>
-    <link>http://blog.shiv.me/tags/g&#43;/</link>
-    <description>Recent content in G&#43; on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 28 Aug 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/g+/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>10 reasons to dump Facebook for G&#43;. Now!</title>
-      <link>http://blog.shiv.me/posts/2011/dump-fb-for-gplus/</link>
-      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/dump-fb-for-gplus/</guid>
-      <description>10 reasons to dump Facebook for G&#43;. Now!</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>G&#43; on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/g&#43;/</link>
+		<description>Recent content in G&#43; on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 28 Aug 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/g+/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>10 reasons to dump Facebook for G&#43;. Now!</title>
+				<link>https://shiv.me/posts/2011/dump-fb-for-gplus/</link>
+				<pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/dump-fb-for-gplus/</guid>
+				<description>&lt;p&gt;A friend asked what I like about google+, and as I started posting a reply , I noticed there were enough to make a blog post. So here goes&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a quick list:&lt;br&gt;&#xA;1. Mobile app on android and iphone are awesome!&lt;br&gt;&#xA;2. Automatic upload of pics on phone/picasa&lt;br&gt;&#xA;3. Non-crappy photos (allows 2400+px, and g+ renders pictures better, since they don&amp;rsquo;t mess with the image, if it is smaller than the max size)&lt;br&gt;&#xA;4. Easier to mention specific people in a conversation. (auto-completes ppl&amp;rsquo;s profile name)&lt;br&gt;&#xA;5. hangouts (free video conferencing)&lt;br&gt;&#xA;6. Group messaging done right (huddle) on the mobile phone&lt;br&gt;&#xA;7. decent integration with email (I guess this is just coz I use Gmail)&lt;br&gt;&#xA;8. Privacy - predictable and manageable (not that it matters to me)&lt;br&gt;&#xA;9. Much less noise (a - mostly used by techies for now, b - allows asymmetric relationships à la twitter)&lt;br&gt;&#xA;10. Keyboard shortcuts (J, K work. Someone at google like vi &amp;ndash; a lot)&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

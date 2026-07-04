@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Batman on Reflections</title>
-    <link>http://blog.shiv.me/tags/batman/</link>
-    <description>Recent content in Batman on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 21 Jul 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/batman/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Movie Review: The Dark Knight (spoiler alert)</title>
-      <link>http://blog.shiv.me/posts/2008/movie-review-the-dark-knight-spoiler-alert/</link>
-      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/movie-review-the-dark-knight-spoiler-alert/</guid>
-      <description>Movie Review: The Dark Knight (spoiler alert)</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Batman on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/batman/</link>
+		<description>Recent content in Batman on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 21 Jul 2008 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/batman/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Movie Review: The Dark Knight (spoiler alert)</title>
+				<link>https://shiv.me/posts/2008/movie-review-the-dark-knight-spoiler-alert/</link>
+				<pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/movie-review-the-dark-knight-spoiler-alert/</guid>
+				<description>&lt;p&gt;In a moment of mild insanity (actually more like boredom), I decided to watch the last show last night. I was plesantly surprised to find that the movie was playing in 2 theatres @ &lt;a href=&#34;http://www.cineplex.com/Theatres/TheatreDetails/C5CEF4DF/SilverCity_Coquitlam.aspx&#34;&gt;Silvercity, Coquitlam&lt;/a&gt;. With all the &lt;a href=&#34;http://news.google.ca/news?hl=en&amp;amp;q=batman&#34;&gt;hype&lt;/a&gt;, and the huge &lt;a href=&#34;http://www.cnn.com/2008/SHOWBIZ/Movies/07/20/boxoffice.ap/index.html&#34;&gt;revenue generation&lt;/a&gt; in the first week, the movie does deliver most of what it promises.&lt;/p&gt;&#xA;&lt;p&gt;Before you start reading the rest of the post, there are few items, that could give away the plot. I wonder if one needs to worry about the plot in Batman. Here&amp;rsquo;s the &lt;strong&gt;short version&lt;/strong&gt; of the review - &lt;strong&gt;watch it if you haven&amp;rsquo;t done so as yet. NOW!&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

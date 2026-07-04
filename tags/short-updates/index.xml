@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Short Updates on Reflections</title>
-    <link>http://blog.shiv.me/tags/short-updates/</link>
-    <description>Recent content in Short Updates on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 23 Apr 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/short-updates/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Twitter digests</title>
-      <link>http://blog.shiv.me/posts/2008/twitter-digests/</link>
-      <pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/twitter-digests/</guid>
-      <description>Twitter digests</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Short Updates on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/short-updates/</link>
+		<description>Recent content in Short Updates on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 23 Apr 2008 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/short-updates/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Twitter digests</title>
+				<link>https://shiv.me/posts/2008/twitter-digests/</link>
+				<pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/twitter-digests/</guid>
+				<description>&lt;p&gt;A few weeks back, I installed Alex King&amp;rsquo;s Twitter Tools for wordpress. Running it for a few weeks, I found that by lack of posting to my blog, became more apparent that earlier. There are now more &amp;ldquo;twitter&amp;rdquo; posts than the number of posts that I have written myself in the last year or so. How pathetic is that?!&lt;/p&gt;&#xA;&lt;p&gt;Looks like I have almost lost the need to say something (about anything) and it is about time to shut down this blog. However, I intend to give it another shot (one last time), before I stop hosting my own blog, and move to life-streaming instead (You can already find my at shiva.tumblr.com).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

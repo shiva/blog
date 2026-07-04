@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Ssh Profiles on Reflections</title>
-    <link>http://blog.shiv.me/tags/ssh-profiles/</link>
-    <description>Recent content in Ssh Profiles on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 20 Aug 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/ssh-profiles/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Multiple ssh profiles for multiple services</title>
-      <link>http://blog.shiv.me/posts/2012/multiple-ssh-profiles/</link>
-      <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/multiple-ssh-profiles/</guid>
-      <description>Multiple ssh profiles for multiple services</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ssh Profiles on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/ssh-profiles/</link>
+		<description>Recent content in Ssh Profiles on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 20 Aug 2012 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/ssh-profiles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Multiple ssh profiles for multiple services</title>
+				<link>https://shiv.me/posts/2012/multiple-ssh-profiles/</link>
+				<pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2012/multiple-ssh-profiles/</guid>
+				<description>&lt;p&gt;I use git &amp;ndash; quite extensively. At work, we have several git repositories, across different organizations. In addition, I also &lt;a href=&#34;http://github.com/shiva&#34;&gt;hack&lt;/a&gt; for pleasure. Interacting with several git servers means that I need to have different roles and identities for them. The solution is to setup up one ssh key for each domain, and use ~/.ssh/config profiles to control them. Based on the host I&amp;rsquo;m connecting to, a different ssh private/public key pair is used &amp;ndash; make life a lot easier!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

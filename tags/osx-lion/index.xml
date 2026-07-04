@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>OSX Lion on Reflections</title>
-    <link>http://blog.shiv.me/tags/osx-lion/</link>
-    <description>Recent content in OSX Lion on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 30 Aug 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/osx-lion/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>OSX Lion and jumping through a few hoops</title>
-      <link>http://blog.shiv.me/posts/2011/osx-lion-and-jumping-through-a-few-hoops/</link>
-      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/osx-lion-and-jumping-through-a-few-hoops/</guid>
-      <description>OSX Lion and jumping through a few hoops</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>OSX Lion on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/osx-lion/</link>
+		<description>Recent content in OSX Lion on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 30 Aug 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/osx-lion/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>OSX Lion and jumping through a few hoops</title>
+				<link>https://shiv.me/posts/2011/osx-lion-and-jumping-through-a-few-hoops/</link>
+				<pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/osx-lion-and-jumping-through-a-few-hoops/</guid>
+				<description>&lt;p&gt;If you haven&amp;rsquo;t yet upgraded to Lion (slow-coach you !), you might want to read these:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;How to &lt;a href=&#34;http://lifehacker.com/5823096/how-to-burn-your-own-lion-install-dvd-or-flash-drive&#34;&gt;burn your own install dvd&lt;/a&gt; for OSX Lion&lt;/li&gt;&#xA;&lt;li&gt;You didn&amp;rsquo;t read this before you installed lion, did you? Then, &lt;a href=&#34;https://discussions.apple.com/thread/3191518?start=0&amp;amp;tstart=0&#34;&gt;follow this thread&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+			</item>
+	</channel>
 </rss>

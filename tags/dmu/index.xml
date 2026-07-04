@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>DMU on Reflections</title>
-    <link>http://blog.shiv.me/tags/dmu/</link>
-    <description>Recent content in DMU on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 11 Jan 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/dmu/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Music from DMU</title>
-      <link>http://blog.shiv.me/posts/2011/music-from-dmu/</link>
-      <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/music-from-dmu/</guid>
-      <description>Music from DMU</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>DMU on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/dmu/</link>
+		<description>Recent content in DMU on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 11 Jan 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/dmu/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Music from DMU</title>
+				<link>https://shiv.me/posts/2011/music-from-dmu/</link>
+				<pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/music-from-dmu/</guid>
+				<description>&lt;p&gt;DMU (Delete me Uncensored) is a &lt;a href=&#34;http://www.flickr.com/groups/censorshipsucks/&#34;&gt;group on Flickr&lt;/a&gt;, that was formed because a few people got pissed at Flickr censoring content. It is a very &amp;ldquo;lively&amp;rdquo; place on most days with a &lt;a href=&#34;http://www.flickr.com/groups/censorshipsucks/discuss/72157625675827075/&#34;&gt;lot &lt;/a&gt;of &lt;a href=&#34;http://www.flickr.com/groups/censorshipsucks/discuss/72157625780640978/&#34;&gt;colour &lt;/a&gt;and &lt;a href=&#34;http://www.flickr.com/groups/censorshipsucks/discuss/72157625675599763/&#34;&gt;personality&lt;/a&gt;. Mostly its just a bunch of fine folks that have a common passion (photography), and express their opinions with almost no filters. It&amp;rsquo;s easy to mistake the group for being too rude, but you just have to hang around to &amp;lsquo;get it&amp;rsquo;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

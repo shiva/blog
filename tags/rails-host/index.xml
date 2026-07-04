@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Rails Host on Reflections</title>
-    <link>http://blog.shiv.me/tags/rails-host/</link>
-    <description>Recent content in Rails Host on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Fri, 14 Dec 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/rails-host/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The webfaction experience</title>
-      <link>http://blog.shiv.me/posts/2007/the-webfaction-experience/</link>
-      <pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/the-webfaction-experience/</guid>
-      <description>The webfaction experience</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Rails Host on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/rails-host/</link>
+		<description>Recent content in Rails Host on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Fri, 14 Dec 2007 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/rails-host/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The webfaction experience</title>
+				<link>https://shiv.me/posts/2007/the-webfaction-experience/</link>
+				<pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/the-webfaction-experience/</guid>
+				<description>&lt;p&gt;The reason for the respite in my blogging, was my move to a new web-host. After several hours of researching, I decided to go with &lt;a href=&#34;http://www.webfaction.com/?affiliate=shvelmur&#34;&gt;webfaction.com&lt;/a&gt;. If you haven&amp;rsquo;t already visited webfaction, &lt;a href=&#34;http://www.webfaction.com/?affiliate=shvelmur&#34;&gt;DO IT right now&lt;/a&gt;! It has been simply amazing. I love the one click installer, and within hours of getting billed, I got access to my account. It comes with shell access, SFTP, enough space, &lt;a href=&#34;http://www.rubyonrails.org/&#34;&gt;rails 2.x&lt;/a&gt; (just days after it was release), &lt;a href=&#34;http://www.djangoproject.com/&#34;&gt;django&lt;/a&gt;, &lt;a href=&#34;http://wordpress.org/download/&#34;&gt;wordpress 2.3.1&lt;/a&gt; and a host of other webapps, all of which you can install with a just a few clicks on their web interface.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

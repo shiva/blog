@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Browser on Reflections</title>
-    <link>http://blog.shiv.me/tags/browser/</link>
-    <description>Recent content in Browser on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 02 Sep 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/browser/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>In the browser lies the power - Wave 2 of the Google takeover</title>
-      <link>http://blog.shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</link>
-      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</guid>
-      <description>In the browser lies the power - Wave 2 of the Google takeover</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Browser on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/browser/</link>
+		<description>Recent content in Browser on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 02 Sep 2008 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>In the browser lies the power - Wave 2 of the Google takeover</title>
+				<link>https://shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</link>
+				<pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</guid>
+				<description>&lt;p&gt;Finally it&amp;rsquo;s out in the open. The ultimate weapon in Google&amp;rsquo;s powerchest to combat desktop applications, render the need for a specific platform meaningless - the browser. I guess this has been in the making for the last decade, and here it is. A browser by a company that downloads pretty much most of the internet every day.&lt;/p&gt;&#xA;&lt;p&gt;If you are still reading this, you shouldn&amp;rsquo;t be. Get outta here and &lt;a href=&#34;http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html#&#34;&gt;read this&lt;/a&gt;. (Actually just open in a new window, and continue reading this).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

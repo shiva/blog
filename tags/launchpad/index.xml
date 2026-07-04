@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Launchpad on Reflections</title>
-    <link>http://blog.shiv.me/tags/launchpad/</link>
-    <description>Recent content in Launchpad on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sat, 23 Jul 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/launchpad/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>OSX Lion. A first look (at 2 AM)</title>
-      <link>http://blog.shiv.me/posts/2011/osx-lion-a-first-look-at-2-am/</link>
-      <pubDate>Sat, 23 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/osx-lion-a-first-look-at-2-am/</guid>
-      <description>OSX Lion. A first look (at 2 AM)</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Launchpad on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/launchpad/</link>
+		<description>Recent content in Launchpad on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sat, 23 Jul 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/launchpad/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>OSX Lion. A first look (at 2 AM)</title>
+				<link>https://shiv.me/posts/2011/osx-lion-a-first-look-at-2-am/</link>
+				<pubDate>Sat, 23 Jul 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/osx-lion-a-first-look-at-2-am/</guid>
+				<description>&lt;p&gt;Just upgraded to OSX Lion. A very slick interface.&lt;/p&gt;&#xA;&lt;p&gt;Quick Review:&lt;/p&gt;&#xA;&lt;p&gt;1. Launchpad. Solved previously by Alfred in the GUI, and bash aliases on the command line.&lt;/p&gt;&#xA;&lt;p&gt;2. Mission Control. Eye-candy. Will probably use it until I get tired of all the moving windows, and stick to Cmd+arrow keys to switch desktops. Maybe normal users will find it useful. But then, most people don&amp;rsquo;t want anything that increases their workflow complexity. Most of them have trouble keeping track of more than a couple of windows, let alone, 10s of them (which I think is what features like Mission Control will promote)&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

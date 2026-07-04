@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Unisigned Int on Reflections</title>
-    <link>http://blog.shiv.me/tags/unisigned-int/</link>
-    <description>Recent content in Unisigned Int on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 13 Jul 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/unisigned-int/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why does Java not support unsigned int? - Part 1</title>
-      <link>http://blog.shiv.me/posts/2010/why-no-unsigned-int-in-java/</link>
-      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/why-no-unsigned-int-in-java/</guid>
-      <description>Why does Java not support unsigned int? - Part 1</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Unisigned Int on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/unisigned-int/</link>
+		<description>Recent content in Unisigned Int on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 13 Jul 2010 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/unisigned-int/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Why does Java not support unsigned int? - Part 1</title>
+				<link>https://shiv.me/posts/2010/why-no-unsigned-int-in-java/</link>
+				<pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/why-no-unsigned-int-in-java/</guid>
+				<description>&lt;p&gt;An interesting thing for me, is that if I am active on twitter during daytime in India (now that I&amp;rsquo;m here on vacation), I get to have some interesting conversations about design and development. Today, I chanced to talk about the lack of unsigned values support in Java.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://twitter.com/veechand&#34;&gt;&lt;img src=&#34;https://shiv.me/images/twitterProfilePhoto_normal.jpg&#34; alt=&#34;Veerabahu&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://twitter.com/veechand&#34; title=&#34;Veerabahu&#34;&gt;veechand&lt;/a&gt; is there unsigned int in #java support your answers &lt;a href=&#34;http://twitter.com/veechand/status/18214701290&#34;&gt;10 Jul 2010 &lt;/a&gt; from &lt;a href=&#34;http://www.tweetdeck.com&#34;&gt;TweetDeck&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://twitter.com/shiva&#34;&gt;&lt;img src=&#34;https://shiv.me/images/twitterProfilePhoto_normal.jpg&#34; alt=&#34;Shivanand Velmurugan&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://twitter.com/shiva&#34; title=&#34;Shivanand Velmurugan&#34;&gt;shiva&lt;/a&gt; &lt;a href=&#34;http://twitter.com/veechand&#34;&gt;@veechand&lt;/a&gt; nope. but use char instead. If you really want a type, you can define your own class backed by char &lt;a href=&#34;http://twitter.com/shiva/status/18326785358&#34;&gt;12 Jul 2010 &lt;/a&gt; from &lt;a href=&#34;http://itunes.apple.com/app/twitter/id333903271?mt=8&#34;&gt;Twitter for iPhone&lt;/a&gt; &lt;a href=&#34;http://twitter.com/veechand/status/18214701290&#34;&gt;in reply to veechand&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

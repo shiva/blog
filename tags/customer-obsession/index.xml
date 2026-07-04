@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Customer Obsession on Reflections</title>
-    <link>http://blog.shiv.me/tags/customer-obsession/</link>
-    <description>Recent content in Customer Obsession on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 08 Feb 2026 00:20:00 +0530</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/customer-obsession/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Last 10 Feet</title>
-      <link>http://blog.shiv.me/posts/2026/the-last-10-feet/</link>
-      <pubDate>Sun, 08 Feb 2026 00:20:00 +0530</pubDate>
-      <guid>http://blog.shiv.me/posts/2026/the-last-10-feet/</guid>
-      <description>decline in customer obsession in the west, while asia still cares</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Customer Obsession on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/customer-obsession/</link>
+		<description>Recent content in Customer Obsession on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 08 Feb 2026 00:20:00 +0530</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/customer-obsession/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Last 10 Feet</title>
+				<link>https://shiv.me/posts/2026/the-last-10-feet/</link>
+				<pubDate>Sun, 08 Feb 2026 00:20:00 +0530</pubDate>
+				<guid>https://shiv.me/posts/2026/the-last-10-feet/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/micah-sammie-chaffin-Zdf3zn5XXtU-unsplash.jpg&#34; alt=&#34;Cover Photo&#34;&gt;&#xA;Photo by &lt;a href=&#34;https://unsplash.com/@micahandsammiechaffin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;Micah &amp;amp; Sammie Chaffin&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/photos/person-jumping-on-big-rock-under-gray-and-white-sky-during-daytime-Zdf3zn5XXtU?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Pin drops in the road&lt;br&gt;&#xA;You apologize again&lt;br&gt;&#xA;The gap grows wider.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;the-last-10-feet&#34;&gt;The Last 10 Feet&lt;/h1&gt;&#xA;&lt;p&gt;Decline doesn&amp;rsquo;t announce itself dramatically. Rot sets in slowly; a little less care, a little more friction.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;I wrote this post last year, days after returning from a trip to Singapore and India. The 7-year gap where I sequestered myself to North America made my visit to Asia stark! It felt like an alternate reality — one with a functional approach to adopting technology into life. It is almost as if they still care about how the human experience.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,67 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Review on Reflections</title>
-    <link>http://blog.shiv.me/tags/review/</link>
-    <description>Recent content in Review on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 01 May 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/review/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>iPad and friends</title>
-      <link>http://blog.shiv.me/posts/2011/ipad-and-friends/</link>
-      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/ipad-and-friends/</guid>
-      <description>iPad and friends</description>
-    </item>
-    <item>
-      <title>iCaved</title>
-      <link>http://blog.shiv.me/posts/2010/icaved/</link>
-      <pubDate>Sat, 29 May 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/icaved/</guid>
-      <description>iCaved</description>
-    </item>
-    <item>
-      <title>OPML Editor as a wordpress editor</title>
-      <link>http://blog.shiv.me/posts/2010/opml-editor-as-a-wordpress-editor/</link>
-      <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/opml-editor-as-a-wordpress-editor/</guid>
-      <description>OPML Editor as a wordpress editor</description>
-    </item>
-    <item>
-      <title>Guess what I&#39;m getting in a week or two?!</title>
-      <link>http://blog.shiv.me/posts/2009/guess-what-im-getting-in-a-week-or-two/</link>
-      <pubDate>Wed, 14 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/guess-what-im-getting-in-a-week-or-two/</guid>
-      <description>Guess what I&amp;#39;m getting in a week or two?!</description>
-    </item>
-    <item>
-      <title>In the browser lies the power - Wave 2 of the Google takeover</title>
-      <link>http://blog.shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</link>
-      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</guid>
-      <description>In the browser lies the power - Wave 2 of the Google takeover</description>
-    </item>
-    <item>
-      <title>A web based writer for writing to a blog?!</title>
-      <link>http://blog.shiv.me/posts/2008/a-web-based-writer-for-writing-to-a-blog/</link>
-      <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/a-web-based-writer-for-writing-to-a-blog/</guid>
-      <description>A web based writer for writing to a blog?!</description>
-    </item>
-    <item>
-      <title>Jott - a voice-based blog client!</title>
-      <link>http://blog.shiv.me/posts/2008/well-this-is-a-first/</link>
-      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/well-this-is-a-first/</guid>
-      <description>Jott - a voice-based blog client!</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Review on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/review/</link>
+		<description>Recent content in Review on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 01 May 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/review/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>iPad and friends</title>
+				<link>https://shiv.me/posts/2011/ipad-and-friends/</link>
+				<pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/ipad-and-friends/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://blog.shiv.me/wp-content/uploads/2011/05/20110501-112322.jpg&#34;&gt;&lt;img src=&#34;https://shiv.me/images/20110501-112322.jpg&#34; alt=&#34;20110501-112322.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s been a year since I &lt;a href=&#34;http://blog.shiv.me/2010/05/29/icaved.html&#34;&gt;sold my kidneys for an iPad&lt;/a&gt;. It&amp;rsquo;s been fun. It has replaced every other device I own (ie, a couple of PCs and the nexus one). It&amp;rsquo;s an outright winner, when it comes to reading, especially long-form articles, and books alike. It has become my go-to machine for everyday news, twitter/facebook, and even for browsing my favorite photographers.&lt;/p&gt;&#xA;&lt;p&gt;It have however remained strictly in the realm of content consumption &amp;ndash; until now. In the last few days, I&amp;rsquo;ve added a stylus - the &lt;a href=&#34;http://www.amazon.com/gp/product/B003ZSHKIY/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=shivanand-20&amp;amp;linkCode=as2&amp;amp;camp=217145&amp;amp;creative=399349&amp;amp;creativeASIN=B003ZSHKIY&#34;&gt;Targus iPad stylus&lt;/a&gt; (available quite readily at most &amp;lsquo;best-buy&amp;rsquo;s, and on &lt;a href=&#34;http://www.amazon.com/gp/product/B003ZSHKIY/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=shivanand-20&amp;amp;linkCode=as2&amp;amp;camp=217145&amp;amp;creative=399349&amp;amp;creativeASIN=B003ZSHKIY&#34;&gt;Amazon&lt;/a&gt;), and the &lt;a href=&#34;http://www.amazon.com/gp/product/B003K1EYM6/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=keepinintouch-20&amp;amp;linkCode=as2&amp;amp;camp=217145&amp;amp;creative=399353&amp;amp;creativeASIN=B003K1EYM6&#34;&gt;iPad&amp;rsquo;s camera connect kit&lt;/a&gt;. If you own an iPad (v1 or v2) I would recommend that you fork out the moolah for these two. It will be the best $50 you&amp;rsquo;ll ever spend on accessories for the iPad. Forget the cool looking &lt;a href=&#34;http://store.apple.com/us/product/MC942?mco=MTM3NjE5ODE&#34;&gt;smart cover&lt;/a&gt;. These will be more rewarding than the 2 hours of thrill of watching the smart cover turn off the ipad when you close it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>iCaved</title>
+				<link>https://shiv.me/posts/2010/icaved/</link>
+				<pubDate>Sat, 29 May 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/icaved/</guid>
+				<description>&lt;p&gt;I did it. I &lt;a href=&#34;http://blog.shiv.me/2010/02/03/i-too-have-something-to-say-about-the-ipad.html&#34;&gt;said&lt;/a&gt; &lt;a href=&#34;http://blog.shiv.me/2010/02/04/ipad-is-ibad-petition.html&#34;&gt;I&lt;/a&gt; &lt;a href=&#34;http://blog.shiv.me/2010/03/16/so-long-and-thanks-for-the-jailed-iphone.html&#34;&gt;wouldn&amp;rsquo;t&lt;/a&gt;. I said I will hold out for purely &lt;a href=&#34;http://blog.shiv.me/2010/02/03/i-too-have-something-to-say-about-the-ipad.html&#34;&gt;ethical reasons&lt;/a&gt;, but it is &lt;a href=&#34;http://twitter.com/shiva/status/14946052410&#34;&gt;very hard to resist the iPad&lt;/a&gt;. The first impression in-store is simply &amp;ndash; awesome. This of course is not a surprise and is something that one can expect from apple these days.&lt;/p&gt;&#xA;&lt;p&gt;Warning: This is a long post ..&lt;/p&gt;&#xA;&lt;p&gt;Here are some thoughts, after a day of use:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;It&amp;rsquo;s fast. Much faster than the iPhone 3GS. This is good news for the upcoming iPhone.&lt;/li&gt;&#xA;&lt;li&gt;The battery lasts a really long time. It was around 80% and I used it for incessantly until it died 7/8 hours later. The a4 processor is at this point THE chip to kill for. If you have any samsung shares, I would dump them now, and load up on apple (although they are a tad &lt;a href=&#34;http://www.google.com/finance?q=aapl&#34;&gt;pricy&lt;/a&gt; these days)&lt;/li&gt;&#xA;&lt;li&gt;iPhone apps are useless and look ugly on the iPad. Don&amp;rsquo;t bother synching any of them&lt;/li&gt;&#xA;&lt;li&gt;The keyboard is a lot more usable that I thought it would be. I&amp;rsquo;m typing this post at about 60-70% of my usual typing speed. (Only true if inclined at an proper angle &amp;ndash; the perfect angle: the one you get with the iPad case).&lt;/li&gt;&#xA;&lt;li&gt;I missed the universal back button. I&amp;rsquo;ve been spoiled by the &lt;a href=&#34;http://blog.shiv.me/2010/03/16/so-long-and-thanks-for-the-jailed-iphone.html&#34;&gt;freedom-toting nexus one robot&lt;/a&gt; ;)&lt;/li&gt;&#xA;&lt;li&gt;Other small annoyances include URL copy pasting between apps, and how the app store lists apps. Exiting the app store every time I install an app is also mind-numbing. I know I can use a Mac and install all apps at one go, but I didn&amp;rsquo;t spend a 1000 dollars for workarounds.&lt;/li&gt;&#xA;&lt;li&gt;Although I could type very well, creating a blog post is not this device&amp;rsquo;s forte. For one, all the switching back and forth, is a nightmare, and there is simply no way to get the links to apps for instance from the ipad. Adding images is a pain as well (which is why this is a purely text-only post). It is really nice until you want to go beyond its function as a consumption device. Even a little, and it makes you want to get to a mac/pc in a hurry.&lt;/li&gt;&#xA;&lt;li&gt;Some apps are just stellar, that make it worthwhile go through the above mentioned niggles.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t feel any remorse at having bought it, but at the same time, I&amp;rsquo;m not floored by everything either. That is actually the strength of the device. It is the first time a computing device completely disappears and you interact with data. The experience depends on the app that you are using. Instapaper does a great job, so does the gmail web app.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>OPML Editor as a wordpress editor</title>
+				<link>https://shiv.me/posts/2010/opml-editor-as-a-wordpress-editor/</link>
+				<pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/opml-editor-as-a-wordpress-editor/</guid>
+				<description>&lt;p&gt;This is a test post to see if &lt;a href=&#34;http://www.scripting.com/stories/2007/02/21/daveWinerBio.html&#34;&gt;Dave Winer&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;http://editor.opml.org/&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://editor.opml.org/&#34;&gt;OPML editor&lt;/a&gt; works with a &lt;a href=&#34;http://wordpressroot.wordpress.com/2008/08/09/writing-for-wordpress-in-the-opml-editor/&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://wordpressroot.wordpress.com/2008/08/09/writing-for-wordpress-in-the-opml-editor/&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://wordpressroot.wordpress.com/2008/08/09/writing-for-wordpress-in-the-opml-editor/&#34;&gt;self-hosted wordpress blog&lt;/a&gt;. There is something geeky about seeing crappy fonts on a screen, that makes one want to use a tool more.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve known of the OPML editor for a few years now, and have tried several times to find a neat use-case for it in my workflow, and it never had a compelling enough reason for me to stick with it. I&amp;rsquo;m hoping that this new wordpress editor tool will make me want to use this more.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Guess what I&#39;m getting in a week or two?!</title>
+				<link>https://shiv.me/posts/2009/guess-what-im-getting-in-a-week-or-two/</link>
+				<pubDate>Wed, 14 Oct 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/guess-what-im-getting-in-a-week-or-two/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/CropperCapture2-283x300.jpg&#34; alt=&#34;CropperCapture[2]&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been waiting for this for a while now! Gary I hope it is all that I expect it to be. If I don&amp;rsquo;t read this the day I get it, and jump up from my bed at 2 AM crying &amp;ldquo;crush it&amp;rdquo; &amp;hellip; well &amp;hellip; I bet I will.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>In the browser lies the power - Wave 2 of the Google takeover</title>
+				<link>https://shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</link>
+				<pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</guid>
+				<description>&lt;p&gt;Finally it&amp;rsquo;s out in the open. The ultimate weapon in Google&amp;rsquo;s powerchest to combat desktop applications, render the need for a specific platform meaningless - the browser. I guess this has been in the making for the last decade, and here it is. A browser by a company that downloads pretty much most of the internet every day.&lt;/p&gt;&#xA;&lt;p&gt;If you are still reading this, you shouldn&amp;rsquo;t be. Get outta here and &lt;a href=&#34;http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html#&#34;&gt;read this&lt;/a&gt;. (Actually just open in a new window, and continue reading this).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A web based writer for writing to a blog?!</title>
+				<link>https://shiv.me/posts/2008/a-web-based-writer-for-writing-to-a-blog/</link>
+				<pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/a-web-based-writer-for-writing-to-a-blog/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://writetomyblog.com/&#34;&gt;WriteToMyBlog.com&lt;/a&gt;, is a web-based editor (with a lot of formatting options), that allows you to write to your blog (from another website?!).&lt;/p&gt;&#xA;&lt;p&gt;First thoughts go like,&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;wtf?!&amp;rdquo;, &amp;hellip; &amp;ldquo;hmmm.. interesting&amp;rdquo;&amp;hellip; &amp;ldquo;I am a web 2.0 junkie?!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/22535384@N00/2551244392&#34; title=&#34;writetomyblog-dot-com&#34;&gt;&lt;img src=&#34;https://shiv.me/images/2551244392_1822e5a281.jpg&#34; alt=&#34;writetomyblog-dot-com&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The likes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;1. Simplicity of the UI interface - neat, allows lots of space for text&lt;/p&gt;&#xA;&lt;p&gt;2. Integration of Flickr and Youtube (although I would love to see more such services)&lt;/p&gt;&#xA;&lt;p&gt;3. Zero account creation overhead. (I wrote this post, before I created the account to publish it, and is a 1-click process.)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Jott - a voice-based blog client!</title>
+				<link>https://shiv.me/posts/2008/well-this-is-a-first/</link>
+				<pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/well-this-is-a-first/</guid>
+				<description>&lt;p&gt;Well, this is a first post to my blog using Jott, which is a very cool service. It allows you to call a number and talk what you want to post, and post it to your blog. I think it&amp;rsquo;s one of the new tools that really enable blogging. I&amp;rsquo;m just going to try it and see how it works out. &lt;a href=&#34;http://www.jott.com/show.aspx?id=d6549201-5361-44c4-adf3-ef43abf8488c&#34;&gt;listen&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Powered by &lt;a href=&#34;http://jott.com&#34;&gt;Jott&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

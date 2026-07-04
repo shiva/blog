@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Google Chrome on Reflections</title>
-    <link>http://blog.shiv.me/tags/google-chrome/</link>
-    <description>Recent content in Google Chrome on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 09 Jul 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/google-chrome/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>For the last time, its not an OS!</title>
-      <link>http://blog.shiv.me/posts/2009/for-the-last-time-its-not-an-os/</link>
-      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/for-the-last-time-its-not-an-os/</guid>
-      <description>For the last time, its not an OS!</description>
-    </item>
-    <item>
-      <title>In the browser lies the power - Wave 2 of the Google takeover</title>
-      <link>http://blog.shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</link>
-      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</guid>
-      <description>In the browser lies the power - Wave 2 of the Google takeover</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Google Chrome on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/google-chrome/</link>
+		<description>Recent content in Google Chrome on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 09 Jul 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/google-chrome/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>For the last time, its not an OS!</title>
+				<link>https://shiv.me/posts/2009/for-the-last-time-its-not-an-os/</link>
+				<pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/for-the-last-time-its-not-an-os/</guid>
+				<description>&lt;p&gt;The last couple of days has been ablaze with news of Google taking over the world, destroying Microsoft and sticking all of humanity on stakes to collect sunlight and convert it to power. Obviously, &lt;a href=&#34;http://www.techcrunch.com/2009/07/08/google-chrome-redefining-the-operating-system/&#34;&gt;some are elated at this proposition&lt;/a&gt;,  &lt;a href=&#34;http://www.crunchgear.com/2009/07/08/a-third-opinion-on-google-chrome/&#34;&gt;some tentative&lt;/a&gt;, and then there are &lt;a href=&#34;http://fakesteve.blogspot.com/2009/07/lets-all-take-deep-breath-and-get-some.html&#34;&gt;some others&lt;/a&gt; &lt;a href=&#34;http://technosailor.com/2009/07/09/google-chrome-os-a-lot-to-do-about-nothing/&#34;&gt;who think all of this is just hogwash.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have but one thing to show you today. Presenting article number 1, a video by one of the minions at Google.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>In the browser lies the power - Wave 2 of the Google takeover</title>
+				<link>https://shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</link>
+				<pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</guid>
+				<description>&lt;p&gt;Finally it&amp;rsquo;s out in the open. The ultimate weapon in Google&amp;rsquo;s powerchest to combat desktop applications, render the need for a specific platform meaningless - the browser. I guess this has been in the making for the last decade, and here it is. A browser by a company that downloads pretty much most of the internet every day.&lt;/p&gt;&#xA;&lt;p&gt;If you are still reading this, you shouldn&amp;rsquo;t be. Get outta here and &lt;a href=&#34;http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html#&#34;&gt;read this&lt;/a&gt;. (Actually just open in a new window, and continue reading this).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

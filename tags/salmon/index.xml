@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Salmon on Reflections</title>
-    <link>http://blog.shiv.me/tags/salmon/</link>
-    <description>Recent content in Salmon on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 23 Aug 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/salmon/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Two-factor authentication and spicy salmon sashimi don</title>
-      <link>http://blog.shiv.me/posts/2012/two-factor-authentication-and-spicy-salmon-sashimi-don/</link>
-      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/two-factor-authentication-and-spicy-salmon-sashimi-don/</guid>
-      <description>Two-factor authentication and spicy salmon sashimi don</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Salmon on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/salmon/</link>
+		<description>Recent content in Salmon on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 23 Aug 2012 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/salmon/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Two-factor authentication and spicy salmon sashimi don</title>
+				<link>https://shiv.me/posts/2012/two-factor-authentication-and-spicy-salmon-sashimi-don/</link>
+				<pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2012/two-factor-authentication-and-spicy-salmon-sashimi-don/</guid>
+				<description>&lt;p&gt;For the last few months I&amp;rsquo;ve been annoyed. Two or three times a week, I get a flurry of emails from Facebook and twitter claiming that I reset my password. Sounds like a first-world problem? It is. However, I have 4 emails linked to my Facebook account and one to my twitter account. I get on average 15-20 mails a week, and I dutifully dis-avow each one of them.&lt;/p&gt;&#xA;&lt;p&gt;Then, &lt;a href=&#34;http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard&#34;&gt;this happens&lt;/a&gt;. It scares the hell out of me, but I procrastinate. After a good two weeks, and 40 mails later, I&amp;rsquo;ve finally caved, and enabled it. Now, it&amp;rsquo;s practically impossible to hack my account. Password + token to access from any new device, and I can remotely revoke access to any device I lose.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

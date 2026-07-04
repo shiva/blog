@@ -1,74 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Google on Reflections</title>
-    <link>http://blog.shiv.me/tags/google/</link>
-    <description>Recent content in Google on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 28 Aug 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/google/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>10 reasons to dump Facebook for G&#43;. Now!</title>
-      <link>http://blog.shiv.me/posts/2011/dump-fb-for-gplus/</link>
-      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/dump-fb-for-gplus/</guid>
-      <description>10 reasons to dump Facebook for G&#43;. Now!</description>
-    </item>
-    <item>
-      <title>So long and thanks for the &#34;jailed&#34; iphone</title>
-      <link>http://blog.shiv.me/posts/2010/so-long-and-thanks-for-the-jailed-iphone/</link>
-      <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/so-long-and-thanks-for-the-jailed-iphone/</guid>
-      <description>So long and thanks for the &amp;#34;jailed&amp;#34; iphone</description>
-    </item>
-    <item>
-      <title>And another thing about Google Buzz</title>
-      <link>http://blog.shiv.me/posts/2010/and-another-thing-about-google-buzz/</link>
-      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/and-another-thing-about-google-buzz/</guid>
-      <description>And another thing about Google Buzz</description>
-    </item>
-    <item>
-      <title>Google likes RSS .. a lot</title>
-      <link>http://blog.shiv.me/posts/2010/google-likes-rss-a-lot/</link>
-      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/google-likes-rss-a-lot/</guid>
-      <description>Google likes RSS .. a lot</description>
-    </item>
-    <item>
-      <title>GReader just saved me a lot of time</title>
-      <link>http://blog.shiv.me/posts/2009/greader-just-saved-me-a-lot-of-time/</link>
-      <pubDate>Fri, 14 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/greader-just-saved-me-a-lot-of-time/</guid>
-      <description>GReader just saved me a lot of time</description>
-    </item>
-    <item>
-      <title>For the last time, its not an OS!</title>
-      <link>http://blog.shiv.me/posts/2009/for-the-last-time-its-not-an-os/</link>
-      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/for-the-last-time-its-not-an-os/</guid>
-      <description>For the last time, its not an OS!</description>
-    </item>
-    <item>
-      <title>In the browser lies the power - Wave 2 of the Google takeover</title>
-      <link>http://blog.shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</link>
-      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</guid>
-      <description>In the browser lies the power - Wave 2 of the Google takeover</description>
-    </item>
-    <item>
-      <title>Google blogs its feature later than I do!</title>
-      <link>http://blog.shiv.me/posts/2007/google-blogs-its-feature-later/</link>
-      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/google-blogs-its-feature-later/</guid>
-      <description>Google blogs its feature later than I do!</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Google on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/google/</link>
+		<description>Recent content in Google on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 28 Aug 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/google/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>10 reasons to dump Facebook for G&#43;. Now!</title>
+				<link>https://shiv.me/posts/2011/dump-fb-for-gplus/</link>
+				<pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/dump-fb-for-gplus/</guid>
+				<description>&lt;p&gt;A friend asked what I like about google+, and as I started posting a reply , I noticed there were enough to make a blog post. So here goes&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a quick list:&lt;br&gt;&#xA;1. Mobile app on android and iphone are awesome!&lt;br&gt;&#xA;2. Automatic upload of pics on phone/picasa&lt;br&gt;&#xA;3. Non-crappy photos (allows 2400+px, and g+ renders pictures better, since they don&amp;rsquo;t mess with the image, if it is smaller than the max size)&lt;br&gt;&#xA;4. Easier to mention specific people in a conversation. (auto-completes ppl&amp;rsquo;s profile name)&lt;br&gt;&#xA;5. hangouts (free video conferencing)&lt;br&gt;&#xA;6. Group messaging done right (huddle) on the mobile phone&lt;br&gt;&#xA;7. decent integration with email (I guess this is just coz I use Gmail)&lt;br&gt;&#xA;8. Privacy - predictable and manageable (not that it matters to me)&lt;br&gt;&#xA;9. Much less noise (a - mostly used by techies for now, b - allows asymmetric relationships à la twitter)&lt;br&gt;&#xA;10. Keyboard shortcuts (J, K work. Someone at google like vi &amp;ndash; a lot)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>So long and thanks for the &#34;jailed&#34; iphone</title>
+				<link>https://shiv.me/posts/2010/so-long-and-thanks-for-the-jailed-iphone/</link>
+				<pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/so-long-and-thanks-for-the-jailed-iphone/</guid>
+				<description>&lt;p&gt;[caption id=&amp;ldquo;attachment_737&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;]&lt;a href=&#34;http://blog.shiv.me/wp-content/uploads/2010/03/Nexus-One-Phone-Choose-a-phone.png&#34;&gt;&lt;img src=&#34;https://shiv.me/images/Nexus-One-Phone-Choose-a-phone-300x195.png&#34; alt=&#34;Google Nexus is available in Canada&#34;&gt;&lt;/a&gt; So long oppression[/caption]&lt;/p&gt;&#xA;&lt;p&gt;Thanks for the iPhone, Mr. Jobs. There is a new way to protest the iPhone. I don&amp;rsquo;t have to &lt;a href=&#34;http://blog.shiv.me/2010/02/04/ipad-is-ibad-petition/&#34;&gt;sign petitions&lt;/a&gt; anymore. I can now take my $500 &lt;a href=&#34;http://bit.ly/cXseFC&#34;&gt;elsewhere&lt;/a&gt;, for a slightly more open experience. I &lt;a href=&#34;http://blog.shiv.me/2010/02/03/i-too-have-something-to-say-about-the-ipad/&#34;&gt;didn&amp;rsquo;t ask for much&lt;/a&gt;, but I don&amp;rsquo;t have to wait on your whim any longer (no offense meant to you personally, Mr Jobs).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>And another thing about Google Buzz</title>
+				<link>https://shiv.me/posts/2010/and-another-thing-about-google-buzz/</link>
+				<pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/and-another-thing-about-google-buzz/</guid>
+				<description>&lt;p&gt;There are several issues that people have uncovered in the last 2 days that it has existed. For me, of all the features that Buzz lacks, one thing really stands out. There is no way to just see a &lt;strong&gt;list of the conversations&lt;/strong&gt; (without the whole list of comments expanded by default). This is the main reason that I &lt;strong&gt;*had*&lt;/strong&gt; to unfollow Scoble, Michael Arrington, Louis Gray and a bunch of others. Take a look at &lt;a href=&#34;http://www.google.com/buzz/scobleizer/NE7yRrwbhbH/This-is-already-WAY-BETTER-than-FriendFeed-Why-Not&#34;&gt;this conversation&lt;/a&gt;, and you would understand why.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Google likes RSS .. a lot</title>
+				<link>https://shiv.me/posts/2010/google-likes-rss-a-lot/</link>
+				<pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/google-likes-rss-a-lot/</guid>
+				<description>&lt;p&gt;Did anyone else notice that buzz has an RSS feed for everything!!&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a &lt;a href=&#34;http://www.google.com/buzz/thomashawk22/Swv6u36BGC2/Buzz-should-let-you-post-inline-images-like-you&#34;&gt;conversation&lt;/a&gt; that @&lt;a href=&#34;http://www.google.com/profiles/thomashawk22#buzz&#34;&gt;Thomashawk&lt;/a&gt; started&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s the &lt;a href=&#34;feed://buzz.googleapis.com/feeds/104987932455782713675/comments/z12xt1zqbyjjcx44v04cdpjgjy34xxvg45k&#34;&gt;feed for that entry&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s the feed for &lt;a href=&#34;feed://buzz.googleapis.com/feeds/104987932455782713675/public/posted&#34;&gt;the owner&amp;rsquo;s entries&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Theoretically, one could build a service that aggregates only specific conversations (and keep them updated), or only a small group etc&amp;hellip; No more reading data from a firehose!!&lt;/p&gt;&#xA;&lt;p&gt;That is very nice.&lt;/p&gt;&#xA;&lt;p&gt;P.S: also this could be a way to aggregate all your webservices into one super feed, that can then be posted elsewhere (comments and all!!)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>GReader just saved me a lot of time</title>
+				<link>https://shiv.me/posts/2009/greader-just-saved-me-a-lot-of-time/</link>
+				<pubDate>Fri, 14 Aug 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/greader-just-saved-me-a-lot-of-time/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://posterous.com/getfile/files.posterous.com/shiva/TRAuLPzZpSXvJm4sA4jHJtcV6dkle25ltVlz8i8U5YFt2uOZ782tYHqdq6nE/greader.jpg&#34;&gt;&lt;img src=&#34;https://shiv.me/images/greader.jpg.scaled.500.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Google reader is one of Google&amp;rsquo;s products, that didn&amp;rsquo;t you didn&amp;rsquo;t realize you needed until you started using it. Heck, pretty much every product they do is in that category. It is one app where I &lt;a href=&#34;http://www.google.com/reader/shared/shvelmur&#34;&gt;spend a lot of time every day&lt;/a&gt;. That is how I still manage to read blogs. Even after &lt;a href=&#34;http://twitter.com/shiva&#34;&gt;twitter &lt;/a&gt;and &lt;a href=&#34;http://facebook.com/shivanand&#34;&gt;facebook &lt;/a&gt;and &lt;a href=&#34;http://friendfeed.com/shivanand&#34;&gt;friendfeed&lt;/a&gt;, GReader is still the place, where you can truly control the signal vs noise ratio of content that you read.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>For the last time, its not an OS!</title>
+				<link>https://shiv.me/posts/2009/for-the-last-time-its-not-an-os/</link>
+				<pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/for-the-last-time-its-not-an-os/</guid>
+				<description>&lt;p&gt;The last couple of days has been ablaze with news of Google taking over the world, destroying Microsoft and sticking all of humanity on stakes to collect sunlight and convert it to power. Obviously, &lt;a href=&#34;http://www.techcrunch.com/2009/07/08/google-chrome-redefining-the-operating-system/&#34;&gt;some are elated at this proposition&lt;/a&gt;,  &lt;a href=&#34;http://www.crunchgear.com/2009/07/08/a-third-opinion-on-google-chrome/&#34;&gt;some tentative&lt;/a&gt;, and then there are &lt;a href=&#34;http://fakesteve.blogspot.com/2009/07/lets-all-take-deep-breath-and-get-some.html&#34;&gt;some others&lt;/a&gt; &lt;a href=&#34;http://technosailor.com/2009/07/09/google-chrome-os-a-lot-to-do-about-nothing/&#34;&gt;who think all of this is just hogwash.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have but one thing to show you today. Presenting article number 1, a video by one of the minions at Google.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>In the browser lies the power - Wave 2 of the Google takeover</title>
+				<link>https://shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</link>
+				<pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/in-the-browser-lies-the-power-wave-2-of-the-google-takeover/</guid>
+				<description>&lt;p&gt;Finally it&amp;rsquo;s out in the open. The ultimate weapon in Google&amp;rsquo;s powerchest to combat desktop applications, render the need for a specific platform meaningless - the browser. I guess this has been in the making for the last decade, and here it is. A browser by a company that downloads pretty much most of the internet every day.&lt;/p&gt;&#xA;&lt;p&gt;If you are still reading this, you shouldn&amp;rsquo;t be. Get outta here and &lt;a href=&#34;http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html#&#34;&gt;read this&lt;/a&gt;. (Actually just open in a new window, and continue reading this).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Google blogs its feature later than I do!</title>
+				<link>https://shiv.me/posts/2007/google-blogs-its-feature-later/</link>
+				<pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/google-blogs-its-feature-later/</guid>
+				<description>&lt;p&gt;I discovered today, that twitter+zooomr+a small utility called Cropper, now allows us to put new information about some of the products we use often, out into the blogosphere (I hate that word now), faster than ever before.&lt;/p&gt;&#xA;&lt;p&gt;Check this image that I posted this image on &lt;a href=&#34;http://www.zooomr.com/photos/shiva/3921233/&#34;&gt;zooomr on 12th Dec&lt;/a&gt; and then &lt;a href=&#34;http://twitter.com/shvelmur/statuses/494443532&#34;&gt;twittered it&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/3921233_4558d6643d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I found a &lt;a href=&#34;http://googleblog.blogspot.com/2007/12/better-flight-stats-results.html&#34;&gt;blog post&lt;/a&gt;, by (I presume) one of the engineer&amp;rsquo;s who made it happen, on the google&amp;rsquo;s official blog. Although, I didn&amp;rsquo;t post the exact feature he was talking about, I noticed the feature too on another search I was doing that day.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

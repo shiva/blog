@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Pacino on Reflections</title>
-    <link>http://blog.shiv.me/tags/pacino/</link>
-    <description>Recent content in Pacino on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 13 Jan 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/pacino/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Impersonations</title>
-      <link>http://blog.shiv.me/posts/2011/impersonations/</link>
-      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/impersonations/</guid>
-      <description>Impersonations</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pacino on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/pacino/</link>
+		<description>Recent content in Pacino on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 13 Jan 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/pacino/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Impersonations</title>
+				<link>https://shiv.me/posts/2011/impersonations/</link>
+				<pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/impersonations/</guid>
+				<description>&lt;p&gt;Some actors have the incredible talent of keen observation, and Mr Spacey is a master at it. Watch him channeling Pacino around 5:25. In few words, he makes you believe you&amp;rsquo;re seeing the real Pacino. The &amp;lsquo;Christopher Walken&amp;rsquo; is also spot on.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

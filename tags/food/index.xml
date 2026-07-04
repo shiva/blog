@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Food on Reflections</title>
-    <link>http://blog.shiv.me/tags/food/</link>
-    <description>Recent content in Food on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 14 Jan 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/food/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A weekend of culinary delights</title>
-      <link>http://blog.shiv.me/posts/2013/culinary-delights/</link>
-      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2013/culinary-delights/</guid>
-      <description>A weekend of culinary delights</description>
-    </item>
-    <item>
-      <title>Two-factor authentication and spicy salmon sashimi don</title>
-      <link>http://blog.shiv.me/posts/2012/two-factor-authentication-and-spicy-salmon-sashimi-don/</link>
-      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/two-factor-authentication-and-spicy-salmon-sashimi-don/</guid>
-      <description>Two-factor authentication and spicy salmon sashimi don</description>
-    </item>
-    <item>
-      <title>Tandoori spiced fish with cucumber</title>
-      <link>http://blog.shiv.me/posts/2008/tandoori-spiced-fish-with-cucumber/</link>
-      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/tandoori-spiced-fish-with-cucumber/</guid>
-      <description>Tandoori spiced fish with cucumber</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Food on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/food/</link>
+		<description>Recent content in Food on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 14 Jan 2013 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/food/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A weekend of culinary delights</title>
+				<link>https://shiv.me/posts/2013/culinary-delights/</link>
+				<pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2013/culinary-delights/</guid>
+				<description>&lt;p&gt;The great G.B Shaw, in &amp;ldquo;Man and Superman&amp;rdquo; (not that Superman), quipped, &amp;ldquo;&lt;em&gt;There is no love sincerer than the love of food&lt;/em&gt;.&amp;rdquo; I had a weekend, that reminded me how much I love being fed. It also, reminded me of my wayward ways, in keeping the waistline in check, but I diverge. For this Christmas, I got the most amazing gift &amp;ndash; the gift of an evening out trying out food that tasted, as good as it sounds and looks. Without much ado, here is the spread:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Two-factor authentication and spicy salmon sashimi don</title>
+				<link>https://shiv.me/posts/2012/two-factor-authentication-and-spicy-salmon-sashimi-don/</link>
+				<pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2012/two-factor-authentication-and-spicy-salmon-sashimi-don/</guid>
+				<description>&lt;p&gt;For the last few months I&amp;rsquo;ve been annoyed. Two or three times a week, I get a flurry of emails from Facebook and twitter claiming that I reset my password. Sounds like a first-world problem? It is. However, I have 4 emails linked to my Facebook account and one to my twitter account. I get on average 15-20 mails a week, and I dutifully dis-avow each one of them.&lt;/p&gt;&#xA;&lt;p&gt;Then, &lt;a href=&#34;http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard&#34;&gt;this happens&lt;/a&gt;. It scares the hell out of me, but I procrastinate. After a good two weeks, and 40 mails later, I&amp;rsquo;ve finally caved, and enabled it. Now, it&amp;rsquo;s practically impossible to hack my account. Password + token to access from any new device, and I can remotely revoke access to any device I lose.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tandoori spiced fish with cucumber</title>
+				<link>https://shiv.me/posts/2008/tandoori-spiced-fish-with-cucumber/</link>
+				<pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/tandoori-spiced-fish-with-cucumber/</guid>
+				<description>&lt;p&gt;One program&amp;ndash;on Food TV&amp;ndash;that I like to watch, is &lt;a href=&#34;http://www.gordonramsay.com/corporate/theman/biography/&#34;&gt;Gordon Ramsey&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;http://www.channel4.com/food/on-tv/ramsays-kitchen-nightmares/&#34;&gt;Kitchen Nightmares&lt;/a&gt;. He is such a powerful person, who is into what he does for a living. He has inspired me to get of my couch and cook decent food.&lt;/p&gt;&#xA;&lt;p&gt;This is a recipe from his book, &lt;a href=&#34;http://www.amazon.com/gp/product/1554700647?ie=UTF8&amp;amp;tag=shvelmurcom-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1554700647&#34;&gt;Fast Food.&lt;/a&gt; Every guy who wants to cook decent food should have on his shelf. A simple book, with simple recipes that any idiot (aka me) can follow. Most dishes are less than 30 minutes of cooking time.  I&amp;rsquo;m a very imprecise cook, and subtitute freely when I can&amp;rsquo;t find a specific fish or condiment. I have taken the same liberty with this recipe as well.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

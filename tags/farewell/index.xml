@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Farewell on Reflections</title>
-    <link>http://blog.shiv.me/tags/farewell/</link>
-    <description>Recent content in Farewell on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 25 May 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/farewell/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>So long and thanks for all the good times</title>
-      <link>http://blog.shiv.me/posts/2008/so-long-and-thanks-for-all-the-good-times/</link>
-      <pubDate>Sun, 25 May 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/so-long-and-thanks-for-all-the-good-times/</guid>
-      <description>So long and thanks for all the good times</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Farewell on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/farewell/</link>
+		<description>Recent content in Farewell on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 25 May 2008 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/farewell/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>So long and thanks for all the good times</title>
+				<link>https://shiv.me/posts/2008/so-long-and-thanks-for-all-the-good-times/</link>
+				<pubDate>Sun, 25 May 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/so-long-and-thanks-for-all-the-good-times/</guid>
+				<description>&lt;p&gt;I have been away from the internet for most of the last week. There are only a few things that can keep me away from spending hours reading feeds or uploading pictures, and when those things do happen, it is not very pleasant.&lt;/p&gt;&#xA;&lt;p&gt;Last week I lost yet another wonderful person from my life. I lost my father-in-law, Mr. Ghanshyam Maheswari. He was a good man, a good soul, a great father, and most of all, someone who lived his life - truly lived every moment of it. I can&amp;rsquo;t find words to express the loss I feel. As the hours on the plane ride half way across the world passed, I couldn&amp;rsquo;t begin to accept that he had really passed on. I guess, a part of me was expecting to see him at the airport, telling my wife and me that this was all just a dream.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

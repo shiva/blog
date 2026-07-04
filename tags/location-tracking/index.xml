@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Location Tracking on Reflections</title>
-    <link>http://blog.shiv.me/tags/location-tracking/</link>
-    <description>Recent content in Location Tracking on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 27 Apr 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/location-tracking/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>You cribbing bunch of morons</title>
-      <link>http://blog.shiv.me/posts/2011/you-cribbing-bunch-of-morons/</link>
-      <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/you-cribbing-bunch-of-morons/</guid>
-      <description>You cribbing bunch of morons</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Location Tracking on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/location-tracking/</link>
+		<description>Recent content in Location Tracking on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 27 Apr 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/location-tracking/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>You cribbing bunch of morons</title>
+				<link>https://shiv.me/posts/2011/you-cribbing-bunch-of-morons/</link>
+				<pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/you-cribbing-bunch-of-morons/</guid>
+				<description>&lt;p&gt;And now you&amp;rsquo;ve done it!! Bah! I thought it was so cool that I could plot of heat map of my location for a full year. With &lt;a href=&#34;http://www.wired.com/gadgetlab/2011/04/iphone-customers-lawsuit-data/&#34;&gt;all&lt;/a&gt; &lt;a href=&#34;http://gigaom.com/2011/04/21/researcher-iphone-location-data-already-used-by-cops/&#34;&gt;the&lt;/a&gt; &lt;a href=&#34;http://www.wired.com/gadgetlab/2011/04/iphone-location/&#34;&gt;cribbing&lt;/a&gt; around the internets about how the iphone is not secure because it stores data (ie a cache of your location data), Apple has decided to squash this wonderful &amp;ldquo;easter egg&amp;rdquo;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Sometime in the next few weeks Apple will release a free iOS software update that:&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

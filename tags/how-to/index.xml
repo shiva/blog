@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>How To on Reflections</title>
-    <link>http://blog.shiv.me/tags/how-to/</link>
-    <description>Recent content in How To on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 10 Jul 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Use Linux, learn new things</title>
-      <link>http://blog.shiv.me/posts/2016/use-linux-learn-new-things/</link>
-      <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2016/use-linux-learn-new-things/</guid>
-      <description>Use Linux. It encourages learning new things, and new ways to do old things</description>
-    </item>
-    <item>
-      <title>Exporting XDisplay</title>
-      <link>http://blog.shiv.me/posts/2011/exporting-xdisplay/</link>
-      <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/exporting-xdisplay/</guid>
-      <description>Exporting XDisplay</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>How-To on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/how-to/</link>
+		<description>Recent content in How-To on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 10 Jul 2016 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Use Linux, learn new things</title>
+				<link>https://shiv.me/posts/2016/use-linux-learn-new-things/</link>
+				<pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2016/use-linux-learn-new-things/</guid>
+				<description>&lt;p&gt;After 12+ years, I built a &lt;a href=&#34;https://ca.pcpartpicker.com/b/j6Cypg&#34;&gt;workstation from scratch&lt;/a&gt;. Hardware has come such a long way, but that is a post unto itself. Having always worked with Ubuntu and other debian variants it was time to venture into a more lean distro. I picked &lt;a href=&#34;https://wiki.archlinux.org/index.php/arch_compared_to_other_distributions&#34;&gt;Arch Linux&lt;/a&gt;, on the recommendation of several colleagues. It&amp;rsquo;s been fun. &lt;a href=&#34;https://wiki.archlinux.org/index.php/pacman&#34;&gt;Pacman&lt;/a&gt; and &lt;a href=&#34;https://archlinux.fr/yaourt-en&#34;&gt;Yaourt&lt;/a&gt; are great package managers, and the &lt;a href=&#34;https://en.wikipedia.org/wiki/Rolling_release&#34;&gt;rolling release&lt;/a&gt; model ensures access to the bleeding edge all the time.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Exporting XDisplay</title>
+				<link>https://shiv.me/posts/2011/exporting-xdisplay/</link>
+				<pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/exporting-xdisplay/</guid>
+				<description>&lt;p&gt;In *nix systems, you can make the display, the GUI of an application, appear on another machine.  This if often required, when the machine you want to run the application on is in a lab, and you have access through a desktop machine that has a monitor.&lt;/p&gt;&#xA;&lt;p&gt;You can do this, by running an XServer on the desktop machine and configuring the client (the one where you run your app) with the XServer details. By default, the XServer instance on your desktop disallows communication from all machines except localhost. Thus, you will need to add the host in the allowed list using the xhost command.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

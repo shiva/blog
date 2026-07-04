@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>SNMP on Reflections</title>
-    <link>http://blog.shiv.me/tags/snmp/</link>
-    <description>Recent content in SNMP on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 06 Oct 2005 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/snmp/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SNMP tutorials</title>
-      <link>http://blog.shiv.me/posts/2005/snmp-tutorials/</link>
-      <pubDate>Thu, 06 Oct 2005 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2005/snmp-tutorials/</guid>
-      <description>SNMP tutorials</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>SNMP on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/snmp/</link>
+		<description>Recent content in SNMP on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 06 Oct 2005 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/snmp/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SNMP tutorials</title>
+				<link>https://shiv.me/posts/2005/snmp-tutorials/</link>
+				<pubDate>Thu, 06 Oct 2005 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2005/snmp-tutorials/</guid>
+				<description>&lt;p&gt;SNMP being the bread and butter for me, I decided to dig up some tutorials and links regarding the same.&lt;br&gt;&#xA;For the uninitiated, SNMP is short for Simple Network Management Protocol, and is a protocol used to manage network devices such as routers, switches etc.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.simpleweb.org/&#34;&gt;Simple Web&lt;/a&gt; - Introduction to SNMP, and good set of tutorials&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.simple-times.org/pub/toc.html&#34;&gt;Simple Times&lt;/a&gt; - technical articles and featured columns&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.cisco.com/warp/public/535/3.html&#34;&gt;Cisco - SNMP Overview&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.cisco.com/univercd/cc/td/doc/cisintwk/ito_doc/snmp.htm&#34;&gt;Cisco - whitepaper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.snmplink.org/&#34;&gt;SnmpLink&lt;/a&gt; - Links to almost every possible SNMP resource&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
 </rss>

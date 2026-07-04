@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Projects on Reflections</title>
-    <link>http://blog.shiv.me/tags/projects/</link>
-    <description>Recent content in Projects on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Structed Object Definition Language (SODL)</title>
-      <link>http://blog.shiv.me/projects/sodl/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/projects/sodl/</guid>
-      <description>Structed Object Definition Language (SODL)</description>
-    </item>
-    <item>
-      <title>People of GVRD - a photographic experiment</title>
-      <link>http://blog.shiv.me/posts/2011/people-of-gvrd/</link>
-      <pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/people-of-gvrd/</guid>
-      <description>People of GVRD - a photographic experiment</description>
-    </item>
-    <item>
-      <title>Twitter digests</title>
-      <link>http://blog.shiv.me/posts/2008/twitter-digests/</link>
-      <pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/twitter-digests/</guid>
-      <description>Twitter digests</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Projects on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/projects/</link>
+		<description>Recent content in Projects on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Structed Object Definition Language (SODL)</title>
+				<link>https://shiv.me/projects/sodl/</link>
+				<pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/projects/sodl/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The Structured Object Definition Language (SODL) is a domain-specific language designed for defining data structures, relationships, and constraints in a clear and organized manner. Files written in SODL use the &lt;code&gt;.sodl&lt;/code&gt; extension, reflecting the language&amp;rsquo;s focus on structured object definitions. SODL provides a rich set of constructs that allow developers to model complex data relationships while maintaining type safety and data integrity.&lt;/p&gt;&#xA;&lt;p&gt;The name &amp;ldquo;Structured Object Definition Language&amp;rdquo; reflects the language&amp;rsquo;s core purpose: it provides a structured way to define objects and their relationships in a data model. The &amp;ldquo;Structured&amp;rdquo; aspect emphasizes its systematic approach to organizing data definitions, while &amp;ldquo;Object Definition&amp;rdquo; highlights its primary focus on defining data objects and their properties.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>People of GVRD - a photographic experiment</title>
+				<link>https://shiv.me/posts/2011/people-of-gvrd/</link>
+				<pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/people-of-gvrd/</guid>
+				<description>&lt;p&gt;A couple of weeks ago I started a new project - to shoot random strangers in the streets of GVRD (Greater Vancouver Regional Districts - for those of you that are not from here). I wanted to see if I had the guts to walk up to random strangers, and ask their permission to shoot a picture of them. I was also curious to know how they would react to it, and what my success rate would be.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Twitter digests</title>
+				<link>https://shiv.me/posts/2008/twitter-digests/</link>
+				<pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/twitter-digests/</guid>
+				<description>&lt;p&gt;A few weeks back, I installed Alex King&amp;rsquo;s Twitter Tools for wordpress. Running it for a few weeks, I found that by lack of posting to my blog, became more apparent that earlier. There are now more &amp;ldquo;twitter&amp;rdquo; posts than the number of posts that I have written myself in the last year or so. How pathetic is that?!&lt;/p&gt;&#xA;&lt;p&gt;Looks like I have almost lost the need to say something (about anything) and it is about time to shut down this blog. However, I intend to give it another shot (one last time), before I stop hosting my own blog, and move to life-streaming instead (You can already find my at shiva.tumblr.com).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

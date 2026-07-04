@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tips-N-Tricks on Reflections</title>
-    <link>http://blog.shiv.me/tags/tips-n-tricks/</link>
-    <description>Recent content in Tips-N-Tricks on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 31 Jan 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/tips-n-tricks/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tips: Presentation</title>
-      <link>http://blog.shiv.me/posts/2007/tips-presentation/</link>
-      <pubDate>Wed, 31 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/tips-presentation/</guid>
-      <description>Tips: Presentation</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tips-N-Tricks on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/tips-n-tricks/</link>
+		<description>Recent content in Tips-N-Tricks on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 31 Jan 2007 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/tips-n-tricks/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Tips: Presentation</title>
+				<link>https://shiv.me/posts/2007/tips-presentation/</link>
+				<pubDate>Wed, 31 Jan 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/tips-presentation/</guid>
+				<description>&lt;p&gt;I have always wanted to be good at public speaking, especially in front of large audiences. Although, I can address a gathering without a shiver in my voice, I nonetheless feel butterflies in my stomach all the time!&lt;/p&gt;&#xA;&lt;p&gt;I found some interesting links that might help soothe those tense moments!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.cgl.uwaterloo.ca/~csk/presentations.html&#34; title=&#34;http://www.cgl.uwaterloo.ca/~csk/presentations.html&#34;&gt;http://www.cgl.uwaterloo.ca/~csk/presentations.html&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;http://www.aresearchguide.com/3tips.html&#34; title=&#34;http://www.aresearchguide.com/3tips.html&#34;&gt;http://www.aresearchguide.com/3tips.html&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;http://lorien.ncl.ac.uk/ming/dept/Tips/present/present.htm&#34; title=&#34;http://lorien.ncl.ac.uk/ming/dept/Tips/present/present.htm&#34;&gt;http://lorien.ncl.ac.uk/ming/dept/Tips/present/present.htm&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most times, one hardly derives anything at the end of an hour long technical presentation, and more often than not, the content of your presentation is lost after your audience exits the room.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

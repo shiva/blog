@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Downgrade on Reflections</title>
-    <link>http://blog.shiv.me/tags/downgrade/</link>
-    <description>Recent content in Downgrade on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 16 Jan 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/downgrade/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>IPOD touch: Downgrade from 1.1.3 to 1.1.1</title>
-      <link>http://blog.shiv.me/posts/2008/ipod-touch-downgrade-from-113-to-111/</link>
-      <pubDate>Wed, 16 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/ipod-touch-downgrade-from-113-to-111/</guid>
-      <description>IPOD touch: Downgrade from 1.1.3 to 1.1.1</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Downgrade on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/downgrade/</link>
+		<description>Recent content in Downgrade on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 16 Jan 2008 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/downgrade/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>IPOD touch: Downgrade from 1.1.3 to 1.1.1</title>
+				<link>https://shiv.me/posts/2008/ipod-touch-downgrade-from-113-to-111/</link>
+				<pubDate>Wed, 16 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/ipod-touch-downgrade-from-113-to-111/</guid>
+				<description>&lt;p&gt;My ipod touch was upgraded to 1.1.3, after connecting to my computer, and I wanted to downgrade to 1.1.1, so I could jailbreak it and put any app I want on it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://ipodtouchmaster.com/&#34;&gt;ipodtouchmaster &lt;/a&gt;found &lt;a href=&#34;http://www.youtube.com/v/YakjwxB3nQU&#34;&gt;a way to downgrade&lt;/a&gt; it using iPhuc.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>FashionQuest on Reflections</title>
-    <link>http://blog.shiv.me/tags/fashionquest/</link>
-    <description>Recent content in FashionQuest on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sat, 20 Nov 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/fashionquest/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Barcamp Vancouver 2010 - Roundup</title>
-      <link>http://blog.shiv.me/posts/2010/bcv2010-roundup/</link>
-      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/bcv2010-roundup/</guid>
-      <description>Barcamp Vancouver 2010 - Roundup</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>FashionQuest on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/fashionquest/</link>
+		<description>Recent content in FashionQuest on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sat, 20 Nov 2010 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/fashionquest/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Barcamp Vancouver 2010 - Roundup</title>
+				<link>https://shiv.me/posts/2010/bcv2010-roundup/</link>
+				<pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/bcv2010-roundup/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://blog.shiv.me/wp-content/uploads/2010/11/barcamp-yvr-10.png&#34;&gt;&lt;img src=&#34;https://shiv.me/images/barcamp-yvr-10.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Phew! What an awesome 23 hours! I&amp;rsquo;m just back from &lt;a href=&#34;http://barcamp.org/w/page/29849528/BarCampVancouver2010&#34;&gt;Barcamp Vancouver 2010&lt;/a&gt; &lt;a href=&#34;http://twitter.com/#!/search?q=%23BCV10&#34;&gt;#bcv10&lt;/a&gt;. (Check out some &lt;a href=&#34;http://www.flickr.com/groups/barcampvancouver/&#34;&gt;pictures from the event&lt;/a&gt;). It&amp;rsquo;s been a while, since I have been this tired and excited at the same time. There are a thousand threads competing for the processor(s) in my head right now. I met a lot of very interesting people, and learnt about some great ideas. It has been a very educational weekend, in general. For all the great folks I met, I&amp;rsquo;m sure there were many more that I couldn&amp;rsquo;t chat with. To you, I say, &amp;ldquo;&lt;a href=&#34;http://www.google.com/profiles/shvelmur&#34;&gt;Let&amp;rsquo;s meet on the internets&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

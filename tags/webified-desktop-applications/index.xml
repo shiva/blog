@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Webified Desktop Applications on Reflections</title>
-    <link>http://blog.shiv.me/tags/webified-desktop-applications/</link>
-    <description>Recent content in Webified Desktop Applications on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 25 Sep 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/webified-desktop-applications/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Webified desktop applications</title>
-      <link>http://blog.shiv.me/posts/2008/webified-desktop-applications/</link>
-      <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/webified-desktop-applications/</guid>
-      <description>Webified desktop applications</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Webified Desktop Applications on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/webified-desktop-applications/</link>
+		<description>Recent content in Webified Desktop Applications on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 25 Sep 2008 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/webified-desktop-applications/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Webified desktop applications</title>
+				<link>https://shiv.me/posts/2008/webified-desktop-applications/</link>
+				<pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/webified-desktop-applications/</guid>
+				<description>&lt;p&gt;You know something is seriously out of whack, when you download a 12 MB application that is just a step above an ftp application. I know, a rant at such an ungodly hour! Yup! I have been up 2 hours past bed-time trying to upload a few high-resolution photos.&lt;/p&gt;&#xA;&lt;p&gt;I found these shots of fireworks that I captured about two months back, and finally managed to sneak in some time to process these shots. I started my attempt at putting &lt;a href=&#34;http://flickr.com/photos/shvelmur/sets/72157607481830420/&#34;&gt;these&lt;/a&gt; on my &lt;a href=&#34;http://flickr.com/photos/shvelmur/&#34;&gt;flickr account&lt;/a&gt;, and &lt;a href=&#34;http://www.stevey.com/2008/01/12/the-new-flickr-uploader/&#34;&gt;the pitiful uploader V3&lt;/a&gt;, has been failing for the last 2 hours! I doesn&amp;rsquo;t seem to be the servers, since the 2.5 version works fine. Although, I must confess, I&amp;rsquo;m uploading files that are more than 5MB, and it&amp;rsquo;s really just timeout issues.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

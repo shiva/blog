@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Canada on Reflections</title>
-    <link>http://blog.shiv.me/tags/canada/</link>
-    <description>Recent content in Canada on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 16 Mar 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/canada/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>So long and thanks for the &#34;jailed&#34; iphone</title>
-      <link>http://blog.shiv.me/posts/2010/so-long-and-thanks-for-the-jailed-iphone/</link>
-      <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/so-long-and-thanks-for-the-jailed-iphone/</guid>
-      <description>So long and thanks for the &amp;#34;jailed&amp;#34; iphone</description>
-    </item>
-    <item>
-      <title>Kindle for the rest of us .. well, almost</title>
-      <link>http://blog.shiv.me/posts/2009/kindle-for-the-rest-of-us-well-almost/</link>
-      <pubDate>Fri, 06 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/kindle-for-the-rest-of-us-well-almost/</guid>
-      <description>Kindle for the rest of us .. well, almost</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Canada on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/canada/</link>
+		<description>Recent content in Canada on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 16 Mar 2010 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/canada/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>So long and thanks for the &#34;jailed&#34; iphone</title>
+				<link>https://shiv.me/posts/2010/so-long-and-thanks-for-the-jailed-iphone/</link>
+				<pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/so-long-and-thanks-for-the-jailed-iphone/</guid>
+				<description>&lt;p&gt;[caption id=&amp;ldquo;attachment_737&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;]&lt;a href=&#34;http://blog.shiv.me/wp-content/uploads/2010/03/Nexus-One-Phone-Choose-a-phone.png&#34;&gt;&lt;img src=&#34;https://shiv.me/images/Nexus-One-Phone-Choose-a-phone-300x195.png&#34; alt=&#34;Google Nexus is available in Canada&#34;&gt;&lt;/a&gt; So long oppression[/caption]&lt;/p&gt;&#xA;&lt;p&gt;Thanks for the iPhone, Mr. Jobs. There is a new way to protest the iPhone. I don&amp;rsquo;t have to &lt;a href=&#34;http://blog.shiv.me/2010/02/04/ipad-is-ibad-petition/&#34;&gt;sign petitions&lt;/a&gt; anymore. I can now take my $500 &lt;a href=&#34;http://bit.ly/cXseFC&#34;&gt;elsewhere&lt;/a&gt;, for a slightly more open experience. I &lt;a href=&#34;http://blog.shiv.me/2010/02/03/i-too-have-something-to-say-about-the-ipad/&#34;&gt;didn&amp;rsquo;t ask for much&lt;/a&gt;, but I don&amp;rsquo;t have to wait on your whim any longer (no offense meant to you personally, Mr Jobs).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Kindle for the rest of us .. well, almost</title>
+				<link>https://shiv.me/posts/2009/kindle-for-the-rest-of-us-well-almost/</link>
+				<pubDate>Fri, 06 Nov 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/kindle-for-the-rest-of-us-well-almost/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve lived in India for 27 of the 29 years of my life (moved to Canada in 2007) For almost every year for the last 15 years (that&amp;rsquo;s how long I&amp;rsquo;ve been a gadget/tech fanatic), I have lamented the availability or lack thereof of any newly released shiny thingies. Amazon has finally figured out that people outside the US, read books too. Imagine my delight when I heard that there a new version of the&lt;a href=&#34;http://www.amazon.com/gp/product/B0015T963C?ie=UTF8&amp;amp;tag=shvelmurcom-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0015T963C&#34;&gt;Kindle (The global wireless edition - no less)&lt;/a&gt; (Disclosure: affiliate link).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

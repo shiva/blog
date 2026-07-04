@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Social Bites on Reflections</title>
-    <link>http://blog.shiv.me/tags/social-bites/</link>
-    <description>Recent content in Social Bites on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 14 Jan 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/social-bites/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A weekend of culinary delights</title>
-      <link>http://blog.shiv.me/posts/2013/culinary-delights/</link>
-      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2013/culinary-delights/</guid>
-      <description>A weekend of culinary delights</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Social Bites on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/social-bites/</link>
+		<description>Recent content in Social Bites on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 14 Jan 2013 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/social-bites/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A weekend of culinary delights</title>
+				<link>https://shiv.me/posts/2013/culinary-delights/</link>
+				<pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2013/culinary-delights/</guid>
+				<description>&lt;p&gt;The great G.B Shaw, in &amp;ldquo;Man and Superman&amp;rdquo; (not that Superman), quipped, &amp;ldquo;&lt;em&gt;There is no love sincerer than the love of food&lt;/em&gt;.&amp;rdquo; I had a weekend, that reminded me how much I love being fed. It also, reminded me of my wayward ways, in keeping the waistline in check, but I diverge. For this Christmas, I got the most amazing gift &amp;ndash; the gift of an evening out trying out food that tasted, as good as it sounds and looks. Without much ado, here is the spread:&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

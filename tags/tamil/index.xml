@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tamil on Reflections</title>
-    <link>http://blog.shiv.me/tags/tamil/</link>
-    <description>Recent content in Tamil on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Fri, 02 Dec 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/tamil/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Happy birthday, Mom</title>
-      <link>http://blog.shiv.me/posts/2011/happy-birthday-mom/</link>
-      <pubDate>Fri, 02 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/happy-birthday-mom/</guid>
-      <description>Happy birthday, Mom</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tamil on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/tamil/</link>
+		<description>Recent content in Tamil on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Fri, 02 Dec 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/tamil/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Happy birthday, Mom</title>
+				<link>https://shiv.me/posts/2011/happy-birthday-mom/</link>
+				<pubDate>Fri, 02 Dec 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/happy-birthday-mom/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s my mom&amp;rsquo;s birthday today, and as I scoured the recesses of the internets for something nice to say, I came across this most beautiful poem by the author of  &amp;ldquo;&lt;a href=&#34;http://joyjunction.blogspot.com/&#34;&gt;Joy Junction&lt;/a&gt;&amp;rdquo; about his mom. As most of you who know me know, I&amp;rsquo;m not much of a poet, but I am enough of a romantic to steal &amp;ldquo;borrow&amp;rdquo; someone-else work to express what I feel (I know &amp;ndash; lame, right?)&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

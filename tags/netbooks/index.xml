@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Netbooks on Reflections</title>
-    <link>http://blog.shiv.me/tags/netbooks/</link>
-    <description>Recent content in Netbooks on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sat, 28 Dec 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/netbooks/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Malaise of large companies</title>
-      <link>http://blog.shiv.me/posts/2013/malaise-of-large-companies/</link>
-      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2013/malaise-of-large-companies/</guid>
-      <description>Malaise of large companies</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Netbooks on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/netbooks/</link>
+		<description>Recent content in Netbooks on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sat, 28 Dec 2013 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/netbooks/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Malaise of large companies</title>
+				<link>https://shiv.me/posts/2013/malaise-of-large-companies/</link>
+				<pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2013/malaise-of-large-companies/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://scripting.com/2013/12/28/microsoftAndNetbooks.html&#34;&gt;Another gem&lt;/a&gt; from the always spot-on Dave Winer. Microsoft could have owned netbooks.&lt;/p&gt;&#xA;&lt;p&gt;The pathological need for large companies to focus on the wrong, to their own demise never ceases to amaze me. Why do dominant players lose out? Is it the incompetence of people in these companies? Is it the inability to articulate, convince, and move the masses within these companies?&lt;/p&gt;&#xA;&lt;p&gt;Most often, it is the later. Perhaps, the collective, is bound to make safer choices and very often, the simple or obvious option is not the safe one.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

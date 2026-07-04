@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Friendfeed on Reflections</title>
-    <link>http://blog.shiv.me/tags/friendfeed/</link>
-    <description>Recent content in Friendfeed on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Fri, 27 Jun 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/friendfeed/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Friendfeed comments for wordpress</title>
-      <link>http://blog.shiv.me/posts/2008/friendfeed-comments-for-wordpress/</link>
-      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/friendfeed-comments-for-wordpress/</guid>
-      <description>Friendfeed comments for wordpress</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Friendfeed on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/friendfeed/</link>
+		<description>Recent content in Friendfeed on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Fri, 27 Jun 2008 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/friendfeed/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Friendfeed comments for wordpress</title>
+				<link>https://shiv.me/posts/2008/friendfeed-comments-for-wordpress/</link>
+				<pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/friendfeed-comments-for-wordpress/</guid>
+				<description>&lt;p&gt;Conversations on the web have evolved quite a bit, in the last 4/5 years. During the late 90s, conversations on the web, was pretty much non-existant, except for a few, who used their websites to engage in conversations. The advent of the blog, made available tools to start and continue conversations.&lt;/p&gt;&#xA;&lt;p&gt;In the last couple of years, there has been several attempts to normalize comments, across the blogging ecosystem, and several ways have been tried. &lt;a href=&#34;http://disqus.com&#34;&gt;Disqus&lt;/a&gt;, is a company, that is in the business of aggregating comments for your blog. &lt;a href=&#34;http://seesmic.com&#34;&gt;Seesmic&lt;/a&gt;, a video communications startup, has partnered with them to integrate video comments. Even after all of these innovations, getting people to comment on a blog, is still pretty difficult.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

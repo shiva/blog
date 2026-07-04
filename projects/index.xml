@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Projects on Reflections</title>
-    <link>http://blog.shiv.me/projects/</link>
-    <description>Recent content in Projects on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Structed Object Definition Language (SODL)</title>
-      <link>http://blog.shiv.me/projects/sodl/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/projects/sodl/</guid>
-      <description>Structed Object Definition Language (SODL)</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Projects on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/projects/</link>
+		<description>Recent content in Projects on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/projects/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Structed Object Definition Language (SODL)</title>
+				<link>https://shiv.me/projects/sodl/</link>
+				<pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/projects/sodl/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The Structured Object Definition Language (SODL) is a domain-specific language designed for defining data structures, relationships, and constraints in a clear and organized manner. Files written in SODL use the &lt;code&gt;.sodl&lt;/code&gt; extension, reflecting the language&amp;rsquo;s focus on structured object definitions. SODL provides a rich set of constructs that allow developers to model complex data relationships while maintaining type safety and data integrity.&lt;/p&gt;&#xA;&lt;p&gt;The name &amp;ldquo;Structured Object Definition Language&amp;rdquo; reflects the language&amp;rsquo;s core purpose: it provides a structured way to define objects and their relationships in a data model. The &amp;ldquo;Structured&amp;rdquo; aspect emphasizes its systematic approach to organizing data definitions, while &amp;ldquo;Object Definition&amp;rdquo; highlights its primary focus on defining data objects and their properties.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

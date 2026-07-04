@@ -1,60 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Twitter on Reflections</title>
-    <link>http://blog.shiv.me/tags/twitter/</link>
-    <description>Recent content in Twitter on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 02 Jan 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2013 on twitter - a recap</title>
-      <link>http://blog.shiv.me/posts/2014/2013-on-twitter-a-recap/</link>
-      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2014/2013-on-twitter-a-recap/</guid>
-      <description>2013 on twitter - a recap</description>
-    </item>
-    <item>
-      <title>Proposed GUI for C&#43;&#43; based twitter client</title>
-      <link>http://blog.shiv.me/posts/2008/twitter-client/</link>
-      <pubDate>Sat, 25 Oct 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/twitter-client/</guid>
-      <description>Proposed GUI for C&#43;&#43; based twitter client</description>
-    </item>
-    <item>
-      <title>A Thousand Tweets</title>
-      <link>http://blog.shiv.me/posts/2008/a-thousand-tweets/</link>
-      <pubDate>Wed, 15 Oct 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/a-thousand-tweets/</guid>
-      <description>A Thousand Tweets</description>
-    </item>
-    <item>
-      <title>Welcome new friends from twitter</title>
-      <link>http://blog.shiv.me/posts/2008/welcome-new-friends-from-twitter/</link>
-      <pubDate>Wed, 02 Apr 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/welcome-new-friends-from-twitter/</guid>
-      <description>Welcome new friends from twitter</description>
-    </item>
-    <item>
-      <title>Google blogs its feature later than I do!</title>
-      <link>http://blog.shiv.me/posts/2007/google-blogs-its-feature-later/</link>
-      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/google-blogs-its-feature-later/</guid>
-      <description>Google blogs its feature later than I do!</description>
-    </item>
-    <item>
-      <title>Issue with Twitbin, Jing the next-gen screen capture</title>
-      <link>http://blog.shiv.me/posts/2007/issue-with-twitbin-jing-the-next-gen-screen-capture/</link>
-      <pubDate>Tue, 02 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/issue-with-twitbin-jing-the-next-gen-screen-capture/</guid>
-      <description>Issue with Twitbin, Jing the next-gen screen capture</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Twitter on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/twitter/</link>
+		<description>Recent content in Twitter on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 02 Jan 2014 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>2013 on twitter - a recap</title>
+				<link>https://shiv.me/posts/2014/2013-on-twitter-a-recap/</link>
+				<pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2014/2013-on-twitter-a-recap/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://vizify.com/&#34;&gt;Vizify&lt;/a&gt; makes a video out of the posts you have made on twitter in the last year. &lt;a href=&#34;https://twitter.com/tinaferan&#34;&gt;Christina&lt;/a&gt;, you are always my #1! Thank you for bringing this to my attention. As any self-respecting nerd would do, I immediately made one for myself. Doesn&amp;rsquo;t the world need yet another summary of meee!!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.vizify.com/shivanand/twitter-video&#34;&gt;2013 on twitter&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Thanks to my top followers&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://twitter.com/tinaferan&#34;&gt;Christina&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://twitter.com/ray_lian&#34;&gt;Ray Lian&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://twitter.com/covivant&#34;&gt;Dave Kell&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+			</item>
+			<item>
+				<title>Proposed GUI for C&#43;&#43; based twitter client</title>
+				<link>https://shiv.me/posts/2008/twitter-client/</link>
+				<pubDate>Sat, 25 Oct 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/twitter-client/</guid>
+				<description>&lt;p&gt;I got really sick of using Adobe AIR apps that take up more and more of system memory for an app that does twitter.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve decided to put my &amp;ldquo;coding for myself&amp;rdquo; hat on and write a QT based C++ application (that should be cross-platform). No name as yet, but I will find something soon. QtTwitter is taken. Mebbe, once I have a working version, I can get ownership of the project on google code.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A Thousand Tweets</title>
+				<link>https://shiv.me/posts/2008/a-thousand-tweets/</link>
+				<pubDate>Wed, 15 Oct 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/a-thousand-tweets/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/shvelmur/2945141063/&#34;&gt;&lt;img src=&#34;https://shiv.me/images/2945141063_1a9e528f86.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Welcome new friends from twitter</title>
+				<link>https://shiv.me/posts/2008/welcome-new-friends-from-twitter/</link>
+				<pubDate>Wed, 02 Apr 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/welcome-new-friends-from-twitter/</guid>
+				<description>&lt;p&gt;I have the very distinct feeling that a bunch of people from India, are going to visit my site today. Maybe, it is too late, but nonetheless, I was compelled to post before I left for work, after staying up the whole night (watching movies). No really - &lt;a href=&#34;http://www.imdb.com/title/tt0338526/&#34;&gt;Van Helsing&lt;/a&gt; followed by &lt;a href=&#34;http://www.imdb.com/title/tt0765429/&#34;&gt;American Gangster&lt;/a&gt; - two very find movies, I might add, but I digress.&lt;/p&gt;&#xA;&lt;p&gt;I got the honour, of being one of the few listed on a fellow &lt;a href=&#34;http://blog.yuvisense.net/&#34;&gt;tech-enthusiast&lt;/a&gt;&amp;rsquo;s list of &lt;a href=&#34;http://blog.yuvisense.net/indians-on-twitter/&#34;&gt;&amp;ldquo;twittering&amp;rdquo; Indians.&lt;/a&gt; It&amp;rsquo;s not everyday that I make someone&amp;rsquo;s list, and hence the compulsion to blog about it. So, thank you Yuvi. Since he described me as a programmer, on his list, it&amp;rsquo;s only fair &amp;ndash;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Google blogs its feature later than I do!</title>
+				<link>https://shiv.me/posts/2007/google-blogs-its-feature-later/</link>
+				<pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/google-blogs-its-feature-later/</guid>
+				<description>&lt;p&gt;I discovered today, that twitter+zooomr+a small utility called Cropper, now allows us to put new information about some of the products we use often, out into the blogosphere (I hate that word now), faster than ever before.&lt;/p&gt;&#xA;&lt;p&gt;Check this image that I posted this image on &lt;a href=&#34;http://www.zooomr.com/photos/shiva/3921233/&#34;&gt;zooomr on 12th Dec&lt;/a&gt; and then &lt;a href=&#34;http://twitter.com/shvelmur/statuses/494443532&#34;&gt;twittered it&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/3921233_4558d6643d.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I found a &lt;a href=&#34;http://googleblog.blogspot.com/2007/12/better-flight-stats-results.html&#34;&gt;blog post&lt;/a&gt;, by (I presume) one of the engineer&amp;rsquo;s who made it happen, on the google&amp;rsquo;s official blog. Although, I didn&amp;rsquo;t post the exact feature he was talking about, I noticed the feature too on another search I was doing that day.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Issue with Twitbin, Jing the next-gen screen capture</title>
+				<link>https://shiv.me/posts/2007/issue-with-twitbin-jing-the-next-gen-screen-capture/</link>
+				<pubDate>Tue, 02 Oct 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/issue-with-twitbin-jing-the-next-gen-screen-capture/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.twitbin.com/&#34;&gt;Twitbin&lt;/a&gt; has been my favourite client for twitter. the key thing that attracted me to it, was that I can use twitter, along side my browsing, and that makes life much simpler. Also, it have a very simple interface, to track your friends and their messages.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.screencast.com/t/K4HLLD1WkGy&#34;&gt;&lt;img src=&#34;https://shiv.me/images/issuewithtwitbin.png&#34; alt=&#34;issue-with-twitbin&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I realized how much it mean to my twittering experience, when it went down sometime last week. I presumed, it was due to the upgrades that the twitter team was planning, and want to see if the problem persists. Well, looks like twitter is working fine now, through the web-interface, and I guess twitbin should be operational now, but.. well NO.. I still have to use the web interface and it suck big time.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

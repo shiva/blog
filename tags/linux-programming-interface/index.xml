@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Linux Programming Interface on Reflections</title>
-    <link>http://blog.shiv.me/tags/linux-programming-interface/</link>
-    <description>Recent content in Linux Programming Interface on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 25 Sep 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/linux-programming-interface/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sometimes, they are useful for a lifetime</title>
-      <link>http://blog.shiv.me/posts/2011/sometimes-they-are-useful-for-a-lifetime/</link>
-      <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/sometimes-they-are-useful-for-a-lifetime/</guid>
-      <description>Sometimes, they are useful for a lifetime</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Linux Programming Interface on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/linux-programming-interface/</link>
+		<description>Recent content in Linux Programming Interface on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 25 Sep 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/linux-programming-interface/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sometimes, they are useful for a lifetime</title>
+				<link>https://shiv.me/posts/2011/sometimes-they-are-useful-for-a-lifetime/</link>
+				<pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/sometimes-they-are-useful-for-a-lifetime/</guid>
+				<description>&lt;p&gt;And sometimes, they barely hold your attention. However, the recent acquisition is the former. I got the mammoth of a book, over the weekend; it weighs a ton and I&amp;rsquo;ll be sleeping with it, clutched tight in my hands.&lt;/p&gt;&#xA;&lt;p&gt;If you already have the tomb by tanenbaum of similar name, the unix programming interface, you probably are not going to glean much value from this one (you can thank POSIX for maintaining a modicum of consistency over the years and some would vehemently contest that). That said, if you write code for *nix systems, it definitely deserves the shelf-space as much as any other programming book.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

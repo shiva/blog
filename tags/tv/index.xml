@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tv on Reflections</title>
-    <link>http://blog.shiv.me/tags/tv/</link>
-    <description>Recent content in Tv on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 01 Feb 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/tv/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Crap on TV - Is that even news?!</title>
-      <link>http://blog.shiv.me/posts/2007/crap-on-tv-is-that-even-news/</link>
-      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/crap-on-tv-is-that-even-news/</guid>
-      <description>Crap on TV - Is that even news?!</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tv on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/tv/</link>
+		<description>Recent content in Tv on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 01 Feb 2007 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/tv/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Crap on TV - Is that even news?!</title>
+				<link>https://shiv.me/posts/2007/crap-on-tv-is-that-even-news/</link>
+				<pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/crap-on-tv-is-that-even-news/</guid>
+				<description>&lt;p&gt;Yesterday, I was watching an interview with &lt;a href=&#34;http://www.hackingmobilephones.com/&#34;&gt;Mr Ankit Wadia&lt;/a&gt; (His website describes him as &amp;ldquo;The Computer Security guru. The Ethical Hacker. The Author. The Intelligence Consultant. The Entrepreneur.&amp;rdquo;)&lt;/p&gt;&#xA;&lt;p&gt;He was talking about how the web is unsecure today and how easy it is to crack passwords. Whilst, I was eagerly awaiting in anticipation to see how he hack into a yahoo password, he pulled a bluff on me, when he asked the presenter to enter his password and then he went about using Revelation to read the password from it!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

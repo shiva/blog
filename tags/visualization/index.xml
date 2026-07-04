@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Visualization on Reflections</title>
-    <link>http://blog.shiv.me/tags/visualization/</link>
-    <description>Recent content in Visualization on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 26 Jan 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My linkedin network visualized</title>
-      <link>http://blog.shiv.me/posts/2011/my-linkedin-network-visualized/</link>
-      <pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/my-linkedin-network-visualized/</guid>
-      <description>My linkedin network visualized</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Visualization on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/visualization/</link>
+		<description>Recent content in Visualization on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 26 Jan 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My linkedin network visualized</title>
+				<link>https://shiv.me/posts/2011/my-linkedin-network-visualized/</link>
+				<pubDate>Wed, 26 Jan 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/my-linkedin-network-visualized/</guid>
+				<description>&lt;p&gt;[caption id=&amp;quot;&amp;quot; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;506&amp;rdquo; caption=&amp;ldquo;linkedin-visualized&amp;rdquo;]&lt;img src=&#34;https://shiv.me/images/inmap.gif&#34; alt=&#34;&#34;&gt;[/caption]&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://inmaps.linkedinlabs.com/share/Shivanand_Velmurugan/88004013062745336577671054227284913678&#34;&gt;Very cool&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

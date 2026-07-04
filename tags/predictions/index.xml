@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Predictions on Reflections</title>
-    <link>http://blog.shiv.me/tags/predictions/</link>
-    <description>Recent content in Predictions on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Fri, 30 Nov 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/predictions/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What will happen in 100 years?</title>
-      <link>http://blog.shiv.me/posts/2007/what-will-happen-in-100-years/</link>
-      <pubDate>Fri, 30 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/what-will-happen-in-100-years/</guid>
-      <description>What will happen in 100 years?</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Predictions on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/predictions/</link>
+		<description>Recent content in Predictions on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Fri, 30 Nov 2007 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/predictions/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>What will happen in 100 years?</title>
+				<link>https://shiv.me/posts/2007/what-will-happen-in-100-years/</link>
+				<pubDate>Fri, 30 Nov 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/what-will-happen-in-100-years/</guid>
+				<description>&lt;p&gt;That is a very difficult question to answer (which I don&amp;rsquo;t answer anywhere in this post: go away). Anyone who attempts to do so, must be a genius or a fool, perhaps a little of both. &lt;a href=&#34;http://blogoscoped.com/google-blog.html&#34;&gt;Philipp Lenssen&lt;/a&gt; on &lt;a href=&#34;http://blogoscoped.com/&#34;&gt;Google Blogoscoped&lt;/a&gt;, observes how one of those is true. Here is a more detailed analysis.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/3836395_b29aee123a.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;John Watkins, must have been quite a visionary considering the depth of his predictions and how much of it has come true.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

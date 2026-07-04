@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Extract Rpm on Reflections</title>
-    <link>http://blog.shiv.me/tags/extract-rpm/</link>
-    <description>Recent content in Extract Rpm on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 17 Feb 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/extract-rpm/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Working with rpms (extract, list contents)</title>
-      <link>http://blog.shiv.me/posts/2013/work-with-rpms/</link>
-      <pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2013/work-with-rpms/</guid>
-      <description>Working with rpms (extract, list contents)</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Extract Rpm on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/extract-rpm/</link>
+		<description>Recent content in Extract Rpm on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 17 Feb 2013 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/extract-rpm/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Working with rpms (extract, list contents)</title>
+				<link>https://shiv.me/posts/2013/work-with-rpms/</link>
+				<pubDate>Sun, 17 Feb 2013 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2013/work-with-rpms/</guid>
+				<description>&lt;p&gt;Unix. I love thee!&lt;/p&gt;&#xA;&lt;p&gt;Extract an rpm without installing in to the current directory (really, the rpm command should support this):&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;   $ rpm2cpio myrpmfile.rpm | cpio -idmv&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;*i: Restore archive&lt;/p&gt;&#xA;&lt;p&gt;*d: Create leading directories where needed&lt;/p&gt;&#xA;&lt;p&gt;*m: Retain previous file modification times when creating files&lt;/p&gt;&#xA;&lt;p&gt;*v: Verbose i.e. display progress&lt;/p&gt;&#xA;&lt;p&gt;List contents of an rpm:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;  $ rpm -qlp myrpmfile.rpm  &lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.cyberciti.biz/tips/how-to-extract-an-rpm-package-without-installing-it.html&#34;&gt;source&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

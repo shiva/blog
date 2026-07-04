@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>C&#43;&#43; on Reflections</title>
-    <link>http://blog.shiv.me/tags/c&#43;&#43;/</link>
-    <description>Recent content in C&#43;&#43; on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 03 Nov 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/c++/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Power of 2</title>
-      <link>http://blog.shiv.me/posts/2010/power/</link>
-      <pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/power/</guid>
-      <description>Power of 2</description>
-    </item>
-    <item>
-      <title>Unsigned Arithmetic</title>
-      <link>http://blog.shiv.me/posts/2010/unsigned-arithmetic/</link>
-      <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/unsigned-arithmetic/</guid>
-      <description>Unsigned Arithmetic</description>
-    </item>
-    <item>
-      <title>Proposed GUI for C&#43;&#43; based twitter client</title>
-      <link>http://blog.shiv.me/posts/2008/twitter-client/</link>
-      <pubDate>Sat, 25 Oct 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/twitter-client/</guid>
-      <description>Proposed GUI for C&#43;&#43; based twitter client</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>C&#43;&#43; on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/c&#43;&#43;/</link>
+		<description>Recent content in C&#43;&#43; on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 03 Nov 2010 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Power of 2</title>
+				<link>https://shiv.me/posts/2010/power/</link>
+				<pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/power/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s been a while since I&amp;rsquo;ve done anything except write code &amp;ndash; lots of it. The last 20 days have been insane, and ofcourse to a take a break from writing code, I like to read code that others write. (You DO know that I&amp;rsquo;m crazy, right?!). In one of my futile attempts at clearing my google-reader reading list, I chanced upon a post by &lt;a href=&#34;http://veechand.wordpress.com/about/&#34;&gt;Veerabahu&lt;/a&gt;, on finding if a number is a power of 2 (or not).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Unsigned Arithmetic</title>
+				<link>https://shiv.me/posts/2010/unsigned-arithmetic/</link>
+				<pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/unsigned-arithmetic/</guid>
+				<description>&lt;p&gt;Since my last post, I&amp;rsquo;ve had a couple of replies, a few more tweets, and few minutes of talking about unsigned types in Java, and why it doesn&amp;rsquo;t support them.&lt;/p&gt;&#xA;&lt;p&gt;I still retail the view that unsigned types are unnecessary for the majority of Java developers. The only kind that should care, are those who deal with network information (like representing an ipaddress or macaddress). Everyone, put down your forks, and do not touch the unsigned.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Proposed GUI for C&#43;&#43; based twitter client</title>
+				<link>https://shiv.me/posts/2008/twitter-client/</link>
+				<pubDate>Sat, 25 Oct 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/twitter-client/</guid>
+				<description>&lt;p&gt;I got really sick of using Adobe AIR apps that take up more and more of system memory for an app that does twitter.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve decided to put my &amp;ldquo;coding for myself&amp;rdquo; hat on and write a QT based C++ application (that should be cross-platform). No name as yet, but I will find something soon. QtTwitter is taken. Mebbe, once I have a working version, I can get ownership of the project on google code.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Mixers on Reflections</title>
-    <link>http://blog.shiv.me/tags/mixers/</link>
-    <description>Recent content in Mixers on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 09 Mar 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/mixers/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Computer Recording Equipment</title>
-      <link>http://blog.shiv.me/posts/2009/computer-recording-equipment/</link>
-      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/computer-recording-equipment/</guid>
-      <description>Computer Recording Equipment</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Mixers on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/mixers/</link>
+		<description>Recent content in Mixers on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 09 Mar 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/mixers/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Computer Recording Equipment</title>
+				<link>https://shiv.me/posts/2009/computer-recording-equipment/</link>
+				<pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/computer-recording-equipment/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m a bit of a stickler, when it comes to audio recording. I hate using the mics that come with laptops or the standard desktop mic. Recently, a co-worker asked me about my setup (I record a piano, strictly for my listening pleasure, and NO, MIDI doesn&amp;rsquo;t count).&lt;/p&gt;&#xA;&lt;p&gt;I couldn&amp;rsquo;t find the links for my version of the mic, but here are some equivalents.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;USB Mics&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.samedaymusic.com/mc--2677101/product--MSEMXLUSB&#34; title=&#34;MXL .006 USB Mic&#34;&gt;MXL .006 USB Mic&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;http://www.samedaymusic.com/mc--2677101/product--MXLUSB007&#34;&gt;MXL .007 USB Mic&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

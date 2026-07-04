@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Weight on Reflections</title>
-    <link>http://blog.shiv.me/tags/weight/</link>
-    <description>Recent content in Weight on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/weight/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I am fat no more</title>
-      <link>http://blog.shiv.me/posts/2012/i-am-fat-no-more/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/i-am-fat-no-more/</guid>
-      <description>I am fat no more</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Weight on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/weight/</link>
+		<description>Recent content in Weight on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/weight/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I am fat no more</title>
+				<link>https://shiv.me/posts/2012/i-am-fat-no-more/</link>
+				<pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2012/i-am-fat-no-more/</guid>
+				<description>&lt;p&gt;BMI, is not the best measure of health, or fitness, but &amp;gt;30 is a definite indicator of lack of care about one&amp;rsquo;s health. After several years of exactly that, I&amp;rsquo;m finally within reasonable limits. My BMI is 24.0; It&amp;rsquo;s official, I&amp;rsquo;m &lt;a href=&#34;http://www.nhlbisupport.com/bmi/&#34;&gt;not obese anymore&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In the last 4 years, I have seen my weight go from 230 lbs to 266 lbs, and back to 202 lbs, as of today.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a good day!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

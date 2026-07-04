@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Airplane Seat on Reflections</title>
-    <link>http://blog.shiv.me/tags/airplane-seat/</link>
-    <description>Recent content in Airplane Seat on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 13 Mar 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/airplane-seat/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Reclining airplane seats : work of the Devil!</title>
-      <link>http://blog.shiv.me/posts/2013/reclining-airplane-seats/</link>
-      <pubDate>Wed, 13 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2013/reclining-airplane-seats/</guid>
-      <description>Reclining airplane seats : work of the Devil!</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Airplane Seat on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/airplane-seat/</link>
+		<description>Recent content in Airplane Seat on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 13 Mar 2013 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/airplane-seat/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Reclining airplane seats : work of the Devil!</title>
+				<link>https://shiv.me/posts/2013/reclining-airplane-seats/</link>
+				<pubDate>Wed, 13 Mar 2013 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2013/reclining-airplane-seats/</guid>
+				<description>&lt;p&gt;Reclining airplane seats!! I shake my fist at thee. This one feature on airplanes has caused me untold miseries. Ok! I exaggerate .. a little. I live Vancouver, which is one the other side of the planet with respect to my hometown. As a result, I spend at least 30 hours on an plane, once a year. To compound, my 6&amp;rsquo; 5&amp;quot; (196 cm) frame does not mix well with cramped spaces.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

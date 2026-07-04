@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Firmware on Reflections</title>
-    <link>http://blog.shiv.me/tags/firmware/</link>
-    <description>Recent content in Firmware on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 15 Jan 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/firmware/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>IPod touch 1.1.1 firmware link</title>
-      <link>http://blog.shiv.me/posts/2008/ipod-touch-111-firmware-link/</link>
-      <pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/ipod-touch-111-firmware-link/</guid>
-      <description>IPod touch 1.1.1 firmware link</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Firmware on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/firmware/</link>
+		<description>Recent content in Firmware on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 15 Jan 2008 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/firmware/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>IPod touch 1.1.1 firmware link</title>
+				<link>https://shiv.me/posts/2008/ipod-touch-111-firmware-link/</link>
+				<pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/ipod-touch-111-firmware-link/</guid>
+				<description>&lt;p&gt;Since Apple&amp;rsquo;s is so bent upon &lt;a href=&#34;http://news.google.com/news/url?sa=t&amp;amp;ct=:ePkh8BM9g5ucBze5BG5yqhADkgWZeQBzjQYG/0-1&amp;amp;fp=478d8859dc34a86c&amp;amp;ei=vFuNR_i1EoOErQPTnYCHAg&amp;amp;url=http%3A//lifehacker.com/345114/iphone-ipod-touch-firmware-update-adds-faux%2bgps-multi%2bsms-and-more&amp;amp;cid=1126385834&amp;amp;sig2=kF9GGYFfNYp9px-jCahoww&#34;&gt;disappointing &lt;/a&gt;&lt;a href=&#34;http://www.google.com/url?sa=t&amp;amp;ct=res&amp;amp;cd=1&amp;amp;url=http%3A%2F%2Fwww.apple.com%2Fhotnews%2Fopeniphoneletter%2F&amp;amp;ei=-VuNR_LbH5vCgAP97MXfBg&amp;amp;usg=AFQjCNFD-104d-f8j6eMkH4FtIXQnPei7w&amp;amp;sig2=47vb7ATncfgGpDWP79PQgA&#34;&gt;their &lt;/a&gt;customers, by introducing paid firmware upgrades, I needed to ensure that I have the option to jail break, my new ipod touch (if need be). (update: the firmware upgrade itself is not paid. Only the newapps are paid). I am going to wait until they &lt;a href=&#34;http://www.google.com/url?sa=t&amp;amp;ct=res&amp;amp;cd=3&amp;amp;url=http%3A%2F%2Fwww.tuaw.com%2F2007%2F10%2F17%2Fapple-we-plan-to-have-an-iphone-sdk-in-developers-hands-in-fe%2F&amp;amp;ei=b1yNR-yLLYuQgwPzybHfBg&amp;amp;usg=AFQjCNEU4lvFx4EHi5SZE2s06qT7lNiBGg&amp;amp;sig2=Wi1NE6pO4ZjVXzyIje6FAw&#34;&gt;release their SDK in February&lt;/a&gt; before I jailbreak mine.&lt;/p&gt;&#xA;&lt;p&gt;I found a link to the &lt;a href=&#34;http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPod/SBML/osx/bundles/061-3932.20070927.p23dD/iPod1,1_1.1.1_3A110a_Restore.ipsw&#34;&gt;1.1.1 firmware&lt;/a&gt; (thanks to &lt;a href=&#34;http://rupertgee.wordpress.com/2007/12/02/downgraderestore-ipod-touch-firmware-to-version-111-using-os-x/&#34;&gt;Rupert&lt;/a&gt; and who-ever posted &lt;a href=&#34;http://forums.hardwarezone.com/showpost.php?p=26755502&amp;amp;postcount=40&#34;&gt;this&lt;/a&gt;).&lt;br&gt;&#xA;I have a copy on my hard-drive (just in case).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

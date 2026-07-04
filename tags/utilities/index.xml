@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Utilities on Reflections</title>
-    <link>http://blog.shiv.me/tags/utilities/</link>
-    <description>Recent content in Utilities on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sat, 23 Apr 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/utilities/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blogsy - a ray of hope</title>
-      <link>http://blog.shiv.me/posts/2011/blogsy-a-ray-of-hope/</link>
-      <pubDate>Sat, 23 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/blogsy-a-ray-of-hope/</guid>
-      <description>Blogsy - a ray of hope</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Utilities on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/utilities/</link>
+		<description>Recent content in Utilities on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sat, 23 Apr 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/utilities/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blogsy - a ray of hope</title>
+				<link>https://shiv.me/posts/2011/blogsy-a-ray-of-hope/</link>
+				<pubDate>Sat, 23 Apr 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/blogsy-a-ray-of-hope/</guid>
+				<description>&lt;p&gt;This is a test post from &lt;a href=&#34;http://blogsyapp.com/&#34;&gt;blogsy&lt;/a&gt;, an iPad blogging tool.&lt;/p&gt;&#xA;&lt;p&gt;The interface design looks thoughtful &amp;ndash; drag &amp;amp; drop of images from flickr and picasa, videos from YouTube, a built it google search and browser to get at other content. Although there is a bit of a learning curve, it makes the iPad a true content generation device.&lt;/p&gt;&#xA;&lt;p&gt;Maybe this will keep me blogging this time around. On that note, here&amp;rsquo;s a cutie pie to bring a smile to you, today.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

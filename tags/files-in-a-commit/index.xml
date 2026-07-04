@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Files in a Commit on Reflections</title>
-    <link>http://blog.shiv.me/tags/files-in-a-commit/</link>
-    <description>Recent content in Files in a Commit on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 26 Sep 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/files-in-a-commit/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Beautiful git logs and listing files in a commit</title>
-      <link>http://blog.shiv.me/posts/2012/git-logs-and-files-in-a-commit/</link>
-      <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/git-logs-and-files-in-a-commit/</guid>
-      <description>Git: beautiful git logs and listing files in a commit</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Files in a Commit on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/files-in-a-commit/</link>
+		<description>Recent content in Files in a Commit on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 26 Sep 2012 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/files-in-a-commit/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Beautiful git logs and listing files in a commit</title>
+				<link>https://shiv.me/posts/2012/git-logs-and-files-in-a-commit/</link>
+				<pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2012/git-logs-and-files-in-a-commit/</guid>
+				<description>&lt;p&gt;Working with git is fun. However, it is easy to get tired of the log list of parameters one has to use to very often. Git aliases are a great way to deal with this.&lt;/p&gt;&#xA;&lt;script src=&#34;https://gist.github.com/shiva/3791502.js?file=git-config-alias.txt&#34;&gt;&lt;/script&gt;&#xA;&#xA;&#xA;&lt;p&gt;For instance, the standard git log, it pretty much useless in any large project, where there are several hundred commits in a day. Most often, the commit you are looking for in probably several pages deep.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Douglas Adams on Reflections</title>
-    <link>http://blog.shiv.me/tags/douglas-adams/</link>
-    <description>Recent content in Douglas Adams on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Fri, 14 May 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/douglas-adams/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The day-after the &#34;big&#34; day</title>
-      <link>http://blog.shiv.me/posts/2010/the-day-after-the-big-day/</link>
-      <pubDate>Fri, 14 May 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/the-day-after-the-big-day/</guid>
-      <description>The day-after the &amp;#34;big&amp;#34; day</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Douglas Adams on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/douglas-adams/</link>
+		<description>Recent content in Douglas Adams on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Fri, 14 May 2010 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/douglas-adams/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The day-after the &#34;big&#34; day</title>
+				<link>https://shiv.me/posts/2010/the-day-after-the-big-day/</link>
+				<pubDate>Fri, 14 May 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/the-day-after-the-big-day/</guid>
+				<description>&lt;p&gt;I turned 30 yesterday.&lt;/p&gt;&#xA;&lt;p&gt;A whole day has passed since I left my 20s. They say it is a big day. They say it is a dreaded day. It was neither. Just busy (which is good).&lt;/p&gt;&#xA;&lt;p&gt;I chanced upon [Douglas Adams&amp;rsquo; post][1] from 1999:&lt;/p&gt;&#xA;&lt;p&gt;&amp;gt; 1. everything that&amp;rsquo;s already in the world when you&amp;rsquo;re born is just normal;&lt;br&gt;&#xA;&amp;gt; 2. anything that gets invented between then and before you turn thirty is incredibly exciting and creative and with any luck you can make a career out of it;&lt;br&gt;&#xA;&amp;gt; 3. anything that gets invented after you&amp;rsquo;re thirty is against the natural order of things and the beginning of the end of civilisation as we know it until it&amp;rsquo;s been around for about ten years when it gradually turns out to be alright really.&lt;br&gt;&#xA;&amp;gt; Apply this list to movies, rock music, word processors and mobile phones to work out how old you are.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

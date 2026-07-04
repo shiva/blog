@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Algorithm on Reflections</title>
-    <link>http://blog.shiv.me/tags/algorithm/</link>
-    <description>Recent content in Algorithm on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 03 Nov 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Power of 2</title>
-      <link>http://blog.shiv.me/posts/2010/power/</link>
-      <pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/power/</guid>
-      <description>Power of 2</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Algorithm on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/algorithm/</link>
+		<description>Recent content in Algorithm on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 03 Nov 2010 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Power of 2</title>
+				<link>https://shiv.me/posts/2010/power/</link>
+				<pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/power/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s been a while since I&amp;rsquo;ve done anything except write code &amp;ndash; lots of it. The last 20 days have been insane, and ofcourse to a take a break from writing code, I like to read code that others write. (You DO know that I&amp;rsquo;m crazy, right?!). In one of my futile attempts at clearing my google-reader reading list, I chanced upon a post by &lt;a href=&#34;http://veechand.wordpress.com/about/&#34;&gt;Veerabahu&lt;/a&gt;, on finding if a number is a power of 2 (or not).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

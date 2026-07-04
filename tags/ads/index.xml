@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Ads on Reflections</title>
-    <link>http://blog.shiv.me/tags/ads/</link>
-    <description>Recent content in Ads on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 31 Aug 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/ads/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Awesome cricket ads</title>
-      <link>http://blog.shiv.me/posts/2010/awesome-cricket-ads/</link>
-      <pubDate>Tue, 31 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/awesome-cricket-ads/</guid>
-      <description>Awesome cricket ads</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ads on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/ads/</link>
+		<description>Recent content in Ads on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 31 Aug 2010 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/ads/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Awesome cricket ads</title>
+				<link>https://shiv.me/posts/2010/awesome-cricket-ads/</link>
+				<pubDate>Tue, 31 Aug 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/awesome-cricket-ads/</guid>
+				<description>&lt;p&gt;Everything you need to know about cricket, in a series of awesome ads for Adidas.&lt;/p&gt;&#xA;&lt;p&gt;and let&amp;rsquo;s see all of them mixed into one beautiful ad (that might make you want to watch this game, after all)&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

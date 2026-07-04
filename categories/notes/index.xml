@@ -1,53 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Notes on Reflections</title>
-    <link>http://blog.shiv.me/categories/notes/</link>
-    <description>Recent content in Notes on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sat, 01 Feb 2025 22:05:10 -0800</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/categories/notes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Beginnings, once more</title>
-      <link>http://blog.shiv.me/posts/2025/beginnings-once-more/</link>
-      <pubDate>Sat, 01 Feb 2025 22:05:10 -0800</pubDate>
-      <guid>http://blog.shiv.me/posts/2025/beginnings-once-more/</guid>
-      <description>Beginnings, once more</description>
-    </item>
-    <item>
-      <title>2016 year-end recap</title>
-      <link>http://blog.shiv.me/posts/2016/year-end-recap/</link>
-      <pubDate>Sat, 31 Dec 2016 20:32:53 -0800</pubDate>
-      <guid>http://blog.shiv.me/posts/2016/year-end-recap/</guid>
-      <description>2016 year-end recap</description>
-    </item>
-    <item>
-      <title>Working with large C codebases</title>
-      <link>http://blog.shiv.me/posts/2016/working-with-large-c-codebases/</link>
-      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2016/working-with-large-c-codebases/</guid>
-      <description>Time saving bash aliases for a C developer</description>
-    </item>
-    <item>
-      <title>Elixir - A crash course</title>
-      <link>http://blog.shiv.me/posts/2016/elixir-crash-course/</link>
-      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2016/elixir-crash-course/</guid>
-      <description>Basics in Elixir, especially the deviations from the norm</description>
-    </item>
-    <item>
-      <title>Use Linux, learn new things</title>
-      <link>http://blog.shiv.me/posts/2016/use-linux-learn-new-things/</link>
-      <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2016/use-linux-learn-new-things/</guid>
-      <description>Use Linux. It encourages learning new things, and new ways to do old things</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Notes on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/categories/notes/</link>
+		<description>Recent content in Notes on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sat, 01 Feb 2025 22:05:10 -0800</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Beginnings, once more</title>
+				<link>https://shiv.me/posts/2025/beginnings-once-more/</link>
+				<pubDate>Sat, 01 Feb 2025 22:05:10 -0800</pubDate>
+				<guid>https://shiv.me/posts/2025/beginnings-once-more/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;New dawn softly breaks,&lt;br&gt;&#xA;hope blooms with every heartbeat,&lt;br&gt;&#xA;new life starts anew.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Ahh linux. The frustrations and the joy. After a hiatus of 9 years, I have decided to resurrect this blog. Of course, before I wrote anything meaningful it was time for some cleanup. Hugo, the static site generator that I use for this blog, uses the filename as part of the url. The last time I ported the &lt;a href=&#34;https://blog.shiv.me/posts/2016/battle-of-the-static-site-generators-1/&#34;&gt;blog from Jekyl to Hugo&lt;/a&gt; I made the terrible choice of encoding dates into the file name. Well, as a result, I have a few hundred files with a date prefix thus making the posts immovable.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2016 year-end recap</title>
+				<link>https://shiv.me/posts/2016/year-end-recap/</link>
+				<pubDate>Sat, 31 Dec 2016 20:32:53 -0800</pubDate>
+				<guid>https://shiv.me/posts/2016/year-end-recap/</guid>
+				<description>&lt;h2 id=&#34;dont-smoke-stay-quit--doing-great&#34;&gt;Don’t smoke (Stay quit!!) : Doing great!&lt;/h2&gt;&#xA;&lt;p&gt;There is no desire to smoke. After being a smoker for over a decade, I quit smoking last year, and stayed quit. I went to Vegas, smoked incessantly for 3 days, and stopped at the end of the trip &amp;ndash; cold turkey. Never went back to it, and quite frankly disgusted by the thought of smoking now.&lt;/p&gt;&#xA;&lt;h2 id=&#34;say-yes-more-often-did-well&#34;&gt;Say yes more often: Did well.&lt;/h2&gt;&#xA;&lt;p&gt;I have reduced negativity greatly. This is a good one to keep at for the next year.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Working with large C codebases</title>
+				<link>https://shiv.me/posts/2016/working-with-large-c-codebases/</link>
+				<pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2016/working-with-large-c-codebases/</guid>
+				<description>&lt;h3 id=&#34;searching-for-symbols&#34;&gt;Searching for symbols&lt;/h3&gt;&#xA;&lt;p&gt;The product that I work on, has over 22 million lines of source &amp;ndash; most of it a nightmare. I use vim as my editor of choice &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. Both cscope and ctags (integrated into vim), allow me to quickly move between files and lookup definitions of symbols, and help in understanding the challenge-du-jour.&lt;/p&gt;&#xA;&lt;p&gt;Throw in fuzzy find capabilities of the most awesome &lt;a href=&#34;https://github.com/kien/ctrlp.vim&#34;&gt;Ctrl+p plugin&lt;/a&gt;, and vim becomes the best &amp;lsquo;IDE&amp;rsquo; out there!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Elixir - A crash course</title>
+				<link>https://shiv.me/posts/2016/elixir-crash-course/</link>
+				<pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2016/elixir-crash-course/</guid>
+				<description>&lt;p&gt;These are notes from the &lt;a href=&#34;http://elixir-lang.org/getting-started/&#34;&gt;official Elixir documentation&lt;/a&gt;. It a quick walk-through of the unique features in Elixir for someone coming from years of C &amp;mdash; a way for me to remember and use as a reference.&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#types&#34;&gt;Types&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#operators&#34;&gt;Operators&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#control-structures&#34;&gt;Control Structures&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;types&#34;&gt;Types&lt;/h2&gt;&#xA;&lt;h3 id=&#34;atoms&#34;&gt;Atoms&lt;/h3&gt;&#xA;&lt;p&gt;Named contants with a value. &lt;code&gt;true&lt;/code&gt; and &lt;code&gt;false&lt;/code&gt; are atoms.&lt;/p&gt;&#xA;&lt;h3 id=&#34;strings&#34;&gt;Strings&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Supports unicode string natively! It&amp;rsquo;s about time. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;&#xA;&lt;li&gt;You can concatenate strings using &lt;code&gt;&amp;lt;&amp;gt;&lt;/code&gt;. &lt;code&gt;&amp;quot;hello&amp;quot; &amp;lt;&amp;gt; &amp;quot; world&amp;quot;&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;anonymous-functions&#34;&gt;Anonymous functions&lt;/h3&gt;&#xA;&lt;p&gt;Native support for closures &amp;ndash; called anonymous functions. Also, functions are first-class, i.e. can be passed as arguments into other functions. Special syntax is required to invoke ananymous functions.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Use Linux, learn new things</title>
+				<link>https://shiv.me/posts/2016/use-linux-learn-new-things/</link>
+				<pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2016/use-linux-learn-new-things/</guid>
+				<description>&lt;p&gt;After 12+ years, I built a &lt;a href=&#34;https://ca.pcpartpicker.com/b/j6Cypg&#34;&gt;workstation from scratch&lt;/a&gt;. Hardware has come such a long way, but that is a post unto itself. Having always worked with Ubuntu and other debian variants it was time to venture into a more lean distro. I picked &lt;a href=&#34;https://wiki.archlinux.org/index.php/arch_compared_to_other_distributions&#34;&gt;Arch Linux&lt;/a&gt;, on the recommendation of several colleagues. It&amp;rsquo;s been fun. &lt;a href=&#34;https://wiki.archlinux.org/index.php/pacman&#34;&gt;Pacman&lt;/a&gt; and &lt;a href=&#34;https://archlinux.fr/yaourt-en&#34;&gt;Yaourt&lt;/a&gt; are great package managers, and the &lt;a href=&#34;https://en.wikipedia.org/wiki/Rolling_release&#34;&gt;rolling release&lt;/a&gt; model ensures access to the bleeding edge all the time.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tumblr on Reflections</title>
-    <link>http://blog.shiv.me/tags/tumblr/</link>
-    <description>Recent content in Tumblr on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 21 Jul 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/tumblr/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to apologize to your users</title>
-      <link>http://blog.shiv.me/posts/2013/how-to-apologize-to-your-users/</link>
-      <pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2013/how-to-apologize-to-your-users/</guid>
-      <description>How to apologize to your users</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tumblr on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/tumblr/</link>
+		<description>Recent content in Tumblr on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 21 Jul 2013 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/tumblr/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>How to apologize to your users</title>
+				<link>https://shiv.me/posts/2013/how-to-apologize-to-your-users/</link>
+				<pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2013/how-to-apologize-to-your-users/</guid>
+				<description>&lt;p&gt;There has been an &lt;a href=&#34;http://www.osaware.com/2013/05/03/a-timeline-of-companies-that-have-been-hacked-in-2013/&#34;&gt;increase&lt;/a&gt; in &lt;a href=&#34;http://www.forbes.com/sites/ericbasu/2013/06/26/help-my-yahoo-account-was-hacked-forensic-on-the-latest-yahoo-attack/&#34;&gt;security&lt;/a&gt; &lt;a href=&#34;http://www.pcgamer.com/2013/07/03/ubisoft-accounts-hacked-email-addresses-and-passwords-compromised/&#34;&gt;breaches&lt;/a&gt; this year. This past week, two services I use were compromised - &lt;a href=&#34;http://staff.tumblr.com/post/55648373578/important-security-update-for-iphone-ipad-users&#34;&gt;Tumblr&lt;/a&gt; and &lt;a href=&#34;http://www.loopinsight.com/2013/07/21/apple-comments-on-developer-site-hack/&#34;&gt;Apple Developer Connection&lt;/a&gt;. Both services informed me of the security breach, and one made me feel like they cared, and the other one didn&amp;rsquo;t. Perhaps I am reading too much into this, but at the very least, it illustrates how important language is, in conveying how much we care.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/apple-sec-mail-468x300.jpg&#34; alt=&#34;Apple Security Mail&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Apple&amp;rsquo;s mail is clear, concise and inspires confidence in their ability to take care of my information. They state the purpose of this communication, tell me what they did about it, and what they were going to do to fix it in the future. &lt;em&gt;&lt;strong&gt;Update&lt;/strong&gt;: Apparently, it was a &lt;a href=&#34;http://techcrunch.com/2013/07/21/apple-confirms-that-the-dev-center-has-potentially-been-breached-by-hackers/?hubRefSrc=permalink#lf_comment=87472293&#34;&gt;whitehat security guy doing his thing&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

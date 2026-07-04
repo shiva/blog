@@ -1,46 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Movies on Reflections</title>
-    <link>http://blog.shiv.me/tags/movies/</link>
-    <description>Recent content in Movies on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 27 Nov 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/movies/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What&#39;s in store for me</title>
-      <link>http://blog.shiv.me/posts/2011/whats-in-store-for-me/</link>
-      <pubDate>Sun, 27 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/whats-in-store-for-me/</guid>
-      <description>What&amp;#39;s in store for me</description>
-    </item>
-    <item>
-      <title>Movie Review: The Dark Knight (spoiler alert)</title>
-      <link>http://blog.shiv.me/posts/2008/movie-review-the-dark-knight-spoiler-alert/</link>
-      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/movie-review-the-dark-knight-spoiler-alert/</guid>
-      <description>Movie Review: The Dark Knight (spoiler alert)</description>
-    </item>
-    <item>
-      <title>Filmi funda</title>
-      <link>http://blog.shiv.me/posts/2007/filmi-funda/</link>
-      <pubDate>Fri, 16 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/filmi-funda/</guid>
-      <description>Filmi funda</description>
-    </item>
-    <item>
-      <title>A review of &#34;Crash (2005) (Widescreen Edition)&#34;</title>
-      <link>http://blog.shiv.me/posts/2006/a-review-of-crash-2005-widescreen-edition/</link>
-      <pubDate>Fri, 24 Mar 2006 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2006/a-review-of-crash-2005-widescreen-edition/</guid>
-      <description>A review of &amp;#34;Crash (2005) (Widescreen Edition)&amp;#34;</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Movies on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/movies/</link>
+		<description>Recent content in Movies on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 27 Nov 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/movies/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>What&#39;s in store for me</title>
+				<link>https://shiv.me/posts/2011/whats-in-store-for-me/</link>
+				<pubDate>Sun, 27 Nov 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/whats-in-store-for-me/</guid>
+				<description>&lt;p&gt;I just watched the last 30 mins of the movie &amp;ldquo;The green mile&amp;rdquo;. What a beautiful movie! The last few lines was particularly well written. &amp;ldquo;we each owe a death; there are no exceptions; but, Oh God, sometimes the Green Mile seems so long. But if he can make a mouse live so long, I wonder what is in store for me&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Don&amp;rsquo;t we all!&lt;/p&gt;&#xA;&lt;p&gt;The sun is out in Vancouver ! Time to get out!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Movie Review: The Dark Knight (spoiler alert)</title>
+				<link>https://shiv.me/posts/2008/movie-review-the-dark-knight-spoiler-alert/</link>
+				<pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/movie-review-the-dark-knight-spoiler-alert/</guid>
+				<description>&lt;p&gt;In a moment of mild insanity (actually more like boredom), I decided to watch the last show last night. I was plesantly surprised to find that the movie was playing in 2 theatres @ &lt;a href=&#34;http://www.cineplex.com/Theatres/TheatreDetails/C5CEF4DF/SilverCity_Coquitlam.aspx&#34;&gt;Silvercity, Coquitlam&lt;/a&gt;. With all the &lt;a href=&#34;http://news.google.ca/news?hl=en&amp;amp;q=batman&#34;&gt;hype&lt;/a&gt;, and the huge &lt;a href=&#34;http://www.cnn.com/2008/SHOWBIZ/Movies/07/20/boxoffice.ap/index.html&#34;&gt;revenue generation&lt;/a&gt; in the first week, the movie does deliver most of what it promises.&lt;/p&gt;&#xA;&lt;p&gt;Before you start reading the rest of the post, there are few items, that could give away the plot. I wonder if one needs to worry about the plot in Batman. Here&amp;rsquo;s the &lt;strong&gt;short version&lt;/strong&gt; of the review - &lt;strong&gt;watch it if you haven&amp;rsquo;t done so as yet. NOW!&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Filmi funda</title>
+				<link>https://shiv.me/posts/2007/filmi-funda/</link>
+				<pubDate>Fri, 16 Feb 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/filmi-funda/</guid>
+				<description>&lt;p&gt;Some news from the Kolloywood.&lt;br&gt;&#xA;Check out the latest pictures of &lt;a href=&#34;http://en.wikipedia.org/wiki/Kamal_Haasan&#34;&gt;Kamal Hassan&lt;/a&gt; in Dasa &lt;a href=&#34;http://www.universalherokamal.com/UniversalHeroKamal/others/Magazine/ShowMagazine.aspx?Magazine=kunkumam_04FEB2007#&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;In other news, Vijaykanth is infurious..&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Vijayakanth: Naan Jaya TV mela Case podanum..!&lt;br&gt;&#xA;Police : Yedhuku Captian?&lt;br&gt;&#xA;VK : Naan Katchi arambichathai &amp;ldquo;Vilaiyaattu Seithiyila pottu irukiraanga&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;End of the world nearing, doomsayer cry&amp;hellip;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;_First world war 1914 &amp;mdash;&amp;mdash;- DEATH: 10000&lt;br&gt;&#xA;__Second World war 1943 &amp;mdash;- DEATH: 150000&lt;br&gt;&#xA;_&lt;em&gt;Ajith&amp;rsquo;s ALWAR 2006 &amp;mdash;&amp;ndash; Apocalypse &amp;hellip; end of the world&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A review of &#34;Crash (2005) (Widescreen Edition)&#34;</title>
+				<link>https://shiv.me/posts/2006/a-review-of-crash-2005-widescreen-edition/</link>
+				<pubDate>Fri, 24 Mar 2006 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2006/a-review-of-crash-2005-widescreen-edition/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.allconsuming.net/item/view/47082&#34;&gt;Crash (2005) (Widescreen Edition)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Some one tell me what the hell are they talking about in this movie!!!! It is the mind-numbing experience of watching 7 movies at one go.&lt;/p&gt;&#xA;&lt;p&gt;I must give it to the director though, for tying together each of the sub-plots, but man.. you gotta tell me something by the end of the story!!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.allconsuming.net/person/shvelmur/47082&#34;&gt;&lt;br&gt;&#xA;See more about Crash (2005) (Widescreen Edition)&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

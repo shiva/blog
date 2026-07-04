@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>XML on Reflections</title>
-    <link>http://blog.shiv.me/tags/xml/</link>
-    <description>Recent content in XML on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 08 Feb 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/xml/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>XML Validator</title>
-      <link>http://blog.shiv.me/posts/2007/xml-validator/</link>
-      <pubDate>Thu, 08 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/xml-validator/</guid>
-      <description>XML Validator</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>XML on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/xml/</link>
+		<description>Recent content in XML on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 08 Feb 2007 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/xml/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>XML Validator</title>
+				<link>https://shiv.me/posts/2007/xml-validator/</link>
+				<pubDate>Thu, 08 Feb 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/xml-validator/</guid>
+				<description>&lt;p&gt;It is quite surprising that there are hardly any open-source to validate XML out there. I had the need to validate a auto-generated XML output against a valid xsd, to see if the code that I wrote to generate XML was producing not only syntactically correct XML, but also XML that was data-valid. &lt;strong&gt;XML Validator&lt;/strong&gt;, provides an UI that allows you to check the validity of any XML, in with reference to its xsd. It is free for Personal and Commercial use without any warranties. So don&amp;rsquo;t come to me if it makes your dog barks all night, or if your computer commits suicide.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

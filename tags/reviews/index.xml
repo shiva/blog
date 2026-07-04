@@ -1,74 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Reviews on Reflections</title>
-    <link>http://blog.shiv.me/tags/reviews/</link>
-    <description>Recent content in Reviews on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 10 Feb 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Battle of the static site generators</title>
-      <link>http://blog.shiv.me/posts/2016/battle-of-the-static-site-generators-1/</link>
-      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2016/battle-of-the-static-site-generators-1/</guid>
-      <description>Battle of the static site generators - 1. Bye bye, Jekyll. Hello, Hugo!</description>
-    </item>
-    <item>
-      <title>Sometimes, they are useful for a lifetime</title>
-      <link>http://blog.shiv.me/posts/2011/sometimes-they-are-useful-for-a-lifetime/</link>
-      <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/sometimes-they-are-useful-for-a-lifetime/</guid>
-      <description>Sometimes, they are useful for a lifetime</description>
-    </item>
-    <item>
-      <title>Fun with an iphone app</title>
-      <link>http://blog.shiv.me/posts/2009/fun-with-an-iphone-app/</link>
-      <pubDate>Wed, 21 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/fun-with-an-iphone-app/</guid>
-      <description>Fun with an iphone app</description>
-    </item>
-    <item>
-      <title>Review: A Year in the Merde by Stephen Clarke</title>
-      <link>http://blog.shiv.me/posts/2009/review-a-year-in-the-merde-by-stephen-clarke/</link>
-      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/review-a-year-in-the-merde-by-stephen-clarke/</guid>
-      <description>Review: A Year in the Merde by Stephen Clarke</description>
-    </item>
-    <item>
-      <title>Movie Review: The Dark Knight (spoiler alert)</title>
-      <link>http://blog.shiv.me/posts/2008/movie-review-the-dark-knight-spoiler-alert/</link>
-      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/movie-review-the-dark-knight-spoiler-alert/</guid>
-      <description>Movie Review: The Dark Knight (spoiler alert)</description>
-    </item>
-    <item>
-      <title>Review: Canon 40D</title>
-      <link>http://blog.shiv.me/posts/2007/review-canon-40d/</link>
-      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/review-canon-40d/</guid>
-      <description>Review: Canon 40D</description>
-    </item>
-    <item>
-      <title>The webfaction experience</title>
-      <link>http://blog.shiv.me/posts/2007/the-webfaction-experience/</link>
-      <pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/the-webfaction-experience/</guid>
-      <description>The webfaction experience</description>
-    </item>
-    <item>
-      <title>A review of &#34;Crash (2005) (Widescreen Edition)&#34;</title>
-      <link>http://blog.shiv.me/posts/2006/a-review-of-crash-2005-widescreen-edition/</link>
-      <pubDate>Fri, 24 Mar 2006 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2006/a-review-of-crash-2005-widescreen-edition/</guid>
-      <description>A review of &amp;#34;Crash (2005) (Widescreen Edition)&amp;#34;</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Reviews on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/reviews/</link>
+		<description>Recent content in Reviews on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 10 Feb 2016 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Battle of the static site generators</title>
+				<link>https://shiv.me/posts/2016/battle-of-the-static-site-generators-1/</link>
+				<pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2016/battle-of-the-static-site-generators-1/</guid>
+				<description>&lt;p&gt;I set myself a goal to write more this year - in fact, I attempted to do so once every week. This required me to look at my blog, which led to the inevitable: small changes in what it looked like, led to general dis-satisfcation with the current solution I have to publish my blog, which quickly ballooned into a whole host of activities.&lt;/p&gt;&#xA;&lt;p&gt;Let me step back a bit.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sometimes, they are useful for a lifetime</title>
+				<link>https://shiv.me/posts/2011/sometimes-they-are-useful-for-a-lifetime/</link>
+				<pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/sometimes-they-are-useful-for-a-lifetime/</guid>
+				<description>&lt;p&gt;And sometimes, they barely hold your attention. However, the recent acquisition is the former. I got the mammoth of a book, over the weekend; it weighs a ton and I&amp;rsquo;ll be sleeping with it, clutched tight in my hands.&lt;/p&gt;&#xA;&lt;p&gt;If you already have the tomb by tanenbaum of similar name, the unix programming interface, you probably are not going to glean much value from this one (you can thank POSIX for maintaining a modicum of consistency over the years and some would vehemently contest that). That said, if you write code for *nix systems, it definitely deserves the shelf-space as much as any other programming book.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Fun with an iphone app</title>
+				<link>https://shiv.me/posts/2009/fun-with-an-iphone-app/</link>
+				<pubDate>Wed, 21 Oct 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/fun-with-an-iphone-app/</guid>
+				<description>&lt;p&gt;Got a new iPhone app called sketchbook, by autodesk.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=327375467&amp;amp;mt=8&#34;&gt;http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=327375467&amp;amp;mt=8&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You need to check this out. Trust it is really cool and loads of fun&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://shiv.me/images/p_600_400_94004C32-12FE-420C-B6F5-BECAE41FD03B.jpg&#34;&gt;&lt;img src=&#34;https://shiv.me/images/p_600_400_94004C32-12FE-420C-B6F5-BECAE41FD03B.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;img src=&#34;https://shiv.me/images/p_600_400_A8AFD185-95A4-4B6F-B673-1694E478CA29.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/p_600_400_832597CB-C15D-4D70-9B6A-2F6B6B81EC3B.jpg&#34; alt=&#34;&#34;&gt;&lt;a href=&#34;https://shiv.me/images/p_480_320_1B8D36FE-EF3B-4A07-BE09-59C684C9B72B.jpg&#34;&gt;&lt;img src=&#34;https://shiv.me/images/p_480_320_1B8D36FE-EF3B-4A07-BE09-59C684C9B72B.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/p_480_320_89D65B20-7721-4693-96FB-273B1CCA7BF4.jpg&#34; alt=&#34;&#34;&gt;&lt;img src=&#34;https://shiv.me/images/p_480_320_D9B49784-A392-4610-A7C5-A43A8BC3D363.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/p_480_320_63D8EF9C-110F-4A99-98BF-8FB49B604A82.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Review: A Year in the Merde by Stephen Clarke</title>
+				<link>https://shiv.me/posts/2009/review-a-year-in-the-merde-by-stephen-clarke/</link>
+				<pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/review-a-year-in-the-merde-by-stephen-clarke/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.goodreads.com/book/show/10765.A_Year_in_the_Merde?utm_medium=api&amp;amp;utm_source=blog_review&#34;&gt;&lt;img src=&#34;https://shiv.me/images/10765.jpg&#34; alt=&#34;A Year in the Merde&#34;&gt;&lt;/a&gt; &lt;a href=&#34;http://www.goodreads.com/book/show/10765.A_Year_in_the_Merde?utm_medium=api&amp;amp;utm_source=blog_review&#34;&gt;A Year in the Merde&lt;/a&gt; by &lt;a href=&#34;http://www.goodreads.com/author/show/7041.Stephen_Clarke&#34;&gt;Stephen Clarke&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;rating: 5 of 5 stars&lt;br&gt;&#xA;If you are on your way to Paris, or on the way from Paris, or in Paris, or &amp;hellip; nevermind&amp;hellip; just read this book if you are associated, in any way, with Paris. You&amp;rsquo;ll love it.&lt;/p&gt;&#xA;&lt;p&gt;(If you are French, read this too, get angry, rebel and then revel in the glory! :) )&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.goodreads.com/review/list/856502?utm_medium=api&amp;amp;utm_source=blog_review&#34;&gt;View all my reviews at goodreads.&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Movie Review: The Dark Knight (spoiler alert)</title>
+				<link>https://shiv.me/posts/2008/movie-review-the-dark-knight-spoiler-alert/</link>
+				<pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/movie-review-the-dark-knight-spoiler-alert/</guid>
+				<description>&lt;p&gt;In a moment of mild insanity (actually more like boredom), I decided to watch the last show last night. I was plesantly surprised to find that the movie was playing in 2 theatres @ &lt;a href=&#34;http://www.cineplex.com/Theatres/TheatreDetails/C5CEF4DF/SilverCity_Coquitlam.aspx&#34;&gt;Silvercity, Coquitlam&lt;/a&gt;. With all the &lt;a href=&#34;http://news.google.ca/news?hl=en&amp;amp;q=batman&#34;&gt;hype&lt;/a&gt;, and the huge &lt;a href=&#34;http://www.cnn.com/2008/SHOWBIZ/Movies/07/20/boxoffice.ap/index.html&#34;&gt;revenue generation&lt;/a&gt; in the first week, the movie does deliver most of what it promises.&lt;/p&gt;&#xA;&lt;p&gt;Before you start reading the rest of the post, there are few items, that could give away the plot. I wonder if one needs to worry about the plot in Batman. Here&amp;rsquo;s the &lt;strong&gt;short version&lt;/strong&gt; of the review - &lt;strong&gt;watch it if you haven&amp;rsquo;t done so as yet. NOW!&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Review: Canon 40D</title>
+				<link>https://shiv.me/posts/2007/review-canon-40d/</link>
+				<pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/review-canon-40d/</guid>
+				<description>&lt;p&gt;The best thing since .. well a Canon 20D.&lt;/p&gt;&#xA;&lt;p&gt;If this video convinced you to buy a &lt;a href=&#34;http://www.amazon.com/gp/product/B000V5P90K?ie=UTF8&amp;amp;tag=shvelmurcom-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B000V5P90K&#34;&gt;Canon 40D&lt;/a&gt;, or &lt;a href=&#34;http://www.amazon.com/gp/product/B000GFT7H6?ie=UTF8&amp;amp;tag=shvelmurcom-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B000GFT7H6&#34;&gt;Canon 30D&lt;/a&gt; or &lt;a href=&#34;http://www.amazon.com/gp/product/B0002XQJFA?ie=UTF8&amp;amp;tag=shvelmurcom-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B0002XQJFA&#34;&gt;Canon20D&lt;/a&gt;, use the affiliate links as provided.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The webfaction experience</title>
+				<link>https://shiv.me/posts/2007/the-webfaction-experience/</link>
+				<pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/the-webfaction-experience/</guid>
+				<description>&lt;p&gt;The reason for the respite in my blogging, was my move to a new web-host. After several hours of researching, I decided to go with &lt;a href=&#34;http://www.webfaction.com/?affiliate=shvelmur&#34;&gt;webfaction.com&lt;/a&gt;. If you haven&amp;rsquo;t already visited webfaction, &lt;a href=&#34;http://www.webfaction.com/?affiliate=shvelmur&#34;&gt;DO IT right now&lt;/a&gt;! It has been simply amazing. I love the one click installer, and within hours of getting billed, I got access to my account. It comes with shell access, SFTP, enough space, &lt;a href=&#34;http://www.rubyonrails.org/&#34;&gt;rails 2.x&lt;/a&gt; (just days after it was release), &lt;a href=&#34;http://www.djangoproject.com/&#34;&gt;django&lt;/a&gt;, &lt;a href=&#34;http://wordpress.org/download/&#34;&gt;wordpress 2.3.1&lt;/a&gt; and a host of other webapps, all of which you can install with a just a few clicks on their web interface.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A review of &#34;Crash (2005) (Widescreen Edition)&#34;</title>
+				<link>https://shiv.me/posts/2006/a-review-of-crash-2005-widescreen-edition/</link>
+				<pubDate>Fri, 24 Mar 2006 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2006/a-review-of-crash-2005-widescreen-edition/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.allconsuming.net/item/view/47082&#34;&gt;Crash (2005) (Widescreen Edition)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Some one tell me what the hell are they talking about in this movie!!!! It is the mind-numbing experience of watching 7 movies at one go.&lt;/p&gt;&#xA;&lt;p&gt;I must give it to the director though, for tying together each of the sub-plots, but man.. you gotta tell me something by the end of the story!!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.allconsuming.net/person/shvelmur/47082&#34;&gt;&lt;br&gt;&#xA;See more about Crash (2005) (Widescreen Edition)&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

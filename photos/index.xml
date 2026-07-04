@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Photos on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/photos/</link>
+		<description>Recent content in Photos on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<atom:link href="https://shiv.me/photos/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Neon</title>
+				<link>https://shiv.me/photos/neon/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/photos/neon/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>People of GVRD</title>
+				<link>https://shiv.me/photos/people-of-gvrd/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/photos/people-of-gvrd/</guid>
+				<description>&lt;p&gt;I walk around Greater Vancouver and ask random strangers for permission to&#xA;photograph them. There&amp;rsquo;s no real motive — just to force myself to engage more&#xA;with my surroundings, talk to people, and hopefully share something&#xA;interesting.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re one of the people I met on these walks: thank you for being open to&#xA;it, and for being part of this little experiment. If you have any objection to&#xA;the use of your picture, &lt;a href=&#34;mailto:shiv@shiv.me&#34;&gt;email me&lt;/a&gt; and I&amp;rsquo;ll sort it out.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

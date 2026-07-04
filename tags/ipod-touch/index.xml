@@ -1,53 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Ipod Touch on Reflections</title>
-    <link>http://blog.shiv.me/tags/ipod-touch/</link>
-    <description>Recent content in Ipod Touch on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 29 Jan 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/ipod-touch/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>That queasy feeling</title>
-      <link>http://blog.shiv.me/posts/2008/that-queasy-feeling/</link>
-      <pubDate>Tue, 29 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/that-queasy-feeling/</guid>
-      <description>That queasy feeling</description>
-    </item>
-    <item>
-      <title>Bye bye IPOD</title>
-      <link>http://blog.shiv.me/posts/2008/bye-bye-ipod/</link>
-      <pubDate>Fri, 18 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/bye-bye-ipod/</guid>
-      <description>Bye bye IPOD</description>
-    </item>
-    <item>
-      <title>IPOD touch: Downgrade from 1.1.3 to 1.1.1</title>
-      <link>http://blog.shiv.me/posts/2008/ipod-touch-downgrade-from-113-to-111/</link>
-      <pubDate>Wed, 16 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/ipod-touch-downgrade-from-113-to-111/</guid>
-      <description>IPOD touch: Downgrade from 1.1.3 to 1.1.1</description>
-    </item>
-    <item>
-      <title>IPod touch 1.1.1 firmware link</title>
-      <link>http://blog.shiv.me/posts/2008/ipod-touch-111-firmware-link/</link>
-      <pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/ipod-touch-111-firmware-link/</guid>
-      <description>IPod touch 1.1.1 firmware link</description>
-    </item>
-    <item>
-      <title>Ipod touch/Iphone support</title>
-      <link>http://blog.shiv.me/posts/2008/ipod-touchiphone-support/</link>
-      <pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2008/ipod-touchiphone-support/</guid>
-      <description>Ipod touch/Iphone support</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ipod Touch on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/ipod-touch/</link>
+		<description>Recent content in Ipod Touch on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 29 Jan 2008 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/ipod-touch/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>That queasy feeling</title>
+				<link>https://shiv.me/posts/2008/that-queasy-feeling/</link>
+				<pubDate>Tue, 29 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/that-queasy-feeling/</guid>
+				<description>&lt;p&gt;A few days ago, I returned the Ipod touch that I had for exactly 11 days, coz Apple chose to charge me $20. Apart from me being a cheap bas***d, I had this queasy feeling in my gut, about apple products. I felt an unexplainable rage towards Apple, Jobs and the fanboys. I am usually a very moderate person, and it really surprised me that I could harbor such crazy extremism and frustration. I could never place a finger on the source, until I read &lt;a href=&#34;http://www.codinghorror.com/archives/001044.html&#34;&gt;this article&lt;/a&gt; on Coding Horror by Jeff Atwood.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Bye bye IPOD</title>
+				<link>https://shiv.me/posts/2008/bye-bye-ipod/</link>
+				<pubDate>Fri, 18 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/bye-bye-ipod/</guid>
+				<description>&lt;p&gt;Since &lt;a href=&#34;http://www.apple.com/pr/library/2008/01/15touch.html&#34;&gt;I don&amp;rsquo;t enjoyed being screwed over when I buy a $500 product&lt;/a&gt;, I said buh-bye to my ipod touch today. One thing that I enjoyed, was the sharpness of the display. I will definetly buy this device again, if I knew for sure that, Apple will not pull another stunt like that with the &lt;a href=&#34;http://www.downloadsquad.com/2007/10/17/iphone-and-ipod-touch-sdk-coming-in-february/&#34;&gt;imminent&lt;/a&gt; &lt;a href=&#34;http://www.tuaw.com/2007/10/17/apple-we-plan-to-have-an-iphone-sdk-in-developers-hands-in-fe/&#34;&gt;release &lt;/a&gt;of IPOD touch SDK. So until then, I commute for 2 hours everyday with no music to listen, no podcast from CNN to watch :(&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IPOD touch: Downgrade from 1.1.3 to 1.1.1</title>
+				<link>https://shiv.me/posts/2008/ipod-touch-downgrade-from-113-to-111/</link>
+				<pubDate>Wed, 16 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/ipod-touch-downgrade-from-113-to-111/</guid>
+				<description>&lt;p&gt;My ipod touch was upgraded to 1.1.3, after connecting to my computer, and I wanted to downgrade to 1.1.1, so I could jailbreak it and put any app I want on it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://ipodtouchmaster.com/&#34;&gt;ipodtouchmaster &lt;/a&gt;found &lt;a href=&#34;http://www.youtube.com/v/YakjwxB3nQU&#34;&gt;a way to downgrade&lt;/a&gt; it using iPhuc.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IPod touch 1.1.1 firmware link</title>
+				<link>https://shiv.me/posts/2008/ipod-touch-111-firmware-link/</link>
+				<pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/ipod-touch-111-firmware-link/</guid>
+				<description>&lt;p&gt;Since Apple&amp;rsquo;s is so bent upon &lt;a href=&#34;http://news.google.com/news/url?sa=t&amp;amp;ct=:ePkh8BM9g5ucBze5BG5yqhADkgWZeQBzjQYG/0-1&amp;amp;fp=478d8859dc34a86c&amp;amp;ei=vFuNR_i1EoOErQPTnYCHAg&amp;amp;url=http%3A//lifehacker.com/345114/iphone-ipod-touch-firmware-update-adds-faux%2bgps-multi%2bsms-and-more&amp;amp;cid=1126385834&amp;amp;sig2=kF9GGYFfNYp9px-jCahoww&#34;&gt;disappointing &lt;/a&gt;&lt;a href=&#34;http://www.google.com/url?sa=t&amp;amp;ct=res&amp;amp;cd=1&amp;amp;url=http%3A%2F%2Fwww.apple.com%2Fhotnews%2Fopeniphoneletter%2F&amp;amp;ei=-VuNR_LbH5vCgAP97MXfBg&amp;amp;usg=AFQjCNFD-104d-f8j6eMkH4FtIXQnPei7w&amp;amp;sig2=47vb7ATncfgGpDWP79PQgA&#34;&gt;their &lt;/a&gt;customers, by introducing paid firmware upgrades, I needed to ensure that I have the option to jail break, my new ipod touch (if need be). (update: the firmware upgrade itself is not paid. Only the newapps are paid). I am going to wait until they &lt;a href=&#34;http://www.google.com/url?sa=t&amp;amp;ct=res&amp;amp;cd=3&amp;amp;url=http%3A%2F%2Fwww.tuaw.com%2F2007%2F10%2F17%2Fapple-we-plan-to-have-an-iphone-sdk-in-developers-hands-in-fe%2F&amp;amp;ei=b1yNR-yLLYuQgwPzybHfBg&amp;amp;usg=AFQjCNEU4lvFx4EHi5SZE2s06qT7lNiBGg&amp;amp;sig2=Wi1NE6pO4ZjVXzyIje6FAw&#34;&gt;release their SDK in February&lt;/a&gt; before I jailbreak mine.&lt;/p&gt;&#xA;&lt;p&gt;I found a link to the &lt;a href=&#34;http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPod/SBML/osx/bundles/061-3932.20070927.p23dD/iPod1,1_1.1.1_3A110a_Restore.ipsw&#34;&gt;1.1.1 firmware&lt;/a&gt; (thanks to &lt;a href=&#34;http://rupertgee.wordpress.com/2007/12/02/downgraderestore-ipod-touch-firmware-to-version-111-using-os-x/&#34;&gt;Rupert&lt;/a&gt; and who-ever posted &lt;a href=&#34;http://forums.hardwarezone.com/showpost.php?p=26755502&amp;amp;postcount=40&#34;&gt;this&lt;/a&gt;).&lt;br&gt;&#xA;I have a copy on my hard-drive (just in case).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ipod touch/Iphone support</title>
+				<link>https://shiv.me/posts/2008/ipod-touchiphone-support/</link>
+				<pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2008/ipod-touchiphone-support/</guid>
+				<description>&lt;p&gt;This website, now supports a special interface for viewing usingÂ  ipod touch/iphone. I&amp;rsquo;m using the &lt;a href=&#34;http://iwphone.contentrobot.com/&#34;&gt;iWPhone plugin&lt;/a&gt; at &lt;a href=&#34;http://contentrobot.com/&#34;&gt;contentrobot.com&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

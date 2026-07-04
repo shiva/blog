@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Compiler Issues on Reflections</title>
-    <link>http://blog.shiv.me/tags/compiler-issues/</link>
-    <description>Recent content in Compiler Issues on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 08 Nov 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/compiler-issues/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Badly punctuated parameter list in #define</title>
-      <link>http://blog.shiv.me/posts/2011/badly-punctuated-parameter-list/</link>
-      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/badly-punctuated-parameter-list/</guid>
-      <description>Badly punctuated parameter list in #define</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Compiler Issues on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/compiler-issues/</link>
+		<description>Recent content in Compiler Issues on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 08 Nov 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/compiler-issues/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Badly punctuated parameter list in #define</title>
+				<link>https://shiv.me/posts/2011/badly-punctuated-parameter-list/</link>
+				<pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/badly-punctuated-parameter-list/</guid>
+				<description>&lt;p&gt;Sometimes working with an old c compiler brings up painful, yet fun-filled days of making it speak the same language as you, and sometimes you just go &amp;ldquo;*$&amp;amp;%*$#&amp;amp;% you piece of sh** compiler&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;I had one such moment today, and after I had returned to Zen (some soul-searching and some google searching), I realized it quite simple.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;&#xA;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6&#xA;&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7&#xA;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&#xA;&lt;td class=&#34;lntd&#34;&gt;&#xA;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ gmake  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;...  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;...  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;some_file.h:42: badly punctuated parameter list in &lt;span class=&#34;se&#34;&gt;\`&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#define&amp;#39;  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;some_file.h:64: badly punctuated parameter list in &lt;span class=&#34;se&#34;&gt;\`&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#define&amp;#39;  &lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Failed to compile  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&lt;p&gt;This was caused by the following:&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

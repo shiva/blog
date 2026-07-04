@@ -1,53 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Security on Reflections</title>
-    <link>http://blog.shiv.me/tags/security/</link>
-    <description>Recent content in Security on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 14 Jul 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/security/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting rid of passwords</title>
-      <link>http://blog.shiv.me/posts/2014/rid-of-passwords/</link>
-      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2014/rid-of-passwords/</guid>
-      <description>Getting rid of passwords</description>
-    </item>
-    <item>
-      <title>How to apologize to your users</title>
-      <link>http://blog.shiv.me/posts/2013/how-to-apologize-to-your-users/</link>
-      <pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2013/how-to-apologize-to-your-users/</guid>
-      <description>How to apologize to your users</description>
-    </item>
-    <item>
-      <title>Two-factor authentication and spicy salmon sashimi don</title>
-      <link>http://blog.shiv.me/posts/2012/two-factor-authentication-and-spicy-salmon-sashimi-don/</link>
-      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/two-factor-authentication-and-spicy-salmon-sashimi-don/</guid>
-      <description>Two-factor authentication and spicy salmon sashimi don</description>
-    </item>
-    <item>
-      <title>MS Vs Apple: Which is more secure?</title>
-      <link>http://blog.shiv.me/posts/2007/ms-vs-apple-which-is-more-secure/</link>
-      <pubDate>Sat, 17 Mar 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/ms-vs-apple-which-is-more-secure/</guid>
-      <description>MS Vs Apple: Which is more secure?</description>
-    </item>
-    <item>
-      <title>Crap on TV - Is that even news?!</title>
-      <link>http://blog.shiv.me/posts/2007/crap-on-tv-is-that-even-news/</link>
-      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/crap-on-tv-is-that-even-news/</guid>
-      <description>Crap on TV - Is that even news?!</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Security on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/security/</link>
+		<description>Recent content in Security on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 14 Jul 2014 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/security/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Getting rid of passwords</title>
+				<link>https://shiv.me/posts/2014/rid-of-passwords/</link>
+				<pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2014/rid-of-passwords/</guid>
+				<description>&lt;p&gt;I hate passwords. Seems like several smart people are on the case of getting rid of the &amp;ldquo;password&amp;rdquo;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lucas Gonze, argues the &lt;a href=&#34;https://medium.com/@lucas_gonze/authentication-cargo-cults-ae98d8e359&#34;&gt;loss of meaning&lt;/a&gt; around design of user authentication mechanisms.&lt;/li&gt;&#xA;&lt;li&gt;A world without passwords! How will we identify each other? &lt;a href=&#34;https://medium.com/@ninjudd/passwords-are-obsolete-9ed56d483eb&#34;&gt;Exchange tokens&lt;/a&gt;. &lt;a href=&#34;https://blog.cotap.com/forget-passwords-passwordless-authentication/&#34;&gt;Make &amp;ldquo;forgot password&amp;rdquo; the default&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://medium.com/@gwestr/trust-without-passwords-c91146a96cef&#34;&gt;Passwords are the new pay-wall&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;A non-violent protest against the cruel overlord &amp;mdash; the &amp;ldquo;password&amp;rdquo;. Justin Balthrop, &lt;a href=&#34;https://medium.com/@ninjudd/lets-boycott-passwords-680d97eddb01&#34;&gt;calls for a boycott&lt;/a&gt; .&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://notes.xoxco.com/post/27999787765/is-it-time-for-password-less-login&#34;&gt;Several&lt;/a&gt; &lt;a href=&#34;http://notes.xoxco.com/post/28288684632/more-on-password-less-login&#34;&gt;alternatives&lt;/a&gt; to identify users &amp;mdash; promoting password-less login in your apps.&lt;/li&gt;&#xA;&lt;li&gt;Eran Hammer &amp;mdash; OAuth founder &amp;mdash; &lt;a href=&#34;http://hueniverse.com/2012/07/26/oauth-2-0-and-the-road-to-hell/&#34;&gt;gave up on OAuth 2.0&lt;/a&gt;. (An old link). Tim Bray &lt;a href=&#34;http://www.tbray.org/ongoing/When/201x/2012/07/28/Oauth2-dead&#34;&gt;didn&amp;rsquo;t take kindly&lt;/a&gt; to that post. Ahh IETF! You can grind the smartest minds to pulp. :)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>How to apologize to your users</title>
+				<link>https://shiv.me/posts/2013/how-to-apologize-to-your-users/</link>
+				<pubDate>Sun, 21 Jul 2013 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2013/how-to-apologize-to-your-users/</guid>
+				<description>&lt;p&gt;There has been an &lt;a href=&#34;http://www.osaware.com/2013/05/03/a-timeline-of-companies-that-have-been-hacked-in-2013/&#34;&gt;increase&lt;/a&gt; in &lt;a href=&#34;http://www.forbes.com/sites/ericbasu/2013/06/26/help-my-yahoo-account-was-hacked-forensic-on-the-latest-yahoo-attack/&#34;&gt;security&lt;/a&gt; &lt;a href=&#34;http://www.pcgamer.com/2013/07/03/ubisoft-accounts-hacked-email-addresses-and-passwords-compromised/&#34;&gt;breaches&lt;/a&gt; this year. This past week, two services I use were compromised - &lt;a href=&#34;http://staff.tumblr.com/post/55648373578/important-security-update-for-iphone-ipad-users&#34;&gt;Tumblr&lt;/a&gt; and &lt;a href=&#34;http://www.loopinsight.com/2013/07/21/apple-comments-on-developer-site-hack/&#34;&gt;Apple Developer Connection&lt;/a&gt;. Both services informed me of the security breach, and one made me feel like they cared, and the other one didn&amp;rsquo;t. Perhaps I am reading too much into this, but at the very least, it illustrates how important language is, in conveying how much we care.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/apple-sec-mail-468x300.jpg&#34; alt=&#34;Apple Security Mail&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Apple&amp;rsquo;s mail is clear, concise and inspires confidence in their ability to take care of my information. They state the purpose of this communication, tell me what they did about it, and what they were going to do to fix it in the future. &lt;em&gt;&lt;strong&gt;Update&lt;/strong&gt;: Apparently, it was a &lt;a href=&#34;http://techcrunch.com/2013/07/21/apple-confirms-that-the-dev-center-has-potentially-been-breached-by-hackers/?hubRefSrc=permalink#lf_comment=87472293&#34;&gt;whitehat security guy doing his thing&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Two-factor authentication and spicy salmon sashimi don</title>
+				<link>https://shiv.me/posts/2012/two-factor-authentication-and-spicy-salmon-sashimi-don/</link>
+				<pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2012/two-factor-authentication-and-spicy-salmon-sashimi-don/</guid>
+				<description>&lt;p&gt;For the last few months I&amp;rsquo;ve been annoyed. Two or three times a week, I get a flurry of emails from Facebook and twitter claiming that I reset my password. Sounds like a first-world problem? It is. However, I have 4 emails linked to my Facebook account and one to my twitter account. I get on average 15-20 mails a week, and I dutifully dis-avow each one of them.&lt;/p&gt;&#xA;&lt;p&gt;Then, &lt;a href=&#34;http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard&#34;&gt;this happens&lt;/a&gt;. It scares the hell out of me, but I procrastinate. After a good two weeks, and 40 mails later, I&amp;rsquo;ve finally caved, and enabled it. Now, it&amp;rsquo;s practically impossible to hack my account. Password + token to access from any new device, and I can remotely revoke access to any device I lose.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>MS Vs Apple: Which is more secure?</title>
+				<link>https://shiv.me/posts/2007/ms-vs-apple-which-is-more-secure/</link>
+				<pubDate>Sat, 17 Mar 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/ms-vs-apple-which-is-more-secure/</guid>
+				<description>&lt;p&gt;Marius Oiaga of &lt;a href=&#34;http://www.softpedia.com/&#34;&gt;Softpedia&lt;/a&gt; News argues that &lt;a href=&#34;http://news.softpedia.com/news/Windows-Vista-More-Secure-than-Mac-OS-X-49487.shtml&#34;&gt;Windows Vista is more secure than MAC OSX&lt;/a&gt;, on the grounds that there are more security patches for MACOSX in a 1 month period. Now, how naive is that?!! Developers at Microsoft are probably just catching their breaths after years of trying to get Windows Vista out of the &amp;ldquo;window&amp;rdquo; (excuse the pun).&lt;/p&gt;&#xA;&lt;p&gt;Now, why is Mac OSX more secure that Windows. Well, you never need to run as administrator (root, in unix speak) to get all applications to work efficiently. Since it is based on BSD unix (FreeBSD), Mac OSX&amp;rsquo; architecture is definetely much more secure. Also, take into account, the fact, that there are only 6% of users on Mac OSX, and hence proves to be a very unlikely target for security breaches.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Crap on TV - Is that even news?!</title>
+				<link>https://shiv.me/posts/2007/crap-on-tv-is-that-even-news/</link>
+				<pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/crap-on-tv-is-that-even-news/</guid>
+				<description>&lt;p&gt;Yesterday, I was watching an interview with &lt;a href=&#34;http://www.hackingmobilephones.com/&#34;&gt;Mr Ankit Wadia&lt;/a&gt; (His website describes him as &amp;ldquo;The Computer Security guru. The Ethical Hacker. The Author. The Intelligence Consultant. The Entrepreneur.&amp;rdquo;)&lt;/p&gt;&#xA;&lt;p&gt;He was talking about how the web is unsecure today and how easy it is to crack passwords. Whilst, I was eagerly awaiting in anticipation to see how he hack into a yahoo password, he pulled a bluff on me, when he asked the presenter to enter his password and then he went about using Revelation to read the password from it!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

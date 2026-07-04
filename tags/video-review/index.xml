@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Video Review on Reflections</title>
-    <link>http://blog.shiv.me/tags/video-review/</link>
-    <description>Recent content in Video Review on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 18 Dec 2007 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/video-review/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Review: Canon 40D</title>
-      <link>http://blog.shiv.me/posts/2007/review-canon-40d/</link>
-      <pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/review-canon-40d/</guid>
-      <description>Review: Canon 40D</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Video Review on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/video-review/</link>
+		<description>Recent content in Video Review on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 18 Dec 2007 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/video-review/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Review: Canon 40D</title>
+				<link>https://shiv.me/posts/2007/review-canon-40d/</link>
+				<pubDate>Tue, 18 Dec 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/review-canon-40d/</guid>
+				<description>&lt;p&gt;The best thing since .. well a Canon 20D.&lt;/p&gt;&#xA;&lt;p&gt;If this video convinced you to buy a &lt;a href=&#34;http://www.amazon.com/gp/product/B000V5P90K?ie=UTF8&amp;amp;tag=shvelmurcom-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B000V5P90K&#34;&gt;Canon 40D&lt;/a&gt;, or &lt;a href=&#34;http://www.amazon.com/gp/product/B000GFT7H6?ie=UTF8&amp;amp;tag=shvelmurcom-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B000GFT7H6&#34;&gt;Canon 30D&lt;/a&gt; or &lt;a href=&#34;http://www.amazon.com/gp/product/B0002XQJFA?ie=UTF8&amp;amp;tag=shvelmurcom-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B0002XQJFA&#34;&gt;Canon20D&lt;/a&gt;, use the affiliate links as provided.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

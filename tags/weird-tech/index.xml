@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Weird-Tech on Reflections</title>
-    <link>http://blog.shiv.me/tags/weird-tech/</link>
-    <description>Recent content in Weird-Tech on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 26 Oct 2005 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/weird-tech/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Apple iMplant</title>
-      <link>http://blog.shiv.me/posts/2005/apple-implant/</link>
-      <pubDate>Wed, 26 Oct 2005 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2005/apple-implant/</guid>
-      <description>Apple iMplant</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Weird-Tech on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/weird-tech/</link>
+		<description>Recent content in Weird-Tech on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 26 Oct 2005 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/weird-tech/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Apple iMplant</title>
+				<link>https://shiv.me/posts/2005/apple-implant/</link>
+				<pubDate>Wed, 26 Oct 2005 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2005/apple-implant/</guid>
+				<description>&lt;p&gt;Have you heard about the latest ipod.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.bbspot.com/News/2005/01/new&#34;&gt;http://www.bbspot.com/News/2005/01/new&lt;/a&gt;_ipod_implant.html&lt;br&gt;&#xA;&lt;a href=&#34;http://news.com.com/5208-7354-0.html?forumID=1&amp;amp;threadID=4129&amp;amp;messageID=24004&amp;amp;start=-1&#34;&gt;http://news.com.com/5208-7354-0.html?forumID=1&amp;amp;threadID=4129&amp;amp;messageID=24004&amp;amp;start=-1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is amazing.. Imagine being able to have a device implanted in your body, with which you cantrol with your thought, and which will use your brain as a hardrive, and use blood sugar as a battery cell.&lt;/p&gt;&#xA;&lt;p&gt;Eerie thought envelop me, when I think of what could be?!! Living the matrix ?!!&lt;br&gt;&#xA;It is not only the body heat that can be a source of energy (like in &amp;ldquo;The Matrix&amp;rdquo;), even human blood sugar can be harnesed!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Google Reader on Reflections</title>
-    <link>http://blog.shiv.me/tags/google-reader/</link>
-    <description>Recent content in Google Reader on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Fri, 14 Aug 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/google-reader/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GReader just saved me a lot of time</title>
-      <link>http://blog.shiv.me/posts/2009/greader-just-saved-me-a-lot-of-time/</link>
-      <pubDate>Fri, 14 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/greader-just-saved-me-a-lot-of-time/</guid>
-      <description>GReader just saved me a lot of time</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Google Reader on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/google-reader/</link>
+		<description>Recent content in Google Reader on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Fri, 14 Aug 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/google-reader/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>GReader just saved me a lot of time</title>
+				<link>https://shiv.me/posts/2009/greader-just-saved-me-a-lot-of-time/</link>
+				<pubDate>Fri, 14 Aug 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/greader-just-saved-me-a-lot-of-time/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://posterous.com/getfile/files.posterous.com/shiva/TRAuLPzZpSXvJm4sA4jHJtcV6dkle25ltVlz8i8U5YFt2uOZ782tYHqdq6nE/greader.jpg&#34;&gt;&lt;img src=&#34;https://shiv.me/images/greader.jpg.scaled.500.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Google reader is one of Google&amp;rsquo;s products, that didn&amp;rsquo;t you didn&amp;rsquo;t realize you needed until you started using it. Heck, pretty much every product they do is in that category. It is one app where I &lt;a href=&#34;http://www.google.com/reader/shared/shvelmur&#34;&gt;spend a lot of time every day&lt;/a&gt;. That is how I still manage to read blogs. Even after &lt;a href=&#34;http://twitter.com/shiva&#34;&gt;twitter &lt;/a&gt;and &lt;a href=&#34;http://facebook.com/shivanand&#34;&gt;facebook &lt;/a&gt;and &lt;a href=&#34;http://friendfeed.com/shivanand&#34;&gt;friendfeed&lt;/a&gt;, GReader is still the place, where you can truly control the signal vs noise ratio of content that you read.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

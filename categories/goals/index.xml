@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Goals on Reflections</title>
-    <link>http://blog.shiv.me/categories/goals/</link>
-    <description>Recent content in Goals on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Sun, 31 Jan 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/categories/goals/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A month flies by</title>
-      <link>http://blog.shiv.me/posts/2016/jan-goal-update/</link>
-      <pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2016/jan-goal-update/</guid>
-      <description>A month flies by</description>
-    </item>
-    <item>
-      <title>Goals for 2016</title>
-      <link>http://blog.shiv.me/posts/2016/goals-for-2016/</link>
-      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2016/goals-for-2016/</guid>
-      <description>Goals for 2016</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Goals on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/categories/goals/</link>
+		<description>Recent content in Goals on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Sun, 31 Jan 2016 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/categories/goals/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A month flies by</title>
+				<link>https://shiv.me/posts/2016/jan-goal-update/</link>
+				<pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2016/jan-goal-update/</guid>
+				<description>&lt;p&gt;It has not been a great start. It, however, has been a busy one.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dont-smoke-stay-quit--going-strong&#34;&gt;Don’t smoke (Stay quit!!) : Going strong!&lt;/h2&gt;&#xA;&lt;p&gt;The urge to smoke still surfaces on occasion. I have, however, been able to avoid every time. I must admit that it gets easier, but it always take a bit of an effort.m&lt;/p&gt;&#xA;&lt;h2 id=&#34;say-yes-more-often-doing-ok&#34;&gt;Say yes more often: Doing ok.&lt;/h2&gt;&#xA;&lt;p&gt;I have caught myself a couple of times. Still needs work&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Goals for 2016</title>
+				<link>https://shiv.me/posts/2016/goals-for-2016/</link>
+				<pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2016/goals-for-2016/</guid>
+				<description>&lt;p&gt;The word &amp;ldquo;resolutions&amp;rdquo;, feels forced. It feels like a ritual declaration of intent, followed immediately by inaction, and eventually concession that it was all in jest. This year, I am going to have some goals.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Don’t smoke (Stay quit!!)&lt;/li&gt;&#xA;&lt;li&gt;Say yes more often&lt;/li&gt;&#xA;&lt;li&gt;Read a book a month&lt;/li&gt;&#xA;&lt;li&gt;Write an app a month&lt;/li&gt;&#xA;&lt;li&gt;Blog once a week&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Goals, feels more friendly, reachable, inviting almost.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

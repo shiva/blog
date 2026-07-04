@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Music on Reflections</title>
-    <link>http://blog.shiv.me/tags/music/</link>
-    <description>Recent content in Music on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 16 Jan 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/music/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Piracy for convenience</title>
-      <link>http://blog.shiv.me/posts/2012/piracy-for-convenience/</link>
-      <pubDate>Mon, 16 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2012/piracy-for-convenience/</guid>
-      <description>Piracy for convenience</description>
-    </item>
-    <item>
-      <title>music and hearing</title>
-      <link>http://blog.shiv.me/posts/2011/music-and-hearing/</link>
-      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/music-and-hearing/</guid>
-      <description>music and hearing</description>
-    </item>
-    <item>
-      <title>Music from DMU</title>
-      <link>http://blog.shiv.me/posts/2011/music-from-dmu/</link>
-      <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/music-from-dmu/</guid>
-      <description>Music from DMU</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Music on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/music/</link>
+		<description>Recent content in Music on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 16 Jan 2012 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/music/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Piracy for convenience</title>
+				<link>https://shiv.me/posts/2012/piracy-for-convenience/</link>
+				<pubDate>Mon, 16 Jan 2012 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2012/piracy-for-convenience/</guid>
+				<description>&lt;p&gt;In the wild days of 1996, when I got my hands on a computer (it cost about a year&amp;rsquo;s worth of my Dad&amp;rsquo;s salary, and nothing that I am would have been possible but for that sacrifice he made), I was enamored by the ease of content consumption on a computer.&lt;/p&gt;&#xA;&lt;p&gt;In one year, I went from knowing nothing about the world, to interacting with hundreds of other people across the world, talking about different things, and experiencing new content every day. Ideas in the form of text, video (granted there wasn&amp;rsquo;t much back then), music. That desire to learn new things, and to &amp;ldquo;consume&amp;rdquo; content has not abated in the last decade and a half.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>music and hearing</title>
+				<link>https://shiv.me/posts/2011/music-and-hearing/</link>
+				<pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/music-and-hearing/</guid>
+				<description>&lt;p&gt;Forget perfect pitch. I&amp;rsquo;m so thankful that I can experience a large range of frequencies, and that I have enough hearing ability to distinguish timbre, and tone. Watch the video below, especially at 7:00 minutes. We all must be thankful that we can hear as well as we do. I can&amp;rsquo;t imagine what life would be like without the ability to sense the warmth of a viola rising up in the Brandenburg concertos (BWV 1046) movement 1, or the horns in the 3rd movement of the same.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Music from DMU</title>
+				<link>https://shiv.me/posts/2011/music-from-dmu/</link>
+				<pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/music-from-dmu/</guid>
+				<description>&lt;p&gt;DMU (Delete me Uncensored) is a &lt;a href=&#34;http://www.flickr.com/groups/censorshipsucks/&#34;&gt;group on Flickr&lt;/a&gt;, that was formed because a few people got pissed at Flickr censoring content. It is a very &amp;ldquo;lively&amp;rdquo; place on most days with a &lt;a href=&#34;http://www.flickr.com/groups/censorshipsucks/discuss/72157625675827075/&#34;&gt;lot &lt;/a&gt;of &lt;a href=&#34;http://www.flickr.com/groups/censorshipsucks/discuss/72157625780640978/&#34;&gt;colour &lt;/a&gt;and &lt;a href=&#34;http://www.flickr.com/groups/censorshipsucks/discuss/72157625675599763/&#34;&gt;personality&lt;/a&gt;. Mostly its just a bunch of fine folks that have a common passion (photography), and express their opinions with almost no filters. It&amp;rsquo;s easy to mistake the group for being too rude, but you just have to hang around to &amp;lsquo;get it&amp;rsquo;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

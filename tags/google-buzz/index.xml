@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Google Buzz on Reflections</title>
-    <link>http://blog.shiv.me/tags/google-buzz/</link>
-    <description>Recent content in Google Buzz on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 10 Feb 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/google-buzz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>And another thing about Google Buzz</title>
-      <link>http://blog.shiv.me/posts/2010/and-another-thing-about-google-buzz/</link>
-      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/and-another-thing-about-google-buzz/</guid>
-      <description>And another thing about Google Buzz</description>
-    </item>
-    <item>
-      <title>Google likes RSS .. a lot</title>
-      <link>http://blog.shiv.me/posts/2010/google-likes-rss-a-lot/</link>
-      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/google-likes-rss-a-lot/</guid>
-      <description>Google likes RSS .. a lot</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Google Buzz on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/google-buzz/</link>
+		<description>Recent content in Google Buzz on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 10 Feb 2010 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/google-buzz/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>And another thing about Google Buzz</title>
+				<link>https://shiv.me/posts/2010/and-another-thing-about-google-buzz/</link>
+				<pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/and-another-thing-about-google-buzz/</guid>
+				<description>&lt;p&gt;There are several issues that people have uncovered in the last 2 days that it has existed. For me, of all the features that Buzz lacks, one thing really stands out. There is no way to just see a &lt;strong&gt;list of the conversations&lt;/strong&gt; (without the whole list of comments expanded by default). This is the main reason that I &lt;strong&gt;*had*&lt;/strong&gt; to unfollow Scoble, Michael Arrington, Louis Gray and a bunch of others. Take a look at &lt;a href=&#34;http://www.google.com/buzz/scobleizer/NE7yRrwbhbH/This-is-already-WAY-BETTER-than-FriendFeed-Why-Not&#34;&gt;this conversation&lt;/a&gt;, and you would understand why.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Google likes RSS .. a lot</title>
+				<link>https://shiv.me/posts/2010/google-likes-rss-a-lot/</link>
+				<pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/google-likes-rss-a-lot/</guid>
+				<description>&lt;p&gt;Did anyone else notice that buzz has an RSS feed for everything!!&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a &lt;a href=&#34;http://www.google.com/buzz/thomashawk22/Swv6u36BGC2/Buzz-should-let-you-post-inline-images-like-you&#34;&gt;conversation&lt;/a&gt; that @&lt;a href=&#34;http://www.google.com/profiles/thomashawk22#buzz&#34;&gt;Thomashawk&lt;/a&gt; started&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s the &lt;a href=&#34;feed://buzz.googleapis.com/feeds/104987932455782713675/comments/z12xt1zqbyjjcx44v04cdpjgjy34xxvg45k&#34;&gt;feed for that entry&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s the feed for &lt;a href=&#34;feed://buzz.googleapis.com/feeds/104987932455782713675/public/posted&#34;&gt;the owner&amp;rsquo;s entries&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Theoretically, one could build a service that aggregates only specific conversations (and keep them updated), or only a small group etc&amp;hellip; No more reading data from a firehose!!&lt;/p&gt;&#xA;&lt;p&gt;That is very nice.&lt;/p&gt;&#xA;&lt;p&gt;P.S: also this could be a way to aggregate all your webservices into one super feed, that can then be posted elsewhere (comments and all!!)&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

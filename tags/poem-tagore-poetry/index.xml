@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Poem Tagore Poetry on Reflections</title>
-    <link>http://blog.shiv.me/tags/poem-tagore-poetry/</link>
-    <description>Recent content in Poem Tagore Poetry on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Thu, 01 Dec 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/poem-tagore-poetry/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>strong mercy</title>
-      <link>http://blog.shiv.me/posts/2011/strong-mercy/</link>
-      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/strong-mercy/</guid>
-      <description>strong mercy</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Poem Tagore Poetry on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/poem-tagore-poetry/</link>
+		<description>Recent content in Poem Tagore Poetry on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Thu, 01 Dec 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/poem-tagore-poetry/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>strong mercy</title>
+				<link>https://shiv.me/posts/2011/strong-mercy/</link>
+				<pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/strong-mercy/</guid>
+				<description>&lt;p&gt;When in doubt, take a poet&amp;rsquo;s thought to your heart. They are, invariably experienced beings, that have spent a great deal of their lives, exploring the heart through the mind.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Strong Mercy by Rabindranath Tagore&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;My desires are many and my cry is pitiful,&lt;br&gt;&#xA;but ever didst thou save me by hard refusals;&lt;br&gt;&#xA;and this strong mercy has been wrought into my life through and through.&lt;/p&gt;&#xA;&lt;p&gt;Day by day thou art making me worthy of the simple,&lt;br&gt;&#xA;great gifts that thou gavest to me unasked&amp;mdash;this sky and the light, this body and the&lt;br&gt;&#xA;life and the mind&amp;mdash;saving me from perils of overmuch desire.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

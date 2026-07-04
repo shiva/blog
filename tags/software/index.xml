@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Software on Reflections</title>
-    <link>http://blog.shiv.me/tags/software/</link>
-    <description>Recent content in Software on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Tue, 08 Sep 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/software/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I&#39;m on cloud number 0.9!</title>
-      <link>http://blog.shiv.me/posts/2009/im-on-the-cloud-number-rss0-9/</link>
-      <pubDate>Tue, 08 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/im-on-the-cloud-number-rss0-9/</guid>
-      <description>I&amp;#39;m on cloud number 0.9!</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Software on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/software/</link>
+		<description>Recent content in Software on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Tue, 08 Sep 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/software/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I&#39;m on cloud number 0.9!</title>
+				<link>https://shiv.me/posts/2009/im-on-the-cloud-number-rss0-9/</link>
+				<pubDate>Tue, 08 Sep 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/im-on-the-cloud-number-rss0-9/</guid>
+				<description>&lt;p&gt;well not really! I just turned on &lt;a href=&#34;http://rsscloud.org&#34;&gt;RSSCloud&lt;/a&gt; support on this blog&amp;rsquo;s feed. RSSCloud allows the feedreader subscribing to you, to setup a callback address, which your blog will call whenever you publish something. If every blog does the same, it could account for several thousand, if not million CPU cycles due to lesser polling. It is the brain-child of &lt;a href=&#34;http://www.scripting.com/stories/2007/02/21/daveWinerBio.html&#34;&gt;Dave Winer&lt;/a&gt;, the man who invented &lt;a href=&#34;http://www.google.com/url?sa=t&amp;amp;source=web&amp;amp;ct=res&amp;amp;cd=1&amp;amp;url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRSS&amp;amp;ei=s6mmSpDhFsWGnQe-otm_Bw&amp;amp;usg=AFQjCNEdBSkFc9gzQ_IRDoz4mZzyuZwfbw&amp;amp;sig2=OcpSTpcJ-ca6xlAggoL_vg&#34;&gt;RSS&lt;/a&gt;, the author of the ever-popular &lt;a href=&#34;http://www.scripting.com/&#34;&gt;scriptingnews&lt;/a&gt; blog. (If you had started blog back in 1994, you could&amp;rsquo;ve got a domain as kewl as his!)&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

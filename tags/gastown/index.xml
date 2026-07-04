@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Gastown on Reflections</title>
-    <link>http://blog.shiv.me/tags/gastown/</link>
-    <description>Recent content in Gastown on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Wed, 05 Oct 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/gastown/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Worldwide Photowalk 2011</title>
-      <link>http://blog.shiv.me/posts/2011/worldwide-photowalk-2011/</link>
-      <pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2011/worldwide-photowalk-2011/</guid>
-      <description>Worldwide Photowalk 2011</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gastown on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/gastown/</link>
+		<description>Recent content in Gastown on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Wed, 05 Oct 2011 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/gastown/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Worldwide Photowalk 2011</title>
+				<link>https://shiv.me/posts/2011/worldwide-photowalk-2011/</link>
+				<pubDate>Wed, 05 Oct 2011 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2011/worldwide-photowalk-2011/</guid>
+				<description>&lt;p&gt;Last weekend, I went to my first photo-walk in Vancouver. This one is a yearly affair, organized by Scott Kelby. It&amp;rsquo;s called the &lt;a href=&#34;http://worldwidephotowalk.com/&#34;&gt;Worldwide Photowalk&lt;/a&gt; (&lt;a href=&#34;https://twitter.com/#!/search/%23WWPW&#34;&gt;#WWPW&lt;/a&gt;), and it was quite exciting. This was the fourth such event (and my first). I met a lot of very interesting people of varied backgrounds. Can&amp;rsquo;t wait for the next one.&lt;/p&gt;&#xA;&lt;p&gt;Flickr groups for the photo-walk are:&lt;br&gt;&#xA;&lt;a href=&#34;http://www.flickr.com/groups/wwpw2011-gastown/&#34;&gt;Gastown&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;http://www.flickr.com/groups/wwpw4/&#34;&gt;Scott Kelby&amp;rsquo;s WWPW4&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Thanks to Scott Kelby for starting such a wonderful thing, and letting it grow. This was as exciting as &lt;a href=&#34;http://blog.shiv.me/2010/11/20/bcv2010-roundup.html&#34;&gt;last year&amp;rsquo;s Barcamp&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

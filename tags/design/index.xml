@@ -1,46 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Design on Reflections</title>
-    <link>http://blog.shiv.me/tags/design/</link>
-    <description>Recent content in Design on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Mon, 23 Aug 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/design/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Unsigned Arithmetic</title>
-      <link>http://blog.shiv.me/posts/2010/unsigned-arithmetic/</link>
-      <pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/unsigned-arithmetic/</guid>
-      <description>Unsigned Arithmetic</description>
-    </item>
-    <item>
-      <title>Why does Java not support unsigned int? - Part 1</title>
-      <link>http://blog.shiv.me/posts/2010/why-no-unsigned-int-in-java/</link>
-      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2010/why-no-unsigned-int-in-java/</guid>
-      <description>Why does Java not support unsigned int? - Part 1</description>
-    </item>
-    <item>
-      <title>The devil is in the why?</title>
-      <link>http://blog.shiv.me/posts/2009/the-devil-is-in-the-why/</link>
-      <pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/the-devil-is-in-the-why/</guid>
-      <description>The devil is in the why?</description>
-    </item>
-    <item>
-      <title>Common Access Portal</title>
-      <link>http://blog.shiv.me/posts/2007/common-access-portal/</link>
-      <pubDate>Sat, 20 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2007/common-access-portal/</guid>
-      <description>Common Access Portal</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Design on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/design/</link>
+		<description>Recent content in Design on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Mon, 23 Aug 2010 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/design/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Unsigned Arithmetic</title>
+				<link>https://shiv.me/posts/2010/unsigned-arithmetic/</link>
+				<pubDate>Mon, 23 Aug 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/unsigned-arithmetic/</guid>
+				<description>&lt;p&gt;Since my last post, I&amp;rsquo;ve had a couple of replies, a few more tweets, and few minutes of talking about unsigned types in Java, and why it doesn&amp;rsquo;t support them.&lt;/p&gt;&#xA;&lt;p&gt;I still retail the view that unsigned types are unnecessary for the majority of Java developers. The only kind that should care, are those who deal with network information (like representing an ipaddress or macaddress). Everyone, put down your forks, and do not touch the unsigned.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Why does Java not support unsigned int? - Part 1</title>
+				<link>https://shiv.me/posts/2010/why-no-unsigned-int-in-java/</link>
+				<pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2010/why-no-unsigned-int-in-java/</guid>
+				<description>&lt;p&gt;An interesting thing for me, is that if I am active on twitter during daytime in India (now that I&amp;rsquo;m here on vacation), I get to have some interesting conversations about design and development. Today, I chanced to talk about the lack of unsigned values support in Java.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://twitter.com/veechand&#34;&gt;&lt;img src=&#34;https://shiv.me/images/twitterProfilePhoto_normal.jpg&#34; alt=&#34;Veerabahu&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://twitter.com/veechand&#34; title=&#34;Veerabahu&#34;&gt;veechand&lt;/a&gt; is there unsigned int in #java support your answers &lt;a href=&#34;http://twitter.com/veechand/status/18214701290&#34;&gt;10 Jul 2010 &lt;/a&gt; from &lt;a href=&#34;http://www.tweetdeck.com&#34;&gt;TweetDeck&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://twitter.com/shiva&#34;&gt;&lt;img src=&#34;https://shiv.me/images/twitterProfilePhoto_normal.jpg&#34; alt=&#34;Shivanand Velmurugan&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://twitter.com/shiva&#34; title=&#34;Shivanand Velmurugan&#34;&gt;shiva&lt;/a&gt; &lt;a href=&#34;http://twitter.com/veechand&#34;&gt;@veechand&lt;/a&gt; nope. but use char instead. If you really want a type, you can define your own class backed by char &lt;a href=&#34;http://twitter.com/shiva/status/18326785358&#34;&gt;12 Jul 2010 &lt;/a&gt; from &lt;a href=&#34;http://itunes.apple.com/app/twitter/id333903271?mt=8&#34;&gt;Twitter for iPhone&lt;/a&gt; &lt;a href=&#34;http://twitter.com/veechand/status/18214701290&#34;&gt;in reply to veechand&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The devil is in the why?</title>
+				<link>https://shiv.me/posts/2009/the-devil-is-in-the-why/</link>
+				<pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/the-devil-is-in-the-why/</guid>
+				<description>&lt;p&gt;Recently I got asked, what the best way to do a join between two large lists,  into another list was? I always tend to answer that question with: it depends.&lt;/p&gt;&#xA;&lt;p&gt;Just like any other algorithm, there is no silver bullet. It is a trade off  between CPU and memory utilisation. Sometimes, we do have to think about these  things (this is code in c++ on a device with scarce resources, to say the  least).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Common Access Portal</title>
+				<link>https://shiv.me/posts/2007/common-access-portal/</link>
+				<pubDate>Sat, 20 Jan 2007 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2007/common-access-portal/</guid>
+				<description>&lt;p&gt;With advent of web 2.0, and some habits cultivated over the last decade, I have a certain list of tasks that I do everyday. I current visit a bunch of websites more than once a day, and an integrated interface would do me so much good.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;mail, a whole set of accounts, gmail, yahoo, etc&lt;/li&gt;&#xA;&lt;li&gt;feed readers&lt;/li&gt;&#xA;&lt;li&gt;blog editor&lt;/li&gt;&#xA;&lt;li&gt;orkut&lt;/li&gt;&#xA;&lt;li&gt;del.icio&lt;/li&gt;&#xA;&lt;li&gt;google notebook&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;What is lacking, is the ability to have a single sign-on/account mgmt capability, a common dashboard, ability to cross-launch/cross-post content.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

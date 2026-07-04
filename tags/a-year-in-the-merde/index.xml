@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>A Year in the Merde on Reflections</title>
-    <link>http://blog.shiv.me/tags/a-year-in-the-merde/</link>
-    <description>Recent content in A Year in the Merde on Reflections</description>
-    <image>
-      <title>Reflections</title>
-      <url>http://blog.shiv.me/images/papermod-cover.png</url>
-      <link>http://blog.shiv.me/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en</language>
-    <copyright>Copyright 2007-2024 © Shivanand Velmurugan</copyright>
-    <lastBuildDate>Fri, 02 Jan 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.shiv.me/tags/a-year-in-the-merde/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Review: A Year in the Merde by Stephen Clarke</title>
-      <link>http://blog.shiv.me/posts/2009/review-a-year-in-the-merde-by-stephen-clarke/</link>
-      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://blog.shiv.me/posts/2009/review-a-year-in-the-merde-by-stephen-clarke/</guid>
-      <description>Review: A Year in the Merde by Stephen Clarke</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>A Year in the Merde on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/a-year-in-the-merde/</link>
+		<description>Recent content in A Year in the Merde on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>© Shivanand Velmurugan</copyright>
+		
+		
+			<lastBuildDate>Fri, 02 Jan 2009 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://shiv.me/tags/a-year-in-the-merde/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Review: A Year in the Merde by Stephen Clarke</title>
+				<link>https://shiv.me/posts/2009/review-a-year-in-the-merde-by-stephen-clarke/</link>
+				<pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+				<guid>https://shiv.me/posts/2009/review-a-year-in-the-merde-by-stephen-clarke/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.goodreads.com/book/show/10765.A_Year_in_the_Merde?utm_medium=api&amp;amp;utm_source=blog_review&#34;&gt;&lt;img src=&#34;https://shiv.me/images/10765.jpg&#34; alt=&#34;A Year in the Merde&#34;&gt;&lt;/a&gt; &lt;a href=&#34;http://www.goodreads.com/book/show/10765.A_Year_in_the_Merde?utm_medium=api&amp;amp;utm_source=blog_review&#34;&gt;A Year in the Merde&lt;/a&gt; by &lt;a href=&#34;http://www.goodreads.com/author/show/7041.Stephen_Clarke&#34;&gt;Stephen Clarke&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;rating: 5 of 5 stars&lt;br&gt;&#xA;If you are on your way to Paris, or on the way from Paris, or in Paris, or &amp;hellip; nevermind&amp;hellip; just read this book if you are associated, in any way, with Paris. You&amp;rsquo;ll love it.&lt;/p&gt;&#xA;&lt;p&gt;(If you are French, read this too, get angry, rebel and then revel in the glory! :) )&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.goodreads.com/review/list/856502?utm_medium=api&amp;amp;utm_source=blog_review&#34;&gt;View all my reviews at goodreads.&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
