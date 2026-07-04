@@ -1,13 +1,9 @@
 ---
 title: "People of GVRD"
-tag: "// photos / people of gvrd"
 lede: Portraits of strangers around Greater Vancouver.
 cta:
   text: "View the album on Flickr →"
   url: https://www.flickr.com/photos/shvelmur/albums/72157627148158599
-back:
-  url: /photos/
-  text: all photos
 robots: noindex
 ---
 
