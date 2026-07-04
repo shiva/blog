@@ -1,11 +1,10 @@
-# If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
-# contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "http://blog.shiv.me/"
-title: Reflections
-copyright: "Copyright 2007-2024 © Shivanand Velmurugan"
-#paginate: 10
-pagination.pagerSize: 5
-theme: [hugo-PaperMod]
+baseURL: "https://shiv.me/"
+title: "Shivanand Velmurugan — Product leader. Systems thinker."
+copyright: "© Shivanand Velmurugan"
+theme: [hugo-duality]
+
+pagination:
+  pagerSize: 25
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -14,44 +13,29 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts", "papermod"]
-
-# custom properties
-footnotereturnlinkcontents: "↩︎︎"
-
 
 minify:
   disableXML: true
-  # minifyOutput: true
 
-languages:
-  en:
-    ContentDir: 'content'
-    languageName: "English"
-    weight: 1
-    taxonomies:
-      category: categories
-      tag: tags
-      series: series
-    menu:
-      main:
-        - name: Archive
-          url: archives/
-          weight: 5
-        - name: Search
-          url: search/
-          weight: 10
-        - name: Tags
-          url: tags/
-          weight: 15
-        #- name: Series
-        #  url: series/
-        #  weight: 20
-        - name: Projects
-          url: projects/
-          weight: 20
-        - name: Home
-          url: http://shiv.me
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+menu:
+  main:
+    - name: writing
+      url: /posts/
+      weight: 10
+    - name: projects
+      url: /projects/
+      weight: 20
+    - name: photos
+      url: /photos/
+      weight: 30
+    - name: reading
+      url: /reading/
+      weight: 40
 
 outputs:
   home:
@@ -60,104 +44,110 @@ outputs:
     - JSON
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Reflections - on life, on software, the making of software, and its impact on life"
+  env: production
+  description: "Shiva. Product leader at Microsoft, building the Schema Registry for real-time data at planetary scale. Systems thinker, founder of FriedSilicon. Vancouver, BC."
   author: Shivanand Velmurugan
+  wordmark: shiv.me
+  footerTag: "Vancouver, BC · built on fried silicon"
+  ogImage: /og.png
+  twitter: shiva
+  mainSections: [posts]
 
-  defaultTheme: auto
-  # disableThemeToggle: true
-  ShowShareButtons: true
-  ShowReadingTime: true
-  # disableSpecial1stPost: true
-  displayFullLangName: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  ShowRssButtonInSectionTermList: true
-  ShowAllPagesInArchive: true
-  ShowPageNums: true
-  ShowToc: true
-  # comments: false
-  images: ["images/papermod-cover.png"]
-
-  profileMode:
-    enabled: false
-    title: PaperMod
-    imageUrl: "#"
-    imageTitle: my image
-    # imageWidth: 120
-    # imageHeight: 120
-    buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
-
-  homeInfoParams:
-    Title: "I am Shiva."
-    Content: "I write about life, software, and their influence on each other. In 2017, my daughter was born. There was little to say, a lot to live, and
-      even more to learn. However, it is now 7 years later. It's 2025: time to write again."
-#  Much like the stoics of the past, I aspire to live to these words from [Nirvana Shatakam](https://shlokam.org/nirvanashatakam/).<br>
-#  
-#  न मे द्वेष रागौ न मे लोभ मोहौ<br>
-#  न मे वै मदो नैव मात्सर्य भावः।<br>
-#  न धर्मो न चार्थो न कामो न मोक्षः<br>
-#  चिदानन्द रूपः शिवोऽहम् शिवोऽहम्।<br>
-#  which translates to <br>
-#  *Neither do harbor hatred nor passion, no greed or delusion,<br>
-#  Neither do I take pride, nor do I pursue jealousy,<br>
-#  I not bound by dharma (righteousness), artha (wealth), kama (desire) and moksha (liberation),<br>
-#  I am Shiva, the form of consciousness and bliss, <br>
-#  I am Shiva (that which is not)*<br><br>
-#  
-
-  socialIcons:
-    - name: github
-      title: View Projects on Github
-      url: "https://github.com/shiva"
-    - name: X
-      title: Find Shiva on X/Twitter
-      url: "https://twitter.com/shiva"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/shivanand"
-
-  editPost:
-    URL: "https://github.com/shiva/blog/tree/master/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-
-  # label:
-  # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
-  # text: "Home"
-  # icon: icon.png
-  # iconHeight: 35
-
-  # analytics:
-  #     google:
-  #         SiteVerificationTag: "XYZabc"
-
-  assets:
-    disableHLJS: true
-  #     favicon: "<link / abs url>"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
-  #     apple_touch_icon: "<link / abs url>"
-  #     safari_pinned_tab: "<link / abs url>"
-
-  # cover:
-  #     hidden: true # hide everywhere but not in structured data
-  #     hiddenInList: true # hide on list pages and home
-  #     hiddenInSingle: true # hide on single page
-
-  # fuseOpts:
-  #     isCaseSensitive: false
-  #     shouldSort: true
-  #     location: 0
-  #     distance: 1000
-  #     threshold: 0.4
-  #     minMatchCharLength: 0
-  #     keys: ["title", "permalink", "summary", "content"]
+  duality:
+    enable: true
+    product:
+      label: Product
+      tag: "Vancouver, BC · Microsoft"
+      heading: 'I ship products<br>that scale<span class="dot">.</span>'
+      lede: >-
+        <b>Shiva.</b> Product leader at Microsoft — building
+        <a class="lk" href="https://learn.microsoft.com/en-us/fabric/real-time-intelligence/schema-sets/schema-registry-overview">Schema Registry</a>
+        for real-time data at planetary scale: governance, interoperability, and the developer experience on top.
+        I care about sharp strategy, disciplined execution, and staying close to the systems that make products real.
+      flip: "flip the switch ▸ see the code"
+    hacker:
+      label: Hacker
+      tag: "~/shiva · while(alive){ build(); }"
+      heading: 'I build things<br>that must exist<span class="dot">_</span>'
+      lede: >-
+        <b>$ whoami</b> — Shiva. I build databases and languages for fun: an
+        <a class="lk" href="https://github.com/friedsilicon/fdb">in-memory DB</a>, a
+        <a class="lk" href="https://github.com/friedsilicon/sodl">DSL</a>, a
+        <a class="lk" href="https://friedsilicon.com/silicadb/index.html">local-first engine</a>, and a patched
+        <a class="lk" href="https://github.com/shiva/st">terminal</a>. I've also built an OS, an in-memory database,
+        and a pair of languages and compilers for a carrier-class router.
+      flip: "◂ flip back ▸ the product side"
+    impact:
+      label: "// impact"
+      title: Track record
+      ladder:
+        - co: Microsoft
+          ro: >-
+            Product leader on the <a class="lk" href="https://learn.microsoft.com/en-us/fabric/real-time-intelligence/schema-sets/schema-registry-overview">Schema Registry</a>
+            — shaping governance, interoperability, and the developer experience for real-time data at planetary scale.
+        - co: "AWS — Amazon SNS & SQS"
+          ro: >-
+            Operated core messaging infrastructure at scale. Grew the business <b>&gt;15x</b>;
+            <b>300K&nbsp;→&nbsp;1M</b> weekly active accounts.
+        - co: GE — Predix
+          ro: Shipped an ML data-ingestion product that automatically classified arbitrary JSON and CSV sources.
+        - co: Ericsson
+          ro: >-
+            Built the core systems for a carrier-class router: an operating system, an in-memory database,
+            and several languages and compilers.
+      cta:
+        text: "Full résumé / CV →"
+        url: /cv/
+    systems:
+      label: "// systems"
+      title: What I build
+      intro: >-
+        Side work at <a class="lk" href="https://friedsilicon.com/">FriedSilicon</a> — for the love of it.
+      cards:
+        - name: st
+          badge: "23★ · C"
+          url: "https://github.com/shiva/st"
+          desc: "suckless terminal, my patch set. Minimal, fast, mine."
+        - name: sodl
+          badge: DSL
+          url: "https://github.com/friedsilicon/sodl"
+          desc: "Structured Object Definition Language. Grammar, types, spec."
+        - name: fdb
+          badge: "3★"
+          url: "https://github.com/friedsilicon/fdb"
+          desc: "In-memory database / KV store, from scratch."
+        - name: silicadb
+          badge: WIP
+          url: "https://friedsilicon.com/silicadb/index.html"
+          desc: "Local-first data engine. Sync, conflict, offline."
+    operate:
+      label: "// how i lead"
+      title: How I operate
+      body: >-
+        I think the strongest product work comes from tight alignment between strategy, design, and engineering.
+        I favor clarity, focused iteration, and technical depth that sharpens judgment rather than creating distance.
+    why:
+      label: "// why i build"
+      title: Why I build
+      body: >-
+        I'm drawn to systems that are demanding, durable, and quietly important. My work in operating systems,
+        databases, and language design has shaped how I think about product architecture, craftsmanship, and execution.
+    recent:
+      enable: true
+      section: posts
+      count: 5
+      label: "// recent writing"
+      title: Latest posts
+    elsewhere:
+      - { name: X, handle: "@shiva", url: "https://x.com/shiva", rel: me }
+      - { name: GitHub, handle: "@shiva", url: "https://github.com/shiva", rel: me }
+      - { name: LinkedIn, handle: vshivanand, url: "https://www.linkedin.com/in/vshivanand", rel: me }
+      - { name: Bluesky, handle: "@shiv.me", url: "https://bsky.app/profile/vshivanand.bsky.social", rel: me }
+      - { name: Mastodon, handle: "@shiv", url: "https://mastodon.cloud/@shiv", rel: me }
+      - { name: Substack, handle: shivan, url: "https://shivan.substack.com/", rel: me }
+      - { name: Résumé, handle: /cv, url: /cv/ }
+      - { name: Flickr, handle: shvelmur, url: "https://www.flickr.com/photos/shvelmur", rel: me }
+      - { name: Email, handle: shiv@shiv.me, url: "mailto:shiv@shiv.me", rel: me }
 
 markup:
   goldmark:
@@ -165,29 +155,9 @@ markup:
       unsafe: true
   highlight:
     noClasses: false
-    anchorLineNos: true
     codeFences: true
     guessSyntax: true
     lineNos: true
-    style: monokai
-
-# privacy:
-#   vimeo:
-#     disabled: false
-#     simple: true
-
-#   twitter:
-#     disabled: false
-#     enableDNT: true
-#     simple: true
-
-#   instagram:
-#     disabled: false
-#     simple: true
-
-#   youtube:
-#     disabled: false
-#     privacyEnhanced: true
 
 services:
   instagram:

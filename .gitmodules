@@ -1,12 +1,3 @@
-[submodule "themes/hugo-bearcub"]
-	path = themes/hugo-bearcub
-	url = https://github.com/clente/hugo-bearcub
-[submodule "themes/hugo-tufte"]
-	path = themes/hugo-tufte
-	url = https://github.com/loikein/hugo-tufte.git
-[submodule "themes/hugo-xmin"]
-	path = themes/hugo-xmin
-	url = https://github.com/yihui/hugo-xmin
-[submodule "themes/PaperMod"]
-	path = themes/hugo-PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/hugo-duality"]
+	path = themes/hugo-duality
+	url = https://github.com/shiva/hugo-duality
