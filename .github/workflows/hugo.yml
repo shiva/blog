@@ -39,7 +39,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.143.0'
+          hugo-version: '0.163.3'
           # extended: true
 
       - uses: actions/cache@v4
@@ -59,4 +59,4 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_branch: gh-pages
           publish_dir: ./public
-          cname: blog.shiv.me
+          # CNAME comes from static/CNAME (shiv.me) — the merged site owns the apex.
