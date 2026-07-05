@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Hugo on Shivanand Velmurugan — Product leader. Systems thinker.</title>
-		<link>https://shiv.me/tags/hugo/</link>
-		<description>Recent content in Hugo on Shivanand Velmurugan — Product leader. Systems thinker.</description>
+		<title>Leverage on Shivanand Velmurugan — Product leader. Systems thinker.</title>
+		<link>https://shiv.me/tags/leverage/</link>
+		<description>Recent content in Leverage on Shivanand Velmurugan — Product leader. Systems thinker.</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
@@ -14,20 +14,13 @@
 		
 			<lastBuildDate>Sat, 04 Jul 2026 15:30:00 -0700</lastBuildDate>
 		
-			<atom:link href="https://shiv.me/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://shiv.me/tags/leverage/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>One from two</title>
 				<link>https://shiv.me/posts/2026/one-from-two/</link>
 				<pubDate>Sat, 04 Jul 2026 15:30:00 -0700</pubDate>
 				<guid>https://shiv.me/posts/2026/one-from-two/</guid>
 				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Two places, one home,&#xA;trodden paths that never break&#xA;Built with AI, phone.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://shiv.me/images/ivoprod-vkQgb1lZZPQ-unsplash.jpg&#34; alt=&#34;Cover Photo&#34;&gt;&#xA;Photo by &lt;a href=&#34;https://unsplash.com/@ivoprod?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;Ivars Utināns&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/photos/aerial-view-of-green-trees-and-river-during-daytime-vkQgb1lZZPQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For years, my blog was hosted in a different subdomain than my website/landing page. I always wanted a decently designed website that was implemented as a &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; theme which I can then use to manage the website, the blog, and a few other tools I wanted to build for myself. I have never had the inclination for the amount of work this takes. It was one of those things to do that never make it to the top pile. Now, with access to &lt;a href=&#34;https://www.anthropic.com/news/claude-fable-5-mythos-5&#34;&gt;Fable&lt;/a&gt; for a few days, and I needed a problem that was small enough where I could eval the result, but large enough to have some inherent complexity to test the bounds of what Fable can do. This seemed decent enough.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Battle of the static site generators</title>
-				<link>https://shiv.me/posts/2016/battle-of-the-static-site-generators-1/</link>
-				<pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
-				<guid>https://shiv.me/posts/2016/battle-of-the-static-site-generators-1/</guid>
-				<description>&lt;p&gt;I set myself a goal to write more this year - in fact, I attempted to do so once every week. This required me to look at my blog, which led to the inevitable: small changes in what it looked like, led to general dis-satisfcation with the current solution I have to publish my blog, which quickly ballooned into a whole host of activities.&lt;/p&gt;&#xA;&lt;p&gt;Let me step back a bit.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
