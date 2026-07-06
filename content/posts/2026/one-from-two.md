@@ -8,14 +8,14 @@ tags:
  - workflow
  - Fable
  - leverage
-description: Claude with Fable offers a new point of leverage. You can now do multi-step E2E projects with very little human guidance, if you are creative enough to imagine and then specify the change. I re-designed my homepage from scratch using Claude design, created a raw HTML homepage from the design, converted that to Hugo-based theme, used the new theme to render my blog, merged two websites and repos into one, audited the output, deployed to prod, and wrote DNS rules for permanent redirects from the couch, via mobile, while watching France being almost thwarted by Paraguay.
+description: How Claude with Fable let me redesign, rebuild, and merge two sites into one — from the couch, on my phone, during the World Cup.
 date: '2026-07-04T15:30:00-0700'
 draft: false
 ---
 
-> Two places, one home, 
-> trodden paths that never break 
-> Built with AI, phone. 
+> Two places, one home,  
+> trodden paths that never break  
+> Built with AI, phone.  
 ----
 
 ![Cover Photo](/images/ivoprod-vkQgb1lZZPQ-unsplash.jpg)
