@@ -1,5 +1,5 @@
 ---
-title: Structed Object Definition Language (SODL)
+title: Structured Object Definition Language (SODL)
 tags:
   - projects
   - language
@@ -325,7 +325,7 @@ While SODL and Parquet might seem very different at first glance, they both deal
 
    Parquet schemas are typically defined using message type definitions in protocol buffers style:
 
-   ```
+   ```parquet
    message User {
      required binary user_id (UTF8);
      required int32 age;
